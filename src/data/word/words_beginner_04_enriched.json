@@ -1,0 +1,3737 @@
+[
+  {
+    "id": 701,
+    "word": "필요하다",
+    "baseForm": "필요하다",
+    "highlightText": "필요해요",
+    "readingKatakana": "ピリョハダ",
+    "romanization": "piryohada",
+    "meaning": "必要だ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "편한 신발이 필요해요.",
+    "exampleTranslation": "楽な靴が必要です。",
+    "description": "무언가가 꼭 있어야 하거나 해야 할 때 쓰는 기본 동詞です。",
+    "usage": "『시간이 필요하다（時間が必要だ）』『도움이 필요하다（助けが必要だ）』の形でよく使います。",
+    "hint": "必要だ",
+    "acceptedAnswers": [
+      "필요하다",
+      "필요해요"
+    ],
+    "synonyms": [
+      {
+        "word": "요구되다",
+        "meaning": "求められる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불필요하다",
+        "meaning": "不要だ"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "word": "찾다",
+    "baseForm": "찾다",
+    "highlightText": "찾아요",
+    "readingKatakana": "チャッタ",
+    "romanization": "chatda",
+    "meaning": "探す",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "지갑을 한참 찾았어요.",
+    "exampleTranslation": "財布をしばらく探しました。",
+    "description": "なくした物や必要な情報を探すときに使う動詞です。",
+    "usage": "『길을 찾다（道を探す）』『가방을 찾다（かばんを探す）』のように使います。",
+    "hint": "探す",
+    "acceptedAnswers": [
+      "찾다",
+      "찾아요"
+    ],
+    "synonyms": [
+      {
+        "word": "구하다",
+        "meaning": "探し求める"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "잃다",
+        "meaning": "失う"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "word": "고르다",
+    "baseForm": "고르다",
+    "highlightText": "골라요",
+    "readingKatakana": "コルダ",
+    "romanization": "goreuda",
+    "meaning": "選ぶ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "뭘 고를지 고민했어요.",
+    "exampleTranslation": "何を選ぶか悩みました。",
+    "description": "いくつかの中から一つを選ぶときに使います。",
+    "usage": "『메뉴를 고르다（メニューを選ぶ）』のように選択の場面でよく出ます。",
+    "hint": "選ぶ",
+    "acceptedAnswers": [
+      "고르다",
+      "골라요"
+    ],
+    "synonyms": [
+      {
+        "word": "선택하다",
+        "meaning": "選択する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "아무거나 하다",
+        "meaning": "適当に選ぶ"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "word": "빌리다",
+    "baseForm": "빌리다",
+    "highlightText": "빌려요",
+    "readingKatakana": "ピルリダ",
+    "romanization": "billida",
+    "meaning": "借りる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "한국어 책을 빌렸어요.",
+    "exampleTranslation": "韓国語の本を借りました。",
+    "description": "他人の物を一時的に借りるときの基本動詞です。",
+    "usage": "『책을 빌리다（本を借りる）』の形が基本です。",
+    "hint": "借りる",
+    "acceptedAnswers": [
+      "빌리다",
+      "빌려요"
+    ],
+    "synonyms": [
+      {
+        "word": "차용하다",
+        "meaning": "借りる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "빌려주다",
+        "meaning": "貸す"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "word": "반납하다",
+    "baseForm": "반납하다",
+    "highlightText": "반납해요",
+    "readingKatakana": "パンナパダ",
+    "romanization": "bannaphada",
+    "meaning": "返却する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "오늘 안에 반납해야 해요.",
+    "exampleTranslation": "今日中に返却しないといけません。",
+    "description": "借りた物を返すときによく使う単語です。",
+    "usage": "『도서관에 책을 반납하다（図書館に本を返却する）』でよく使います。",
+    "hint": "返却する",
+    "acceptedAnswers": [
+      "반납하다",
+      "반납해요"
+    ],
+    "synonyms": [
+      {
+        "word": "돌려주다",
+        "meaning": "返す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대여하다",
+        "meaning": "貸し出す"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "word": "질문하다",
+    "baseForm": "질문하다",
+    "highlightText": "질문해요",
+    "readingKatakana": "チルムナダ",
+    "romanization": "jilmunhada",
+    "meaning": "質問する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "선생님께 질문했어요.",
+    "exampleTranslation": "先生に質問しました。",
+    "description": "わからないことをたずねるときに使います。",
+    "usage": "『선생님께 질문하다（先生に質問する）』の形で使いやすいです。",
+    "hint": "質問する",
+    "acceptedAnswers": [
+      "질문하다",
+      "질문해요"
+    ],
+    "synonyms": [
+      {
+        "word": "묻다",
+        "meaning": "尋ねる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대답하다",
+        "meaning": "答える"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "word": "대답하다",
+    "baseForm": "대답하다",
+    "highlightText": "대답해요",
+    "readingKatakana": "テダパダ",
+    "romanization": "daedaphada",
+    "meaning": "答える",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "질문에 바로 대답했어요.",
+    "exampleTranslation": "質問にすぐ答えました。",
+    "description": "質問に対して返事をするときの動詞です。",
+    "usage": "『질문에 대답하다（質問に答える）』で覚えると便利です。",
+    "hint": "答える",
+    "acceptedAnswers": [
+      "대답하다",
+      "대답해요"
+    ],
+    "synonyms": [
+      {
+        "word": "응답하다",
+        "meaning": "応答する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "질문하다",
+        "meaning": "質問する"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "word": "설명하다",
+    "baseForm": "설명하다",
+    "highlightText": "설명해요",
+    "readingKatakana": "ソルミョンハダ",
+    "romanization": "seolmyeonghada",
+    "meaning": "説明する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "친구에게 설명했어요.",
+    "exampleTranslation": "友達に説明しました。",
+    "description": "内容や理由をわかりやすく伝えるときに使います。",
+    "usage": "『이유를 설명하다（理由を説明する）』のように使います。",
+    "hint": "説明する",
+    "acceptedAnswers": [
+      "설명하다",
+      "설명해요"
+    ],
+    "synonyms": [
+      {
+        "word": "해설하다",
+        "meaning": "解説する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 709,
+    "word": "확인하다",
+    "baseForm": "확인하다",
+    "highlightText": "확인해요",
+    "readingKatakana": "ファギナダ",
+    "romanization": "hwaginhada",
+    "meaning": "確認する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "약속 시간을 확인했어요.",
+    "exampleTranslation": "約束の時間を確認しました。",
+    "description": "正しいかどうかをもう一度見るときに使う動詞です。",
+    "usage": "『시간을 확인하다（時間を確認する）』の形が頻出です。",
+    "hint": "確認する",
+    "acceptedAnswers": [
+      "확인하다",
+      "확인해요"
+    ],
+    "synonyms": [
+      {
+        "word": "점검하다",
+        "meaning": "点検する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시하다",
+        "meaning": "無視する"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "word": "기억하다",
+    "baseForm": "기억하다",
+    "highlightText": "기억해요",
+    "readingKatakana": "キオカダ",
+    "romanization": "gieokhada",
+    "meaning": "覚えている",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "처음 만난 날을 기억해요.",
+    "exampleTranslation": "初めて会った日を覚えています。",
+    "description": "覚えている状態や思い出すことを表します。",
+    "usage": "『이름을 기억하다（名前を覚えている）』などでよく使います。",
+    "hint": "覚えている",
+    "acceptedAnswers": [
+      "기억하다",
+      "기억해요"
+    ],
+    "synonyms": [
+      {
+        "word": "떠올리다",
+        "meaning": "思い出す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "잊다",
+        "meaning": "忘れる"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "word": "잊다",
+    "baseForm": "잊다",
+    "highlightText": "잊어요",
+    "readingKatakana": "イッタ",
+    "romanization": "itda",
+    "meaning": "忘れる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "우산 두고 온 걸 잊었어요.",
+    "exampleTranslation": "傘を置いてきたのを忘れました。",
+    "description": "覚えていたことを忘れるときに使います。",
+    "usage": "『약속을 잊다（約束を忘れる）』の形でよく出ます。",
+    "hint": "忘れる",
+    "acceptedAnswers": [
+      "잊다",
+      "잊어요"
+    ],
+    "synonyms": [
+      {
+        "word": "망각하다",
+        "meaning": "忘却する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "기억하다",
+        "meaning": "覚えている"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "word": "웃다",
+    "baseForm": "웃다",
+    "highlightText": "웃어요",
+    "readingKatakana": "ウッタ",
+    "romanization": "utda",
+    "meaning": "笑う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "모두가 크게 웃었어요.",
+    "exampleTranslation": "みんなが大きく笑いました。",
+    "description": "声や表情で笑う動作を表す基本動詞です。",
+    "usage": "『웃으면서 말하다（笑いながら話す）』のようにも使えます。",
+    "hint": "笑う",
+    "acceptedAnswers": [
+      "웃다",
+      "웃어요"
+    ],
+    "synonyms": [
+      {
+        "word": "미소 짓다",
+        "meaning": "ほほえむ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "울다",
+        "meaning": "泣く"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "word": "울다",
+    "baseForm": "울다",
+    "highlightText": "울어요",
+    "readingKatakana": "ウルダ",
+    "romanization": "ulda",
+    "meaning": "泣く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "혼자 조금 울었어요.",
+    "exampleTranslation": "一人で少し泣きました。",
+    "description": "悲しさや感動で泣くときに使います。",
+    "usage": "『슬퍼서 울다（悲しくて泣く）』で覚えると使いやすいです。",
+    "hint": "泣く",
+    "acceptedAnswers": [
+      "울다",
+      "울어요"
+    ],
+    "synonyms": [
+      {
+        "word": "눈물 흘리다",
+        "meaning": "涙を流す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "웃다",
+        "meaning": "笑う"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "word": "도와주다",
+    "baseForm": "도와주다",
+    "highlightText": "도와줘요",
+    "readingKatakana": "トワジュダ",
+    "romanization": "dowajuda",
+    "meaning": "手伝う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "짐 옮기는 걸 도와줬어요.",
+    "exampleTranslation": "荷物を運ぶのを手伝いました。",
+    "description": "誰かの作業や問題を手伝うときに使う動詞です。",
+    "usage": "『숙제를 도와주다（宿題を手伝う）』のように相手を助ける場面で使います。",
+    "hint": "手伝う",
+    "acceptedAnswers": [
+      "도와주다",
+      "도와줘요"
+    ],
+    "synonyms": [
+      {
+        "word": "돕다",
+        "meaning": "助ける"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방해하다",
+        "meaning": "邪魔する"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "word": "연락하다",
+    "baseForm": "연락하다",
+    "highlightText": "연락해요",
+    "readingKatakana": "ヨルラカダ",
+    "romanization": "yeollakhada",
+    "meaning": "連絡する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "도착하면 바로 연락할게요.",
+    "exampleTranslation": "着いたらすぐ連絡します。",
+    "description": "電話やメッセージなどで連絡を取るときに使います。",
+    "usage": "『나중에 연락하다（あとで連絡する）』が日常会話でよく出ます。",
+    "hint": "連絡する",
+    "acceptedAnswers": [
+      "연락하다",
+      "연락해요"
+    ],
+    "synonyms": [
+      {
+        "word": "통화하다",
+        "meaning": "連絡する、通話する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "끊다",
+        "meaning": "連絡を絶つ"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "word": "전화하다",
+    "baseForm": "전화하다",
+    "highlightText": "전화해요",
+    "readingKatakana": "チョナハダ",
+    "romanization": "jeonhwahada",
+    "meaning": "電話する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "부모님께 전화했어요.",
+    "exampleTranslation": "両親に電話しました。",
+    "description": "電話をかける・するという意味の基本動詞です。",
+    "usage": "『집에 전화하다（家に電話する）』の形で使えます。",
+    "hint": "電話する",
+    "acceptedAnswers": [
+      "전화하다",
+      "전화해요"
+    ],
+    "synonyms": [
+      {
+        "word": "통화하다",
+        "meaning": "通話する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "끊다",
+        "meaning": "電話を切る"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "word": "문자하다",
+    "baseForm": "문자하다",
+    "highlightText": "문자해요",
+    "readingKatakana": "ムンジャハダ",
+    "romanization": "munjahada",
+    "meaning": "メッセージする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "전화 대신 문자했어요.",
+    "exampleTranslation": "電話の代わりにメッセージしました。",
+    "description": "メッセージアプリやSMSで文を送るときに使います。",
+    "usage": "『친구에게 문자하다（友達にメッセージする）』でよく使います。",
+    "hint": "メッセージする",
+    "acceptedAnswers": [
+      "문자하다",
+      "문자해요"
+    ],
+    "synonyms": [
+      {
+        "word": "메시지하다",
+        "meaning": "メッセージする"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 718,
+    "word": "찍다",
+    "baseForm": "찍다",
+    "highlightText": "찍어요",
+    "readingKatakana": "チクタ",
+    "romanization": "jjikda",
+    "meaning": "撮る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "예쁜 풍경을 찍고 싶어요.",
+    "exampleTranslation": "きれいな風景を撮りたいです。",
+    "description": "写真を撮るほか、印をつける意味でも使われます。",
+    "usage": "『사진을 찍다（写真を撮る）』が最重要です。",
+    "hint": "撮る",
+    "acceptedAnswers": [
+      "찍다",
+      "찍어요"
+    ],
+    "synonyms": [
+      {
+        "word": "촬영하다",
+        "meaning": "撮影する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 719,
+    "word": "운동하다",
+    "baseForm": "운동하다",
+    "highlightText": "운동해요",
+    "readingKatakana": "ウンドンハダ",
+    "romanization": "undonghada",
+    "meaning": "運動する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "아침마다 운동해요.",
+    "exampleTranslation": "毎朝運動しています。",
+    "description": "体を動かして運動するときに使う動詞です。",
+    "usage": "『아침에 운동하다（朝に運動する）』の形が自然です。",
+    "hint": "運動する",
+    "acceptedAnswers": [
+      "운동하다",
+      "운동해요"
+    ],
+    "synonyms": [
+      {
+        "word": "활동하다",
+        "meaning": "活動する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "쉬다",
+        "meaning": "休む"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "word": "노래하다",
+    "baseForm": "노래하다",
+    "highlightText": "노래해요",
+    "readingKatakana": "ノレハダ",
+    "romanization": "noraehada",
+    "meaning": "歌う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "노래방에 가서 노래했어요.",
+    "exampleTranslation": "カラオケに行って歌いました。",
+    "description": "歌を歌う行為を表します。",
+    "usage": "『같이 노래하다（一緒に歌う）』のようにも使います。",
+    "hint": "歌う",
+    "acceptedAnswers": [
+      "노래하다",
+      "노래해요"
+    ],
+    "synonyms": [
+      {
+        "word": "가창하다",
+        "meaning": "歌唱する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 721,
+    "word": "춤추다",
+    "baseForm": "춤추다",
+    "highlightText": "춤춰요",
+    "readingKatakana": "チュムチュダ",
+    "romanization": "chumchuda",
+    "meaning": "踊る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "신나게 춤췄어요.",
+    "exampleTranslation": "楽しく踊りました。",
+    "description": "踊ることを表す動詞です。",
+    "usage": "『음악에 맞춰 춤추다（音楽に合わせて踊る）』とよく組みます。",
+    "hint": "踊る",
+    "acceptedAnswers": [
+      "춤추다",
+      "춤춰요"
+    ],
+    "synonyms": [
+      {
+        "word": "무용하다",
+        "meaning": "舞う"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 722,
+    "word": "놀다",
+    "baseForm": "놀다",
+    "highlightText": "놀아요",
+    "readingKatakana": "ノルダ",
+    "romanization": "nolda",
+    "meaning": "遊ぶ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "공원에서 같이 놀았어요.",
+    "exampleTranslation": "公園で一緒に遊びました。",
+    "description": "遊ぶ、楽しく過ごすという意味で広く使います。",
+    "usage": "『친구랑 놀다（友達と遊ぶ）』が基本です。",
+    "hint": "遊ぶ",
+    "acceptedAnswers": [
+      "놀다",
+      "놀아요"
+    ],
+    "synonyms": [
+      {
+        "word": "즐기다",
+        "meaning": "楽しむ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "일하다",
+        "meaning": "働く"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "word": "여행하다",
+    "baseForm": "여행하다",
+    "highlightText": "여행해요",
+    "readingKatakana": "ヨヘンハダ",
+    "romanization": "yeohaenghada",
+    "meaning": "旅行する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "부산으로 여행할 거예요.",
+    "exampleTranslation": "釜山へ旅行するつもりです。",
+    "description": "旅行する行為を表す動詞です。",
+    "usage": "『혼자 여행하다（一人で旅行する）』のように使います。",
+    "hint": "旅行する",
+    "acceptedAnswers": [
+      "여행하다",
+      "여행해요"
+    ],
+    "synonyms": [
+      {
+        "word": "관광하다",
+        "meaning": "観光する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 724,
+    "word": "예약하다",
+    "baseForm": "예약하다",
+    "highlightText": "예약해요",
+    "readingKatakana": "イェヤカダ",
+    "romanization": "yeyakhada",
+    "meaning": "予約する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "미리 예약해 두는 게 좋아요.",
+    "exampleTranslation": "前もって予約しておくのがいいです。",
+    "description": "ホテルや席などを前もって予約するときに使います。",
+    "usage": "『호텔을 예약하다（ホテルを予約する）』でよく使います。",
+    "hint": "予約する",
+    "acceptedAnswers": [
+      "예약하다",
+      "예약해요"
+    ],
+    "synonyms": [
+      {
+        "word": "예매하다",
+        "meaning": "予約・前売り購入する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "취소하다",
+        "meaning": "キャンセルする"
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "word": "취소하다",
+    "baseForm": "취소하다",
+    "highlightText": "취소해요",
+    "readingKatakana": "チュィソハダ",
+    "romanization": "chwisohada",
+    "meaning": "キャンセルする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "오늘 약속은 취소했어요.",
+    "exampleTranslation": "今日の約束はキャンセルしました。",
+    "description": "予約や予定を取り消すときに使います。",
+    "usage": "『예약을 취소하다（予約をキャンセルする）』が基本です。",
+    "hint": "キャンセルする",
+    "acceptedAnswers": [
+      "취소하다",
+      "취소해요"
+    ],
+    "synonyms": [
+      {
+        "word": "철회하다",
+        "meaning": "取り消す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "예약하다",
+        "meaning": "予約する"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "word": "소개하다",
+    "baseForm": "소개하다",
+    "highlightText": "소개해요",
+    "readingKatakana": "ソゲハダ",
+    "romanization": "sogaehada",
+    "meaning": "紹介する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "친구를 가족에게 소개했어요.",
+    "exampleTranslation": "友達を家族に紹介しました。",
+    "description": "人や物を他の人に紹介するときに使う動詞です。",
+    "usage": "『친구를 소개하다（友達を紹介する）』の形でよく使います。",
+    "hint": "紹介する",
+    "acceptedAnswers": [
+      "소개하다",
+      "소개해요"
+    ],
+    "synonyms": [
+      {
+        "word": "알리다",
+        "meaning": "紹介する、知らせる"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 727,
+    "word": "약속하다",
+    "baseForm": "약속하다",
+    "highlightText": "약속해요",
+    "readingKatakana": "ヤクソカダ",
+    "romanization": "yaksokhada",
+    "meaning": "約束する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "다음에 꼭 다시 만나자고 약속했어요.",
+    "exampleTranslation": "次に必ずまた会おうと約束しました。",
+    "description": "約束を交わすときに使います。",
+    "usage": "『내일 만나기로 약속하다（明日会うと約束する）』のように使います。",
+    "hint": "約束する",
+    "acceptedAnswers": [
+      "약속하다",
+      "약속해요"
+    ],
+    "synonyms": [
+      {
+        "word": "맹세하다",
+        "meaning": "約束する、誓う"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 728,
+    "word": "결정하다",
+    "baseForm": "결정하다",
+    "highlightText": "결정해요",
+    "readingKatakana": "キョルチョンハダ",
+    "romanization": "gyeoljeonghada",
+    "meaning": "決める",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "오늘 안에 결정해야 해요.",
+    "exampleTranslation": "今日中に決めないといけません。",
+    "description": "迷ったあとで一つに決めるときに使います。",
+    "usage": "『진로를 결정하다（進路を決める）』のように使えます。",
+    "hint": "決める",
+    "acceptedAnswers": [
+      "결정하다",
+      "결정해요"
+    ],
+    "synonyms": [
+      {
+        "word": "정하다",
+        "meaning": "決める"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 729,
+    "word": "변경하다",
+    "baseForm": "변경하다",
+    "highlightText": "변경해요",
+    "readingKatakana": "ピョンギョンハダ",
+    "romanization": "byeongyeonghada",
+    "meaning": "変更する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "출발 계획을 변경했어요.",
+    "exampleTranslation": "出発の予定を変更しました。",
+    "description": "内容や予定を変えるときに使います。",
+    "usage": "『시간을 변경하다（時間を変更する）』でよく使います。",
+    "hint": "変更する",
+    "acceptedAnswers": [
+      "변경하다",
+      "변경해요"
+    ],
+    "synonyms": [
+      {
+        "word": "수정하다",
+        "meaning": "修正する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 730,
+    "word": "이해하다",
+    "baseForm": "이해하다",
+    "highlightText": "이해해요",
+    "readingKatakana": "イヘハダ",
+    "romanization": "ihaehada",
+    "meaning": "理解する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "이제는 설명을 이해해요.",
+    "exampleTranslation": "今は説明を理解しています。",
+    "description": "話や内容を理解したときに使う動詞です。",
+    "usage": "『설명을 이해하다（説明を理解する）』の形が基本です。",
+    "hint": "理解する",
+    "acceptedAnswers": [
+      "이해하다",
+      "이해해요"
+    ],
+    "synonyms": [
+      {
+        "word": "납득하다",
+        "meaning": "納得する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 731,
+    "word": "성공하다",
+    "baseForm": "성공하다",
+    "highlightText": "성공해요",
+    "readingKatakana": "ソンゴンハダ",
+    "romanization": "seonggonghada",
+    "meaning": "成功する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "발표를 무사히 성공했어요.",
+    "exampleTranslation": "発表を無事に成功させました。",
+    "description": "目標がうまくかなったときに使います。",
+    "usage": "『시험에 성공하다』より『일에 성공하다（仕事に成功する）』などで自然です。",
+    "hint": "成功する",
+    "acceptedAnswers": [
+      "성공하다",
+      "성공해요"
+    ],
+    "synonyms": [
+      {
+        "word": "이루다",
+        "meaning": "成し遂げる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실패하다",
+        "meaning": "失敗する"
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "word": "실패하다",
+    "baseForm": "실패하다",
+    "highlightText": "실패해요",
+    "readingKatakana": "シルペハダ",
+    "romanization": "silpaehada",
+    "meaning": "失敗する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "요리는 조금 실패했어요.",
+    "exampleTranslation": "料理は少し失敗しました。",
+    "description": "思いどおりにいかなかったときに使います。",
+    "usage": "『도전에 실패하다（挑戦に失敗する）』のように使います。",
+    "hint": "失敗する",
+    "acceptedAnswers": [
+      "실패하다",
+      "실패해요"
+    ],
+    "synonyms": [
+      {
+        "word": "그르치다",
+        "meaning": "失敗する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "성공하다",
+        "meaning": "成功する"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "word": "크다",
+    "baseForm": "크다",
+    "highlightText": "커요",
+    "readingKatakana": "クダ",
+    "romanization": "keuda",
+    "meaning": "大きい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "창문이 커서 밝아요.",
+    "exampleTranslation": "窓が大きくて明るいです。",
+    "description": "大きさ・規模が大きいことを表す基本形容詞です。",
+    "usage": "『방이 크다（部屋が大きい）』のように大きさを表します。",
+    "hint": "大きい",
+    "acceptedAnswers": [
+      "크다",
+      "커요"
+    ],
+    "synonyms": [
+      {
+        "word": "거대하다",
+        "meaning": "巨大だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "작다",
+        "meaning": "小さい"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "word": "작다",
+    "baseForm": "작다",
+    "highlightText": "작아요",
+    "readingKatakana": "チャクタ",
+    "romanization": "jakda",
+    "meaning": "小さい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "제 방은 작지만 다 있어요.",
+    "exampleTranslation": "私の部屋は小さいですが全部あります。",
+    "description": "大きさが小さいことを表す基本形容詞です。",
+    "usage": "『가방이 작다（かばんが小さい）』のように使います。",
+    "hint": "小さい",
+    "acceptedAnswers": [
+      "작다",
+      "작아요"
+    ],
+    "synonyms": [
+      {
+        "word": "조그맣다",
+        "meaning": "小さい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "크다",
+        "meaning": "大きい"
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "word": "많다",
+    "baseForm": "많다",
+    "highlightText": "많아요",
+    "readingKatakana": "マンタ",
+    "romanization": "manta",
+    "meaning": "多い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "공원에 사람이 많았어요.",
+    "exampleTranslation": "公園に人が多かったです。",
+    "description": "数や量が多いときに使います。",
+    "usage": "『사람이 많다（人が多い）』で非常によく使います。",
+    "hint": "多い",
+    "acceptedAnswers": [
+      "많다",
+      "많아요"
+    ],
+    "synonyms": [
+      {
+        "word": "풍부하다",
+        "meaning": "豊富だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "적다",
+        "meaning": "少ない"
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "word": "적다",
+    "baseForm": "적다",
+    "highlightText": "적어요",
+    "readingKatakana": "チョクタ",
+    "romanization": "jeokda",
+    "meaning": "少ない",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "숙제가 평소보다 적어요.",
+    "exampleTranslation": "宿題がいつもより少ないです。",
+    "description": "数や量が少ないときに使います。",
+    "usage": "『시간이 적다（時間が少ない）』のようにも使えます。",
+    "hint": "少ない",
+    "acceptedAnswers": [
+      "적다",
+      "적어요"
+    ],
+    "synonyms": [
+      {
+        "word": "드물다",
+        "meaning": "少ない、まれだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "많다",
+        "meaning": "多い"
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "word": "길다",
+    "baseForm": "길다",
+    "highlightText": "길어요",
+    "readingKatakana": "キルダ",
+    "romanization": "gilda",
+    "meaning": "長い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "영화가 생각보다 길었어요.",
+    "exampleTranslation": "映画が思ったより長かったです。",
+    "description": "長さや時間が長いことを表します。",
+    "usage": "『머리가 길다（髪が長い）』など長さに使います。",
+    "hint": "長い",
+    "acceptedAnswers": [
+      "길다",
+      "길어요"
+    ],
+    "synonyms": [
+      {
+        "word": "기나길다",
+        "meaning": "長い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "짧다",
+        "meaning": "短い"
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "word": "짧다",
+    "baseForm": "짧다",
+    "highlightText": "짧아요",
+    "readingKatakana": "チャルタ",
+    "romanization": "jjalbda",
+    "meaning": "短い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "설명은 짧았어요.",
+    "exampleTranslation": "説明は短かったです。",
+    "description": "長さや時間が短いことを表します。",
+    "usage": "『치마가 짧다（スカートが短い）』のように使います。",
+    "hint": "短い",
+    "acceptedAnswers": [
+      "짧다",
+      "짧아요"
+    ],
+    "synonyms": [
+      {
+        "word": "단신하다",
+        "meaning": "短い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "길다",
+        "meaning": "長い"
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "word": "높다",
+    "baseForm": "높다",
+    "highlightText": "높아요",
+    "readingKatakana": "ノプタ",
+    "romanization": "nopda",
+    "meaning": "高い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "이 산은 높아요.",
+    "exampleTranslation": "この山は高いです。",
+    "description": "高さや値段、温度などが高いときにも使えます。",
+    "usage": "『산이 높다（山が高い）』『가격이 높다（値段が高い）』にも使えます。",
+    "hint": "高い",
+    "acceptedAnswers": [
+      "높다",
+      "높아요"
+    ],
+    "synonyms": [
+      {
+        "word": "고상하다",
+        "meaning": "高い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낮다",
+        "meaning": "低い"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "word": "낮다",
+    "baseForm": "낮다",
+    "highlightText": "낮아요",
+    "readingKatakana": "ナッタ",
+    "romanization": "natda",
+    "meaning": "低い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "의자가 조금 낮았어요.",
+    "exampleTranslation": "椅子が少し低かったです。",
+    "description": "高さや程度が低いことを表します。",
+    "usage": "『의자가 낮다（椅子が低い）』のように使います。",
+    "hint": "低い",
+    "acceptedAnswers": [
+      "낮다",
+      "낮아요"
+    ],
+    "synonyms": [
+      {
+        "word": "저조하다",
+        "meaning": "低調だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "높다",
+        "meaning": "高い"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "word": "빠르다",
+    "baseForm": "빠르다",
+    "highlightText": "빨라요",
+    "readingKatakana": "ッパルダ",
+    "romanization": "ppareuda",
+    "meaning": "速い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "인터넷이 빠르면 편리해요.",
+    "exampleTranslation": "ネットが速いと便利です。",
+    "description": "速度が速いときに使う基本形容詞です。",
+    "usage": "『인터넷이 빠르다（ネットが速い）』のようにもよく使います。",
+    "hint": "速い",
+    "acceptedAnswers": [
+      "빠르다",
+      "빨라요"
+    ],
+    "synonyms": [
+      {
+        "word": "신속하다",
+        "meaning": "迅速だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "느리다",
+        "meaning": "遅い"
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "word": "느리다",
+    "baseForm": "느리다",
+    "highlightText": "느려요",
+    "readingKatakana": "ヌリダ",
+    "romanization": "neurida",
+    "meaning": "遅い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "버스가 생각보다 느렸어요.",
+    "exampleTranslation": "バスが思ったより遅かったです。",
+    "description": "速度や進み方が遅いことを表します。",
+    "usage": "『걸음이 느리다（歩くのが遅い）』の形も自然です。",
+    "hint": "遅い",
+    "acceptedAnswers": [
+      "느리다",
+      "느려요"
+    ],
+    "synonyms": [
+      {
+        "word": "더디다",
+        "meaning": "遅い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "빠르다",
+        "meaning": "速い"
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "word": "무겁다",
+    "baseForm": "무겁다",
+    "highlightText": "무거워요",
+    "readingKatakana": "ムゴプタ",
+    "romanization": "mugeopda",
+    "meaning": "重い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "가방이 너무 무거웠어요.",
+    "exampleTranslation": "かばんがとても重かったです。",
+    "description": "重さが重いときに使います。",
+    "usage": "『가방이 무겁다（かばんが重い）』で覚えると便利です。",
+    "hint": "重い",
+    "acceptedAnswers": [
+      "무겁다",
+      "무거워요"
+    ],
+    "synonyms": [
+      {
+        "word": "중하다",
+        "meaning": "重い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "가볍다",
+        "meaning": "軽い"
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "word": "가볍다",
+    "baseForm": "가볍다",
+    "highlightText": "가벼워요",
+    "readingKatakana": "カビョプタ",
+    "romanization": "gabyeopda",
+    "meaning": "軽い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "이 신발은 가벼워요.",
+    "exampleTranslation": "この靴は軽いです。",
+    "description": "重さが軽いときに使います。",
+    "usage": "『신발이 가볍다（靴が軽い）』のように使います。",
+    "hint": "軽い",
+    "acceptedAnswers": [
+      "가볍다",
+      "가벼워요"
+    ],
+    "synonyms": [
+      {
+        "word": "경쾌하다",
+        "meaning": "軽やかだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무겁다",
+        "meaning": "重い"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "word": "쉽다",
+    "baseForm": "쉽다",
+    "highlightText": "쉬워요",
+    "readingKatakana": "シプタ",
+    "romanization": "swipda",
+    "meaning": "易しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "해 보면 쉬워요.",
+    "exampleTranslation": "やってみると易しいです。",
+    "description": "内容が簡単でやさしいときに使います。",
+    "usage": "『문제가 쉽다（問題が易しい）』が基本です。",
+    "hint": "易しい",
+    "acceptedAnswers": [
+      "쉽다",
+      "쉬워요"
+    ],
+    "synonyms": [
+      {
+        "word": "간단하다",
+        "meaning": "簡単だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "어렵다",
+        "meaning": "難しい"
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "word": "어렵다",
+    "baseForm": "어렵다",
+    "highlightText": "어려워요",
+    "readingKatakana": "オリョプタ",
+    "romanization": "eoryeopda",
+    "meaning": "難しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "발음이 아직 어려워요.",
+    "exampleTranslation": "発音がまだ難しいです。",
+    "description": "内容が難しくて大変なときに使います。",
+    "usage": "『설명이 어렵다（説明が難しい）』の形でも使います。",
+    "hint": "難しい",
+    "acceptedAnswers": [
+      "어렵다",
+      "어려워요"
+    ],
+    "synonyms": [
+      {
+        "word": "힘들다",
+        "meaning": "難しい、大変だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "쉽다",
+        "meaning": "易しい"
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "word": "좋다",
+    "baseForm": "좋다",
+    "highlightText": "좋아요",
+    "readingKatakana": "チョッタ",
+    "romanization": "jota",
+    "meaning": "良い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "날씨도 정말 좋아요.",
+    "exampleTranslation": "天気も本当にいいです。",
+    "description": "状態や気分、品質がよいときに広く使える形容詞です。",
+    "usage": "『날씨가 좋다（天気がいい）』『기분이 좋다（気分がいい）』が定番です。",
+    "hint": "良い",
+    "acceptedAnswers": [
+      "좋다",
+      "좋아요"
+    ],
+    "synonyms": [
+      {
+        "word": "괜찮다",
+        "meaning": "よい、大丈夫だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "나쁘다",
+        "meaning": "悪い"
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "word": "나쁘다",
+    "baseForm": "나쁘다",
+    "highlightText": "나빠요",
+    "readingKatakana": "ナップダ",
+    "romanization": "nappeuda",
+    "meaning": "悪い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "오늘 컨디션이 나빠요.",
+    "exampleTranslation": "今日は体調が悪いです。",
+    "description": "状態や印象が悪いときに使います。",
+    "usage": "『컨디션이 나쁘다（体調が悪い）』のようにも使えます。",
+    "hint": "悪い",
+    "acceptedAnswers": [
+      "나쁘다",
+      "나빠요"
+    ],
+    "synonyms": [
+      {
+        "word": "안 좋다",
+        "meaning": "よくない"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "좋다",
+        "meaning": "良い"
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "word": "예쁘다",
+    "baseForm": "예쁘다",
+    "highlightText": "예뻐요",
+    "readingKatakana": "イェップダ",
+    "romanization": "yeppeuda",
+    "meaning": "きれいだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "꽃이 정말 예뻤어요.",
+    "exampleTranslation": "花がとてもきれいでした。",
+    "description": "見た目がきれい・かわいいと感じるときに使います。",
+    "usage": "『꽃이 예쁘다（花がきれいだ）』でよく使います。",
+    "hint": "きれいだ",
+    "acceptedAnswers": [
+      "예쁘다",
+      "예뻐요"
+    ],
+    "synonyms": [
+      {
+        "word": "아름답다",
+        "meaning": "美しい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "못생기다",
+        "meaning": "不格好だ"
+      }
+    ]
+  },
+  {
+    "id": 750,
+    "word": "멋있다",
+    "baseForm": "멋있다",
+    "highlightText": "멋있어요",
+    "readingKatakana": "モシッタ",
+    "romanization": "meositda",
+    "meaning": "かっこいい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "노래하는 모습이 멋있었어요.",
+    "exampleTranslation": "歌う姿がかっこよかったです。",
+    "description": "かっこいい、すてきだという意味で使います。",
+    "usage": "人にも物にも使える便利な語です。",
+    "hint": "かっこいい",
+    "acceptedAnswers": [
+      "멋있다",
+      "멋있어요"
+    ],
+    "synonyms": [
+      {
+        "word": "근사하다",
+        "meaning": "すてきだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "촌스럽다",
+        "meaning": "ださい"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "word": "귀엽다",
+    "baseForm": "귀엽다",
+    "highlightText": "귀여워요",
+    "readingKatakana": "クィヨプタ",
+    "romanization": "gwiyeopda",
+    "meaning": "かわいい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "강아지가 너무 귀여워요.",
+    "exampleTranslation": "子犬がとてもかわいいです。",
+    "description": "かわいらしい見た目や雰囲気を表します。",
+    "usage": "『강아지가 귀엽다（子犬がかわいい）』のように使います。",
+    "hint": "かわいい",
+    "acceptedAnswers": [
+      "귀엽다",
+      "귀여워요"
+    ],
+    "synonyms": [
+      {
+        "word": "사랑스럽다",
+        "meaning": "愛らしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무섭다",
+        "meaning": "怖い"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "word": "새롭다",
+    "baseForm": "새롭다",
+    "highlightText": "새로워요",
+    "readingKatakana": "セロプタ",
+    "romanization": "saeropda",
+    "meaning": "新しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "매일이 새로워요.",
+    "exampleTranslation": "毎日が新鮮です。",
+    "description": "新しくてまだ慣れていない感じを表します。",
+    "usage": "『새로운 표현（新しい表現）』の語幹変化も重要です。",
+    "hint": "新しい",
+    "acceptedAnswers": [
+      "새롭다",
+      "새로워요"
+    ],
+    "synonyms": [
+      {
+        "word": "신선하다",
+        "meaning": "新鮮だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "오래되다",
+        "meaning": "古い"
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "word": "오래되다",
+    "baseForm": "오래되다",
+    "highlightText": "오래됐어요",
+    "readingKatakana": "オレデダ",
+    "romanization": "oraedoeda",
+    "meaning": "古い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "이 건물은 오래됐어요.",
+    "exampleTranslation": "この建物は古いです。",
+    "description": "古くなって時間がたっていることを表します。",
+    "usage": "『오래된 건물（古い建物）』のようにもよく使います。",
+    "hint": "古い",
+    "acceptedAnswers": [
+      "오래되다",
+      "오래됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "낡다",
+        "meaning": "古びている"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "새롭다",
+        "meaning": "新しい"
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "word": "깨끗하다",
+    "baseForm": "깨끗하다",
+    "highlightText": "깨끗해요",
+    "readingKatakana": "ッケックタダ",
+    "romanization": "kkaekkeuthada",
+    "meaning": "きれいだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "家"
+    ],
+    "formality": "基本形",
+    "example": "방이 아주 깨끗해졌어요.",
+    "exampleTranslation": "部屋がとてもきれいになりました。",
+    "description": "汚れがなくてきれいな状態を表します。",
+    "usage": "『방이 깨끗하다（部屋がきれいだ）』が定番です。",
+    "hint": "きれいだ",
+    "acceptedAnswers": [
+      "깨끗하다",
+      "깨끗해요"
+    ],
+    "synonyms": [
+      {
+        "word": "말끔하다",
+        "meaning": "清潔だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "더럽다",
+        "meaning": "汚い"
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "word": "더럽다",
+    "baseForm": "더럽다",
+    "highlightText": "더러워요",
+    "readingKatakana": "トロプタ",
+    "romanization": "deoreopda",
+    "meaning": "汚い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "家"
+    ],
+    "formality": "基本形",
+    "example": "신발이 금방 더러워졌어요.",
+    "exampleTranslation": "靴がすぐ汚れました。",
+    "description": "汚れていてきれいではない状態を表します。",
+    "usage": "『손이 더럽다（手が汚い）』のように使います。",
+    "hint": "汚い",
+    "acceptedAnswers": [
+      "더럽다",
+      "더러워요"
+    ],
+    "synonyms": [
+      {
+        "word": "지저분하다",
+        "meaning": "汚い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "깨끗하다",
+        "meaning": "きれいだ"
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "word": "조용하다",
+    "baseForm": "조용하다",
+    "highlightText": "조용해요",
+    "readingKatakana": "チョヨンハダ",
+    "romanization": "joyonghada",
+    "meaning": "静かだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "場所"
+    ],
+    "formality": "基本形",
+    "example": "도서관은 조용해요.",
+    "exampleTranslation": "図書館は静かです。",
+    "description": "音が少なく静かな状態を表します。",
+    "usage": "『카페가 조용하다（カフェが静かだ）』の形で使いやすいです。",
+    "hint": "静かだ",
+    "acceptedAnswers": [
+      "조용하다",
+      "조용해요"
+    ],
+    "synonyms": [
+      {
+        "word": "고요하다",
+        "meaning": "静かだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "시끄럽다",
+        "meaning": "うるさい"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "word": "시끄럽다",
+    "baseForm": "시끄럽다",
+    "highlightText": "시끄러워요",
+    "readingKatakana": "シックロプタ",
+    "romanization": "sikkeureopda",
+    "meaning": "うるさい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "場所"
+    ],
+    "formality": "基本形",
+    "example": "밖이 너무 시끄러웠어요.",
+    "exampleTranslation": "外がとてもうるさかったです。",
+    "description": "音が大きくてうるさい状態を表します。",
+    "usage": "『교실이 시끄럽다（教室がうるさい）』でよく使います。",
+    "hint": "うるさい",
+    "acceptedAnswers": [
+      "시끄럽다",
+      "시끄러워요"
+    ],
+    "synonyms": [
+      {
+        "word": "소란스럽다",
+        "meaning": "騒がしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "조용하다",
+        "meaning": "静かだ"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "word": "밝다",
+    "baseForm": "밝다",
+    "highlightText": "밝아요",
+    "readingKatakana": "パクタ",
+    "romanization": "bakda",
+    "meaning": "明るい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "방 안이 환하고 밝아요.",
+    "exampleTranslation": "部屋の中が明るいです。",
+    "description": "光が十分あって明るいことや、性格が明るいことも表します。",
+    "usage": "『방이 밝다（部屋が明るい）』の形が自然です。",
+    "hint": "明るい",
+    "acceptedAnswers": [
+      "밝다",
+      "밝아요"
+    ],
+    "synonyms": [
+      {
+        "word": "환하다",
+        "meaning": "明るい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "어둡다",
+        "meaning": "暗い"
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "word": "어둡다",
+    "baseForm": "어둡다",
+    "highlightText": "어두워요",
+    "readingKatakana": "オドゥプタ",
+    "romanization": "eodupda",
+    "meaning": "暗い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "이 길은 조금 어두워요.",
+    "exampleTranslation": "この道は少し暗いです。",
+    "description": "光が少なく暗い状態を表します。",
+    "usage": "『길이 어둡다（道が暗い）』のように使います。",
+    "hint": "暗い",
+    "acceptedAnswers": [
+      "어둡다",
+      "어두워요"
+    ],
+    "synonyms": [
+      {
+        "word": "침침하다",
+        "meaning": "薄暗い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "밝다",
+        "meaning": "明るい"
+      }
+    ]
+  },
+  {
+    "id": 760,
+    "word": "따뜻하다",
+    "baseForm": "따뜻하다",
+    "highlightText": "따뜻해요",
+    "readingKatakana": "タットゥタダ",
+    "romanization": "ttatteuthada",
+    "meaning": "暖かい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "天気"
+    ],
+    "formality": "基本形",
+    "example": "따뜻한 차를 마셨어요.",
+    "exampleTranslation": "温かいお茶を飲みました。",
+    "description": "気温や物が暖かいときに使います。",
+    "usage": "『날씨가 따뜻하다（天気が暖かい）』でよく使います。",
+    "hint": "暖かい",
+    "acceptedAnswers": [
+      "따뜻하다",
+      "따뜻해요"
+    ],
+    "synonyms": [
+      {
+        "word": "포근하다",
+        "meaning": "ぽかぽかしている"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차갑다",
+        "meaning": "冷たい"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "word": "차갑다",
+    "baseForm": "차갑다",
+    "highlightText": "차가워요",
+    "readingKatakana": "チャガプタ",
+    "romanization": "chagapda",
+    "meaning": "冷たい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "食べ物"
+    ],
+    "formality": "基本形",
+    "example": "물이 정말 차가워요.",
+    "exampleTranslation": "水が本当に冷たいです。",
+    "description": "温度が冷たいことを表します。",
+    "usage": "『물이 차갑다（水が冷たい）』が基本です。",
+    "hint": "冷たい",
+    "acceptedAnswers": [
+      "차갑다",
+      "차가워요"
+    ],
+    "synonyms": [
+      {
+        "word": "서늘하다",
+        "meaning": "冷ややかだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "따뜻하다",
+        "meaning": "暖かい"
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "word": "뜨겁다",
+    "baseForm": "뜨겁다",
+    "highlightText": "뜨거워요",
+    "readingKatakana": "ットゥゴプタ",
+    "romanization": "tteugeopda",
+    "meaning": "熱い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "食べ物"
+    ],
+    "formality": "基本形",
+    "example": "국이 아직 뜨거워요.",
+    "exampleTranslation": "スープがまだ熱いです。",
+    "description": "温度が高くて熱いことを表します。",
+    "usage": "『커피가 뜨겁다（コーヒーが熱い）』の形でよく使います。",
+    "hint": "熱い",
+    "acceptedAnswers": [
+      "뜨겁다",
+      "뜨거워요"
+    ],
+    "synonyms": [
+      {
+        "word": "열렬하다",
+        "meaning": "熱い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차갑다",
+        "meaning": "冷たい"
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "word": "시원하다",
+    "baseForm": "시원하다",
+    "highlightText": "시원해요",
+    "readingKatakana": "シウォナダ",
+    "romanization": "siwonhada",
+    "meaning": "涼しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "天気"
+    ],
+    "formality": "基本形",
+    "example": "바람이 정말 시원했어요.",
+    "exampleTranslation": "風が本当に涼しかったです。",
+    "description": "涼しい、またはさっぱりして気持ちいいときに使います。",
+    "usage": "『바람이 시원하다（風が涼しい）』が自然です。",
+    "hint": "涼しい",
+    "acceptedAnswers": [
+      "시원하다",
+      "시원해요"
+    ],
+    "synonyms": [
+      {
+        "word": "상쾌하다",
+        "meaning": "爽快だ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 764,
+    "word": "배고프다",
+    "baseForm": "배고프다",
+    "highlightText": "배고파요",
+    "readingKatakana": "ペゴプダ",
+    "romanization": "baegopeuda",
+    "meaning": "お腹がすく",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "食べ物"
+    ],
+    "formality": "基本形",
+    "example": "지금 너무 배고파요.",
+    "exampleTranslation": "今とてもお腹がすいています。",
+    "description": "お腹が空いている状態を表します。",
+    "usage": "主語は人で、『지금 배고파요（今お腹すいています）』が非常に頻出です。",
+    "hint": "お腹がすく",
+    "acceptedAnswers": [
+      "배고프다",
+      "배고파요"
+    ],
+    "synonyms": [
+      {
+        "word": "허기지다",
+        "meaning": "空腹だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "배부르다",
+        "meaning": "お腹いっぱいだ"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "word": "배부르다",
+    "baseForm": "배부르다",
+    "highlightText": "배불러요",
+    "readingKatakana": "ペブルダ",
+    "romanization": "baebureuda",
+    "meaning": "お腹いっぱいだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "食べ物"
+    ],
+    "formality": "基本形",
+    "example": "점심을 많이 먹어서 아직도 배불러요.",
+    "exampleTranslation": "昼ご飯をたくさん食べたのでまだお腹いっぱいです。",
+    "description": "お腹がいっぱいな状態を表します。",
+    "usage": "食事のあとに『배불러요（お腹いっぱいです）』とよく言います。",
+    "hint": "お腹いっぱいだ",
+    "acceptedAnswers": [
+      "배부르다",
+      "배불러요"
+    ],
+    "synonyms": [
+      {
+        "word": "든든하다",
+        "meaning": "満ち足りた"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "배고프다",
+        "meaning": "お腹がすく"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "word": "아프다",
+    "baseForm": "아프다",
+    "highlightText": "아파요",
+    "readingKatakana": "アプダ",
+    "romanization": "apeuda",
+    "meaning": "痛い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "목이 아파요.",
+    "exampleTranslation": "喉が痛いです。",
+    "description": "体の一部や気持ちが痛い・つらいときに使います。",
+    "usage": "『머리가 아프다（頭が痛い）』のように部位と一緒に使います。",
+    "hint": "痛い",
+    "acceptedAnswers": [
+      "아프다",
+      "아파요"
+    ],
+    "synonyms": [
+      {
+        "word": "쓰리다",
+        "meaning": "痛む"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 767,
+    "word": "건강하다",
+    "baseForm": "건강하다",
+    "highlightText": "건강해요",
+    "readingKatakana": "コンガンハダ",
+    "romanization": "geonganghada",
+    "meaning": "健康だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "몸이 더 건강해져요.",
+    "exampleTranslation": "体がもっと健康になります。",
+    "description": "健康で元気な状態を表します。",
+    "usage": "『건강한 생활（健康な生活）』の形でもよく見ます。",
+    "hint": "健康だ",
+    "acceptedAnswers": [
+      "건강하다",
+      "건강해요"
+    ],
+    "synonyms": [
+      {
+        "word": "튼튼하다",
+        "meaning": "丈夫だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "아프다",
+        "meaning": "痛い、病気だ"
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "word": "친절하다",
+    "baseForm": "친절하다",
+    "highlightText": "친절해요",
+    "readingKatakana": "チンジョラダ",
+    "romanization": "chinjeolhada",
+    "meaning": "親切だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "직원이 아주 친절했어요.",
+    "exampleTranslation": "店員さんがとても親切でした。",
+    "description": "人への対応がやさしく親切なときに使います。",
+    "usage": "『직원이 친절하다（店員が親切だ）』のように使います。",
+    "hint": "親切だ",
+    "acceptedAnswers": [
+      "친절하다",
+      "친절해요"
+    ],
+    "synonyms": [
+      {
+        "word": "상냥하다",
+        "meaning": "やさしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불친절하다",
+        "meaning": "不親切だ"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "word": "바쁘다",
+    "baseForm": "바쁘다",
+    "highlightText": "바빠요",
+    "readingKatakana": "パップダ",
+    "romanization": "bappeuda",
+    "meaning": "忙しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "이번 주는 조금 바빠요.",
+    "exampleTranslation": "今週は少し忙しいです。",
+    "description": "することが多くて忙しい状態を表します。",
+    "usage": "『오늘 바빠요（今日は忙しいです）』で日常会話に頻出です。",
+    "hint": "忙しい",
+    "acceptedAnswers": [
+      "바쁘다",
+      "바빠요"
+    ],
+    "synonyms": [
+      {
+        "word": "분주하다",
+        "meaning": "忙しい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "한가하다",
+        "meaning": "暇だ"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "word": "한가하다",
+    "baseForm": "한가하다",
+    "highlightText": "한가해요",
+    "readingKatakana": "ハンガハダ",
+    "romanization": "hangahada",
+    "meaning": "暇だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "오늘 오후는 한가해요.",
+    "exampleTranslation": "今日の午後は暇です。",
+    "description": "時間に余裕があって暇な状態を表します。",
+    "usage": "『주말에는 좀 한가해요（週末は少し暇です）』のように使います。",
+    "hint": "暇だ",
+    "acceptedAnswers": [
+      "한가하다",
+      "한가해요"
+    ],
+    "synonyms": [
+      {
+        "word": "여유롭다",
+        "meaning": "余裕がある"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "바쁘다",
+        "meaning": "忙しい"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "word": "재미있다",
+    "baseForm": "재미있다",
+    "highlightText": "재미있어요",
+    "readingKatakana": "チェミイッタ",
+    "romanization": "jaemiitda",
+    "meaning": "面白い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "이 책은 재미있어요.",
+    "exampleTranslation": "この本は面白いです。",
+    "description": "面白くて楽しいと感じるときに使います。",
+    "usage": "『영화가 재미있다（映画が面白い）』でよく使います。",
+    "hint": "面白い",
+    "acceptedAnswers": [
+      "재미있다",
+      "재미있어요"
+    ],
+    "synonyms": [
+      {
+        "word": "흥미롭다",
+        "meaning": "興味深い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "재미없다",
+        "meaning": "つまらない"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "word": "재미없다",
+    "baseForm": "재미없다",
+    "highlightText": "재미없어요",
+    "readingKatakana": "チェミオプタ",
+    "romanization": "jaemieopda",
+    "meaning": "つまらない",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "기대한 만큼 재미없어요.",
+    "exampleTranslation": "期待したほど面白くありません。",
+    "description": "面白みがなく退屈なときに使います。",
+    "usage": "『수업이 재미없다（授業がつまらない）』のようにも使います。",
+    "hint": "つまらない",
+    "acceptedAnswers": [
+      "재미없다",
+      "재미없어요"
+    ],
+    "synonyms": [
+      {
+        "word": "지루하다",
+        "meaning": "退屈だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "재미있다",
+        "meaning": "面白い"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "word": "행복하다",
+    "baseForm": "행복하다",
+    "highlightText": "행복해요",
+    "readingKatakana": "ヘンボカダ",
+    "romanization": "haengbokhada",
+    "meaning": "幸せだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "가족과 저녁을 먹을 때 행복해요.",
+    "exampleTranslation": "家族と夕食を食べるとき幸せです。",
+    "description": "幸せで満たされている状態を表します。",
+    "usage": "『지금 행복해요（今幸せです）』のように感情表現で使います。",
+    "hint": "幸せだ",
+    "acceptedAnswers": [
+      "행복하다",
+      "행복해요"
+    ],
+    "synonyms": [
+      {
+        "word": "기쁘다",
+        "meaning": "うれしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불행하다",
+        "meaning": "不幸だ"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "word": "슬프다",
+    "baseForm": "슬프다",
+    "highlightText": "슬퍼요",
+    "readingKatakana": "スルプダ",
+    "romanization": "seulpeuda",
+    "meaning": "悲しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "조금 슬펐어요.",
+    "exampleTranslation": "少し悲しかったです。",
+    "description": "悲しい気持ちを表す形容詞です。",
+    "usage": "『노래가 슬프다（歌が悲しい）』のようにも使えます。",
+    "hint": "悲しい",
+    "acceptedAnswers": [
+      "슬프다",
+      "슬퍼요"
+    ],
+    "synonyms": [
+      {
+        "word": "우울하다",
+        "meaning": "憂うつだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "기쁘다",
+        "meaning": "うれしい"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "word": "기쁘다",
+    "baseForm": "기쁘다",
+    "highlightText": "기뻐요",
+    "readingKatakana": "キップダ",
+    "romanization": "gippeuda",
+    "meaning": "うれしい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "합격 소식을 들어서 기뻐요.",
+    "exampleTranslation": "合格の知らせを聞いてうれしいです。",
+    "description": "うれしくて心が明るい状態を表します。",
+    "usage": "『정말 기뻐요（本当にうれしいです）』が自然です。",
+    "hint": "うれしい",
+    "acceptedAnswers": [
+      "기쁘다",
+      "기뻐요"
+    ],
+    "synonyms": [
+      {
+        "word": "즐겁다",
+        "meaning": "楽しい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "슬프다",
+        "meaning": "悲しい"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "word": "무섭다",
+    "baseForm": "무섭다",
+    "highlightText": "무서워요",
+    "readingKatakana": "ムソプタ",
+    "romanization": "museopda",
+    "meaning": "怖い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "조금 무서웠어요.",
+    "exampleTranslation": "少し怖かったです。",
+    "description": "怖い、不安でこわばる気持ちを表します。",
+    "usage": "『영화가 무섭다（映画が怖い）』の形でよく使います。",
+    "hint": "怖い",
+    "acceptedAnswers": [
+      "무섭다",
+      "무서워요"
+    ],
+    "synonyms": [
+      {
+        "word": "두렵다",
+        "meaning": "恐ろしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안심되다",
+        "meaning": "安心する"
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "word": "피곤하다",
+    "baseForm": "피곤하다",
+    "highlightText": "피곤해요",
+    "readingKatakana": "ピゴナダ",
+    "romanization": "pigonhada",
+    "meaning": "疲れている",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "오늘 하루 종일 피곤해요.",
+    "exampleTranslation": "今日一日中疲れています。",
+    "description": "疲れてだるい状態を表します。",
+    "usage": "『너무 피곤해요（とても疲れています）』が定番です。",
+    "hint": "疲れている",
+    "acceptedAnswers": [
+      "피곤하다",
+      "피곤해요"
+    ],
+    "synonyms": [
+      {
+        "word": "지치다",
+        "meaning": "疲れる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "상쾌하다",
+        "meaning": "さわやかだ"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "word": "졸리다",
+    "baseForm": "졸리다",
+    "highlightText": "졸려요",
+    "readingKatakana": "チョルリダ",
+    "romanization": "jollida",
+    "meaning": "眠い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "점심을 먹고 나면 항상 조금 졸려요.",
+    "exampleTranslation": "昼ご飯を食べるといつも少し眠くなります。",
+    "description": "眠気がある状態を表します。",
+    "usage": "『수업 시간에 졸려요（授業中眠いです）』のように使えます。",
+    "hint": "眠い",
+    "acceptedAnswers": [
+      "졸리다",
+      "졸려요"
+    ],
+    "synonyms": [
+      {
+        "word": "나른하다",
+        "meaning": "眠気がある"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "말똥말똥하다",
+        "meaning": "目がさえている"
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "word": "중요하다",
+    "baseForm": "중요하다",
+    "highlightText": "중요해요",
+    "readingKatakana": "チュンヨハダ",
+    "romanization": "jungyohada",
+    "meaning": "重要だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "약속 시간은 중요해요.",
+    "exampleTranslation": "約束の時間は重要です。",
+    "description": "大事で重要なことを表します。",
+    "usage": "『중요한 문제（重要な問題）』の形がよく出ます。",
+    "hint": "重要だ",
+    "acceptedAnswers": [
+      "중요하다",
+      "중요해요"
+    ],
+    "synonyms": [
+      {
+        "word": "소중하다",
+        "meaning": "大切だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "사소하다",
+        "meaning": "些細だ"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "word": "가능하다",
+    "baseForm": "가능하다",
+    "highlightText": "가능해요",
+    "readingKatakana": "カヌンハダ",
+    "romanization": "ganeunghada",
+    "meaning": "可能だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "이번 주 안에도 가능해요.",
+    "exampleTranslation": "今週中でも可能です。",
+    "description": "可能でできる状態を表します。",
+    "usage": "『지금은 가능해요（今は可能です）』のように使います。",
+    "hint": "可能だ",
+    "acceptedAnswers": [
+      "가능하다",
+      "가능해요"
+    ],
+    "synonyms": [
+      {
+        "word": "할 수 있다",
+        "meaning": "できる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불가능하다",
+        "meaning": "不可能だ"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "word": "유명하다",
+    "baseForm": "유명하다",
+    "highlightText": "유명해요",
+    "readingKatakana": "ユミョンハダ",
+    "romanization": "yumyeonghada",
+    "meaning": "有名だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "맛있기로 유명해요.",
+    "exampleTranslation": "おいしいことで有名です。",
+    "description": "多くの人に知られていることを表します。",
+    "usage": "『유명한 사람（有名な人）』の形でもよく使います。",
+    "hint": "有名だ",
+    "acceptedAnswers": [
+      "유명하다",
+      "유명해요"
+    ],
+    "synonyms": [
+      {
+        "word": "잘 알려지다",
+        "meaning": "よく知られている"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무명이다",
+        "meaning": "無名だ"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "word": "특별하다",
+    "baseForm": "특별하다",
+    "highlightText": "특별해요",
+    "readingKatakana": "トゥクピョラダ",
+    "romanization": "teukbyeolhada",
+    "meaning": "特別だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "오늘은 특별한 날이에요.",
+    "exampleTranslation": "今日は特別な日です。",
+    "description": "普通とは違って特別な感じを表します。",
+    "usage": "『특별한 날（特別な日）』でよく使います。",
+    "hint": "特別だ",
+    "acceptedAnswers": [
+      "특별하다",
+      "특별해요"
+    ],
+    "synonyms": [
+      {
+        "word": "남다르다",
+        "meaning": "特別だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "평범하다",
+        "meaning": "平凡だ"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "word": "이상하다",
+    "baseForm": "이상하다",
+    "highlightText": "이상해요",
+    "readingKatakana": "イサンハダ",
+    "romanization": "isanghada",
+    "meaning": "変だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "안 보이니까 이상해요.",
+    "exampleTranslation": "見えないので変です。",
+    "description": "変だ、おかしいと感じるときに使います。",
+    "usage": "『조금 이상해요（少し変です）』のようにやわらかく言えます。",
+    "hint": "変だ",
+    "acceptedAnswers": [
+      "이상하다",
+      "이상해요"
+    ],
+    "synonyms": [
+      {
+        "word": "수상하다",
+        "meaning": "怪しい、変だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정상이다",
+        "meaning": "正常だ"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "word": "정확하다",
+    "baseForm": "정확하다",
+    "highlightText": "정확해요",
+    "readingKatakana": "チョンファカダ",
+    "romanization": "jeonghwakhada",
+    "meaning": "正確だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "주소를 정확하게 알아야 해요.",
+    "exampleTranslation": "住所を正確に知る必要があります。",
+    "description": "間違いがなく正確なことを表します。",
+    "usage": "『정확한 시간（正確な時間）』の形でもよく出ます。",
+    "hint": "正確だ",
+    "acceptedAnswers": [
+      "정확하다",
+      "정확해요"
+    ],
+    "synonyms": [
+      {
+        "word": "틀림없다",
+        "meaning": "正確だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "부정확하다",
+        "meaning": "不正確だ"
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "word": "위험하다",
+    "baseForm": "위험하다",
+    "highlightText": "위험해요",
+    "readingKatakana": "ウィホマダ",
+    "romanization": "wiheomhada",
+    "meaning": "危険だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "계단이 미끄러워서 위험해요.",
+    "exampleTranslation": "階段が滑りやすくて危険です。",
+    "description": "危なくて注意が必要な状態を表します。",
+    "usage": "『혼자 가면 위험하다（一人で行くと危ない）』のように使えます。",
+    "hint": "危険だ",
+    "acceptedAnswers": [
+      "위험하다",
+      "위험해요"
+    ],
+    "synonyms": [
+      {
+        "word": "아슬아슬하다",
+        "meaning": "危なっかしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안전하다",
+        "meaning": "安全だ"
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "word": "안전하다",
+    "baseForm": "안전하다",
+    "highlightText": "안전해요",
+    "readingKatakana": "アンジョナダ",
+    "romanization": "anjeonhada",
+    "meaning": "安全だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "밤에도 비교적 안전해요.",
+    "exampleTranslation": "夜でも比較的安全です。",
+    "description": "危なくなく安全な状態を表します。",
+    "usage": "『이 길이 더 안전하다（この道のほうが安全だ）』と使えます。",
+    "hint": "安全だ",
+    "acceptedAnswers": [
+      "안전하다",
+      "안전해요"
+    ],
+    "synonyms": [
+      {
+        "word": "무사하다",
+        "meaning": "無事だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "위험하다",
+        "meaning": "危険だ"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "word": "같다",
+    "baseForm": "같다",
+    "highlightText": "같아요",
+    "readingKatakana": "カッタ",
+    "romanization": "gatda",
+    "meaning": "同じだ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "모양은 거의 같은 것 같아요.",
+    "exampleTranslation": "形はほとんど同じようです。",
+    "description": "同じだ、似ていると感じるときに使います。",
+    "usage": "『둘이 같아요（二つは同じです）』のように比較で使います。",
+    "hint": "同じだ",
+    "acceptedAnswers": [
+      "같다",
+      "같아요"
+    ],
+    "synonyms": [
+      {
+        "word": "동일하다",
+        "meaning": "同一だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "다르다",
+        "meaning": "違う"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "word": "다르다",
+    "baseForm": "다르다",
+    "highlightText": "달라요",
+    "readingKatakana": "タルダ",
+    "romanization": "dareuda",
+    "meaning": "違う",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "基本"
+    ],
+    "formality": "基本形",
+    "example": "나와 동생은 성격이 꽤 달라요.",
+    "exampleTranslation": "私と弟は性格がかなり違います。",
+    "description": "同じではなく違うことを表します。",
+    "usage": "『생각이 다르다（考えが違う）』のように使います。",
+    "hint": "違う",
+    "acceptedAnswers": [
+      "다르다",
+      "달라요"
+    ],
+    "synonyms": [
+      {
+        "word": "상이하다",
+        "meaning": "異なる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "같다",
+        "meaning": "同じだ"
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "word": "멀다",
+    "baseForm": "멀다",
+    "highlightText": "멀어요",
+    "readingKatakana": "モルダ",
+    "romanization": "meolda",
+    "meaning": "遠い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "회사에서 조금 멀어요.",
+    "exampleTranslation": "会社から少し遠いです。",
+    "description": "距離が遠いときに使います。",
+    "usage": "『집이 학교에서 멀다（家が学校から遠い）』の形が自然です。",
+    "hint": "遠い",
+    "acceptedAnswers": [
+      "멀다",
+      "멀어요"
+    ],
+    "synonyms": [
+      {
+        "word": "요원하다",
+        "meaning": "遠い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "가깝다",
+        "meaning": "近い"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "word": "가깝다",
+    "baseForm": "가깝다",
+    "highlightText": "가까워요",
+    "readingKatakana": "カッカプタ",
+    "romanization": "gakkapda",
+    "meaning": "近い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "역이 집에서 가까워서 걸어가도 돼요.",
+    "exampleTranslation": "駅が家から近いので歩いて行っても大丈夫です。",
+    "description": "距離が近いときに使います。",
+    "usage": "『역이 가까워요（駅が近いです）』が定番です。",
+    "hint": "近い",
+    "acceptedAnswers": [
+      "가깝다",
+      "가까워요"
+    ],
+    "synonyms": [
+      {
+        "word": "인접하다",
+        "meaning": "近接している"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "멀다",
+        "meaning": "遠い"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "word": "비싸다",
+    "baseForm": "비싸다",
+    "highlightText": "비싸요",
+    "readingKatakana": "ピッサダ",
+    "romanization": "bissada",
+    "meaning": "高い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "買い物"
+    ],
+    "formality": "基本形",
+    "example": "생각보다 좀 비싸요.",
+    "exampleTranslation": "思ったより少し高いです。",
+    "description": "値段が高いときに使います。",
+    "usage": "『이 가방은 비싸요（このかばんは高いです）』のように使います。",
+    "hint": "高い",
+    "acceptedAnswers": [
+      "비싸다",
+      "비싸요"
+    ],
+    "synonyms": [
+      {
+        "word": "고가다",
+        "meaning": "高価だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "싸다",
+        "meaning": "安い"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "word": "싸다",
+    "baseForm": "싸다",
+    "highlightText": "싸요",
+    "readingKatakana": "ッサダ",
+    "romanization": "ssada",
+    "meaning": "安い",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "買い物"
+    ],
+    "formality": "基本形",
+    "example": "과일을 더 싸게 살 수 있어요.",
+    "exampleTranslation": "果物をもっと安く買えます。",
+    "description": "値段が安いときに使います。",
+    "usage": "『여기가 더 싸요（ここがもっと安いです）』でよく使います。",
+    "hint": "安い",
+    "acceptedAnswers": [
+      "싸다",
+      "싸요"
+    ],
+    "synonyms": [
+      {
+        "word": "저렴하다",
+        "meaning": "安い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비싸다",
+        "meaning": "高い"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "word": "편하다",
+    "baseForm": "편하다",
+    "highlightText": "편해요",
+    "readingKatakana": "ピョナダ",
+    "romanization": "pyeonhada",
+    "meaning": "楽だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "오래 앉아 있어도 편해요.",
+    "exampleTranslation": "長く座っていても楽です。",
+    "description": "体や気持ちが楽で快適な状態を表します。",
+    "usage": "『이 의자가 편하다（この椅子は楽だ）』のように使います。",
+    "hint": "楽だ",
+    "acceptedAnswers": [
+      "편하다",
+      "편해요"
+    ],
+    "synonyms": [
+      {
+        "word": "안락하다",
+        "meaning": "安らかだ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불편하다",
+        "meaning": "不便だ"
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "word": "불편하다",
+    "baseForm": "불편하다",
+    "highlightText": "불편해요",
+    "readingKatakana": "プルピョナダ",
+    "romanization": "bulpyeonhada",
+    "meaning": "不便だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "서 있기가 불편했어요.",
+    "exampleTranslation": "立っているのが不便でした。",
+    "description": "使いにくい、または居心地が悪いときに使います。",
+    "usage": "『교통이 불편하다（交通が不便だ）』のように使います。",
+    "hint": "不便だ",
+    "acceptedAnswers": [
+      "불편하다",
+      "불편해요"
+    ],
+    "synonyms": [
+      {
+        "word": "거북하다",
+        "meaning": "不快だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "편하다",
+        "meaning": "楽だ"
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "word": "복잡하다",
+    "baseForm": "복잡하다",
+    "highlightText": "복잡해요",
+    "readingKatakana": "ポクチャパダ",
+    "romanization": "bokjaphada",
+    "meaning": "複雑だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "사용법이 조금 복잡해요.",
+    "exampleTranslation": "使い方が少し複雑です。",
+    "description": "中身や構造が込み入っている状態を表します。",
+    "usage": "『설명이 복잡하다（説明が複雑だ）』の形でも使えます。",
+    "hint": "複雑だ",
+    "acceptedAnswers": [
+      "복잡하다",
+      "복잡해요"
+    ],
+    "synonyms": [
+      {
+        "word": "난해하다",
+        "meaning": "複雑だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "단순하다",
+        "meaning": "単純だ"
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "word": "단순하다",
+    "baseForm": "단순하다",
+    "highlightText": "단순해요",
+    "readingKatakana": "タンスナダ",
+    "romanization": "dansunhada",
+    "meaning": "単純だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "설명이 단순해서 쉬워요.",
+    "exampleTranslation": "説明が単純でわかりやすいです。",
+    "description": "構造や考え方がシンプルなことを表します。",
+    "usage": "『구조가 단순하다（構造が単純だ）』のように使います。",
+    "hint": "単純だ",
+    "acceptedAnswers": [
+      "단순하다",
+      "단순해요"
+    ],
+    "synonyms": [
+      {
+        "word": "간명하다",
+        "meaning": "簡明だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "복잡하다",
+        "meaning": "複雑だ"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "word": "친하다",
+    "baseForm": "친하다",
+    "highlightText": "친해요",
+    "readingKatakana": "チナダ",
+    "romanization": "chinhada",
+    "meaning": "親しい",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "우리는 오래 알아서 가족처럼 친해요.",
+    "exampleTranslation": "私たちは長く知り合いなので家族のように親しいです。",
+    "description": "人との関係が近くて親しいことを表します。",
+    "usage": "『우리는 아주 친해요（私たちはとても親しいです）』でよく使います。",
+    "hint": "親しい",
+    "acceptedAnswers": [
+      "친하다",
+      "친해요"
+    ],
+    "synonyms": [
+      {
+        "word": "가깝다",
+        "meaning": "親しい、近い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "어색하다",
+        "meaning": "よそよそしい"
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "word": "편리하다",
+    "baseForm": "편리하다",
+    "highlightText": "편리해요",
+    "readingKatakana": "ピョルリハダ",
+    "romanization": "pyeollihada",
+    "meaning": "便利だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "단어를 바로 찾을 수 있어 편리해요.",
+    "exampleTranslation": "単語をすぐ探せて便利です。",
+    "description": "使いやすくて便利なことを表します。",
+    "usage": "『앱이 편리하다（アプリが便利だ）』で使いやすいです。",
+    "hint": "便利だ",
+    "acceptedAnswers": [
+      "편리하다",
+      "편리해요"
+    ],
+    "synonyms": [
+      {
+        "word": "유용하다",
+        "meaning": "便利だ、有用だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불편하다",
+        "meaning": "不便だ"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "word": "불안하다",
+    "baseForm": "불안하다",
+    "highlightText": "불안해요",
+    "readingKatakana": "プラナダ",
+    "romanization": "buranhada",
+    "meaning": "不安だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "마음이 조금 불안해요.",
+    "exampleTranslation": "少し不安です。",
+    "description": "心配で落ち着かない状態を表します。",
+    "usage": "『결과가 불안하다（結果が不安だ）』のようにも使います。",
+    "hint": "不安だ",
+    "acceptedAnswers": [
+      "불안하다",
+      "불안해요"
+    ],
+    "synonyms": [
+      {
+        "word": "초조하다",
+        "meaning": "焦る、不安だ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안심되다",
+        "meaning": "安心する"
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "word": "만족하다",
+    "baseForm": "만족하다",
+    "highlightText": "만족해요",
+    "readingKatakana": "マンジョカダ",
+    "romanization": "manjokhada",
+    "meaning": "満足だ",
+    "partOfSpeech": "形容詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "形容詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "결과가 좋아서 만족해요.",
+    "exampleTranslation": "結果がよくて満足しています。",
+    "description": "十分によいと感じて満足している状態を表します。",
+    "usage": "『결과에 만족하다（結果に満足する）』の形が基本です。",
+    "hint": "満足だ",
+    "acceptedAnswers": [
+      "만족하다",
+      "만족해요"
+    ],
+    "synonyms": [
+      {
+        "word": "흡족하다",
+        "meaning": "満ち足りている"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불만족하다",
+        "meaning": "不満だ"
+      }
+    ]
+  }
+]

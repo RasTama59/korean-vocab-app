@@ -1,0 +1,3522 @@
+[
+  {
+    "id": 1001,
+    "word": "이유",
+    "baseForm": "이유",
+    "highlightText": "이유",
+    "readingKatakana": "イユ",
+    "romanization": "iyu",
+    "meaning": "理由",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "취소한 이유를 못 들었어요.",
+    "exampleTranslation": "キャンセルした理由を聞けませんでした。",
+    "description": "ある出来事や判断のわけを表す中級名詞です。",
+    "usage": "『이유를 설명하다（理由を説明する）』『이유가 있다（理由がある）』の形でよく使います。",
+    "hint": "理由",
+    "acceptedAnswers": [
+      "이유"
+    ],
+    "synonyms": [
+      {
+        "word": "까닭",
+        "meaning": "わけ、理由"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1002,
+    "word": "결과",
+    "baseForm": "결과",
+    "highlightText": "결과",
+    "readingKatakana": "ガヨルガワ",
+    "romanization": "gyeolgwa",
+    "meaning": "結果",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "좋은 결과가 나오면 뿌듯해요.",
+    "exampleTranslation": "よい結果が出るとうれしいです。",
+    "description": "何かをしたあとに現れる結果を表す基本的な抽象名詞です。",
+    "usage": "『결과가 나오다（結果が出る）』が非常によく使われます。",
+    "hint": "結果",
+    "acceptedAnswers": [
+      "결과"
+    ],
+    "synonyms": [
+      {
+        "word": "성과",
+        "meaning": "結果、成果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "원인",
+        "meaning": "原因"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "word": "과정",
+    "baseForm": "과정",
+    "highlightText": "과정",
+    "readingKatakana": "ガワジャオン",
+    "romanization": "gwajeong",
+    "meaning": "過程",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "그 과정도 중요해요.",
+    "exampleTranslation": "その過程も重要です。",
+    "description": "物事が進んでいく途中の流れや段階を表します。",
+    "usage": "『과정을 거치다（過程を経る）』の形も自然です。",
+    "hint": "過程",
+    "acceptedAnswers": [
+      "과정"
+    ],
+    "synonyms": [
+      {
+        "word": "절차",
+        "meaning": "手順、過程"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1004,
+    "word": "상황",
+    "baseForm": "상황",
+    "highlightText": "상황",
+    "readingKatakana": "サアンハワン",
+    "romanization": "sanghwang",
+    "meaning": "状況",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "지금 상황을 알아야 해요.",
+    "exampleTranslation": "今の状況を知る必要があります。",
+    "description": "その場の状態や置かれた条件をまとめて表す語です。",
+    "usage": "『상황을 파악하다（状況を把握する）』でよく使います。",
+    "hint": "状況",
+    "acceptedAnswers": [
+      "상황"
+    ],
+    "synonyms": [
+      {
+        "word": "형편",
+        "meaning": "事情、状況"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1005,
+    "word": "기준",
+    "baseForm": "기준",
+    "highlightText": "기준",
+    "readingKatakana": "ガイジャウン",
+    "romanization": "gijun",
+    "meaning": "基準",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "행복의 기준은 달라요.",
+    "exampleTranslation": "幸せの基準は違います。",
+    "description": "判断や選択の土台になる基準を表します。",
+    "usage": "『기준을 세우다（基準を立てる）』の形が基本です。",
+    "hint": "基準",
+    "acceptedAnswers": [
+      "기준"
+    ],
+    "synonyms": [
+      {
+        "word": "척도",
+        "meaning": "尺度、基準"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1006,
+    "word": "원인",
+    "baseForm": "원인",
+    "highlightText": "원인",
+    "readingKatakana": "ウォンイン",
+    "romanization": "wonin",
+    "meaning": "原因",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "원인을 먼저 찾아봐요.",
+    "exampleTranslation": "原因をまず探してみます。",
+    "description": "問題や出来事が起こった原因を表す名詞です。",
+    "usage": "『원인을 찾다（原因を探す）』の形でよく使います。",
+    "hint": "原因",
+    "acceptedAnswers": [
+      "원인"
+    ],
+    "synonyms": [
+      {
+        "word": "요인",
+        "meaning": "要因"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "결과",
+        "meaning": "結果"
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "word": "영향",
+    "baseForm": "영향",
+    "highlightText": "영향",
+    "readingKatakana": "ヨンハヤン",
+    "romanization": "yeonghyang",
+    "meaning": "影響",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "하루 기분에 영향이 커요.",
+    "exampleTranslation": "一日の気分への影響が大きいです。",
+    "description": "他の物事に及ぶ影響を表す重要語です。",
+    "usage": "『영향을 주다（影響を与える）』が最重要です。",
+    "hint": "影響",
+    "acceptedAnswers": [
+      "영향"
+    ],
+    "synonyms": [
+      {
+        "word": "작용",
+        "meaning": "作用、影響"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무영향",
+        "meaning": "無影響"
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "word": "역할",
+    "baseForm": "역할",
+    "highlightText": "역할",
+    "readingKatakana": "ヨクハアル",
+    "romanization": "yeokhal",
+    "meaning": "役割",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "각자의 역할이 분명해요.",
+    "exampleTranslation": "それぞれの役割が明確です。",
+    "description": "ある人や物が担う役割を表します。",
+    "usage": "『역할을 맡다（役割を担う）』の形でよく使います。",
+    "hint": "役割",
+    "acceptedAnswers": [
+      "역할"
+    ],
+    "synonyms": [
+      {
+        "word": "기능",
+        "meaning": "機能、役割"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무역할",
+        "meaning": "役割なし"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "word": "목적",
+    "baseForm": "목적",
+    "highlightText": "목적",
+    "readingKatakana": "マオクジャオク",
+    "romanization": "mokjeok",
+    "meaning": "目的",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "공부의 목적이 분명해요.",
+    "exampleTranslation": "勉強の目的が明確です。",
+    "description": "行動や計画の目的を表す名詞です。",
+    "usage": "『목적을 이루다（目的を果たす）』のように使います。",
+    "hint": "目的",
+    "acceptedAnswers": [
+      "목적"
+    ],
+    "synonyms": [
+      {
+        "word": "목표",
+        "meaning": "目標、目的"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1010,
+    "word": "효과",
+    "baseForm": "효과",
+    "highlightText": "효과",
+    "readingKatakana": "ハヨガワ",
+    "romanization": "hyogwa",
+    "meaning": "効果",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "매일 복습하면 효과가 있어요.",
+    "exampleTranslation": "毎日復習すると効果があります。",
+    "description": "行動や方法の効果を表します。",
+    "usage": "『효과가 있다（効果がある）』の形が定番です。",
+    "hint": "効果",
+    "acceptedAnswers": [
+      "효과"
+    ],
+    "synonyms": [
+      {
+        "word": "효능",
+        "meaning": "効能、効果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "부작용",
+        "meaning": "副作用"
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "word": "반응",
+    "baseForm": "반응",
+    "highlightText": "반응",
+    "readingKatakana": "バアンウン",
+    "romanization": "baneung",
+    "meaning": "反応",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "사람마다 반응이 달라요.",
+    "exampleTranslation": "人によって反応が違います。",
+    "description": "外からの刺激や言葉に対する反応を表します。",
+    "usage": "『반응을 보이다（反応を見せる）』が自然です。",
+    "hint": "反応",
+    "acceptedAnswers": [
+      "반응"
+    ],
+    "synonyms": [
+      {
+        "word": "응답",
+        "meaning": "応答、反応"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1012,
+    "word": "방식",
+    "baseForm": "방식",
+    "highlightText": "방식",
+    "readingKatakana": "バアンサイク",
+    "romanization": "bangsik",
+    "meaning": "方法",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "공부 방식을 찾았어요.",
+    "exampleTranslation": "勉強方法を見つけました。",
+    "description": "やり方や進め方を表す名詞です。",
+    "usage": "『새로운 방식（新しい方法）』の形でもよく使います。",
+    "hint": "方法",
+    "acceptedAnswers": [
+      "방식"
+    ],
+    "synonyms": [
+      {
+        "word": "방법",
+        "meaning": "方法"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1013,
+    "word": "태도",
+    "baseForm": "태도",
+    "highlightText": "태도",
+    "readingKatakana": "タエダオ",
+    "romanization": "taedo",
+    "meaning": "態度",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "태도가 더 중요해요.",
+    "exampleTranslation": "態度のほうが重要です。",
+    "description": "物事や人に向き合う態度を表します。",
+    "usage": "『태도가 좋다（態度がよい）』のように使います。",
+    "hint": "態度",
+    "acceptedAnswers": [
+      "태도"
+    ],
+    "synonyms": [
+      {
+        "word": "자세",
+        "meaning": "姿勢、態度"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무관심",
+        "meaning": "無関心"
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "word": "능력",
+    "baseForm": "능력",
+    "highlightText": "능력",
+    "readingKatakana": "ナウンラヨク",
+    "romanization": "neungryeok",
+    "meaning": "能力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "능력은 꾸준함에서 더 잘 늘어요.",
+    "exampleTranslation": "能力は継続の中でより伸びます。",
+    "description": "できる力そのものを表す幅広い語です。",
+    "usage": "『능력을 키우다（能力を伸ばす）』でよく使います。",
+    "hint": "能力",
+    "acceptedAnswers": [
+      "능력"
+    ],
+    "synonyms": [
+      {
+        "word": "역량",
+        "meaning": "力量、能力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1015,
+    "word": "실력",
+    "baseForm": "실력",
+    "highlightText": "실력",
+    "readingKatakana": "サイルラヨク",
+    "romanization": "silryeok",
+    "meaning": "実力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "돌아보면 실력이 늘어요.",
+    "exampleTranslation": "振り返ると実力が伸びています。",
+    "description": "実際に発揮できる実力を表します。",
+    "usage": "『실력이 늘다（実力が伸びる）』の形がよく出ます。",
+    "hint": "実力",
+    "acceptedAnswers": [
+      "실력"
+    ],
+    "synonyms": [
+      {
+        "word": "기량",
+        "meaning": "腕前、実力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1016,
+    "word": "노력",
+    "baseForm": "노력",
+    "highlightText": "노력",
+    "readingKatakana": "ナオラヨク",
+    "romanization": "noryeok",
+    "meaning": "努力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "노력은 결국 남는다고 믿어요.",
+    "exampleTranslation": "努力は結局残ると信じています。",
+    "description": "目標に向けて積み重ねる努力を表します。",
+    "usage": "『노력을 하다（努力をする）』が基本です。",
+    "hint": "努力",
+    "acceptedAnswers": [
+      "노력"
+    ],
+    "synonyms": [
+      {
+        "word": "애씀",
+        "meaning": "努力、尽力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1017,
+    "word": "성장",
+    "baseForm": "성장",
+    "highlightText": "성장",
+    "readingKatakana": "サオンジャアン",
+    "romanization": "seongjang",
+    "meaning": "成長",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "그것도 성장이라고 느껴요.",
+    "exampleTranslation": "それも成長だと感じます。",
+    "description": "以前より伸びたり成熟したりすることを表します。",
+    "usage": "『성장을 느끼다（成長を感じる）』のように使います。",
+    "hint": "成長",
+    "acceptedAnswers": [
+      "성장"
+    ],
+    "synonyms": [
+      {
+        "word": "발달",
+        "meaning": "発達、成長"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "퇴보",
+        "meaning": "後退"
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "word": "발전",
+    "baseForm": "발전",
+    "highlightText": "발전",
+    "readingKatakana": "バアルジャオン",
+    "romanization": "baljeon",
+    "meaning": "発展",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "발전이 빠를수록 중요해요.",
+    "exampleTranslation": "発展が速いほど重要です。",
+    "description": "よりよい方向に発展することを表します。",
+    "usage": "『발전하다（発展する）』という動詞形も重要です。",
+    "hint": "発展",
+    "acceptedAnswers": [
+      "발전"
+    ],
+    "synonyms": [
+      {
+        "word": "진전",
+        "meaning": "進展、発展"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "퇴보",
+        "meaning": "退歩"
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "word": "변화",
+    "baseForm": "변화",
+    "highlightText": "변화",
+    "readingKatakana": "バヨンハワ",
+    "romanization": "byeonhwa",
+    "meaning": "変化",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "작은 변화도 이어져요.",
+    "exampleTranslation": "小さな変化も続いていきます。",
+    "description": "今までと違う状態になる変化を表します。",
+    "usage": "『변화가 생기다（変化が生じる）』でよく使います。",
+    "hint": "変化",
+    "acceptedAnswers": [
+      "변화"
+    ],
+    "synonyms": [
+      {
+        "word": "변동",
+        "meaning": "変動、変化"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "유지",
+        "meaning": "維持"
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "word": "차이",
+    "baseForm": "차이",
+    "highlightText": "차이",
+    "readingKatakana": "チャアイ",
+    "romanization": "chai",
+    "meaning": "違い",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "서로의 차이를 이해해요.",
+    "exampleTranslation": "お互いの違いを理解します。",
+    "description": "二つ以上のものの違いを表す基本語です。",
+    "usage": "『차이가 있다（違いがある）』は頻出表現です。",
+    "hint": "違い",
+    "acceptedAnswers": [
+      "차이"
+    ],
+    "synonyms": [
+      {
+        "word": "차별점",
+        "meaning": "相違点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "공통점",
+        "meaning": "共通点"
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "word": "비교",
+    "baseForm": "비교",
+    "highlightText": "비교",
+    "readingKatakana": "バイガヨ",
+    "romanization": "bigyo",
+    "meaning": "比較",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "어제의 나와 비교해요.",
+    "exampleTranslation": "昨日の自分と比べます。",
+    "description": "複数の対象を比べることを表します。",
+    "usage": "『비교하다（比較する）』の名詞形として覚えると便利です。",
+    "hint": "比較",
+    "acceptedAnswers": [
+      "비교"
+    ],
+    "synonyms": [
+      {
+        "word": "대조",
+        "meaning": "対照、比較"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "독립",
+        "meaning": "独立"
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "word": "균형",
+    "baseForm": "균형",
+    "highlightText": "균형",
+    "readingKatakana": "ガユンハヨン",
+    "romanization": "gyunhyeong",
+    "meaning": "バランス",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "일과 휴식의 균형이 중요해요.",
+    "exampleTranslation": "仕事と休息のバランスが大事です。",
+    "description": "偏りのないつり合い、バランスを表します。",
+    "usage": "『균형을 잡다（バランスを取る）』でよく使います。",
+    "hint": "バランス",
+    "acceptedAnswers": [
+      "균형"
+    ],
+    "synonyms": [
+      {
+        "word": "밸런스",
+        "meaning": "バランス"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불균형",
+        "meaning": "不均衡"
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "word": "속도",
+    "baseForm": "속도",
+    "highlightText": "속도",
+    "readingKatakana": "サオクダオ",
+    "romanization": "sokdo",
+    "meaning": "速度",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "속도보다 방향이 중요해요.",
+    "exampleTranslation": "速度より方向が大切です。",
+    "description": "進み方や動きの速さを表します。",
+    "usage": "『속도가 빠르다（速度が速い）』の形が基本です。",
+    "hint": "速度",
+    "acceptedAnswers": [
+      "속도"
+    ],
+    "synonyms": [
+      {
+        "word": "빠르기",
+        "meaning": "速さ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정지",
+        "meaning": "停止"
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "word": "한계",
+    "baseForm": "한계",
+    "highlightText": "한계",
+    "readingKatakana": "ハアンガイェ",
+    "romanization": "hangye",
+    "meaning": "限界",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "한계를 아는 게 시작이에요.",
+    "exampleTranslation": "限界を知るのが始まりです。",
+    "description": "これ以上は難しいという限界を表します。",
+    "usage": "『한계를 느끼다（限界を感じる）』のように使います。",
+    "hint": "限界",
+    "acceptedAnswers": [
+      "한계"
+    ],
+    "synonyms": [
+      {
+        "word": "제한",
+        "meaning": "制限、限界"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무한",
+        "meaning": "無限"
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "word": "가능성",
+    "baseForm": "가능성",
+    "highlightText": "가능성",
+    "readingKatakana": "ガアナウンサオン",
+    "romanization": "ganeungseong",
+    "meaning": "可能性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "가능성이 보이면 시도해요.",
+    "exampleTranslation": "可能性が見えたら試してみます。",
+    "description": "起こりうる可能性を表す重要語です。",
+    "usage": "『가능성이 높다（可能性が高い）』でよく使います。",
+    "hint": "可能性",
+    "acceptedAnswers": [
+      "가능성"
+    ],
+    "synonyms": [
+      {
+        "word": "잠재력",
+        "meaning": "潜在力、可能性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불가능성",
+        "meaning": "不可能性"
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "word": "중요성",
+    "baseForm": "중요성",
+    "highlightText": "중요성",
+    "readingKatakana": "ジャウンヨサオン",
+    "romanization": "jungyoseong",
+    "meaning": "重要性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "기초의 중요성이 커져요.",
+    "exampleTranslation": "基礎の重要性が大きくなります。",
+    "description": "何かがどれほど重要かという性質を表します。",
+    "usage": "『중요성을 느끼다（重要性を感じる）』の形が自然です。",
+    "hint": "重要性",
+    "acceptedAnswers": [
+      "중요성"
+    ],
+    "synonyms": [
+      {
+        "word": "가치",
+        "meaning": "価値、重要性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "사소함",
+        "meaning": "些細さ"
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "word": "필수",
+    "baseForm": "필수",
+    "highlightText": "필수",
+    "readingKatakana": "パイルサウ",
+    "romanization": "pilsu",
+    "meaning": "必須",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "충전기와 신분증은 필수예요.",
+    "exampleTranslation": "充電器と身分証は必須です。",
+    "description": "欠かせないこと、必須であることを表します。",
+    "usage": "『필수 항목（必須項目）』のように名詞を修飾しても使えます。",
+    "hint": "必須",
+    "acceptedAnswers": [
+      "필수"
+    ],
+    "synonyms": [
+      {
+        "word": "필요",
+        "meaning": "必要、必須"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "선택",
+        "meaning": "選択"
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "word": "선호",
+    "baseForm": "선호",
+    "highlightText": "선호",
+    "readingKatakana": "サオンハオ",
+    "romanization": "seonho",
+    "meaning": "好み、選好",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "단순한 스타일을 선호해요.",
+    "exampleTranslation": "シンプルなスタイルを好みます。",
+    "description": "特定のものをより好む傾向を表します。",
+    "usage": "『선호가 갈리다（好みが分かれる）』の形もあります。",
+    "hint": "好み、選好",
+    "acceptedAnswers": [
+      "선호"
+    ],
+    "synonyms": [
+      {
+        "word": "취향",
+        "meaning": "好み"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비선호",
+        "meaning": "非選好"
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "word": "경향",
+    "baseForm": "경향",
+    "highlightText": "경향",
+    "readingKatakana": "ガヨンハヤン",
+    "romanization": "gyeonghyang",
+    "meaning": "傾向",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "반복하려는 경향이 있어요.",
+    "exampleTranslation": "繰り返そうとする傾向があります。",
+    "description": "全体として見られる傾向を表します。",
+    "usage": "『경향이 있다（傾向がある）』でよく使います。",
+    "hint": "傾向",
+    "acceptedAnswers": [
+      "경향"
+    ],
+    "synonyms": [
+      {
+        "word": "추세",
+        "meaning": "趨勢、傾向"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1030,
+    "word": "원칙",
+    "baseForm": "원칙",
+    "highlightText": "원칙",
+    "readingKatakana": "ウォンチャイク",
+    "romanization": "wonchik",
+    "meaning": "原則",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "기본 원칙을 지켜요.",
+    "exampleTranslation": "基本原則を守ります。",
+    "description": "守るべき基本的な原則を表します。",
+    "usage": "『원칙을 지키다（原則を守る）』の形が基本です。",
+    "hint": "原則",
+    "acceptedAnswers": [
+      "원칙"
+    ],
+    "synonyms": [
+      {
+        "word": "기본 방침",
+        "meaning": "基本方針"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "예외",
+        "meaning": "例外"
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "word": "전략",
+    "baseForm": "전략",
+    "highlightText": "전략",
+    "readingKatakana": "ジャオンラヤク",
+    "romanization": "jeonryak",
+    "meaning": "戦略",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "나만의 전략을 세워요.",
+    "exampleTranslation": "自分なりの戦略を立てます。",
+    "description": "目的達成のために立てる戦略を表します。",
+    "usage": "『전략을 세우다（戦略を立てる）』でよく使います。",
+    "hint": "戦略",
+    "acceptedAnswers": [
+      "전략"
+    ],
+    "synonyms": [
+      {
+        "word": "작전",
+        "meaning": "作戦、戦略"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1032,
+    "word": "계기",
+    "baseForm": "계기",
+    "highlightText": "계기",
+    "readingKatakana": "ガイェガイ",
+    "romanization": "gyegi",
+    "meaning": "きっかけ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "공부하게 된 계기는 영상 하나였어요.",
+    "exampleTranslation": "勉強するようになったきっかけは一本の動画でした。",
+    "description": "ある変化や行動のきっかけを表します。",
+    "usage": "『계기가 되다（きっかけになる）』の形が頻出です。",
+    "hint": "きっかけ",
+    "acceptedAnswers": [
+      "계기"
+    ],
+    "synonyms": [
+      {
+        "word": "동기",
+        "meaning": "動機、きっかけ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1033,
+    "word": "평가",
+    "baseForm": "평가",
+    "highlightText": "평가",
+    "readingKatakana": "パヨンガア",
+    "romanization": "pyeongga",
+    "meaning": "評価",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "평가에만 기대면 흔들려요.",
+    "exampleTranslation": "評価にばかり頼ると揺らぎます。",
+    "description": "よしあしや価値を見定める評価を表します。",
+    "usage": "『평가를 받다（評価を受ける）』でよく使います。",
+    "hint": "評価",
+    "acceptedAnswers": [
+      "평가"
+    ],
+    "synonyms": [
+      {
+        "word": "판정",
+        "meaning": "判定、評価"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시",
+        "meaning": "無視"
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "word": "예상",
+    "baseForm": "예상",
+    "highlightText": "예상",
+    "readingKatakana": "イェサアン",
+    "romanization": "yesang",
+    "meaning": "予想",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "예상보다 늦어졌어요.",
+    "exampleTranslation": "予想より遅れました。",
+    "description": "前もって考える予想を表します。",
+    "usage": "『예상을 하다（予想する）』より『예상보다（予想より）』も頻出です。",
+    "hint": "予想",
+    "acceptedAnswers": [
+      "예상"
+    ],
+    "synonyms": [
+      {
+        "word": "예측",
+        "meaning": "予測"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "현실",
+        "meaning": "現実"
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "word": "판단",
+    "baseForm": "판단",
+    "highlightText": "판단",
+    "readingKatakana": "パアンダアン",
+    "romanization": "pandan",
+    "meaning": "判断",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "판단을 잠시 미루는 게 나아요.",
+    "exampleTranslation": "判断を少し先送りするほうがいいです。",
+    "description": "考えたうえで下す判断を表します。",
+    "usage": "『판단을 내리다（判断を下す）』の形でよく使います。",
+    "hint": "判断",
+    "acceptedAnswers": [
+      "판단"
+    ],
+    "synonyms": [
+      {
+        "word": "결정",
+        "meaning": "決定、判断"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1036,
+    "word": "결론",
+    "baseForm": "결론",
+    "highlightText": "결론",
+    "readingKatakana": "ガヨルラオン",
+    "romanization": "gyeolron",
+    "meaning": "結論",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "비슷한 결론에 도달했어요.",
+    "exampleTranslation": "似た結論にたどり着きました。",
+    "description": "考えや議論の最後に出る結論を表します。",
+    "usage": "『결론을 내리다（結論を出す）』が定番です。",
+    "hint": "結論",
+    "acceptedAnswers": [
+      "결론"
+    ],
+    "synonyms": [
+      {
+        "word": "귀결",
+        "meaning": "帰結、結論"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1037,
+    "word": "해석",
+    "baseForm": "해석",
+    "highlightText": "해석",
+    "readingKatakana": "ハエサオク",
+    "romanization": "haeseok",
+    "meaning": "解釈",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "해석이 달라질 수 있어요.",
+    "exampleTranslation": "解釈が変わることがあります。",
+    "description": "言葉や状況の意味づけ、解釈を表します。",
+    "usage": "『해석이 가능하다（解釈が可能だ）』のようにも使います。",
+    "hint": "解釈",
+    "acceptedAnswers": [
+      "해석"
+    ],
+    "synonyms": [
+      {
+        "word": "풀이",
+        "meaning": "解釈、説明"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1038,
+    "word": "사실",
+    "baseForm": "사실",
+    "highlightText": "사실",
+    "readingKatakana": "サアサイル",
+    "romanization": "sasil",
+    "meaning": "事実",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "사실만 먼저 정리해요.",
+    "exampleTranslation": "事実だけ先に整理します。",
+    "description": "実際にそうである事実を表します。",
+    "usage": "『사실은（実は）』という副詞的な使い方も多いです。",
+    "hint": "事実",
+    "acceptedAnswers": [
+      "사실"
+    ],
+    "synonyms": [
+      {
+        "word": "진실",
+        "meaning": "真実、事実"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "거짓",
+        "meaning": "うそ"
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "word": "현실",
+    "baseForm": "현실",
+    "highlightText": "현실",
+    "readingKatakana": "ハヨンサイル",
+    "romanization": "hyeonsil",
+    "meaning": "現実",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "지금의 현실도 봐야 해요.",
+    "exampleTranslation": "今の現実も見なければなりません。",
+    "description": "理想ではなく今ある現実を表します。",
+    "usage": "『현실을 받아들이다（現実を受け入れる）』で使います。",
+    "hint": "現実",
+    "acceptedAnswers": [
+      "현실"
+    ],
+    "synonyms": [
+      {
+        "word": "실상",
+        "meaning": "実情、現実"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이상",
+        "meaning": "理想"
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "word": "이상",
+    "baseForm": "이상",
+    "highlightText": "이상",
+    "readingKatakana": "イサアン",
+    "romanization": "isang",
+    "meaning": "理想",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "이상을 잃고 싶진 않아요.",
+    "exampleTranslation": "理想は失いたくありません。",
+    "description": "思い描く理想や理想像を表します。",
+    "usage": "『이상과 현실（理想と現実）』の組み合わせは頻出です。",
+    "hint": "理想",
+    "acceptedAnswers": [
+      "이상"
+    ],
+    "synonyms": [
+      {
+        "word": "이상향",
+        "meaning": "理想郷、理想"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "현실",
+        "meaning": "現実"
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "word": "인상",
+    "baseForm": "인상",
+    "highlightText": "인상",
+    "readingKatakana": "インサアン",
+    "romanization": "insang",
+    "meaning": "印象",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "인상이 전혀 다를 수 있어요.",
+    "exampleTranslation": "印象がまったく違うことがあります。",
+    "description": "相手や物事から受ける印象を表します。",
+    "usage": "『인상이 좋다（印象がよい）』が基本です。",
+    "hint": "印象",
+    "acceptedAnswers": [
+      "인상"
+    ],
+    "synonyms": [
+      {
+        "word": "느낌",
+        "meaning": "感じ、印象"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1042,
+    "word": "매력",
+    "baseForm": "매력",
+    "highlightText": "매력",
+    "readingKatakana": "マエラヨク",
+    "romanization": "maeryeok",
+    "meaning": "魅力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "편하게 이끄는 점이 매력이에요.",
+    "exampleTranslation": "自然に導くところが魅力です。",
+    "description": "人や物が引きつける魅力を表します。",
+    "usage": "『매력이 있다（魅力がある）』の形が自然です。",
+    "hint": "魅力",
+    "acceptedAnswers": [
+      "매력"
+    ],
+    "synonyms": [
+      {
+        "word": "끌림",
+        "meaning": "引かれる魅力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1043,
+    "word": "신뢰",
+    "baseForm": "신뢰",
+    "highlightText": "신뢰",
+    "readingKatakana": "サインラウェ",
+    "romanization": "sinroe",
+    "meaning": "信頼",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "신뢰는 작은 행동이 쌓여 만들어져요.",
+    "exampleTranslation": "信頼は小さな行動が積み重なって作られます。",
+    "description": "信じて任せられるという信頼を表します。",
+    "usage": "『신뢰를 쌓다（信頼を築く）』でよく使います。",
+    "hint": "信頼",
+    "acceptedAnswers": [
+      "신뢰"
+    ],
+    "synonyms": [
+      {
+        "word": "믿음",
+        "meaning": "信頼、信用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불신",
+        "meaning": "不信"
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "word": "존중",
+    "baseForm": "존중",
+    "highlightText": "존중",
+    "readingKatakana": "ジャオンジャウン",
+    "romanization": "jonjung",
+    "meaning": "尊重",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "기본적인 존중은 필요해요.",
+    "exampleTranslation": "基本的な尊重は必要です。",
+    "description": "相手を大切に扱う尊重を表します。",
+    "usage": "『존중하다（尊重する）』の名詞形としても覚えやすいです。",
+    "hint": "尊重",
+    "acceptedAnswers": [
+      "존중"
+    ],
+    "synonyms": [
+      {
+        "word": "예우",
+        "meaning": "敬意、尊重"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시",
+        "meaning": "無視"
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "word": "배려",
+    "baseForm": "배려",
+    "highlightText": "배려",
+    "readingKatakana": "バエラヨ",
+    "romanization": "baeryeo",
+    "meaning": "配慮",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "작은 배려가 바꿔 줘요.",
+    "exampleTranslation": "小さな配慮が変えてくれます。",
+    "description": "相手を思いやる配慮を表します。",
+    "usage": "『배려가 깊다（配慮が深い）』などで使います。",
+    "hint": "配慮",
+    "acceptedAnswers": [
+      "배려"
+    ],
+    "synonyms": [
+      {
+        "word": "마음씀씀이",
+        "meaning": "気配り、配慮"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이기심",
+        "meaning": "利己心"
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "word": "관계",
+    "baseForm": "관계",
+    "highlightText": "관계",
+    "readingKatakana": "ガワンガイェ",
+    "romanization": "gwangye",
+    "meaning": "関係",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "관계는 꾸준한 태도에서 시작돼요.",
+    "exampleTranslation": "関係は継続した態度から始まります。",
+    "description": "人や物のあいだの関係を表す基本語です。",
+    "usage": "『관계가 좋다（関係がよい）』のように使います。",
+    "hint": "関係",
+    "acceptedAnswers": [
+      "관계"
+    ],
+    "synonyms": [
+      {
+        "word": "사이",
+        "meaning": "間柄、関係"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1047,
+    "word": "충돌",
+    "baseForm": "충돌",
+    "highlightText": "충돌",
+    "readingKatakana": "チャウンダオル",
+    "romanization": "chungdol",
+    "meaning": "衝突",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "오해도 큰 충돌로 이어져요.",
+    "exampleTranslation": "誤解も大きな衝突につながります。",
+    "description": "意見や立場がぶつかる衝突を表します。",
+    "usage": "『의견 충돌（意見の衝突）』の形もよく見ます。",
+    "hint": "衝突",
+    "acceptedAnswers": [
+      "충돌"
+    ],
+    "synonyms": [
+      {
+        "word": "마찰",
+        "meaning": "摩擦、衝突"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "조화",
+        "meaning": "調和"
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "word": "갈등",
+    "baseForm": "갈등",
+    "highlightText": "갈등",
+    "readingKatakana": "ガアルダウン",
+    "romanization": "galdeung",
+    "meaning": "葛藤、対立",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "갈등은 차분히 말해 보는 게 중요해요.",
+    "exampleTranslation": "葛藤は落ち着いて話してみることが大事です。",
+    "description": "心や関係の中で生じる葛藤・対立を表します。",
+    "usage": "『갈등이 생기다（葛藤が生じる）』の形が自然です。",
+    "hint": "葛藤、対立",
+    "acceptedAnswers": [
+      "갈등"
+    ],
+    "synonyms": [
+      {
+        "word": "대립",
+        "meaning": "対立、葛藤"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "화합",
+        "meaning": "和合"
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "word": "협력",
+    "baseForm": "협력",
+    "highlightText": "협력",
+    "readingKatakana": "ハヨプラヨク",
+    "romanization": "hyeopryeok",
+    "meaning": "協力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "협력이 있으면 수월해져요.",
+    "exampleTranslation": "協力があれば楽になります。",
+    "description": "力を合わせる協力を表します。",
+    "usage": "『협력이 필요하다（協力が必要だ）』でよく使います。",
+    "hint": "協力",
+    "acceptedAnswers": [
+      "협력"
+    ],
+    "synonyms": [
+      {
+        "word": "공조",
+        "meaning": "協力、協調"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방해",
+        "meaning": "妨害"
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "word": "의사소통",
+    "baseForm": "의사소통",
+    "highlightText": "의사소통",
+    "readingKatakana": "イサアサオタオン",
+    "romanization": "uisasotong",
+    "meaning": "意思疎通",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "의사소통이 잘되면 풀 수 있어요.",
+    "exampleTranslation": "意思疎通がうまくいけば解決できます。",
+    "description": "互いに伝え合う意思疎通を表します。",
+    "usage": "『의사소통이 잘되다（意思疎通がうまくいく）』が重要です。",
+    "hint": "意思疎通",
+    "acceptedAnswers": [
+      "의사소통"
+    ],
+    "synonyms": [
+      {
+        "word": "소통",
+        "meaning": "疎通、コミュニケーション"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1051,
+    "word": "대화",
+    "baseForm": "대화",
+    "highlightText": "대화",
+    "readingKatakana": "ダエハワ",
+    "romanization": "daehwa",
+    "meaning": "対話",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "짧은 대화도 자주 나눠요.",
+    "exampleTranslation": "短い会話もよく交わします。",
+    "description": "互いに言葉を交わす対話を表します。",
+    "usage": "『대화를 나누다（対話を交わす）』が自然です。",
+    "hint": "対話",
+    "acceptedAnswers": [
+      "대화"
+    ],
+    "synonyms": [
+      {
+        "word": "담화",
+        "meaning": "対話、会話"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "침묵",
+        "meaning": "沈黙"
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "word": "침묵",
+    "baseForm": "침묵",
+    "highlightText": "침묵",
+    "readingKatakana": "チャイムマウク",
+    "romanization": "chimmuk",
+    "meaning": "沈黙",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "잠깐의 침묵이 더 편해요.",
+    "exampleTranslation": "少しの沈黙のほうが楽です。",
+    "description": "声を出さず黙っている沈黙を表します。",
+    "usage": "『침묵이 흐르다（沈黙が流れる）』という言い方もあります。",
+    "hint": "沈黙",
+    "acceptedAnswers": [
+      "침묵"
+    ],
+    "synonyms": [
+      {
+        "word": "정적",
+        "meaning": "静寂、沈黙"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대화",
+        "meaning": "対話"
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "word": "분위기",
+    "baseForm": "분위기",
+    "highlightText": "분위기",
+    "readingKatakana": "バウンウィガイ",
+    "romanization": "bunwigi",
+    "meaning": "雰囲気",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "가게 분위기가 편안했어요.",
+    "exampleTranslation": "店の雰囲気が心地よかったです。",
+    "description": "その場に流れる雰囲気を表します。",
+    "usage": "『분위기가 좋다（雰囲気がよい）』が定番です。",
+    "hint": "雰囲気",
+    "acceptedAnswers": [
+      "분위기"
+    ],
+    "synonyms": [
+      {
+        "word": "무드",
+        "meaning": "ムード、雰囲気"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1054,
+    "word": "긴장",
+    "baseForm": "긴장",
+    "highlightText": "긴장",
+    "readingKatakana": "ガインジャアン",
+    "romanization": "ginjang",
+    "meaning": "緊張",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "발표 전에는 긴장이 돼요.",
+    "exampleTranslation": "発表前は緊張します。",
+    "description": "心や体が張りつめる緊張を表します。",
+    "usage": "『긴장이 되다（緊張する）』でよく使います。",
+    "hint": "緊張",
+    "acceptedAnswers": [
+      "긴장"
+    ],
+    "synonyms": [
+      {
+        "word": "압박감",
+        "meaning": "圧迫感、緊張"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안정",
+        "meaning": "安定"
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "word": "불만",
+    "baseForm": "불만",
+    "highlightText": "불만",
+    "readingKatakana": "バウルマアン",
+    "romanization": "bulman",
+    "meaning": "不満",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "작은 불만도 쌓여요.",
+    "exampleTranslation": "小さな不満も積もります。",
+    "description": "満たされない気持ちとしての不満を表します。",
+    "usage": "『불만을 가지다（不満を持つ）』の形があります。",
+    "hint": "不満",
+    "acceptedAnswers": [
+      "불만"
+    ],
+    "synonyms": [
+      {
+        "word": "불평",
+        "meaning": "不満、不平"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "만족",
+        "meaning": "満足"
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "word": "만남",
+    "baseForm": "만남",
+    "highlightText": "만남",
+    "readingKatakana": "マアンナアム",
+    "romanization": "mannam",
+    "meaning": "出会い",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "새로운 만남이 변화를 만들어요.",
+    "exampleTranslation": "新しい出会いが変化を生みます。",
+    "description": "人との出会いや会うことを表します。",
+    "usage": "『첫 만남（初めての出会い）』もよく使います。",
+    "hint": "出会い",
+    "acceptedAnswers": [
+      "만남"
+    ],
+    "synonyms": [
+      {
+        "word": "조우",
+        "meaning": "出会い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이별",
+        "meaning": "別れ"
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "word": "이별",
+    "baseForm": "이별",
+    "highlightText": "이별",
+    "readingKatakana": "イバヨル",
+    "romanization": "ibyeol",
+    "meaning": "別れ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "이별은 많은 걸 돌아보게 해요.",
+    "exampleTranslation": "別れは多くを振り返らせます。",
+    "description": "別れること、別れそのものを表します。",
+    "usage": "『이별을 겪다（別れを経験する）』のように使います。",
+    "hint": "別れ",
+    "acceptedAnswers": [
+      "이별"
+    ],
+    "synonyms": [
+      {
+        "word": "헤어짐",
+        "meaning": "別れ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "만남",
+        "meaning": "出会い"
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "word": "합의",
+    "baseForm": "합의",
+    "highlightText": "합의",
+    "readingKatakana": "ハアプイ",
+    "romanization": "hapui",
+    "meaning": "合意",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "합의에 이르기까지 걸렸어요.",
+    "exampleTranslation": "合意に至るまで時間がかかりました。",
+    "description": "話し合って一致する合意を表します。",
+    "usage": "『합의에 이르다（合意に至る）』が自然です。",
+    "hint": "合意",
+    "acceptedAnswers": [
+      "합의"
+    ],
+    "synonyms": [
+      {
+        "word": "동의",
+        "meaning": "同意、合意"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "반대",
+        "meaning": "反対"
+      }
+    ]
+  },
+  {
+    "id": 1059,
+    "word": "후회",
+    "baseForm": "후회",
+    "highlightText": "후회",
+    "readingKatakana": "ハウハウェ",
+    "romanization": "huhoe",
+    "meaning": "後悔",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "후회가 남아도 부정하진 않아요.",
+    "exampleTranslation": "後悔が残っても否定はしません。",
+    "description": "過去の選択を悔やむ後悔を表します。",
+    "usage": "『후회가 남다（後悔が残る）』の形がよく使われます。",
+    "hint": "後悔",
+    "acceptedAnswers": [
+      "후회"
+    ],
+    "synonyms": [
+      {
+        "word": "미련",
+        "meaning": "未練、後悔"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "만족",
+        "meaning": "満足"
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "word": "자신감",
+    "baseForm": "자신감",
+    "highlightText": "자신감",
+    "readingKatakana": "ジャアサインガアム",
+    "romanization": "jasingam",
+    "meaning": "自信",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "자신감도 자연스럽게 생겨요.",
+    "exampleTranslation": "自信も自然に生まれます。",
+    "description": "自分ならできるという自信を表します。",
+    "usage": "『자신감이 생기다（自信がつく）』が基本です。",
+    "hint": "自信",
+    "acceptedAnswers": [
+      "자신감"
+    ],
+    "synonyms": [
+      {
+        "word": "확신",
+        "meaning": "確信、自信"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "열등감",
+        "meaning": "劣等感"
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "word": "용기",
+    "baseForm": "용기",
+    "highlightText": "용기",
+    "readingKatakana": "ヨンガイ",
+    "romanization": "yonggi",
+    "meaning": "勇気",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "큰 용기가 필요할 때가 있어요.",
+    "exampleTranslation": "大きな勇気が必要なことがあります。",
+    "description": "怖さがあっても進むための勇気を表します。",
+    "usage": "『용기를 내다（勇気を出す）』の形が非常に重要です。",
+    "hint": "勇気",
+    "acceptedAnswers": [
+      "용기"
+    ],
+    "synonyms": [
+      {
+        "word": "담력",
+        "meaning": "胆力、勇気"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "두려움",
+        "meaning": "恐れ"
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "word": "두려움",
+    "baseForm": "두려움",
+    "highlightText": "두려움",
+    "readingKatakana": "ダウラヨウム",
+    "romanization": "duryeoum",
+    "meaning": "恐れ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "두려움을 느끼는 건 자연스러워요.",
+    "exampleTranslation": "恐れを感じるのは自然です。",
+    "description": "こわさや恐れの感情を表します。",
+    "usage": "『두려움을 느끼다（恐れを感じる）』で使います。",
+    "hint": "恐れ",
+    "acceptedAnswers": [
+      "두려움"
+    ],
+    "synonyms": [
+      {
+        "word": "공포",
+        "meaning": "恐怖"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "용기",
+        "meaning": "勇気"
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "word": "외로움",
+    "baseForm": "외로움",
+    "highlightText": "외로움",
+    "readingKatakana": "ウェラオウム",
+    "romanization": "oeroum",
+    "meaning": "孤独",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "외로움을 느낄 수 있어요.",
+    "exampleTranslation": "孤独を感じることがあります。",
+    "description": "一人で寂しいという孤独感を表します。",
+    "usage": "『외로움을 느끼다（孤独を感じる）』が定番です。",
+    "hint": "孤独",
+    "acceptedAnswers": [
+      "외로움"
+    ],
+    "synonyms": [
+      {
+        "word": "고독",
+        "meaning": "孤独"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "연대감",
+        "meaning": "連帯感"
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "word": "안정감",
+    "baseForm": "안정감",
+    "highlightText": "안정감",
+    "readingKatakana": "アンジャオンガアム",
+    "romanization": "anjeonggam",
+    "meaning": "安定感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "큰 안정감을 주기도 해요.",
+    "exampleTranslation": "大きな安定感をくれることもあります。",
+    "description": "落ち着いていて安心できる安定感を表します。",
+    "usage": "『안정감을 주다（安定感を与える）』の形があります。",
+    "hint": "安定感",
+    "acceptedAnswers": [
+      "안정감"
+    ],
+    "synonyms": [
+      {
+        "word": "안도감",
+        "meaning": "安堵感、安定感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불안감",
+        "meaning": "不安感"
+      }
+    ]
+  },
+  {
+    "id": 1065,
+    "word": "불안감",
+    "baseForm": "불안감",
+    "highlightText": "불안감",
+    "readingKatakana": "バウルアンガアム",
+    "romanization": "bulangam",
+    "meaning": "不安感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "불안감이 커지는 것 같아요.",
+    "exampleTranslation": "不安感が大きくなる気がします。",
+    "description": "落ち着かず心配な不安感を表します。",
+    "usage": "『불안감이 커지다（不安感が大きくなる）』で使います。",
+    "hint": "不安感",
+    "acceptedAnswers": [
+      "불안감"
+    ],
+    "synonyms": [
+      {
+        "word": "초조함",
+        "meaning": "焦り、不安感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안정감",
+        "meaning": "安定感"
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "word": "집중력",
+    "baseForm": "집중력",
+    "highlightText": "집중력",
+    "readingKatakana": "ジャイプジャウンラヨク",
+    "romanization": "jipjungryeok",
+    "meaning": "集中力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "집중력이 더 오래 유지돼요.",
+    "exampleTranslation": "集中力がより長く保たれます。",
+    "description": "集中し続ける力を表します。",
+    "usage": "『집중력이 떨어지다（集中力が落ちる）』がよく使われます。",
+    "hint": "集中力",
+    "acceptedAnswers": [
+      "집중력"
+    ],
+    "synonyms": [
+      {
+        "word": "몰입력",
+        "meaning": "没入力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "산만함",
+        "meaning": "散漫さ"
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "word": "기억력",
+    "baseForm": "기억력",
+    "highlightText": "기억력",
+    "readingKatakana": "ガイオクラヨク",
+    "romanization": "gieokryeok",
+    "meaning": "記憶力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "기억력에는 적어 두는 습관이 도움 돼요.",
+    "exampleTranslation": "記憶力には書き留める習慣が役に立ちます。",
+    "description": "覚えておく力、記憶力を表します。",
+    "usage": "『기억력이 좋다（記憶力がよい）』の形が基本です。",
+    "hint": "記憶力",
+    "acceptedAnswers": [
+      "기억력"
+    ],
+    "synonyms": [
+      {
+        "word": "암기력",
+        "meaning": "記憶力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1068,
+    "word": "이해력",
+    "baseForm": "이해력",
+    "highlightText": "이해력",
+    "readingKatakana": "イハエラヨク",
+    "romanization": "ihaeryeok",
+    "meaning": "理解力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "이해력이 좋으면 핵심을 빨리 잡아요.",
+    "exampleTranslation": "理解力がよいと核心を早くつかみます。",
+    "description": "内容を把握する理解力を表します。",
+    "usage": "『이해력이 높다（理解力が高い）』でよく使います。",
+    "hint": "理解力",
+    "acceptedAnswers": [
+      "이해력"
+    ],
+    "synonyms": [
+      {
+        "word": "파악력",
+        "meaning": "把握力、理解力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1069,
+    "word": "표현력",
+    "baseForm": "표현력",
+    "highlightText": "표현력",
+    "readingKatakana": "パヨハヨンラヨク",
+    "romanization": "pyohyeonryeok",
+    "meaning": "表現力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "표현력이 부족하면 제대로 전하기 어려워요.",
+    "exampleTranslation": "表現力が足りないとうまく伝えにくいです。",
+    "description": "自分の考えを表す力を表します。",
+    "usage": "『표현력을 기르다（表現力を養う）』で使えます。",
+    "hint": "表現力",
+    "acceptedAnswers": [
+      "표현력"
+    ],
+    "synonyms": [
+      {
+        "word": "전달력",
+        "meaning": "伝達力、表現力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1070,
+    "word": "창의력",
+    "baseForm": "창의력",
+    "highlightText": "창의력",
+    "readingKatakana": "チャアンイラヨク",
+    "romanization": "changuiryeok",
+    "meaning": "創造力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "창의력이 살아날 때도 있어요.",
+    "exampleTranslation": "創造力が生きることもあります。",
+    "description": "新しい発想を生み出す創造力を表します。",
+    "usage": "『창의력을 발휘하다（創造力を発揮する）』が自然です。",
+    "hint": "創造力",
+    "acceptedAnswers": [
+      "창의력"
+    ],
+    "synonyms": [
+      {
+        "word": "창조성",
+        "meaning": "創造性"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1071,
+    "word": "상상력",
+    "baseForm": "상상력",
+    "highlightText": "상상력",
+    "readingKatakana": "サアンサアンラヨク",
+    "romanization": "sangsangryeok",
+    "meaning": "想像力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "상상력이 넓어지는 느낌이에요.",
+    "exampleTranslation": "想像力が広がる感じです。",
+    "description": "頭の中で思い描く想像力を表します。",
+    "usage": "『상상력이 풍부하다（想像力が豊かだ）』の形がよく使われます。",
+    "hint": "想像力",
+    "acceptedAnswers": [
+      "상상력"
+    ],
+    "synonyms": [
+      {
+        "word": "상상성",
+        "meaning": "想像力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1072,
+    "word": "지식",
+    "baseForm": "지식",
+    "highlightText": "지식",
+    "readingKatakana": "ジャイサイク",
+    "romanization": "jisik",
+    "meaning": "知識",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "지식이 있어도 적용하는 건 또 다른 문제예요.",
+    "exampleTranslation": "知識があっても応用するのはまた別の問題です。",
+    "description": "学んで得た知識を表す基本名詞です。",
+    "usage": "『지식을 쌓다（知識を積む）』が基本です。",
+    "hint": "知識",
+    "acceptedAnswers": [
+      "지식"
+    ],
+    "synonyms": [
+      {
+        "word": "견문",
+        "meaning": "見聞、知識"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무지",
+        "meaning": "無知"
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "word": "정보",
+    "baseForm": "정보",
+    "highlightText": "정보",
+    "readingKatakana": "ジャオンバオ",
+    "romanization": "jeongbo",
+    "meaning": "情報",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "정보는 중요한지 가려내야 해요.",
+    "exampleTranslation": "情報は何が重要か見分けないといけません。",
+    "description": "役に立つ情報やデータを表します。",
+    "usage": "『정보를 얻다（情報を得る）』でよく使います。",
+    "hint": "情報",
+    "acceptedAnswers": [
+      "정보"
+    ],
+    "synonyms": [
+      {
+        "word": "자료",
+        "meaning": "資料、情報"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "허위 정보",
+        "meaning": "虚偽情報"
+      }
+    ]
+  },
+  {
+    "id": 1074,
+    "word": "통찰",
+    "baseForm": "통찰",
+    "highlightText": "통찰",
+    "readingKatakana": "タオンチャアル",
+    "romanization": "tongchal",
+    "meaning": "洞察",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "깊은 통찰이 담길 때가 있어요.",
+    "exampleTranslation": "深い洞察が込められることがあります。",
+    "description": "物事の本質を見抜く洞察を表します。",
+    "usage": "『깊은 통찰（深い洞察）』のような形が自然です。",
+    "hint": "洞察",
+    "acceptedAnswers": [
+      "통찰"
+    ],
+    "synonyms": [
+      {
+        "word": "식견",
+        "meaning": "見識、洞察"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1075,
+    "word": "기억",
+    "baseForm": "기억",
+    "highlightText": "기억",
+    "readingKatakana": "ガイオク",
+    "romanization": "gieok",
+    "meaning": "記憶",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "오래된 기억은 다르게 남아요.",
+    "exampleTranslation": "古い記憶は違う形で残ります。",
+    "description": "過去に残っている記憶を表します。",
+    "usage": "『기억이 나다（思い出す）』は非常に頻出です。",
+    "hint": "記憶",
+    "acceptedAnswers": [
+      "기억"
+    ],
+    "synonyms": [
+      {
+        "word": "회상",
+        "meaning": "回想、記憶"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "망각",
+        "meaning": "忘却"
+      }
+    ]
+  },
+  {
+    "id": 1076,
+    "word": "추억",
+    "baseForm": "추억",
+    "highlightText": "추억",
+    "readingKatakana": "チャウオク",
+    "romanization": "chueok",
+    "meaning": "思い出",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "추억이 떠올라요.",
+    "exampleTranslation": "思い出が浮かびます。",
+    "description": "感情のこもった思い出を表します。",
+    "usage": "『추억이 되다（思い出になる）』の形があります。",
+    "hint": "思い出",
+    "acceptedAnswers": [
+      "추억"
+    ],
+    "synonyms": [
+      {
+        "word": "회상",
+        "meaning": "思い出、回想"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "망각",
+        "meaning": "忘却"
+      }
+    ]
+  },
+  {
+    "id": 1077,
+    "word": "여유",
+    "baseForm": "여유",
+    "highlightText": "여유",
+    "readingKatakana": "ヨユ",
+    "romanization": "yeoyu",
+    "meaning": "余裕",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "마음의 여유가 있어야 해요.",
+    "exampleTranslation": "心の余裕が必要です。",
+    "description": "時間や心にある余裕を表します。",
+    "usage": "『마음의 여유（心の余裕）』がよく使われます。",
+    "hint": "余裕",
+    "acceptedAnswers": [
+      "여유"
+    ],
+    "synonyms": [
+      {
+        "word": "느긋함",
+        "meaning": "ゆとり、のんびり"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "조급함",
+        "meaning": "せかせかすること"
+      }
+    ]
+  },
+  {
+    "id": 1078,
+    "word": "자유",
+    "baseForm": "자유",
+    "highlightText": "자유",
+    "readingKatakana": "ジャアユ",
+    "romanization": "jayu",
+    "meaning": "自由",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "자유에는 기쁨과 책임이 따라와요.",
+    "exampleTranslation": "自由には喜びと責任がついてきます。",
+    "description": "束縛されず選べる自由を表します。",
+    "usage": "『자유를 누리다（自由を享受する）』で使えます。",
+    "hint": "自由",
+    "acceptedAnswers": [
+      "자유"
+    ],
+    "synonyms": [
+      {
+        "word": "자율",
+        "meaning": "自由、自律"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "속박",
+        "meaning": "束縛"
+      }
+    ]
+  },
+  {
+    "id": 1079,
+    "word": "책임",
+    "baseForm": "책임",
+    "highlightText": "책임",
+    "readingKatakana": "チャエクイム",
+    "romanization": "chaekim",
+    "meaning": "責任",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "끝까지 책임을 지는 자세예요.",
+    "exampleTranslation": "最後まで責任を負う姿勢です。",
+    "description": "引き受けるべき責任を表します。",
+    "usage": "『책임을 지다（責任を負う）』が最重要です。",
+    "hint": "責任",
+    "acceptedAnswers": [
+      "책임"
+    ],
+    "synonyms": [
+      {
+        "word": "책무",
+        "meaning": "責務、責任"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무책임",
+        "meaning": "無責任"
+      }
+    ]
+  },
+  {
+    "id": 1080,
+    "word": "의무",
+    "baseForm": "의무",
+    "highlightText": "의무",
+    "readingKatakana": "イマウ",
+    "romanization": "uimu",
+    "meaning": "義務",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "의무를 이해하는 것도 중요해요.",
+    "exampleTranslation": "義務を理解することも重要です。",
+    "description": "果たさなければならない義務を表します。",
+    "usage": "『의무를 다하다（義務を果たす）』の形でよく使います。",
+    "hint": "義務",
+    "acceptedAnswers": [
+      "의무"
+    ],
+    "synonyms": [
+      {
+        "word": "책임",
+        "meaning": "責任、義務"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "권리",
+        "meaning": "権利"
+      }
+    ]
+  },
+  {
+    "id": 1081,
+    "word": "권리",
+    "baseForm": "권리",
+    "highlightText": "권리",
+    "readingKatakana": "ガウォンライ",
+    "romanization": "gwonri",
+    "meaning": "権利",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "기본적인 권리를 존중받아야 해요.",
+    "exampleTranslation": "基本的な権利は尊重されるべきです。",
+    "description": "当然に認められる権利を表します。",
+    "usage": "『권리를 주장하다（権利を主張する）』で使います。",
+    "hint": "権利",
+    "acceptedAnswers": [
+      "권리"
+    ],
+    "synonyms": [
+      {
+        "word": "자격",
+        "meaning": "資格、権利"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "의무",
+        "meaning": "義務"
+      }
+    ]
+  },
+  {
+    "id": 1082,
+    "word": "전환점",
+    "baseForm": "전환점",
+    "highlightText": "전환점",
+    "readingKatakana": "ジャオンハワンジャオム",
+    "romanization": "jeonhwanjeom",
+    "meaning": "転換点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "큰 전환점이 됐어요.",
+    "exampleTranslation": "大きな転換点になりました。",
+    "description": "流れが大きく変わる転換点を表します。",
+    "usage": "『인생의 전환점（人生の転換点）』が自然です。",
+    "hint": "転換点",
+    "acceptedAnswers": [
+      "전환점"
+    ],
+    "synonyms": [
+      {
+        "word": "변곡점",
+        "meaning": "転換点"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1083,
+    "word": "위험",
+    "baseForm": "위험",
+    "highlightText": "위험",
+    "readingKatakana": "ウィハオム",
+    "romanization": "wiheom",
+    "meaning": "危険",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "밤에는 위험이 생길 수 있어요.",
+    "exampleTranslation": "夜は危険が生じることがあります。",
+    "description": "危ない状態や危険そのものを表します。",
+    "usage": "『위험이 크다（危険が大きい）』の形もよく使います。",
+    "hint": "危険",
+    "acceptedAnswers": [
+      "위험"
+    ],
+    "synonyms": [
+      {
+        "word": "리스크",
+        "meaning": "リスク、危険"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안전",
+        "meaning": "安全"
+      }
+    ]
+  },
+  {
+    "id": 1084,
+    "word": "사생활",
+    "baseForm": "사생활",
+    "highlightText": "사생활",
+    "readingKatakana": "サアサエンハワル",
+    "romanization": "sasaenghwal",
+    "meaning": "私生活、プライバシー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "사생활은 함부로 묻지 않아요.",
+    "exampleTranslation": "私生活はむやみに聞きません。",
+    "description": "個人の私生活やプライバシーを表します。",
+    "usage": "『사생활을 존중하다（私生活を尊重する）』で使います。",
+    "hint": "私生活、プライバシー",
+    "acceptedAnswers": [
+      "사생활"
+    ],
+    "synonyms": [
+      {
+        "word": "프라이버시",
+        "meaning": "プライバシー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1085,
+    "word": "생활습관",
+    "baseForm": "생활습관",
+    "highlightText": "생활습관",
+    "readingKatakana": "サエンハワルサウプガワン",
+    "romanization": "saenghwalseupgwan",
+    "meaning": "生活習慣",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "생활습관을 바꾸면 달라져요.",
+    "exampleTranslation": "生活習慣を変えると変わります。",
+    "description": "毎日の暮らしの中で繰り返される生活習慣を表します。",
+    "usage": "『생활습관을 바꾸다（生活習慣を変える）』が基本です。",
+    "hint": "生活習慣",
+    "acceptedAnswers": [
+      "생활습관"
+    ],
+    "synonyms": [
+      {
+        "word": "생활 패턴",
+        "meaning": "生活パターン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1086,
+    "word": "개성",
+    "baseForm": "개성",
+    "highlightText": "개성",
+    "readingKatakana": "ガエサオン",
+    "romanization": "gaeseong",
+    "meaning": "個性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "취향에서 개성이 드러나요.",
+    "exampleTranslation": "好みに個性が表れます。",
+    "description": "その人らしさとしての個性を表します。",
+    "usage": "『개성이 강하다（個性が強い）』でよく使います。",
+    "hint": "個性",
+    "acceptedAnswers": [
+      "개성"
+    ],
+    "synonyms": [
+      {
+        "word": "특색",
+        "meaning": "特色、個性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "획일성",
+        "meaning": "画一性"
+      }
+    ]
+  },
+  {
+    "id": 1087,
+    "word": "자존심",
+    "baseForm": "자존심",
+    "highlightText": "자존심",
+    "readingKatakana": "ジャアジャオンサイム",
+    "romanization": "jajonsim",
+    "meaning": "プライド",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "자존심만 세우면 안 돼요.",
+    "exampleTranslation": "プライドばかり立ててはいけません。",
+    "description": "自分を大事に思う気持ちやプライドを表します。",
+    "usage": "『자존심이 상하다（プライドが傷つく）』の形がよく出ます。",
+    "hint": "プライド",
+    "acceptedAnswers": [
+      "자존심"
+    ],
+    "synonyms": [
+      {
+        "word": "프라이드",
+        "meaning": "プライド"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "굴욕감",
+        "meaning": "屈辱感"
+      }
+    ]
+  },
+  {
+    "id": 1088,
+    "word": "기질",
+    "baseForm": "기질",
+    "highlightText": "기질",
+    "readingKatakana": "ガイジャイル",
+    "romanization": "gijil",
+    "meaning": "気質",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "기질이 다르게 나타나요.",
+    "exampleTranslation": "気質が違って現れます。",
+    "description": "生まれつきや根本の気質を表します。",
+    "usage": "『타고난 기질（生まれつきの気質）』のように使います。",
+    "hint": "気質",
+    "acceptedAnswers": [
+      "기질"
+    ],
+    "synonyms": [
+      {
+        "word": "성향",
+        "meaning": "性向、気質"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1089,
+    "word": "관점",
+    "baseForm": "관점",
+    "highlightText": "관점",
+    "readingKatakana": "ガワンジャオム",
+    "romanization": "gwanjeom",
+    "meaning": "観点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "관점이 달라지면 다르게 보여요.",
+    "exampleTranslation": "観点が変わると違って見えます。",
+    "description": "どの立場から見るかという観点を表します。",
+    "usage": "『다른 관점에서 보다（別の観点から見る）』の形が重要です。",
+    "hint": "観点",
+    "acceptedAnswers": [
+      "관점"
+    ],
+    "synonyms": [
+      {
+        "word": "시각",
+        "meaning": "視角、観点"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1090,
+    "word": "가치",
+    "baseForm": "가치",
+    "highlightText": "가치",
+    "readingKatakana": "ガアチャイ",
+    "romanization": "gachi",
+    "meaning": "価値",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "시간의 가치는 커요.",
+    "exampleTranslation": "時間の価値は大きいです。",
+    "description": "大切さや値打ちとしての価値を表します。",
+    "usage": "『가치를 느끼다（価値を感じる）』でよく使います。",
+    "hint": "価値",
+    "acceptedAnswers": [
+      "가치"
+    ],
+    "synonyms": [
+      {
+        "word": "값어치",
+        "meaning": "価値"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무가치",
+        "meaning": "無価値"
+      }
+    ]
+  },
+  {
+    "id": 1091,
+    "word": "의미",
+    "baseForm": "의미",
+    "highlightText": "의미",
+    "readingKatakana": "イマイ",
+    "romanization": "uimi",
+    "meaning": "意味",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "큰 의미가 될 수 있어요.",
+    "exampleTranslation": "大きな意味になることがあります。",
+    "description": "言葉や行動が持つ意味を表します。",
+    "usage": "『의미가 있다（意味がある）』は基本表現です。",
+    "hint": "意味",
+    "acceptedAnswers": [
+      "의미"
+    ],
+    "synonyms": [
+      {
+        "word": "뜻",
+        "meaning": "意味"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무의미",
+        "meaning": "無意味"
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "word": "관심사",
+    "baseForm": "관심사",
+    "highlightText": "관심사",
+    "readingKatakana": "ガワンサイムサア",
+    "romanization": "gwansimsa",
+    "meaning": "関心事",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "관심사가 겹치면 이어져요.",
+    "exampleTranslation": "関心事が重なれば続きます。",
+    "description": "人が関心を向けている事柄を表します。",
+    "usage": "『관심사가 비슷하다（関心事が似ている）』で使います。",
+    "hint": "関心事",
+    "acceptedAnswers": [
+      "관심사"
+    ],
+    "synonyms": [
+      {
+        "word": "흥미거리",
+        "meaning": "関心事"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1093,
+    "word": "완성",
+    "baseForm": "완성",
+    "highlightText": "완성",
+    "readingKatakana": "ワンサオン",
+    "romanization": "wanseong",
+    "meaning": "完成",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "완성만 바라보면 늦어져요.",
+    "exampleTranslation": "完成ばかり見ると遅れます。",
+    "description": "作業や作品が完成することを表します。",
+    "usage": "『완성도가 높다（完成度が高い）』にもつながる語です。",
+    "hint": "完成",
+    "acceptedAnswers": [
+      "완성"
+    ],
+    "synonyms": [
+      {
+        "word": "완료",
+        "meaning": "完了、完成"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "미완성",
+        "meaning": "未完成"
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "word": "착오",
+    "baseForm": "착오",
+    "highlightText": "착오",
+    "readingKatakana": "チャアクオ",
+    "romanization": "chako",
+    "meaning": "錯誤",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "착오가 일정에 영향을 줘요.",
+    "exampleTranslation": "行き違いが日程に影響します。",
+    "description": "思い違いや手違いとしての錯誤を表します。",
+    "usage": "『착오가 있었다（錯誤があった）』のように使います。",
+    "hint": "錯誤",
+    "acceptedAnswers": [
+      "착오"
+    ],
+    "synonyms": [
+      {
+        "word": "오해",
+        "meaning": "誤解、錯誤"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1095,
+    "word": "구상",
+    "baseForm": "구상",
+    "highlightText": "구상",
+    "readingKatakana": "ガウサアン",
+    "romanization": "gusang",
+    "meaning": "構想",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "구상이 떠올라서 바로 메모했어요.",
+    "exampleTranslation": "構想が浮かんで、すぐメモしました。",
+    "description": "形にする前の構想やアイデアを表します。",
+    "usage": "『구상을 하다（構想を練る）』で使います。",
+    "hint": "構想",
+    "acceptedAnswers": [
+      "구상"
+    ],
+    "synonyms": [
+      {
+        "word": "계획안",
+        "meaning": "構想、計画案"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1096,
+    "word": "실천",
+    "baseForm": "실천",
+    "highlightText": "실천",
+    "readingKatakana": "サイルチャオン",
+    "romanization": "silcheon",
+    "meaning": "実践",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "실천으로 옮기기 어려워요.",
+    "exampleTranslation": "実践に移すのは難しいです。",
+    "description": "考えを実際の行動に移す実践を表します。",
+    "usage": "『실천에 옮기다（実践に移す）』が定番です。",
+    "hint": "実践",
+    "acceptedAnswers": [
+      "실천"
+    ],
+    "synonyms": [
+      {
+        "word": "행동",
+        "meaning": "行動、実践"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방치",
+        "meaning": "放置"
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "word": "도전",
+    "baseForm": "도전",
+    "highlightText": "도전",
+    "readingKatakana": "ダオジャオン",
+    "romanization": "dojeon",
+    "meaning": "挑戦",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "새로운 도전은 나를 넓혀 줘요.",
+    "exampleTranslation": "新しい挑戦は自分を広げてくれます。",
+    "description": "難しいことに向かう挑戦を表します。",
+    "usage": "『도전을 하다（挑戦する）』の名詞形として覚えられます。",
+    "hint": "挑戦",
+    "acceptedAnswers": [
+      "도전"
+    ],
+    "synonyms": [
+      {
+        "word": "시도",
+        "meaning": "試み、挑戦"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "회피",
+        "meaning": "回避"
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "word": "성과",
+    "baseForm": "성과",
+    "highlightText": "성과",
+    "readingKatakana": "サオンガワ",
+    "romanization": "seonggwa",
+    "meaning": "成果",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "성과가 없어도 쌓이는 게 있어요.",
+    "exampleTranslation": "成果がなくても積み重なるものがあります。",
+    "description": "努力の結果として現れる成果を表します。",
+    "usage": "『성과를 내다（成果を出す）』がよく使われます。",
+    "hint": "成果",
+    "acceptedAnswers": [
+      "성과"
+    ],
+    "synonyms": [
+      {
+        "word": "업적",
+        "meaning": "業績、成果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실패",
+        "meaning": "失敗"
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "word": "문제점",
+    "baseForm": "문제점",
+    "highlightText": "문제점",
+    "readingKatakana": "マウンジャエジャオム",
+    "romanization": "munjejeom",
+    "meaning": "問題点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "문제점을 먼저 살펴봐요.",
+    "exampleTranslation": "問題点を先に見てみます。",
+    "description": "改善が必要な問題点を表します。",
+    "usage": "『문제점을 지적하다（問題点を指摘する）』の形が自然です。",
+    "hint": "問題点",
+    "acceptedAnswers": [
+      "문제점"
+    ],
+    "synonyms": [
+      {
+        "word": "결함",
+        "meaning": "欠点、問題点"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1100,
+    "word": "장단점",
+    "baseForm": "장단점",
+    "highlightText": "장단점",
+    "readingKatakana": "ジャアンダアンジャオム",
+    "romanization": "jangdanjeom",
+    "meaning": "長所と短所",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "장단점을 함께 보고 결정해요.",
+    "exampleTranslation": "長所と短所を一緒に見て決めます。",
+    "description": "長所と短所をまとめて表す便利な語です。",
+    "usage": "『장단점을 비교하다（長所短所を比較する）』で使います。",
+    "hint": "長所と短所",
+    "acceptedAnswers": [
+      "장단점"
+    ],
+    "synonyms": [
+      {
+        "word": "강점과 약점",
+        "meaning": "長所と短所"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "특징 없음",
+        "meaning": "特徴がないこと"
+      }
+    ]
+  }
+]

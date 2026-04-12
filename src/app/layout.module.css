@@ -1,0 +1,155 @@
+.body {
+  position: relative;
+}
+
+.homeLink {
+  position: fixed;
+  top: 18px;
+  left: 18px;
+  z-index: 100;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 14px 8px 8px;
+  border-radius: 999px;
+  text-decoration: none;
+  color: #0f172a;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(226, 232, 240, 0.94);
+  box-shadow: 0 18px 34px rgba(15, 23, 42, 0.12);
+  backdrop-filter: blur(16px);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    background-color 0.18s ease;
+}
+
+.homeLink:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 22px 40px rgba(15, 23, 42, 0.16);
+}
+
+.homeIcon {
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background: linear-gradient(135deg, #f97316 0%, #fb7185 100%);
+  box-shadow: 0 10px 20px rgba(249, 115, 22, 0.24);
+}
+
+.homeSvg {
+  width: 18px;
+  height: 18px;
+}
+
+.homeText {
+  font-size: 0.92rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+}
+
+.siteFooter {
+  margin-top: auto;
+  padding: 0 20px 24px;
+}
+
+.footerInner {
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 20px 24px;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  box-shadow: 0 20px 36px rgba(15, 23, 42, 0.08);
+  backdrop-filter: blur(14px);
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
+
+.footerBrand {
+  max-width: 620px;
+}
+
+.footerTitle {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.footerText {
+  margin: 8px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: #64748b;
+}
+
+.footerNav {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.footerLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 11px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: #0f172a;
+  background: #f8fafc;
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.footerLink:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 24px rgba(15, 23, 42, 0.08);
+  border-color: rgba(251, 146, 60, 0.32);
+}
+
+@media (max-width: 640px) {
+  .homeLink {
+    top: 14px;
+    left: 14px;
+    padding-right: 8px;
+  }
+
+  .homeText {
+    display: none;
+  }
+
+  .siteFooter {
+    padding: 0 16px 20px;
+  }
+
+  .footerInner {
+    padding: 18px;
+    border-radius: 22px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footerNav {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .footerLink {
+    width: 100%;
+  }
+}

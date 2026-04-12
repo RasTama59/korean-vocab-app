@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 1201,
+    "word": "분석하다",
+    "baseForm": "분석하다",
+    "highlightText": "분석해요",
+    "readingKatakana": "パウンサオクハアタア",
+    "romanization": "bunseokhada",
+    "meaning": "分析する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "자료를 먼저 분석해 보세요.",
+    "exampleTranslation": "資料をまず分析してみてください。",
+    "description": "情報やデータを細かく分けて意味や傾向をつかむときに使う動詞です。",
+    "usage": "『원인을 분석하다（原因を分析する）』『데이터를 분석하다（データを分析する）』の形でよく使います。",
+    "hint": "細かく見て意味をつかむ。",
+    "acceptedAnswers": [
+      "분석하다",
+      "분석해요"
+    ],
+    "synonyms": [
+      {
+        "word": "해석하다",
+        "meaning": "解釈する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대충 보다",
+        "meaning": "ざっと見る"
+      }
+    ]
+  },
+  {
+    "id": 1202,
+    "word": "구성하다",
+    "baseForm": "구성하다",
+    "highlightText": "구성해요",
+    "readingKatakana": "カウサオンハアタア",
+    "romanization": "guseonghada",
+    "meaning": "構成する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "순서대로 구성하면 쉬워요.",
+    "exampleTranslation": "順に構成すると分かりやすいです。",
+    "description": "いくつかの要素を組み合わせて全体を作るときに使う動詞です。",
+    "usage": "『문장을 구성하다（文章を構成する）』『팀을 구성하다（チームを構成する）』のように使います。",
+    "hint": "部分を組み合わせて全体を作る。",
+    "acceptedAnswers": [
+      "구성하다",
+      "구성해요"
+    ],
+    "synonyms": [
+      {
+        "word": "짜다",
+        "meaning": "組む、組み立てる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "해체하다",
+        "meaning": "解体する"
+      }
+    ]
+  },
+  {
+    "id": 1203,
+    "word": "요약하다",
+    "baseForm": "요약하다",
+    "highlightText": "요약해요",
+    "readingKatakana": "ヨヤクハアタア",
+    "romanization": "yoyakhada",
+    "meaning": "要約する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "핵심만 짧게 요약할게요.",
+    "exampleTranslation": "要点だけ短く要約します。",
+    "description": "長い内容から重要な部分だけ抜き出して短くまとめるときに使います。",
+    "usage": "『글을 요약하다（文章を要約する）』の形が基本です。",
+    "hint": "長い内容を短くまとめる。",
+    "acceptedAnswers": [
+      "요약하다",
+      "요약해요"
+    ],
+    "synonyms": [
+      {
+        "word": "간추리다",
+        "meaning": "かいつまんでまとめる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "풀어 설명하다",
+        "meaning": "詳しく説明する"
+      }
+    ]
+  },
+  {
+    "id": 1204,
+    "word": "정리되다",
+    "baseForm": "정리되다",
+    "highlightText": "정리됐어요",
+    "readingKatakana": "ジャオンライタウェタア",
+    "romanization": "jeongridoeda",
+    "meaning": "整理される",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "생각이 조금 정리됐어요.",
+    "exampleTranslation": "考えが少し整理されました。",
+    "description": "散らかっていた内容や考えがまとまった状態になるときに使います。",
+    "usage": "『생각이 정리되다（考えが整理される）』『자료가 정리되다（資料が整理される）』の形で使います。",
+    "hint": "ばらばらだったものがまとまる。",
+    "acceptedAnswers": [
+      "정리되다",
+      "정리됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "정돈되다",
+        "meaning": "整えられる、整う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "흩어지다",
+        "meaning": "散らばる"
+      }
+    ]
+  },
+  {
+    "id": 1205,
+    "word": "해결하다",
+    "baseForm": "해결하다",
+    "highlightText": "해결했어요",
+    "readingKatakana": "ハエカヨルハアタア",
+    "romanization": "haegyeolhada",
+    "meaning": "解決する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "문제를 해결했어요.",
+    "exampleTranslation": "問題を解決しました。",
+    "description": "問題や困りごとをうまく片づけるときに使う動詞です。",
+    "usage": "『문제를 해결하다（問題を解決する）』が最も基本です。",
+    "hint": "問題を片づける。",
+    "acceptedAnswers": [
+      "해결하다",
+      "해결했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "풀다",
+        "meaning": "解く、解決する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "악화시키다",
+        "meaning": "悪化させる"
+      }
+    ]
+  },
+  {
+    "id": 1206,
+    "word": "조절하다",
+    "baseForm": "조절하다",
+    "highlightText": "조절해요",
+    "readingKatakana": "ジャオジャオルハアタア",
+    "romanization": "jojeolhada",
+    "meaning": "調節する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "온도를 적당히 조절해요.",
+    "exampleTranslation": "温度を適度に調節します。",
+    "description": "強さ・量・温度などをちょうどよく整えるときに使います。",
+    "usage": "『속도를 조절하다（速度を調節する）』『감정을 조절하다（感情を調節する）』のように使います。",
+    "hint": "ちょうどよく整える。",
+    "acceptedAnswers": [
+      "조절하다",
+      "조절해요"
+    ],
+    "synonyms": [
+      {
+        "word": "맞추다",
+        "meaning": "合わせる、調整する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방치하다",
+        "meaning": "放っておく"
+      }
+    ]
+  },
+  {
+    "id": 1207,
+    "word": "관리하다",
+    "baseForm": "관리하다",
+    "highlightText": "관리해요",
+    "readingKatakana": "カワンライハアタア",
+    "romanization": "gwanrihada",
+    "meaning": "管理する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "평소에도 꾸준히 관리해야 해요.",
+    "exampleTranslation": "普段から継続して管理しないといけません。",
+    "description": "物・状態・情報などを良い状態に保つように取り扱うときに使います。",
+    "usage": "『일정을 관리하다（日程を管理する）』『건강을 관리하다（健康を管理する）』でよく使います。",
+    "hint": "よい状態に保つように面倒を見る。",
+    "acceptedAnswers": [
+      "관리하다",
+      "관리해요"
+    ],
+    "synonyms": [
+      {
+        "word": "돌보다",
+        "meaning": "面倒を見る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방치하다",
+        "meaning": "放置する"
+      }
+    ]
+  },
+  {
+    "id": 1208,
+    "word": "유지하다",
+    "baseForm": "유지하다",
+    "highlightText": "유지해요",
+    "readingKatakana": "ユジャイハアタア",
+    "romanization": "yujihada",
+    "meaning": "維持する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "습관은 유지하려고 해요.",
+    "exampleTranslation": "習慣は維持しようとしています。",
+    "description": "今ある状態や水準をそのまま保つときに使う動詞です。",
+    "usage": "『관계를 유지하다（関係を維持する）』『체중을 유지하다（体重を維持する）』のように使います。",
+    "hint": "今の状態を保つ。",
+    "acceptedAnswers": [
+      "유지하다",
+      "유지해요"
+    ],
+    "synonyms": [
+      {
+        "word": "지키다",
+        "meaning": "守る、維持する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "변화시키다",
+        "meaning": "変化させる"
+      }
+    ]
+  },
+  {
+    "id": 1209,
+    "word": "절약하다",
+    "baseForm": "절약하다",
+    "highlightText": "절약해요",
+    "readingKatakana": "ジャオルヤクハアタア",
+    "romanization": "jeolyakhada",
+    "meaning": "節約する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "経済"
+    ],
+    "formality": "基本形",
+    "example": "생활비를 절약해 보려고 해요.",
+    "exampleTranslation": "生活費を節約してみようと思います。",
+    "description": "お金や時間、資源などを無駄なく使うときに使います。",
+    "usage": "『전기를 절약하다（電気を節約する）』『시간을 절약하다（時間を節約する）』のように使います。",
+    "hint": "むだを減らして使う。",
+    "acceptedAnswers": [
+      "절약하다",
+      "절약해요"
+    ],
+    "synonyms": [
+      {
+        "word": "아끼다",
+        "meaning": "節約する、大事に使う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낭비하다",
+        "meaning": "浪費する"
+      }
+    ]
+  },
+  {
+    "id": 1210,
+    "word": "낭비하다",
+    "baseForm": "낭비하다",
+    "highlightText": "낭비하지",
+    "readingKatakana": "ナアンパイハアタア",
+    "romanization": "nangbihada",
+    "meaning": "浪費する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "経済"
+    ],
+    "formality": "基本形",
+    "example": "돈만 낭비하게 돼요.",
+    "exampleTranslation": "お金だけ無駄になります。",
+    "description": "必要以上に使って無駄にすることを表す動詞です。",
+    "usage": "『시간을 낭비하다（時間を浪費する）』『돈을 낭비하다（お金を浪費する）』のように使います。",
+    "hint": "むだに使う。",
+    "acceptedAnswers": [
+      "낭비하다",
+      "낭비하지"
+    ],
+    "synonyms": [
+      {
+        "word": "헛되이 쓰다",
+        "meaning": "むだに使う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "절약하다",
+        "meaning": "節約する"
+      }
+    ]
+  },
+  {
+    "id": 1211,
+    "word": "절약되다",
+    "baseForm": "절약되다",
+    "highlightText": "절약돼요",
+    "readingKatakana": "ジャオルヤクタウェタア",
+    "romanization": "jeolyakdoeda",
+    "meaning": "節約される",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "経済",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "교통비가 많이 절약돼요.",
+    "exampleTranslation": "交通費がかなり節約されます。",
+    "description": "費用や時間などが結果として少なく済むことを表します。",
+    "usage": "『시간이 절약되다（時間が節約される）』の形でよく使います。",
+    "hint": "結果として少なくて済む。",
+    "acceptedAnswers": [
+      "절약되다",
+      "절약돼요"
+    ],
+    "synonyms": [
+      {
+        "word": "아껴지다",
+        "meaning": "節約される"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낭비되다",
+        "meaning": "浪費される"
+      }
+    ]
+  },
+  {
+    "id": 1212,
+    "word": "낡다",
+    "baseForm": "낡다",
+    "highlightText": "낡았어요",
+    "readingKatakana": "ナアルクタア",
+    "romanization": "nalkda",
+    "meaning": "古びる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "物"
+    ],
+    "formality": "基本形",
+    "example": "손잡이가 많이 낡았어요.",
+    "exampleTranslation": "取っ手がかなり古びました。",
+    "description": "物が長く使われて古く見えたり傷んだりすることを表します。",
+    "usage": "『낡은 신발（古びた靴）』のように連体形でもよく使います。",
+    "hint": "長く使って古びる。",
+    "acceptedAnswers": [
+      "낡다",
+      "낡았어요"
+    ],
+    "synonyms": [
+      {
+        "word": "오래되다",
+        "meaning": "古くなる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "새롭다",
+        "meaning": "新しい"
+      }
+    ]
+  },
+  {
+    "id": 1213,
+    "word": "개선하다",
+    "baseForm": "개선하다",
+    "highlightText": "개선해요",
+    "readingKatakana": "カエサオンハアタア",
+    "romanization": "gaeseonhada",
+    "meaning": "改善する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "불편한 부분을 개선해요.",
+    "exampleTranslation": "不便な部分を改善します。",
+    "description": "よくない点を直して、よりよい状態に変えるときに使います。",
+    "usage": "『문제를 개선하다』より『환경을 개선하다（環境を改善する）』のような言い方が自然です。",
+    "hint": "悪い点をよくする。",
+    "acceptedAnswers": [
+      "개선하다",
+      "개선해요"
+    ],
+    "synonyms": [
+      {
+        "word": "좋게 고치다",
+        "meaning": "よく直す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "악화시키다",
+        "meaning": "悪化させる"
+      }
+    ]
+  },
+  {
+    "id": 1214,
+    "word": "보완하다",
+    "baseForm": "보완하다",
+    "highlightText": "보완해요",
+    "readingKatakana": "パオワンハアタア",
+    "romanization": "bowanhada",
+    "meaning": "補う、補完する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "그 부분을 보완하려고 해요.",
+    "exampleTranslation": "その部分を補おうと思います。",
+    "description": "不足している部分を埋めて、より完全にすることを表します。",
+    "usage": "『단점을 보완하다（短所を補う）』『자료를 보완하다（資料を補完する）』のように使います。",
+    "hint": "足りない部分を埋める。",
+    "acceptedAnswers": [
+      "보완하다",
+      "보완해요"
+    ],
+    "synonyms": [
+      {
+        "word": "보충하다",
+        "meaning": "補充する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "빼다",
+        "meaning": "抜く、減らす"
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "word": "강조하다",
+    "baseForm": "강조하다",
+    "highlightText": "강조했어요",
+    "readingKatakana": "カアンジャオハアタア",
+    "romanization": "gangjohada",
+    "meaning": "強調する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "基本形",
+    "example": "근거를 더 강조했어요.",
+    "exampleTranslation": "根拠をより強調しました。",
+    "description": "特に大事な点を目立つようにはっきり示すときに使います。",
+    "usage": "『중요성을 강조하다（重要性を強調する）』がよく使われます。",
+    "hint": "大事な点を目立たせる。",
+    "acceptedAnswers": [
+      "강조하다",
+      "강조했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "힘주어 말하다",
+        "meaning": "強調して言う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "축소하다",
+        "meaning": "縮小する"
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "word": "언급하다",
+    "baseForm": "언급하다",
+    "highlightText": "언급했어요",
+    "readingKatakana": "オンカウプハアタア",
+    "romanization": "eongeuphada",
+    "meaning": "言及する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "基本形",
+    "example": "일정 문제도 언급했어요.",
+    "exampleTranslation": "日程の問題にも言及しました。",
+    "description": "ある内容に軽く触れたり、話題として取り上げたりするときに使います。",
+    "usage": "『이 부분을 언급하다（この部分に言及する）』の形が自然です。",
+    "hint": "話題として触れる。",
+    "acceptedAnswers": [
+      "언급하다",
+      "언급했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "말하다",
+        "meaning": "話す、述べる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "침묵하다",
+        "meaning": "黙る"
+      }
+    ]
+  },
+  {
+    "id": 1217,
+    "word": "기록하다",
+    "baseForm": "기록하다",
+    "highlightText": "기록해요",
+    "readingKatakana": "カイラオクハアタア",
+    "romanization": "girokhada",
+    "meaning": "記録する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "메모장에 기록해 둬요.",
+    "exampleTranslation": "メモ帳に記録しておきます。",
+    "description": "後で見返せるように、文字や数字で書き残すときに使います。",
+    "usage": "『내용을 기록하다（内容を記録する）』の形が基本です。",
+    "hint": "書いて残す。",
+    "acceptedAnswers": [
+      "기록하다",
+      "기록해요"
+    ],
+    "synonyms": [
+      {
+        "word": "적어 두다",
+        "meaning": "書き留めておく"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "지우다",
+        "meaning": "消す"
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "word": "저장하다",
+    "baseForm": "저장하다",
+    "highlightText": "저장했어요",
+    "readingKatakana": "ジャオジャアンハアタア",
+    "romanization": "jeojanghada",
+    "meaning": "保存する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "새 폴더에 저장했어요.",
+    "exampleTranslation": "新しいフォルダに保存しました。",
+    "description": "データやファイルを消えないように保存するときに使う技術系の動詞です。",
+    "usage": "『파일을 저장하다（ファイルを保存する）』が定番です。",
+    "hint": "データを残しておく。",
+    "acceptedAnswers": [
+      "저장하다",
+      "저장했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "보관하다",
+        "meaning": "保管する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "삭제하다",
+        "meaning": "削除する"
+      }
+    ]
+  },
+  {
+    "id": 1219,
+    "word": "삭제하다",
+    "baseForm": "삭제하다",
+    "highlightText": "삭제했어요",
+    "readingKatakana": "サアクジャエハアタア",
+    "romanization": "sakjehada",
+    "meaning": "削除する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "바로 삭제했어요.",
+    "exampleTranslation": "すぐ削除しました。",
+    "description": "ファイルや内容を消してなくすときに使います。",
+    "usage": "『파일을 삭제하다（ファイルを削除する）』が基本です。",
+    "hint": "消してなくす。",
+    "acceptedAnswers": [
+      "삭제하다",
+      "삭제했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "지우다",
+        "meaning": "消す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "저장하다",
+        "meaning": "保存する"
+      }
+    ]
+  },
+  {
+    "id": 1220,
+    "word": "업로드하다",
+    "baseForm": "업로드하다",
+    "highlightText": "업로드했어요",
+    "readingKatakana": "オプラオタウハアタア",
+    "romanization": "eoprodeuhada",
+    "meaning": "アップロードする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "온라인으로 업로드했어요.",
+    "exampleTranslation": "オンラインでアップロードしました。",
+    "description": "自分の機器にあるデータをネット上へ送るときに使います。",
+    "usage": "『사진을 업로드하다（写真をアップロードする）』のように使います。",
+    "hint": "ネット上に送る。",
+    "acceptedAnswers": [
+      "업로드하다",
+      "업로드했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "올리다",
+        "meaning": "アップする、載せる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "다운로드하다",
+        "meaning": "ダウンロードする"
+      }
+    ]
+  },
+  {
+    "id": 1221,
+    "word": "다운로드하다",
+    "baseForm": "다운로드하다",
+    "highlightText": "다운로드했어요",
+    "readingKatakana": "タアウンラオタウハアタア",
+    "romanization": "daunrodeuhada",
+    "meaning": "ダウンロードする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "미리 다운로드해 두면 볼 수 있어요.",
+    "exampleTranslation": "先にダウンロードしておけば見られます。",
+    "description": "ネット上のデータを自分の機器に受け取るときに使います。",
+    "usage": "『앱을 다운로드하다（アプリをダウンロードする）』の形が定番です。",
+    "hint": "ネット上から受け取る。",
+    "acceptedAnswers": [
+      "다운로드하다",
+      "다운로드했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "내려받다",
+        "meaning": "ダウンロードする"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "업로드하다",
+        "meaning": "アップロードする"
+      }
+    ]
+  },
+  {
+    "id": 1222,
+    "word": "복사하다",
+    "baseForm": "복사하다",
+    "highlightText": "복사해요",
+    "readingKatakana": "パオクサアハアタア",
+    "romanization": "boksahada",
+    "meaning": "コピーする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "메모장에 복사해 둬요.",
+    "exampleTranslation": "メモ帳にコピーしておきます。",
+    "description": "同じ内容をもう一つ作る、コピーすることを表します。",
+    "usage": "『문서를 복사하다（文書をコピーする）』のように使います。",
+    "hint": "同じものをもう一つ作る。",
+    "acceptedAnswers": [
+      "복사하다",
+      "복사해요"
+    ],
+    "synonyms": [
+      {
+        "word": "카피하다",
+        "meaning": "コピーする"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "잘라내다",
+        "meaning": "切り取る"
+      }
+    ]
+  },
+  {
+    "id": 1223,
+    "word": "붙여넣다",
+    "baseForm": "붙여넣다",
+    "highlightText": "붙여넣었어요",
+    "readingKatakana": "パウッヨナオフタア",
+    "romanization": "butyeoneohda",
+    "meaning": "貼り付ける",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "새 문서에 붙여넣었어요.",
+    "exampleTranslation": "新しい文書に貼り付けました。",
+    "description": "コピーした内容を別の場所に入れるときに使います。",
+    "usage": "『복사해서 붙여넣다（コピーして貼り付ける）』でよく使います。",
+    "hint": "コピーしたものを入れる。",
+    "acceptedAnswers": [
+      "붙여넣다",
+      "붙여넣었어요"
+    ],
+    "synonyms": [
+      {
+        "word": "붙이다",
+        "meaning": "貼る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "삭제하다",
+        "meaning": "削除する"
+      }
+    ]
+  },
+  {
+    "id": 1224,
+    "word": "전송하다",
+    "baseForm": "전송하다",
+    "highlightText": "전송했어요",
+    "readingKatakana": "ジャオンサオンハアタア",
+    "romanization": "jeonsonghada",
+    "meaning": "転送する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "링크로 전송했어요.",
+    "exampleTranslation": "リンクで転送しました。",
+    "description": "情報やデータを相手や別の場所へ送るときに使います。",
+    "usage": "『메시지를 전송하다（メッセージを転送する）』のように使います。",
+    "hint": "データを送る。",
+    "acceptedAnswers": [
+      "전송하다",
+      "전송했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "보내다",
+        "meaning": "送る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "수신하다",
+        "meaning": "受信する"
+      }
+    ]
+  },
+  {
+    "id": 1225,
+    "word": "연결하다",
+    "baseForm": "연결하다",
+    "highlightText": "연결해요",
+    "readingKatakana": "ヨンカヨルハアタア",
+    "romanization": "yeongyeolhada",
+    "meaning": "接続する、つなぐ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "화면에 연결하면 편해요.",
+    "exampleTranslation": "画面につなぐと楽です。",
+    "description": "二つ以上のものをつないで一続きにするときに使います。",
+    "usage": "『인터넷에 연결하다（インターネットに接続する）』がよく使われます。",
+    "hint": "つなげる。",
+    "acceptedAnswers": [
+      "연결하다",
+      "연결해요"
+    ],
+    "synonyms": [
+      {
+        "word": "잇다",
+        "meaning": "つなぐ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "분리하다",
+        "meaning": "分離する"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "word": "차단하다",
+    "baseForm": "차단하다",
+    "highlightText": "차단했어요",
+    "readingKatakana": "チャアタアンハアタア",
+    "romanization": "chadanhada",
+    "meaning": "遮断する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "해당 계정을 차단했어요.",
+    "exampleTranslation": "そのアカウントをブロックしました。",
+    "description": "通らないように防いだり、接触できないようにしたりするときに使います。",
+    "usage": "『접근을 차단하다（アクセスを遮断する）』のように使います。",
+    "hint": "通れないように防ぐ。",
+    "acceptedAnswers": [
+      "차단하다",
+      "차단했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "막다",
+        "meaning": "防ぐ、塞ぐ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "허용하다",
+        "meaning": "許可する"
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "word": "설정하다",
+    "baseForm": "설정하다",
+    "highlightText": "설정했어요",
+    "readingKatakana": "サオルジャオンハアタア",
+    "romanization": "seoljeonghada",
+    "meaning": "設定する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "빈도를 다시 설정했어요.",
+    "exampleTranslation": "頻度を再設定しました。",
+    "description": "機器や条件などを自分が望む形に定めるときに使います。",
+    "usage": "『비밀번호를 설정하다（パスワードを設定する）』が定番です。",
+    "hint": "条件を決める。",
+    "acceptedAnswers": [
+      "설정하다",
+      "설정했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "맞추다",
+        "meaning": "設定する、合わせる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "해제하다",
+        "meaning": "解除する"
+      }
+    ]
+  },
+  {
+    "id": 1228,
+    "word": "수정하다",
+    "baseForm": "수정하다",
+    "highlightText": "수정했어요",
+    "readingKatakana": "サウジャオンハアタア",
+    "romanization": "sujeonghada",
+    "meaning": "修正する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "몇 군데 수정했어요.",
+    "exampleTranslation": "数か所修正しました。",
+    "description": "間違いや不自然な点を直して整えるときに使います。",
+    "usage": "『파일을 수정하다（ファイルを修正する）』『내용을 수정하다（内容を修正する）』で使います。",
+    "hint": "間違いを直す。",
+    "acceptedAnswers": [
+      "수정하다",
+      "수정했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "고치다",
+        "meaning": "直す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "그대로 두다",
+        "meaning": "そのままにしておく"
+      }
+    ]
+  },
+  {
+    "id": 1229,
+    "word": "검토하다",
+    "baseForm": "검토하다",
+    "highlightText": "검토해요",
+    "readingKatakana": "カオムタオハアタア",
+    "romanization": "geomtohada",
+    "meaning": "検討する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "여러 조건을 먼저 검토해요.",
+    "exampleTranslation": "いくつかの条件をまず検討します。",
+    "description": "決める前に内容をよく見て考えることを表します。",
+    "usage": "『가능성을 검토하다（可能性を検討する）』でよく使います。",
+    "hint": "決める前によく見る。",
+    "acceptedAnswers": [
+      "검토하다",
+      "검토해요"
+    ],
+    "synonyms": [
+      {
+        "word": "살펴보다",
+        "meaning": "検討する、よく見る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "즉시 결정하다",
+        "meaning": "すぐ決める"
+      }
+    ]
+  },
+  {
+    "id": 1230,
+    "word": "승인하다",
+    "baseForm": "승인하다",
+    "highlightText": "승인했어요",
+    "readingKatakana": "サウンインハアタア",
+    "romanization": "seunginhada",
+    "meaning": "承認する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "社会"
+    ],
+    "formality": "基本形",
+    "example": "확인하고 승인했어요.",
+    "exampleTranslation": "確認して承認しました。",
+    "description": "内容を認めて通すときに使う仕事語彙です。",
+    "usage": "『신청을 승인하다（申請を承認する）』が基本です。",
+    "hint": "認めて通す。",
+    "acceptedAnswers": [
+      "승인하다",
+      "승인했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "허가하다",
+        "meaning": "許可する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "거절하다",
+        "meaning": "断る"
+      }
+    ]
+  },
+  {
+    "id": 1231,
+    "word": "거절하다",
+    "baseForm": "거절하다",
+    "highlightText": "거절했어요",
+    "readingKatakana": "カオジャオルハアタア",
+    "romanization": "geojeolhada",
+    "meaning": "断る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "정중하게 거절했어요.",
+    "exampleTranslation": "丁寧に断りました。",
+    "description": "相手の依頼や提案を受け入れずに断ることを表します。",
+    "usage": "『제안을 거절하다（提案を断る）』のように使います。",
+    "hint": "受け入れずに断る。",
+    "acceptedAnswers": [
+      "거절하다",
+      "거절했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "사양하다",
+        "meaning": "辞退する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "승인하다",
+        "meaning": "承認する"
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "word": "요청하다",
+    "baseForm": "요청하다",
+    "highlightText": "요청했어요",
+    "readingKatakana": "ヨチャオンハアタア",
+    "romanization": "yocheonghada",
+    "meaning": "要請する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "정중하게 요청했어요.",
+    "exampleTranslation": "丁寧に要請しました。",
+    "description": "必要なことを相手に正式に求めるときに使います。",
+    "usage": "『도움을 요청하다（助けを要請する）』の形で使います。",
+    "hint": "相手に求める。",
+    "acceptedAnswers": [
+      "요청하다",
+      "요청했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "부탁하다",
+        "meaning": "頼む"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "거절하다",
+        "meaning": "断る"
+      }
+    ]
+  },
+  {
+    "id": 1233,
+    "word": "문의하다",
+    "baseForm": "문의하다",
+    "highlightText": "문의했어요",
+    "readingKatakana": "マウンウィハアタア",
+    "romanization": "munuihada",
+    "meaning": "問い合わせる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "고객센터에 문의했어요.",
+    "exampleTranslation": "カスタマーセンターに問い合わせました。",
+    "description": "詳しい内容を知るために、窓口などへたずねるときに使います。",
+    "usage": "『고객센터에 문의하다（顧客センターに問い合わせる）』が定番です。",
+    "hint": "詳しくたずねる。",
+    "acceptedAnswers": [
+      "문의하다",
+      "문의했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "물어보다",
+        "meaning": "問い合わせる、聞いてみる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "넘기다",
+        "meaning": "そのまま流す"
+      }
+    ]
+  },
+  {
+    "id": 1234,
+    "word": "안내하다",
+    "baseForm": "안내하다",
+    "highlightText": "안내해요",
+    "readingKatakana": "アンナエハアタア",
+    "romanization": "annaehada",
+    "meaning": "案内する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "사용 방법을 안내해요.",
+    "exampleTranslation": "使い方を案内します。",
+    "description": "場所や方法、手順などをわかりやすく知らせるときに使います。",
+    "usage": "『길을 안내하다（道案内する）』『절차를 안내하다（手順を案内する）』のように使います。",
+    "hint": "わかるように知らせる。",
+    "acceptedAnswers": [
+      "안내하다",
+      "안내해요"
+    ],
+    "synonyms": [
+      {
+        "word": "설명하다",
+        "meaning": "説明する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "혼란스럽게 하다",
+        "meaning": "混乱させる"
+      }
+    ]
+  },
+  {
+    "id": 1235,
+    "word": "제공하다",
+    "baseForm": "제공하다",
+    "highlightText": "제공해요",
+    "readingKatakana": "ジャエカオンハアタア",
+    "romanization": "jegonghada",
+    "meaning": "提供する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "社会"
+    ],
+    "formality": "基本形",
+    "example": "정보를 쉽게 제공해요.",
+    "exampleTranslation": "情報を簡単に提供します。",
+    "description": "必要なものや情報、機会などを相手に与えることを表します。",
+    "usage": "『정보를 제공하다（情報を提供する）』がよく使われます。",
+    "hint": "相手に与える。",
+    "acceptedAnswers": [
+      "제공하다",
+      "제공해요"
+    ],
+    "synonyms": [
+      {
+        "word": "주다",
+        "meaning": "与える"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차단하다",
+        "meaning": "遮断する"
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "word": "제안하다",
+    "baseForm": "제안하다",
+    "highlightText": "제안했어요",
+    "readingKatakana": "ジャエアンハアタア",
+    "romanization": "jeanhada",
+    "meaning": "提案する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "회의에서 제안했어요.",
+    "exampleTranslation": "会議で提案しました。",
+    "description": "自分の考えや案を相手に出してみるときに使います。",
+    "usage": "『새로운 방법을 제안하다（新しい方法を提案する）』のように使います。",
+    "hint": "案を出す。",
+    "acceptedAnswers": [
+      "제안하다",
+      "제안했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "권하다",
+        "meaning": "勧める、提案する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "반대하다",
+        "meaning": "反対する"
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "word": "추천받다",
+    "baseForm": "추천받다",
+    "highlightText": "추천받았어요",
+    "readingKatakana": "チャウチャオンパアッタア",
+    "romanization": "chucheonbatda",
+    "meaning": "おすすめしてもらう",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "会話"
+    ],
+    "formality": "基本形",
+    "example": "친구에게 추천받았어요.",
+    "exampleTranslation": "友達におすすめされました。",
+    "description": "他の人からおすすめしてもらうことを表す受け身の形です。",
+    "usage": "『책을 추천받다（本をおすすめしてもらう）』のように使います。",
+    "hint": "相手に勧めてもらう。",
+    "acceptedAnswers": [
+      "추천받다",
+      "추천받았어요"
+    ],
+    "synonyms": [
+      {
+        "word": "권유받다",
+        "meaning": "勧められる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "직접 고르다",
+        "meaning": "自分で選ぶ"
+      }
+    ]
+  },
+  {
+    "id": 1238,
+    "word": "권하다",
+    "baseForm": "권하다",
+    "highlightText": "권했어요",
+    "readingKatakana": "カウォンハアタア",
+    "romanization": "gwonhada",
+    "meaning": "勧める",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "会話"
+    ],
+    "formality": "基本形",
+    "example": "일찍 쉬라고 권했어요.",
+    "exampleTranslation": "早く休むよう勧めました。",
+    "description": "相手にある行動や物をよいものとして勧めるときに使います。",
+    "usage": "『약을 권하다（薬を勧める）』『휴식을 권하다（休息を勧める）』のように使います。",
+    "hint": "相手に勧める。",
+    "acceptedAnswers": [
+      "권하다",
+      "권했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "추천하다",
+        "meaning": "おすすめする"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "말리다",
+        "meaning": "止める"
+      }
+    ]
+  },
+  {
+    "id": 1239,
+    "word": "거르다",
+    "baseForm": "거르다",
+    "highlightText": "거르지",
+    "readingKatakana": "カオラウタア",
+    "romanization": "georeuda",
+    "meaning": "抜かす、省く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "食事"
+    ],
+    "formality": "基本形",
+    "example": "아침을 자주 거르면 피곤해요.",
+    "exampleTranslation": "朝食をよく抜くと疲れます。",
+    "description": "本来するはずのことや食事などを抜かすことを表します。",
+    "usage": "『식사를 거르다（食事を抜く）』が定番です。",
+    "hint": "本来あるものを抜かす。",
+    "acceptedAnswers": [
+      "거르다",
+      "거르지"
+    ],
+    "synonyms": [
+      {
+        "word": "빼먹다",
+        "meaning": "抜かす、うっかり抜く"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "챙기다",
+        "meaning": "きちんと取る、用意する"
+      }
+    ]
+  },
+  {
+    "id": 1240,
+    "word": "건너뛰다",
+    "baseForm": "건너뛰다",
+    "highlightText": "건너뛰었어요",
+    "readingKatakana": "カオンナオッタウィタア",
+    "romanization": "geonneottwida",
+    "meaning": "飛ばす、スキップする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "잠깐 건너뛰고 넘어갔어요.",
+    "exampleTranslation": "少し飛ばして進みました。",
+    "description": "順番の一部を飛ばして先へ進むことを表します。",
+    "usage": "『한 페이지를 건너뛰다（1ページ飛ばす）』のように使います。",
+    "hint": "飛ばして先へ行く。",
+    "acceptedAnswers": [
+      "건너뛰다",
+      "건너뛰었어요"
+    ],
+    "synonyms": [
+      {
+        "word": "생략하다",
+        "meaning": "省略する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차례대로 하다",
+        "meaning": "順番どおりにする"
+      }
+    ]
+  },
+  {
+    "id": 1241,
+    "word": "반복하다",
+    "baseForm": "반복하다",
+    "highlightText": "반복해요",
+    "readingKatakana": "パアンパオクハアタア",
+    "romanization": "banbokhada",
+    "meaning": "反復する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "반복하면 더 익어요.",
+    "exampleTranslation": "繰り返すともっとなじみます。",
+    "description": "同じことを何度もくり返すことを表す動詞です。",
+    "usage": "『같은 실수를 반복하다（同じミスを繰り返す）』でもよく使います。",
+    "hint": "何度もくり返す。",
+    "acceptedAnswers": [
+      "반복하다",
+      "반복해요"
+    ],
+    "synonyms": [
+      {
+        "word": "되풀이하다",
+        "meaning": "繰り返す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "중단하다",
+        "meaning": "中断する"
+      }
+    ]
+  },
+  {
+    "id": 1242,
+    "word": "암기하다",
+    "baseForm": "암기하다",
+    "highlightText": "암기했어요",
+    "readingKatakana": "アムカイハアタア",
+    "romanization": "amgihada",
+    "meaning": "暗記する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "基本形",
+    "example": "문장을 통째로 암기하지 않아요.",
+    "exampleTranslation": "文を丸ごと暗記しません。",
+    "description": "内容を頭に入れて覚える、暗記することを表します。",
+    "usage": "『공식을 암기하다（公式を暗記する）』でよく使います。",
+    "hint": "頭に入れて覚える。",
+    "acceptedAnswers": [
+      "암기하다",
+      "암기했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "외우다",
+        "meaning": "覚える、暗記する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "잊다",
+        "meaning": "忘れる"
+      }
+    ]
+  },
+  {
+    "id": 1243,
+    "word": "복습하다",
+    "baseForm": "복습하다",
+    "highlightText": "복습했어요",
+    "readingKatakana": "パオクサウプハアタア",
+    "romanization": "bokseuphada",
+    "meaning": "復習する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "基本形",
+    "example": "바로 복습하면 기억에 남아요.",
+    "exampleTranslation": "すぐ復習すると記憶に残ります。",
+    "description": "一度学んだ内容をもう一度見直すことを表します。",
+    "usage": "『오늘 배운 내용을 복습하다（今日学んだ内容を復習する）』で使います。",
+    "hint": "もう一度見直す。",
+    "acceptedAnswers": [
+      "복습하다",
+      "복습했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "되짚어 보다",
+        "meaning": "振り返って見直す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "예습하다",
+        "meaning": "予習する"
+      }
+    ]
+  },
+  {
+    "id": 1244,
+    "word": "예습하다",
+    "baseForm": "예습하다",
+    "highlightText": "예습해요",
+    "readingKatakana": "イェサウプハアタア",
+    "romanization": "yeseuphada",
+    "meaning": "予習する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "基本形",
+    "example": "가볍게 예습해 두면 빨라요.",
+    "exampleTranslation": "軽く予習しておくと速いです。",
+    "description": "これから学ぶ内容を前もって見ておくことを表します。",
+    "usage": "『교재를 예습하다（教材を予習する）』のように使います。",
+    "hint": "前もって勉強する。",
+    "acceptedAnswers": [
+      "예습하다",
+      "예습해요"
+    ],
+    "synonyms": [
+      {
+        "word": "미리 보다",
+        "meaning": "前もって見る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "복습하다",
+        "meaning": "復習する"
+      }
+    ]
+  },
+  {
+    "id": 1245,
+    "word": "응용하다",
+    "baseForm": "응용하다",
+    "highlightText": "응용해요",
+    "readingKatakana": "ウンヨンハアタア",
+    "romanization": "eungyonghada",
+    "meaning": "応用する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "基本形",
+    "example": "상황에 맞게 응용해 보세요.",
+    "exampleTranslation": "状況に合わせて応用してみてください。",
+    "description": "学んだ内容を別の場面に合わせて使うことを表します。",
+    "usage": "『배운 걸 응용하다（学んだことを応用する）』の形が自然です。",
+    "hint": "学んだことを別の場面で使う。",
+    "acceptedAnswers": [
+      "응용하다",
+      "응용해요"
+    ],
+    "synonyms": [
+      {
+        "word": "활용하다",
+        "meaning": "活用する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "기계적으로 외우다",
+        "meaning": "機械的に覚える"
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "word": "조율하다",
+    "baseForm": "조율하다",
+    "highlightText": "조율했어요",
+    "readingKatakana": "チョユラダ",
+    "romanization": "joyulhada",
+    "meaning": "調整する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "対話"
+    ],
+    "formality": "基本形",
+    "example": "일정을 조율했어요.",
+    "exampleTranslation": "日程を調整しました。",
+    "description": "意見や予定の違いをすり合わせて整えることを表します。",
+    "usage": "『일정을 조율하다（日程を調整する）』でよく使います。",
+    "hint": "서로 맞게 조정하다.",
+    "acceptedAnswers": [
+      "조율하다",
+      "조율했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "조정하다",
+        "meaning": "調整する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "엇갈리다",
+        "meaning": "食い違う"
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "word": "포기되다",
+    "baseForm": "포기되다",
+    "highlightText": "포기됐어요",
+    "readingKatakana": "パオカイタウェタア",
+    "romanization": "pogidoeda",
+    "meaning": "放棄される",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "人生",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "원래 계획은 포기됐어요.",
+    "exampleTranslation": "元の計画は断念されました。",
+    "description": "何かが続けられず、途中でやめられることを表す受け身形です。",
+    "usage": "『계획이 포기되다（計画が放棄される）』のように使います。",
+    "hint": "続けられずやめられる。",
+    "acceptedAnswers": [
+      "포기되다",
+      "포기됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "취소되다",
+        "meaning": "取り消される"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "추진되다",
+        "meaning": "推進される"
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "word": "적응하다",
+    "baseForm": "적응하다",
+    "highlightText": "적응했어요",
+    "readingKatakana": "ジャオクウンハアタア",
+    "romanization": "jeokeunghada",
+    "meaning": "適応する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "人生",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "금방 적응했어요.",
+    "exampleTranslation": "すぐ順応しました。",
+    "description": "新しい環境や状況に慣れてうまくやれるようになることを表します。",
+    "usage": "『새 환경에 적응하다（新しい環境に適応する）』が定番です。",
+    "hint": "新しい環境に慣れる。",
+    "acceptedAnswers": [
+      "적응하다",
+      "적응했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "익숙해지다",
+        "meaning": "慣れる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낯설어하다",
+        "meaning": "見慣れなく感じる"
+      }
+    ]
+  },
+  {
+    "id": 1249,
+    "word": "익숙해지다",
+    "baseForm": "익숙해지다",
+    "highlightText": "익숙해졌어요",
+    "readingKatakana": "イクサウクハエジャイタア",
+    "romanization": "iksukhaejida",
+    "meaning": "慣れる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "표현도 점점 익숙해졌어요.",
+    "exampleTranslation": "表現にもだんだん慣れました。",
+    "description": "何度も経験して、自然に感じるようになることを表します。",
+    "usage": "『발음에 익숙해지다（発音に慣れる）』のように使います。",
+    "hint": "だんだん慣れる。",
+    "acceptedAnswers": [
+      "익숙해지다",
+      "익숙해졌어요"
+    ],
+    "synonyms": [
+      {
+        "word": "적응하다",
+        "meaning": "適応する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낯설다",
+        "meaning": "見慣れない"
+      }
+    ]
+  },
+  {
+    "id": 1250,
+    "word": "낯설어하다",
+    "baseForm": "낯설어하다",
+    "highlightText": "낯설어했어요",
+    "readingKatakana": "ナアッサオルオハアタア",
+    "romanization": "natseoleohada",
+    "meaning": "見慣れなく感じる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "아이가 조금 낯설어했어요.",
+    "exampleTranslation": "子どもが少し戸惑っていました。",
+    "description": "見慣れないものに戸惑ったり違和感を覚えたりすることを表します。",
+    "usage": "『새 환경을 낯설어하다（新しい環境に違和感を覚える）』のように使います。",
+    "hint": "見慣れなく感じる。",
+    "acceptedAnswers": [
+      "낯설어하다",
+      "낯설어했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "어색해하다",
+        "meaning": "ぎこちなく感じる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "편안해하다",
+        "meaning": "気楽に感じる"
+      }
+    ]
+  },
+  {
+    "id": 1251,
+    "word": "달성하다",
+    "baseForm": "달성하다",
+    "highlightText": "달성했어요",
+    "readingKatakana": "タアルサオンハアタア",
+    "romanization": "dalseonghada",
+    "meaning": "達成する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "基本形",
+    "example": "목표를 빨리 달성했어요.",
+    "exampleTranslation": "目標を早く達成しました。",
+    "description": "目標や基準に到達することを表す動詞です。",
+    "usage": "『목표를 달성하다（目標を達成する）』が定番です。",
+    "hint": "目標に届く。",
+    "acceptedAnswers": [
+      "달성하다",
+      "달성했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "이루다",
+        "meaning": "成し遂げる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실패하다",
+        "meaning": "失敗する"
+      }
+    ]
+  },
+  {
+    "id": 1252,
+    "word": "실현하다",
+    "baseForm": "실현하다",
+    "highlightText": "실현하고",
+    "readingKatakana": "サイルハヨンハアタア",
+    "romanization": "silhyeonhada",
+    "meaning": "実現する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "계획을 실현하고 싶어요.",
+    "exampleTranslation": "計画を実現したいです。",
+    "description": "考えや夢、計画などを現実のものにすることを表します。",
+    "usage": "『꿈을 실현하다（夢を実現する）』がよく使われます。",
+    "hint": "考えを現実にする。",
+    "acceptedAnswers": [
+      "실현하다",
+      "실현하고"
+    ],
+    "synonyms": [
+      {
+        "word": "이루다",
+        "meaning": "かなえる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무산되다",
+        "meaning": "だめになる"
+      }
+    ]
+  },
+  {
+    "id": 1253,
+    "word": "체험하다",
+    "baseForm": "체험하다",
+    "highlightText": "체험했어요",
+    "readingKatakana": "チャエハオムハアタア",
+    "romanization": "cheheomhada",
+    "meaning": "体験する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "文化"
+    ],
+    "formality": "基本形",
+    "example": "직접 체험해 볼 수 있어요.",
+    "exampleTranslation": "直接体験してみられます。",
+    "description": "実際にやってみたり感じたりして経験することを表します。",
+    "usage": "『전통 문화를 체험하다（伝統文化を体験する）』で使います。",
+    "hint": "実際にやって経験する。",
+    "acceptedAnswers": [
+      "체험하다",
+      "체험했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "경험하다",
+        "meaning": "経験する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "구경만 하다",
+        "meaning": "見るだけにする"
+      }
+    ]
+  },
+  {
+    "id": 1254,
+    "word": "감상하다",
+    "baseForm": "감상하다",
+    "highlightText": "감상했어요",
+    "readingKatakana": "カアムサアンハアタア",
+    "romanization": "gamsanghada",
+    "meaning": "鑑賞する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "작품을 천천히 감상했어요.",
+    "exampleTranslation": "作品をゆっくり鑑賞しました。",
+    "description": "芸術作品や景色などを味わいながら見ることを表します。",
+    "usage": "『영화를 감상하다（映画を鑑賞する）』のように使います。",
+    "hint": "味わいながら見る。",
+    "acceptedAnswers": [
+      "감상하다",
+      "감상했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "즐기다",
+        "meaning": "楽しむ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대충 보다",
+        "meaning": "ざっと見る"
+      }
+    ]
+  },
+  {
+    "id": 1255,
+    "word": "관찰하다",
+    "baseForm": "관찰하다",
+    "highlightText": "관찰했어요",
+    "readingKatakana": "カワンチャアルハアタア",
+    "romanization": "gwanchalhada",
+    "meaning": "観察する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "계속 관찰했어요.",
+    "exampleTranslation": "ずっと観察しました。",
+    "description": "細かい様子や変化を注意深く見ることを表します。",
+    "usage": "『행동을 관찰하다（行動を観察する）』でよく使います。",
+    "hint": "注意深く見る。",
+    "acceptedAnswers": [
+      "관찰하다",
+      "관찰했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "지켜보다",
+        "meaning": "見守る、観察する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "지나치다",
+        "meaning": "見過ごす"
+      }
+    ]
+  },
+  {
+    "id": 1256,
+    "word": "측정하다",
+    "baseForm": "측정하다",
+    "highlightText": "측정했어요",
+    "readingKatakana": "チャウクジャオンハアタア",
+    "romanization": "cheukjeonghada",
+    "meaning": "測定する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "健康"
+    ],
+    "formality": "基本形",
+    "example": "체온과 심박수를 측정했어요.",
+    "exampleTranslation": "体温と心拍数を測定しました。",
+    "description": "数値や長さ、温度などを測ることを表します。",
+    "usage": "『거리를 측정하다（距離を測定する）』のように使います。",
+    "hint": "数値として測る。",
+    "acceptedAnswers": [
+      "측정하다",
+      "측정했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "재다",
+        "meaning": "測る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대충 짐작하다",
+        "meaning": "だいたい見当をつける"
+      }
+    ]
+  },
+  {
+    "id": 1257,
+    "word": "비교하다",
+    "baseForm": "비교하다",
+    "highlightText": "비교해요",
+    "readingKatakana": "パイカヨハアタア",
+    "romanization": "bigyohada",
+    "meaning": "比較する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "직접 비교해 보고 결정해요.",
+    "exampleTranslation": "直接比べてから決めます。",
+    "description": "二つ以上のものを並べて違いや共通点を見るときに使います。",
+    "usage": "『가격을 비교하다（価格を比較する）』が定番です。",
+    "hint": "並べて違いを見る。",
+    "acceptedAnswers": [
+      "비교하다",
+      "비교해요"
+    ],
+    "synonyms": [
+      {
+        "word": "대조하다",
+        "meaning": "対照する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "그대로 받아들이다",
+        "meaning": "そのまま受け入れる"
+      }
+    ]
+  },
+  {
+    "id": 1258,
+    "word": "판단하다",
+    "baseForm": "판단하다",
+    "highlightText": "판단했어요",
+    "readingKatakana": "パアンタアンハアタア",
+    "romanization": "pandanhada",
+    "meaning": "判断する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "지금은 판단하지 않으려고 해요.",
+    "exampleTranslation": "今は判断しないようにしています。",
+    "description": "状況を見て自分なりの結論を出すことを表します。",
+    "usage": "『상황을 판단하다（状況を判断する）』のように使います。",
+    "hint": "見て結論を出す。",
+    "acceptedAnswers": [
+      "판단하다",
+      "판단했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "결론내리다",
+        "meaning": "結論を出す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "망설이다",
+        "meaning": "ためらう"
+      }
+    ]
+  },
+  {
+    "id": 1259,
+    "word": "예상하다",
+    "baseForm": "예상하다",
+    "highlightText": "예상했어요",
+    "readingKatakana": "イェサアンハアタア",
+    "romanization": "yesanghada",
+    "meaning": "予想する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "비를 예상했어요.",
+    "exampleTranslation": "雨を予想していました。",
+    "description": "앞으로 일어날 일을 미리 생각하는 것을表します。",
+    "usage": "『결과를 예상하다（結果を予想する）』でよく使います。",
+    "hint": "先に見当をつける。",
+    "acceptedAnswers": [
+      "예상하다",
+      "예상했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "예측하다",
+        "meaning": "予測する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "확신하다",
+        "meaning": "確信する"
+      }
+    ]
+  },
+  {
+    "id": 1260,
+    "word": "추측하다",
+    "baseForm": "추측하다",
+    "highlightText": "추측했어요",
+    "readingKatakana": "チャウチャウクハアタア",
+    "romanization": "chucheukhada",
+    "meaning": "推測する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "그렇게 추측했어요.",
+    "exampleTranslation": "そう推測しました。",
+    "description": "確かな根拠は十分ではないが、状況からそうだろうと考えることを表します。",
+    "usage": "『원인을 추측하다（原因を推測する）』のように使います。",
+    "hint": "手がかりから考える。",
+    "acceptedAnswers": [
+      "추측하다",
+      "추측했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "짐작하다",
+        "meaning": "見当をつける"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "확인하다",
+        "meaning": "確認する"
+      }
+    ]
+  },
+  {
+    "id": 1261,
+    "word": "오해하다",
+    "baseForm": "오해하다",
+    "highlightText": "오해했어요",
+    "readingKatakana": "オハエハアタア",
+    "romanization": "ohaehada",
+    "meaning": "誤解する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "오해하신 거예요.",
+    "exampleTranslation": "誤解されたのです。",
+    "description": "相手の言葉や状況を本来と違う意味で受け取ることを表します。",
+    "usage": "『상대를 오해하다（相手を誤解する）』が定番です。",
+    "hint": "違う意味で受け取る。",
+    "acceptedAnswers": [
+      "오해하다",
+      "오해했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "잘못 이해하다",
+        "meaning": "誤って理解する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "제대로 이해하다",
+        "meaning": "正しく理解する"
+      }
+    ]
+  },
+  {
+    "id": 1262,
+    "word": "해명하다",
+    "baseForm": "해명하다",
+    "highlightText": "해명했어요",
+    "readingKatakana": "ハエマヨンハアタア",
+    "romanization": "haemyeonghada",
+    "meaning": "釈明する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "차분히 해명했어요.",
+    "exampleTranslation": "落ち着いて釈明しました。",
+    "description": "誤解や疑いに対して事情を説明して明らかにすることを表します。",
+    "usage": "『사실을 해명하다（事実を釈明する）』のように使います。",
+    "hint": "誤解をとくために説明する。",
+    "acceptedAnswers": [
+      "해명하다",
+      "해명했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "설명하다",
+        "meaning": "説明する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "숨기다",
+        "meaning": "隠す"
+      }
+    ]
+  },
+  {
+    "id": 1263,
+    "word": "설득하다",
+    "baseForm": "설득하다",
+    "highlightText": "설득했어요",
+    "readingKatakana": "サオルタウクハアタア",
+    "romanization": "seoldeukhada",
+    "meaning": "説得する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "친구를 설득했어요.",
+    "exampleTranslation": "友達を説得しました。",
+    "description": "상대가 내 의견을 받아들이도록 이끄는 것을表します。",
+    "usage": "『상대를 설득하다（相手を説得する）』でよく使います。",
+    "hint": "相手に納得してもらう。",
+    "acceptedAnswers": [
+      "설득하다",
+      "설득했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "납득시키다",
+        "meaning": "納得させる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "반발하게 하다",
+        "meaning": "反発させる"
+      }
+    ]
+  },
+  {
+    "id": 1264,
+    "word": "동의하다",
+    "baseForm": "동의하다",
+    "highlightText": "동의해요",
+    "readingKatakana": "タオンウィハアタア",
+    "romanization": "donguihada",
+    "meaning": "同意する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "큰 방향에는 동의해요.",
+    "exampleTranslation": "大きな方向性には同意します。",
+    "description": "相手の意見や内容に賛成することを表します。",
+    "usage": "『의견에 동의하다（意見に同意する）』が基本です。",
+    "hint": "賛成する。",
+    "acceptedAnswers": [
+      "동의하다",
+      "동의해요"
+    ],
+    "synonyms": [
+      {
+        "word": "찬성하다",
+        "meaning": "賛成する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "반대하다",
+        "meaning": "反対する"
+      }
+    ]
+  },
+  {
+    "id": 1265,
+    "word": "반대하다",
+    "baseForm": "반대하다",
+    "highlightText": "반대했어요",
+    "readingKatakana": "パアンタエハアタア",
+    "romanization": "bandaehada",
+    "meaning": "反対する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "실행 방식에는 반대했어요.",
+    "exampleTranslation": "実行方法には反対しました。",
+    "description": "相手の考えや提案に賛成しないことを表します。",
+    "usage": "『의견에 반대하다（意見に反対する）』のように使います。",
+    "hint": "賛成しない。",
+    "acceptedAnswers": [
+      "반대하다",
+      "반대했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "이의를 제기하다",
+        "meaning": "異議を唱える"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "동의하다",
+        "meaning": "同意する"
+      }
+    ]
+  },
+  {
+    "id": 1266,
+    "word": "양보하다",
+    "baseForm": "양보하다",
+    "highlightText": "양보했어요",
+    "readingKatakana": "ヤンパオハアタア",
+    "romanization": "yangbohada",
+    "meaning": "譲歩する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "제가 먼저 양보했어요.",
+    "exampleTranslation": "私が先に譲歩しました。",
+    "description": "自分の意見や順番を少し譲ることを表します。",
+    "usage": "『자리를 양보하다（席を譲る）』でよく使います。",
+    "hint": "自分の分を少し譲る。",
+    "acceptedAnswers": [
+      "양보하다",
+      "양보했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "내주다",
+        "meaning": "譲る、渡す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "고집하다",
+        "meaning": "言い張る"
+      }
+    ]
+  },
+  {
+    "id": 1267,
+    "word": "배려하다",
+    "baseForm": "배려하다",
+    "highlightText": "배려해요",
+    "readingKatakana": "パエラヨハアタア",
+    "romanization": "baeryeohada",
+    "meaning": "配慮する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "듣는 사람도 배려해야 해요.",
+    "exampleTranslation": "聞く人にも配慮しないといけません。",
+    "description": "相手の状況や気持ちを考えて行動することを表します。",
+    "usage": "『상대를 배려하다（相手に配慮する）』が定番です。",
+    "hint": "相手の立場を考える。",
+    "acceptedAnswers": [
+      "배려하다",
+      "배려해요"
+    ],
+    "synonyms": [
+      {
+        "word": "신경 쓰다",
+        "meaning": "気を配る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시하다",
+        "meaning": "無視する"
+      }
+    ]
+  },
+  {
+    "id": 1268,
+    "word": "존중하다",
+    "baseForm": "존중하다",
+    "highlightText": "존중해요",
+    "readingKatakana": "ジャオンジャウンハアタア",
+    "romanization": "jonjunghada",
+    "meaning": "尊重する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "서로의 선택은 존중해야 해요.",
+    "exampleTranslation": "互いの選択は尊重すべきです。",
+    "description": "相手の考えや価値を大切に扱うことを表します。",
+    "usage": "『의견을 존중하다（意見を尊重する）』の形がよく使われます。",
+    "hint": "大切に扱う。",
+    "acceptedAnswers": [
+      "존중하다",
+      "존중해요"
+    ],
+    "synonyms": [
+      {
+        "word": "귀하게 여기다",
+        "meaning": "大切に考える"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시하다",
+        "meaning": "無視する"
+      }
+    ]
+  },
+  {
+    "id": 1269,
+    "word": "무시하다",
+    "baseForm": "무시하다",
+    "highlightText": "무시했어요",
+    "readingKatakana": "マウサイハアタア",
+    "romanization": "musihada",
+    "meaning": "無視する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "바로 무시한 건 안 좋았어요.",
+    "exampleTranslation": "すぐ無視したのはよくありませんでした。",
+    "description": "気にかけず相手にしないことを表す動詞です。",
+    "usage": "『의견을 무시하다（意見を無視する）』の形でよく使います。",
+    "hint": "気にせず相手にしない。",
+    "acceptedAnswers": [
+      "무시하다",
+      "무시했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "외면하다",
+        "meaning": "そっぽを向く、無視する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "존중하다",
+        "meaning": "尊重する"
+      }
+    ]
+  },
+  {
+    "id": 1270,
+    "word": "신뢰하다",
+    "baseForm": "신뢰하다",
+    "highlightText": "신뢰해요",
+    "readingKatakana": "サインラウェハアタア",
+    "romanization": "sinroehada",
+    "meaning": "信頼する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "더 신뢰하게 돼요.",
+    "exampleTranslation": "より信頼するようになります。",
+    "description": "相手や情報を 믿고 맡길 수 있다고 여기는 것을表します。",
+    "usage": "『상대를 신뢰하다（相手を信頼する）』でよく使います。",
+    "hint": " 믿고 맡기다。",
+    "acceptedAnswers": [
+      "신뢰하다",
+      "신뢰해요"
+    ],
+    "synonyms": [
+      {
+        "word": "믿다",
+        "meaning": "信じる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "의심하다",
+        "meaning": "疑う"
+      }
+    ]
+  },
+  {
+    "id": 1271,
+    "word": "의심하다",
+    "baseForm": "의심하다",
+    "highlightText": "의심했어요",
+    "readingKatakana": "ウィサイムハアタア",
+    "romanization": "uisimhada",
+    "meaning": "疑う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "조금 의심했어요.",
+    "exampleTranslation": "少し疑いました。",
+    "description": "本当かどうか 믿기 어려워疑うことを表します。",
+    "usage": "『사실을 의심하다（事実を疑う）』のように使います。",
+    "hint": "本当か疑う。",
+    "acceptedAnswers": [
+      "의심하다",
+      "의심했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "수상하게 여기다",
+        "meaning": "怪しく思う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "신뢰하다",
+        "meaning": "信頼する"
+      }
+    ]
+  },
+  {
+    "id": 1272,
+    "word": "대하다",
+    "baseForm": "대하다",
+    "highlightText": "대해야",
+    "readingKatakana": "タエハアタア",
+    "romanization": "daehada",
+    "meaning": "接する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "会話",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "더 조심해서 대해야 해요.",
+    "exampleTranslation": "もっと気をつけて接しないといけません。",
+    "description": "相手に接する、向き合うという意味で幅広く使われる動詞です。",
+    "usage": "『상대방을 존중하며 대하다（相手を尊重して接する）』のように使います。",
+    "hint": "接する。",
+    "acceptedAnswers": [
+      "대하다",
+      "대해야"
+    ],
+    "synonyms": [
+      {
+        "word": "접하다",
+        "meaning": "接する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "멀리하다",
+        "meaning": "遠ざける"
+      }
+    ]
+  },
+  {
+    "id": 1273,
+    "word": "대응하다",
+    "baseForm": "대응하다",
+    "highlightText": "대응했어요",
+    "readingKatakana": "タエウンハアタア",
+    "romanization": "daeeunghada",
+    "meaning": "対応する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "社会"
+    ],
+    "formality": "基本形",
+    "example": "팀이 빠르게 대응했어요.",
+    "exampleTranslation": "チームが素早く対応しました。",
+    "description": "問題や状況に合わせて適切に行動することを表します。",
+    "usage": "『문제에 대응하다（問題に対応する）』が基本です。",
+    "hint": "状況に合わせて動く。",
+    "acceptedAnswers": [
+      "대응하다",
+      "대응했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "대처하다",
+        "meaning": "対処する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방치하다",
+        "meaning": "放置する"
+      }
+    ]
+  },
+  {
+    "id": 1274,
+    "word": "준비되다",
+    "baseForm": "준비되다",
+    "highlightText": "준비됐어요",
+    "readingKatakana": "ジャウンパイタウェタア",
+    "romanization": "junbidoeda",
+    "meaning": "準備される",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "전부 준비됐어요.",
+    "exampleTranslation": "全部準備できました。",
+    "description": "必要なものがそろって始められる状態になることを表します。",
+    "usage": "『준비가 되다（準備ができる）』の形でもよく使います。",
+    "hint": "始められる状態になる。",
+    "acceptedAnswers": [
+      "준비되다",
+      "준비됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "갖춰지다",
+        "meaning": "整う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "부족하다",
+        "meaning": "不足する"
+      }
+    ]
+  },
+  {
+    "id": 1275,
+    "word": "정착하다",
+    "baseForm": "정착하다",
+    "highlightText": "정착했어요",
+    "readingKatakana": "ジャオンチャアクハアタア",
+    "romanization": "jeongchakhada",
+    "meaning": "定着する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "人生",
+      "社会"
+    ],
+    "formality": "基本形",
+    "example": "조금 정착한 것 같아요.",
+    "exampleTranslation": "少し定着した気がします。",
+    "description": "新しい習慣や制度などが安定して根づくことを表します。",
+    "usage": "『문화가 정착하다（文化が定着する）』のように使います。",
+    "hint": "根づいて安定する。",
+    "acceptedAnswers": [
+      "정착하다",
+      "정착했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "자리 잡다",
+        "meaning": "자리を取って定着する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "사라지다",
+        "meaning": "消える"
+      }
+    ]
+  },
+  {
+    "id": 1276,
+    "word": "정돈되다",
+    "baseForm": "정돈되다",
+    "highlightText": "정돈됐어요",
+    "readingKatakana": "ジャオンタオンタウェタア",
+    "romanization": "jeongdondoeda",
+    "meaning": "整えられる、整う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "방이 정돈돼서 마음까지 차분해졌어요.",
+    "exampleTranslation": "部屋が整頓されて、気持ちまで落ち着きました。",
+    "description": "散らかっていたものがきちんと整うことを表します。",
+    "usage": "『환경이 정돈되다（環境が整う）』のように使います。",
+    "hint": "きちんと整う。",
+    "acceptedAnswers": [
+      "정돈되다",
+      "정돈됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "정리되다",
+        "meaning": "整理される"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "어질러지다",
+        "meaning": "散らかる"
+      }
+    ]
+  },
+  {
+    "id": 1277,
+    "word": "참여하다",
+    "baseForm": "참여하다",
+    "highlightText": "참여했어요",
+    "readingKatakana": "チャアムヨハアタア",
+    "romanization": "chamyeohada",
+    "meaning": "参加する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "자발적으로 참여했어요.",
+    "exampleTranslation": "自発的に参加しました。",
+    "description": "ある活動や集まりに加わることを表します。",
+    "usage": "『프로젝트에 참여하다（プロジェクトに参加する）』でよく使います。",
+    "hint": "加わる。",
+    "acceptedAnswers": [
+      "참여하다",
+      "참여했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "가담하다",
+        "meaning": "参加する、加わる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불참하다",
+        "meaning": "参加しない"
+      }
+    ]
+  },
+  {
+    "id": 1278,
+    "word": "참석하다",
+    "baseForm": "참석하다",
+    "highlightText": "참석했어요",
+    "readingKatakana": "チャアムサオクハアタア",
+    "romanization": "chamseokhada",
+    "meaning": "出席する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "모두 참석했으면 좋겠어요.",
+    "exampleTranslation": "みんな出席してほしいです。",
+    "description": "会議や授業、式などに出席することを表します。",
+    "usage": "『회의에 참석하다（会議に出席する）』が定番です。",
+    "hint": "その場に出る。",
+    "acceptedAnswers": [
+      "참석하다",
+      "참석했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "참가하다",
+        "meaning": "参加する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불참하다",
+        "meaning": "欠席する"
+      }
+    ]
+  },
+  {
+    "id": 1279,
+    "word": "불참하다",
+    "baseForm": "불참하다",
+    "highlightText": "불참했어요",
+    "readingKatakana": "パウルチャアムハアタア",
+    "romanization": "bulchamhada",
+    "meaning": "欠席する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "모임에 불참하게 됐어요.",
+    "exampleTranslation": "集まりに欠席することになりました。",
+    "description": "参加・出席しないことを表すフォーマルな語です。",
+    "usage": "『행사에 불참하다（行事を欠席する）』のように使います。",
+    "hint": "参加しない。",
+    "acceptedAnswers": [
+      "불참하다",
+      "불참했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "참석하지 않다",
+        "meaning": "出席しない"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "참석하다",
+        "meaning": "出席する"
+      }
+    ]
+  },
+  {
+    "id": 1280,
+    "word": "도달하다",
+    "baseForm": "도달하다",
+    "highlightText": "도달했어요",
+    "readingKatakana": "タオタアルハアタア",
+    "romanization": "dodalhada",
+    "meaning": "到達する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "목표 지점에 도달했어요.",
+    "exampleTranslation": "目標地点に到達しました。",
+    "description": "ある場所や段階、目標に届くことを表します。",
+    "usage": "『결론에 도달하다（結論に到達する）』のように抽象的にも使えます。",
+    "hint": "ある地点に届く。",
+    "acceptedAnswers": [
+      "도달하다",
+      "도달했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "이르다",
+        "meaning": "至る、到達する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "벗어나다",
+        "meaning": "外れる"
+      }
+    ]
+  },
+  {
+    "id": 1281,
+    "word": "떠나다",
+    "baseForm": "떠나다",
+    "highlightText": "떠났어요",
+    "readingKatakana": "ッタオナアタア",
+    "romanization": "tteonada",
+    "meaning": "出発する、去る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "집을 떠나서 도착했어요.",
+    "exampleTranslation": "家を出て到着しました。",
+    "description": "ある場所を出発したり、その場を去ったりするときに使います。",
+    "usage": "『고향을 떠나다（故郷を離れる）』『여행을 떠나다（旅に出る）』のように使います。",
+    "hint": "その場を離れる。",
+    "acceptedAnswers": [
+      "떠나다",
+      "떠났어요"
+    ],
+    "synonyms": [
+      {
+        "word": "출발하다",
+        "meaning": "出発する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "도착하다",
+        "meaning": "到着する"
+      }
+    ]
+  },
+  {
+    "id": 1282,
+    "word": "이동하다",
+    "baseForm": "이동하다",
+    "highlightText": "이동했어요",
+    "readingKatakana": "イタオンハアタア",
+    "romanization": "idonghada",
+    "meaning": "移動する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "다른 건물로 이동했어요.",
+    "exampleTranslation": "別の建物へ移動しました。",
+    "description": "場所を変えて移ることを表す広い意味の動詞です。",
+    "usage": "『자리로 이동하다（席へ移動する）』でよく使います。",
+    "hint": "場所を変えて移る。",
+    "acceptedAnswers": [
+      "이동하다",
+      "이동했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "옮기다",
+        "meaning": "移す、移る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "머무르다",
+        "meaning": "とどまる"
+      }
+    ]
+  },
+  {
+    "id": 1283,
+    "word": "경유하다",
+    "baseForm": "경유하다",
+    "highlightText": "경유해요",
+    "readingKatakana": "カヨンユハアタア",
+    "romanization": "gyeongyuhada",
+    "meaning": "経由する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "한 번 경유해요.",
+    "exampleTranslation": "一度経由します。",
+    "description": "目的地へ行く途中で別の場所を通ることを表します。",
+    "usage": "『서울을 경유하다（ソウルを経由する）』のように使います。",
+    "hint": "途中で通る。",
+    "acceptedAnswers": [
+      "경유하다",
+      "경유해요"
+    ],
+    "synonyms": [
+      {
+        "word": "거치다",
+        "meaning": "経る、経由する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "직행하다",
+        "meaning": "直行する"
+      }
+    ]
+  },
+  {
+    "id": 1284,
+    "word": "탑승하다",
+    "baseForm": "탑승하다",
+    "highlightText": "탑승했어요",
+    "readingKatakana": "タアプサウンハアタア",
+    "romanization": "tapseunghada",
+    "meaning": "搭乗する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "순서대로 탑승했어요.",
+    "exampleTranslation": "順番に搭乗しました。",
+    "description": "飛行機や列車などに乗り込むときに使うフォーマルな語です。",
+    "usage": "『비행기에 탑승하다（飛行機に搭乗する）』が定番です。",
+    "hint": "乗り物に乗り込む。",
+    "acceptedAnswers": [
+      "탑승하다",
+      "탑승했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "타다",
+        "meaning": "乗る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "하차하다",
+        "meaning": "下車する"
+      }
+    ]
+  },
+  {
+    "id": 1285,
+    "word": "하차하다",
+    "baseForm": "하차하다",
+    "highlightText": "하차했어요",
+    "readingKatakana": "ハアチャアハアタア",
+    "romanization": "hachahada",
+    "meaning": "下車する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "급히 하차했어요.",
+    "exampleTranslation": "急いで下車しました。",
+    "description": "乗り物から降りることを表すフォーマルな語です。",
+    "usage": "『다음 역에서 하차하다（次の駅で下車する）』のように使います。",
+    "hint": "乗り物から降りる。",
+    "acceptedAnswers": [
+      "하차하다",
+      "하차했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "내리다",
+        "meaning": "降りる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "탑승하다",
+        "meaning": "搭乗する"
+      }
+    ]
+  },
+  {
+    "id": 1286,
+    "word": "환승하다",
+    "baseForm": "환승하다",
+    "highlightText": "환승했어요",
+    "readingKatakana": "ハワンサウンハアタア",
+    "romanization": "hwanseunghada",
+    "meaning": "乗り換える",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "버스를 놓쳐서 지하철로 환승했어요.",
+    "exampleTranslation": "バスに乗り遅れたので地下鉄に乗り換えました。",
+    "description": "一つの乗り物から別の乗り物に乗り換えることを表します。",
+    "usage": "『두 번 환승하다（二回乗り換える）』のように使います。",
+    "hint": "別の乗り物に乗り換える。",
+    "acceptedAnswers": [
+      "환승하다",
+      "환승했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "갈아타다",
+        "meaning": "乗り換える"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "직행하다",
+        "meaning": "直行する"
+      }
+    ]
+  },
+  {
+    "id": 1287,
+    "word": "체크인하다",
+    "baseForm": "체크인하다",
+    "highlightText": "체크인했어요",
+    "readingKatakana": "チャエカウインハアタア",
+    "romanization": "chekeuinhada",
+    "meaning": "チェックインする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "프런트에서 체크인했어요.",
+    "exampleTranslation": "フロントでチェックインしました。",
+    "description": "宿泊施設や空港で受付手続きをすることを表します。",
+    "usage": "『호텔에 체크인하다（ホテルにチェックインする）』でよく使います。",
+    "hint": "受付手続きをする。",
+    "acceptedAnswers": [
+      "체크인하다",
+      "체크인했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "입실 수속하다",
+        "meaning": "入室手続きする"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "체크아웃하다",
+        "meaning": "チェックアウトする"
+      }
+    ]
+  },
+  {
+    "id": 1288,
+    "word": "체크아웃하다",
+    "baseForm": "체크아웃하다",
+    "highlightText": "체크아웃했어요",
+    "readingKatakana": "チャエカウアウッハアタア",
+    "romanization": "chekeuauthada",
+    "meaning": "チェックアウトする",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "交通"
+    ],
+    "formality": "基本形",
+    "example": "체크아웃하고 이동했어요.",
+    "exampleTranslation": "チェックアウトして移動しました。",
+    "description": "宿泊施設を出るときに精算と退出の手続きをすることを表します。",
+    "usage": "『정오 전에 체크아웃하다（正午前にチェックアウトする）』のように使います。",
+    "hint": "宿を出る手続きをする。",
+    "acceptedAnswers": [
+      "체크아웃하다",
+      "체크아웃했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "퇴실하다",
+        "meaning": "退室する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "체크인하다",
+        "meaning": "チェックインする"
+      }
+    ]
+  },
+  {
+    "id": 1289,
+    "word": "취업하다",
+    "baseForm": "취업하다",
+    "highlightText": "취업했어요",
+    "readingKatakana": "チャウィオプハアタア",
+    "romanization": "chwieophada",
+    "meaning": "就職する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "원하는 분야에 취업했어요.",
+    "exampleTranslation": "希望の分野に就職しました。",
+    "description": "仕事に就いて職場に入ることを表します。",
+    "usage": "『회사에 취업하다（会社に就職する）』のように使います。",
+    "hint": "仕事に就く。",
+    "acceptedAnswers": [
+      "취업하다",
+      "취업했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "직장을 구하다",
+        "meaning": "職を得る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "퇴사하다",
+        "meaning": "退職する"
+      }
+    ]
+  },
+  {
+    "id": 1290,
+    "word": "퇴사하다",
+    "baseForm": "퇴사하다",
+    "highlightText": "퇴사했어요",
+    "readingKatakana": "タウェサアハアタア",
+    "romanization": "toesahada",
+    "meaning": "退職する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "결국 회사를 퇴사했어요.",
+    "exampleTranslation": "結局会社を退職しました。",
+    "description": "勤めていた会社をやめることを表します。",
+    "usage": "『회사를 퇴사하다（会社を退職する）』が定番です。",
+    "hint": "会社をやめる。",
+    "acceptedAnswers": [
+      "퇴사하다",
+      "퇴사했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "그만두다",
+        "meaning": "辞める"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "취업하다",
+        "meaning": "就職する"
+      }
+    ]
+  },
+  {
+    "id": 1291,
+    "word": "창업하다",
+    "baseForm": "창업하다",
+    "highlightText": "창업했어요",
+    "readingKatakana": "チャアンオプハアタア",
+    "romanization": "changeophada",
+    "meaning": "起業する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "직접 회사를 창업했어요.",
+    "exampleTranslation": "自分で会社を起業しました。",
+    "description": "自分で新しい事業や会社を始めることを表します。",
+    "usage": "『회사를 창업하다（会社を起業する）』のように使います。",
+    "hint": "自分で事業を始める。",
+    "acceptedAnswers": [
+      "창업하다",
+      "창업했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "사업을 시작하다",
+        "meaning": "事業を始める"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "폐업하다",
+        "meaning": "廃業する"
+      }
+    ]
+  },
+  {
+    "id": 1292,
+    "word": "근무하다",
+    "baseForm": "근무하다",
+    "highlightText": "근무해요",
+    "readingKatakana": "カウンマウハアタア",
+    "romanization": "geunmuhada",
+    "meaning": "勤務する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "본사에서 근무해요.",
+    "exampleTranslation": "本社で勤務します。",
+    "description": "一定の場所や組織で仕事をすることを表す、ややフォーマルな語です。",
+    "usage": "『야간 근무하다（夜勤する）』のようにも使います。",
+    "hint": "決まった形で勤務する。",
+    "acceptedAnswers": [
+      "근무하다",
+      "근무해요"
+    ],
+    "synonyms": [
+      {
+        "word": "일하다",
+        "meaning": "働く"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "휴직하다",
+        "meaning": "休職する"
+      }
+    ]
+  },
+  {
+    "id": 1293,
+    "word": "휴직하다",
+    "baseForm": "휴직하다",
+    "highlightText": "휴직했어요",
+    "readingKatakana": "ハユジャイクハアタア",
+    "romanization": "hyujikhada",
+    "meaning": "休職する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "잠시 휴직하기로 했어요.",
+    "exampleTranslation": "しばらく休職することにしました。",
+    "description": "仕事を完全に辞めずに、一定期間休むことを表します。",
+    "usage": "『육아로 휴직하다（育児で休職する）』のように使います。",
+    "hint": "仕事を一時的に休む。",
+    "acceptedAnswers": [
+      "휴직하다",
+      "휴직했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "쉬다",
+        "meaning": "休む"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "복직하다",
+        "meaning": "復職する"
+      }
+    ]
+  },
+  {
+    "id": 1294,
+    "word": "이직하다",
+    "baseForm": "이직하다",
+    "highlightText": "이직했어요",
+    "readingKatakana": "イジャイクハアタア",
+    "romanization": "ijikhada",
+    "meaning": "転職する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "仕事",
+      "人生"
+    ],
+    "formality": "基本形",
+    "example": "다른 회사로 이직했어요.",
+    "exampleTranslation": "別の会社に転職しました。",
+    "description": "今の職場を離れて別の職場へ移ることを表します。",
+    "usage": "『타 회사로 이직하다（他社へ転職する）』でよく使います。",
+    "hint": "別の職場に移る。",
+    "acceptedAnswers": [
+      "이직하다",
+      "이직했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "직장을 옮기다",
+        "meaning": "職場を移る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정착하다",
+        "meaning": "定着する"
+      }
+    ]
+  },
+  {
+    "id": 1295,
+    "word": "지각하다",
+    "baseForm": "지각하다",
+    "highlightText": "지각했어요",
+    "readingKatakana": "ジャイカアクハアタア",
+    "romanization": "jigakhada",
+    "meaning": "遅刻する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "아침 회의에 지각했어요.",
+    "exampleTranslation": "朝の会議に遅刻しました。",
+    "description": "決まった時間より遅れて到着することを表します。",
+    "usage": "『수업에 지각하다（授業に遅刻する）』の形が基本です。",
+    "hint": "時間に遅れる。",
+    "acceptedAnswers": [
+      "지각하다",
+      "지각했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "늦다",
+        "meaning": "遅れる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "일찍 도착하다",
+        "meaning": "早く着く"
+      }
+    ]
+  },
+  {
+    "id": 1296,
+    "word": "결석하다",
+    "baseForm": "결석하다",
+    "highlightText": "결석했어요",
+    "readingKatakana": "カヨルサオクハアタア",
+    "romanization": "gyeolseokhada",
+    "meaning": "欠席する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "오늘 수업은 결석했어요.",
+    "exampleTranslation": "今日の授業は欠席しました。",
+    "description": "授業や学校などを休んで出席しないことを表します。",
+    "usage": "『학교를 결석하다（学校を欠席する）』でよく使います。",
+    "hint": "出席しない。",
+    "acceptedAnswers": [
+      "결석하다",
+      "결석했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "빠지다",
+        "meaning": "欠席する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "출석하다",
+        "meaning": "出席する"
+      }
+    ]
+  },
+  {
+    "id": 1297,
+    "word": "몰입하다",
+    "baseForm": "몰입하다",
+    "highlightText": "몰입했어요",
+    "readingKatakana": "マオルイプハアタア",
+    "romanization": "moliphada",
+    "meaning": "没入する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "趣味"
+    ],
+    "formality": "基本形",
+    "example": "시간 가는 줄 모르고 몰입해요.",
+    "exampleTranslation": "時間がたつのも忘れて没頭します。",
+    "description": "一つのことに深く入り込んで集中することを表します。",
+    "usage": "『작업에 몰입하다（作業に没入する）』のように使います。",
+    "hint": "深く集中する。",
+    "acceptedAnswers": [
+      "몰입하다",
+      "몰입했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "집중하다",
+        "meaning": "集中する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "산만해지다",
+        "meaning": "散漫になる"
+      }
+    ]
+  },
+  {
+    "id": 1298,
+    "word": "휴식하다",
+    "baseForm": "휴식하다",
+    "highlightText": "휴식했어요",
+    "readingKatakana": "ハユサイクハアタア",
+    "romanization": "hyusikhada",
+    "meaning": "休息する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "健康",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "충분히 휴식했으면 좋겠어요.",
+    "exampleTranslation": "十分に休んでほしいです。",
+    "description": "体や心を休めるために休息を取ることを表します。",
+    "usage": "『잠시 휴식하다（しばらく休息する）』のように使います。",
+    "hint": "しっかり休む。",
+    "acceptedAnswers": [
+      "휴식하다",
+      "휴식했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "쉬다",
+        "meaning": "休む"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무리하다",
+        "meaning": "無理する"
+      }
+    ]
+  },
+  {
+    "id": 1299,
+    "word": "회복하다",
+    "baseForm": "회복하다",
+    "highlightText": "회복했어요",
+    "readingKatakana": "ハウェパオクハアタア",
+    "romanization": "hoebokhada",
+    "meaning": "回復する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "健康",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "체력이 조금 회복됐어요.",
+    "exampleTranslation": "体力が少し回復しました。",
+    "description": "悪くなっていた状態が元に戻る、よくなることを表します。",
+    "usage": "『건강을 회복하다（健康を回復する）』のように使います。",
+    "hint": "元のよい状態に戻る。",
+    "acceptedAnswers": [
+      "회복하다",
+      "회복했어요"
+    ],
+    "synonyms": [
+      {
+        "word": "나아지다",
+        "meaning": "よくなる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "악화되다",
+        "meaning": "悪化する"
+      }
+    ]
+  },
+  {
+    "id": 1300,
+    "word": "악화되다",
+    "baseForm": "악화되다",
+    "highlightText": "악화됐어요",
+    "readingKatakana": "アクハワタウェタア",
+    "romanization": "akhwadoeda",
+    "meaning": "悪化する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "健康",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "증상이 더 악화됐어요.",
+    "exampleTranslation": "症状がさらに悪化しました。",
+    "description": "状態が今より悪くなることを表します。",
+    "usage": "『상황이 악화되다（状況が悪化する）』でよく使います。",
+    "hint": "さらに悪くなる。",
+    "acceptedAnswers": [
+      "악화되다",
+      "악화됐어요"
+    ],
+    "synonyms": [
+      {
+        "word": "나빠지다",
+        "meaning": "悪くなる"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "회복하다",
+        "meaning": "回復する"
+      }
+    ]
+  }
+]

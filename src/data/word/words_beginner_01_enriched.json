@@ -1,0 +1,3216 @@
+[
+  {
+    "id": 401,
+    "word": "학교",
+    "baseForm": "학교",
+    "highlightText": "학교",
+    "readingKatakana": "ハッキョ",
+    "romanization": "hakgyo",
+    "meaning": "学校",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "학교에 가면 만날 수 있어요.",
+    "exampleTranslation": "学校に行くと会えます。",
+    "description": "学ぶ場所を表す基本名詞です。小学校から大学まで広く使えます。",
+    "usage": "학교에 가다（学校に行く）、학교 생활（学校生活）でよく使う。",
+    "hint": "学ぶ場所。",
+    "acceptedAnswers": [
+      "학교"
+    ],
+    "synonyms": [
+      {
+        "word": "스쿨",
+        "meaning": "スクール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 402,
+    "word": "교실",
+    "baseForm": "교실",
+    "highlightText": "교실",
+    "readingKatakana": "キョシル",
+    "romanization": "gyosil",
+    "meaning": "教室",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "교실에서 말씀을 들었어요.",
+    "exampleTranslation": "教室で話を聞きました。",
+    "description": "授業を受ける部屋を表す名詞です。学校生活の会話で頻出です。",
+    "usage": "교실에서 수업을 듣다（教室で授業を受ける）の形で使いやすい。",
+    "hint": "授業を受ける部屋。",
+    "acceptedAnswers": [
+      "교실"
+    ],
+    "synonyms": [
+      {
+        "word": "강의실",
+        "meaning": "講義室、教室"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 403,
+    "word": "학생",
+    "baseForm": "학생",
+    "highlightText": "학생",
+    "readingKatakana": "ハクセン",
+    "romanization": "haksaeng",
+    "meaning": "学生",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "저는 한국어를 배우는 학생이에요.",
+    "exampleTranslation": "私は韓国語を学んでいる学生です。",
+    "description": "学校で勉強する人を表す基本単語です。自己紹介でもよく使います。",
+    "usage": "학생이에요（学生です）の自己紹介でよく使う。",
+    "hint": "学校で学ぶ人。",
+    "acceptedAnswers": [
+      "학생"
+    ],
+    "synonyms": [
+      {
+        "word": "학습자",
+        "meaning": "学習者"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "선생님",
+        "meaning": "先生"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "word": "선생님",
+    "baseForm": "선생님",
+    "highlightText": "선생님",
+    "readingKatakana": "ソンセンニム",
+    "romanization": "seonsaengnim",
+    "meaning": "先生",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "선생님께 찾아갔어요.",
+    "exampleTranslation": "先生のところへ行きました。",
+    "description": "先生や講師に対して使う、敬意のこもった呼び方です。",
+    "usage": "名前の後に付けて呼ぶことも多い。",
+    "hint": "教える人。",
+    "acceptedAnswers": [
+      "선생님"
+    ],
+    "synonyms": [
+      {
+        "word": "교사",
+        "meaning": "教師"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 405,
+    "word": "숙제",
+    "baseForm": "숙제",
+    "highlightText": "숙제",
+    "readingKatakana": "スクチェ",
+    "romanization": "sukje",
+    "meaning": "宿題",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "숙제가 많아요.",
+    "exampleTranslation": "宿題が多いです。",
+    "description": "家でやる課題や提出物を表す単語です。",
+    "usage": "숙제를 하다（宿題をする）の形が基本。",
+    "hint": "家でやる学習課題。",
+    "acceptedAnswers": [
+      "숙제"
+    ],
+    "synonyms": [
+      {
+        "word": "과제",
+        "meaning": "課題"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "휴식",
+        "meaning": "休息"
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "word": "시험",
+    "baseForm": "시험",
+    "highlightText": "시험",
+    "readingKatakana": "シホム",
+    "romanization": "siheom",
+    "meaning": "試験",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "한국어 시험이 있어요.",
+    "exampleTranslation": "韓国語の試験があります。",
+    "description": "学校や資格のテストを表す基本語です。",
+    "usage": "시험을 보다（試験を受ける）でよく使う。",
+    "hint": "テスト。",
+    "acceptedAnswers": [
+      "시험"
+    ],
+    "synonyms": [
+      {
+        "word": "테스트",
+        "meaning": "テスト"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "휴식 시간",
+        "meaning": "休み時間"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "word": "문제",
+    "baseForm": "문제",
+    "highlightText": "문제",
+    "readingKatakana": "ムンジェ",
+    "romanization": "munje",
+    "meaning": "問題",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "이 문제는 생각보다 어렵지 않았어요.",
+    "exampleTranslation": "この問題は思ったより難しくありませんでした。",
+    "description": "解く対象の『問題』や、状況上の『問題』にも使えます。",
+    "usage": "문제를 풀다（問題を解く）でよく使う。",
+    "hint": "解く対象。",
+    "acceptedAnswers": [
+      "문제"
+    ],
+    "synonyms": [
+      {
+        "word": "질문",
+        "meaning": "問題、質問"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정답",
+        "meaning": "正答"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "word": "답",
+    "baseForm": "답",
+    "highlightText": "답",
+    "readingKatakana": "タプ",
+    "romanization": "dap",
+    "meaning": "答え",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "답을 바로 보지 않아요.",
+    "exampleTranslation": "答えをすぐ見ません。",
+    "description": "問いに対する答えを表す短い単語です。",
+    "usage": "정답（正解）、대답（返事）など関連語も多い。",
+    "hint": "答え。",
+    "acceptedAnswers": [
+      "답"
+    ],
+    "synonyms": [
+      {
+        "word": "정답",
+        "meaning": "正答"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "질문",
+        "meaning": "質問"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "word": "수업",
+    "baseForm": "수업",
+    "highlightText": "수업",
+    "readingKatakana": "スオプ",
+    "romanization": "sueop",
+    "meaning": "授業",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "오늘 수업은 평소보다 일찍 끝났어요.",
+    "exampleTranslation": "今日の授業はいつもより早く終わりました。",
+    "description": "授業やレッスンを表す基本語です。",
+    "usage": "수업이 있다（授業がある）の形でよく使う。",
+    "hint": "授業。",
+    "acceptedAnswers": [
+      "수업"
+    ],
+    "synonyms": [
+      {
+        "word": "강의",
+        "meaning": "講義"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 410,
+    "word": "공부",
+    "baseForm": "공부",
+    "highlightText": "공부",
+    "readingKatakana": "コンブ",
+    "romanization": "gongbu",
+    "meaning": "勉強",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "도서관에서 공부하고 있어요.",
+    "exampleTranslation": "図書館で勉強しています。",
+    "description": "勉強そのものを表す基本単語です。",
+    "usage": "공부하다 の名詞形。",
+    "hint": "勉強。",
+    "acceptedAnswers": [
+      "공부"
+    ],
+    "synonyms": [
+      {
+        "word": "학습",
+        "meaning": "学習"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 411,
+    "word": "도서관",
+    "baseForm": "도서관",
+    "highlightText": "도서관",
+    "readingKatakana": "トソグァン",
+    "romanization": "doseogwan",
+    "meaning": "図書館",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "도서관은 조용해서 공부하기 좋아요.",
+    "exampleTranslation": "図書館は静かなので勉強しやすいです。",
+    "description": "図書館を表す初級レベルの基本語です。",
+    "usage": "도서관 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "図書館",
+    "acceptedAnswers": [
+      "도서관"
+    ],
+    "synonyms": [
+      {
+        "word": "서고",
+        "meaning": "書庫"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 412,
+    "word": "책",
+    "baseForm": "책",
+    "highlightText": "책",
+    "readingKatakana": "チェク",
+    "romanization": "chaek",
+    "meaning": "本",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "카페에서 책을 읽어요.",
+    "exampleTranslation": "カフェで本を読みます。",
+    "description": "本を表す初級レベルの基本語です。",
+    "usage": "책 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "本",
+    "acceptedAnswers": [
+      "책"
+    ],
+    "synonyms": [
+      {
+        "word": "서적",
+        "meaning": "書籍"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 413,
+    "word": "공책",
+    "baseForm": "공책",
+    "highlightText": "공책",
+    "readingKatakana": "コンチェク",
+    "romanization": "gongchaek",
+    "meaning": "ノート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "공책에 꼼꼼하게 적었어요.",
+    "exampleTranslation": "ノートに丁寧に書きました。",
+    "description": "ノートを表す初級レベルの基本語です。",
+    "usage": "공책 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "ノート",
+    "acceptedAnswers": [
+      "공책"
+    ],
+    "synonyms": [
+      {
+        "word": "노트",
+        "meaning": "ノート"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 414,
+    "word": "연필",
+    "baseForm": "연필",
+    "highlightText": "연필",
+    "readingKatakana": "ヨンピル",
+    "romanization": "yeonpil",
+    "meaning": "鉛筆",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "연필로 먼저 써요.",
+    "exampleTranslation": "まず鉛筆で書きます。",
+    "description": "鉛筆を表す初級レベルの基本語です。",
+    "usage": "연필 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "鉛筆",
+    "acceptedAnswers": [
+      "연필"
+    ],
+    "synonyms": [
+      {
+        "word": "필기구",
+        "meaning": "筆記用具"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 415,
+    "word": "볼펜",
+    "baseForm": "볼펜",
+    "highlightText": "볼펜",
+    "readingKatakana": "ボルペン",
+    "romanization": "bolpen",
+    "meaning": "ボールペン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "검은 볼펜을 가져가야 해요.",
+    "exampleTranslation": "黒いボールペンを持っていかないといけません。",
+    "description": "ボールペンを表す初級レベルの基本語です。",
+    "usage": "볼펜 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "ボールペン",
+    "acceptedAnswers": [
+      "볼펜"
+    ],
+    "synonyms": [
+      {
+        "word": "펜",
+        "meaning": "ペン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 416,
+    "word": "지우개",
+    "baseForm": "지우개",
+    "highlightText": "지우개",
+    "readingKatakana": "チウゲ",
+    "romanization": "jiugae",
+    "meaning": "消しゴム",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "지우개로 지우고 썼어요.",
+    "exampleTranslation": "消しゴムで消して書き直しました。",
+    "description": "消しゴムを表す初級レベルの基本語です。",
+    "usage": "지우개 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "消しゴム",
+    "acceptedAnswers": [
+      "지우개"
+    ],
+    "synonyms": [
+      {
+        "word": "삭제기",
+        "meaning": "消し具"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 417,
+    "word": "종이",
+    "baseForm": "종이",
+    "highlightText": "종이",
+    "readingKatakana": "チョンイ",
+    "romanization": "jongi",
+    "meaning": "紙",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "종이에 메모해 뒀어요.",
+    "exampleTranslation": "紙にメモしておきました。",
+    "description": "紙を表す初級レベルの基本語です。",
+    "usage": "종이 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "紙",
+    "acceptedAnswers": [
+      "종이"
+    ],
+    "synonyms": [
+      {
+        "word": "페이퍼",
+        "meaning": "ペーパー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 418,
+    "word": "책상",
+    "baseForm": "책상",
+    "highlightText": "책상",
+    "readingKatakana": "チェクサン",
+    "romanization": "chaeksang",
+    "meaning": "机",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "책상 위에 놓여 있어요.",
+    "exampleTranslation": "机の上に置いてあります。",
+    "description": "机を表す初級レベルの基本語です。",
+    "usage": "책상 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "机",
+    "acceptedAnswers": [
+      "책상"
+    ],
+    "synonyms": [
+      {
+        "word": "데스크",
+        "meaning": "デスク"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 419,
+    "word": "의자",
+    "baseForm": "의자",
+    "highlightText": "의자",
+    "readingKatakana": "ウィジャ",
+    "romanization": "uija",
+    "meaning": "椅子",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "편한 의자를 찾고 있어요.",
+    "exampleTranslation": "楽な椅子を探しています。",
+    "description": "椅子を表す初級レベルの基本語です。",
+    "usage": "의자 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "椅子",
+    "acceptedAnswers": [
+      "의자"
+    ],
+    "synonyms": [
+      {
+        "word": "체어",
+        "meaning": "チェア"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 420,
+    "word": "칠판",
+    "baseForm": "칠판",
+    "highlightText": "칠판",
+    "readingKatakana": "チルパン",
+    "romanization": "chilpan",
+    "meaning": "黒板",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校"
+    ],
+    "formality": "なし",
+    "example": "칠판에 적어 주셨어요.",
+    "exampleTranslation": "黒板に書いてくれました。",
+    "description": "黒板を表す初級レベルの基本語です。",
+    "usage": "칠판 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "黒板",
+    "acceptedAnswers": [
+      "칠판"
+    ],
+    "synonyms": [
+      {
+        "word": "보드",
+        "meaning": "ボード"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 421,
+    "word": "가방",
+    "baseForm": "가방",
+    "highlightText": "가방",
+    "readingKatakana": "カバン",
+    "romanization": "gabang",
+    "meaning": "かばん",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "가방 안에 책이 많아요.",
+    "exampleTranslation": "かばんの中に本が多いです。",
+    "description": "かばんを表す初級レベルの基本語です。",
+    "usage": "가방 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "かばん",
+    "acceptedAnswers": [
+      "가방"
+    ],
+    "synonyms": [
+      {
+        "word": "백",
+        "meaning": "バッグ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "빈손",
+        "meaning": "手ぶら"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "word": "컴퓨터",
+    "baseForm": "컴퓨터",
+    "highlightText": "컴퓨터",
+    "readingKatakana": "コムピュト",
+    "romanization": "keompyuteo",
+    "meaning": "コンピューター",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品",
+      "家電"
+    ],
+    "formality": "なし",
+    "example": "컴퓨터로 숙제를 정리해서 보냈어요.",
+    "exampleTranslation": "パソコンで宿題を整理して送りました。",
+    "description": "コンピューターを表す初級レベルの基本語です。",
+    "usage": "컴퓨터 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "コンピューター",
+    "acceptedAnswers": [
+      "컴퓨터"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 423,
+    "word": "핸드폰",
+    "baseForm": "핸드폰",
+    "highlightText": "핸드폰",
+    "readingKatakana": "ヘンドゥポン",
+    "romanization": "haendeupon",
+    "meaning": "携帯電話",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品",
+      "家電"
+    ],
+    "formality": "なし",
+    "example": "핸드폰으로 찾아봐요.",
+    "exampleTranslation": "携帯で調べます。",
+    "description": "携帯電話を表す初級レベルの基本語です。",
+    "usage": "핸드폰 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "携帯電話",
+    "acceptedAnswers": [
+      "핸드폰"
+    ],
+    "synonyms": [
+      {
+        "word": "휴대폰",
+        "meaning": "携帯電話"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 424,
+    "word": "전화",
+    "baseForm": "전화",
+    "highlightText": "전화",
+    "readingKatakana": "チョナ",
+    "romanization": "jeonhwa",
+    "meaning": "電話",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "오랜만에 친구에게 전화를 걸었어요.",
+    "exampleTranslation": "久しぶりに友達に電話をかけました。",
+    "description": "電話を表す初級レベルの基本語です。",
+    "usage": "전화 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "電話",
+    "acceptedAnswers": [
+      "전화"
+    ],
+    "synonyms": [
+      {
+        "word": "통화",
+        "meaning": "通話、電話"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 425,
+    "word": "시계",
+    "baseForm": "시계",
+    "highlightText": "시계",
+    "readingKatakana": "シゲ",
+    "romanization": "sigye",
+    "meaning": "時計",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "시계를 봤어요.",
+    "exampleTranslation": "時計を見ました。",
+    "description": "時計を表す初級レベルの基本語です。",
+    "usage": "시계 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "時計",
+    "acceptedAnswers": [
+      "시계"
+    ],
+    "synonyms": [
+      {
+        "word": "시곗바늘",
+        "meaning": "時計の針"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 426,
+    "word": "안경",
+    "baseForm": "안경",
+    "highlightText": "안경",
+    "readingKatakana": "アンギョン",
+    "romanization": "angyeong",
+    "meaning": "眼鏡",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "안경을 꼭 써야 해요.",
+    "exampleTranslation": "眼鏡を必ずかけないといけません。",
+    "description": "眼鏡を表す初級レベルの基本語です。",
+    "usage": "안경 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "眼鏡",
+    "acceptedAnswers": [
+      "안경"
+    ],
+    "synonyms": [
+      {
+        "word": "글라스",
+        "meaning": "眼鏡"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 427,
+    "word": "옷",
+    "baseForm": "옷",
+    "highlightText": "옷",
+    "readingKatakana": "オッ",
+    "romanization": "ot",
+    "meaning": "服",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "두꺼운 옷을 입었어요.",
+    "exampleTranslation": "厚い服を着ました。",
+    "description": "服を表す初級レベルの基本語です。",
+    "usage": "옷 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "服",
+    "acceptedAnswers": [
+      "옷"
+    ],
+    "synonyms": [
+      {
+        "word": "의복",
+        "meaning": "衣服"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 428,
+    "word": "바지",
+    "baseForm": "바지",
+    "highlightText": "바지",
+    "readingKatakana": "パジ",
+    "romanization": "baji",
+    "meaning": "ズボン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "바지를 하나 샀어요.",
+    "exampleTranslation": "ズボンを一つ買いました。",
+    "description": "ズボンを表す初級レベルの基本語です。",
+    "usage": "바지 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "ズボン",
+    "acceptedAnswers": [
+      "바지"
+    ],
+    "synonyms": [
+      {
+        "word": "팬츠",
+        "meaning": "パンツ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 429,
+    "word": "치마",
+    "baseForm": "치마",
+    "highlightText": "치마",
+    "readingKatakana": "チマ",
+    "romanization": "chima",
+    "meaning": "スカート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "치마를 자주 입어요.",
+    "exampleTranslation": "スカートをよくはきます。",
+    "description": "スカートを表す初級レベルの基本語です。",
+    "usage": "치마 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "スカート",
+    "acceptedAnswers": [
+      "치마"
+    ],
+    "synonyms": [
+      {
+        "word": "스커트",
+        "meaning": "スカート"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 430,
+    "word": "셔츠",
+    "baseForm": "셔츠",
+    "highlightText": "셔츠",
+    "readingKatakana": "ショチュ",
+    "romanization": "syeocheu",
+    "meaning": "シャツ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "셔츠를 입고 갔어요.",
+    "exampleTranslation": "シャツを着て行きました。",
+    "description": "シャツを表す初級レベルの基本語です。",
+    "usage": "셔츠 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "シャツ",
+    "acceptedAnswers": [
+      "셔츠"
+    ],
+    "synonyms": [
+      {
+        "word": "남방",
+        "meaning": "シャツ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 431,
+    "word": "신발",
+    "baseForm": "신발",
+    "highlightText": "신발",
+    "readingKatakana": "シンバル",
+    "romanization": "sinbal",
+    "meaning": "靴",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "편한 신발을 신고 나왔어요.",
+    "exampleTranslation": "楽な靴を履いてきました。",
+    "description": "靴を表す初級レベルの基本語です。",
+    "usage": "신발 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "靴",
+    "acceptedAnswers": [
+      "신발"
+    ],
+    "synonyms": [
+      {
+        "word": "구두",
+        "meaning": "靴"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 432,
+    "word": "양말",
+    "baseForm": "양말",
+    "highlightText": "양말",
+    "readingKatakana": "ヤンマル",
+    "romanization": "yangmal",
+    "meaning": "靴下",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "새 양말을 신으니 기분이 좋아졌어요.",
+    "exampleTranslation": "新しい靴下を履くと気分が良くなりました。",
+    "description": "靴下を表す初級レベルの基本語です。",
+    "usage": "양말 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "靴下",
+    "acceptedAnswers": [
+      "양말"
+    ],
+    "synonyms": [
+      {
+        "word": "삭스",
+        "meaning": "ソックス"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 433,
+    "word": "모자",
+    "baseForm": "모자",
+    "highlightText": "모자",
+    "readingKatakana": "モジャ",
+    "romanization": "moja",
+    "meaning": "帽子",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服"
+    ],
+    "formality": "なし",
+    "example": "햇빛이 강해서 모자를 쓰고 나갔어요.",
+    "exampleTranslation": "日差しが強いので帽子をかぶって出かけました。",
+    "description": "帽子を表す初級レベルの基本語です。",
+    "usage": "모자 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "帽子",
+    "acceptedAnswers": [
+      "모자"
+    ],
+    "synonyms": [
+      {
+        "word": "캡",
+        "meaning": "キャップ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 434,
+    "word": "우산",
+    "baseForm": "우산",
+    "highlightText": "우산",
+    "readingKatakana": "ウサン",
+    "romanization": "usan",
+    "meaning": "傘",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "비가 올 것 같아서 우산을 챙겼어요.",
+    "exampleTranslation": "雨が降りそうなので傘を持ってきました。",
+    "description": "傘を表す初級レベルの基本語です。",
+    "usage": "우산 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "傘",
+    "acceptedAnswers": [
+      "우산"
+    ],
+    "synonyms": [
+      {
+        "word": "양산",
+        "meaning": "日傘"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 435,
+    "word": "지갑",
+    "baseForm": "지갑",
+    "highlightText": "지갑",
+    "readingKatakana": "チガプ",
+    "romanization": "jigap",
+    "meaning": "財布",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "지갑을 두고 왔어요.",
+    "exampleTranslation": "財布を置いてきました。",
+    "description": "財布を表す初級レベルの基本語です。",
+    "usage": "지갑 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "財布",
+    "acceptedAnswers": [
+      "지갑"
+    ],
+    "synonyms": [
+      {
+        "word": "월렛",
+        "meaning": "財布"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 436,
+    "word": "카드",
+    "baseForm": "카드",
+    "highlightText": "카드",
+    "readingKatakana": "カドゥ",
+    "romanization": "kadeu",
+    "meaning": "カード",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日用品"
+    ],
+    "formality": "なし",
+    "example": "현금이 없어서 카드로 계산했어요.",
+    "exampleTranslation": "現金がないのでカードで会計しました。",
+    "description": "カードを表す初級レベルの基本語です。",
+    "usage": "카드 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "カード",
+    "acceptedAnswers": [
+      "카드"
+    ],
+    "synonyms": [
+      {
+        "word": "신용카드",
+        "meaning": "クレジットカード"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 437,
+    "word": "돈",
+    "baseForm": "돈",
+    "highlightText": "돈",
+    "readingKatakana": "トン",
+    "romanization": "don",
+    "meaning": "お金",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "오늘은 돈을 조금 아껴 써야 해요.",
+    "exampleTranslation": "今日はお金を少し節約しないといけません。",
+    "description": "お金を表す初級レベルの基本語です。",
+    "usage": "돈 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "お金",
+    "acceptedAnswers": [
+      "돈"
+    ],
+    "synonyms": [
+      {
+        "word": "현금",
+        "meaning": "現金"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 438,
+    "word": "영수증",
+    "baseForm": "영수증",
+    "highlightText": "영수증",
+    "readingKatakana": "ヨンスジュン",
+    "romanization": "yeongsujeung",
+    "meaning": "レシート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "영수증을 잘 보관했어요.",
+    "exampleTranslation": "レシートをちゃんと保管しました。",
+    "description": "レシートを表す初級レベルの基本語です。",
+    "usage": "영수증 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "レシート",
+    "acceptedAnswers": [
+      "영수증"
+    ],
+    "synonyms": [
+      {
+        "word": "영수 서류",
+        "meaning": "領収書類"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 439,
+    "word": "가격",
+    "baseForm": "가격",
+    "highlightText": "가격",
+    "readingKatakana": "カギョク",
+    "romanization": "gagyeok",
+    "meaning": "値段",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "가격이 비싸서 고민했어요.",
+    "exampleTranslation": "値段が高くて悩みました。",
+    "description": "値段を表す初級レベルの基本語です。",
+    "usage": "가격 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "値段",
+    "acceptedAnswers": [
+      "가격"
+    ],
+    "synonyms": [
+      {
+        "word": "값",
+        "meaning": "値、価格"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 440,
+    "word": "할인",
+    "baseForm": "할인",
+    "highlightText": "할인",
+    "readingKatakana": "ハリン",
+    "romanization": "harin",
+    "meaning": "割引",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "할인 행사를 자주 해요.",
+    "exampleTranslation": "割引イベントをよくやります。",
+    "description": "割引を表す初級レベルの基本語です。",
+    "usage": "할인 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "割引",
+    "acceptedAnswers": [
+      "할인"
+    ],
+    "synonyms": [
+      {
+        "word": "세일",
+        "meaning": "セール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 441,
+    "word": "시장",
+    "baseForm": "시장",
+    "highlightText": "시장",
+    "readingKatakana": "シジャン",
+    "romanization": "sijang",
+    "meaning": "市場",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "시장에서 신선한 과일을 샀어요.",
+    "exampleTranslation": "市場で新鮮な果物を買いました。",
+    "description": "市場を表す初級レベルの基本語です。",
+    "usage": "시장 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "市場",
+    "acceptedAnswers": [
+      "시장"
+    ],
+    "synonyms": [
+      {
+        "word": "마켓",
+        "meaning": "市場"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 442,
+    "word": "가게",
+    "baseForm": "가게",
+    "highlightText": "가게",
+    "readingKatakana": "カゲ",
+    "romanization": "gage",
+    "meaning": "店",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "가게는 열려 있어요.",
+    "exampleTranslation": "店は開いています。",
+    "description": "店を表す初級レベルの基本語です。",
+    "usage": "가게 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "店",
+    "acceptedAnswers": [
+      "가게"
+    ],
+    "synonyms": [
+      {
+        "word": "상점",
+        "meaning": "商店"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 443,
+    "word": "마트",
+    "baseForm": "마트",
+    "highlightText": "마트",
+    "readingKatakana": "マトゥ",
+    "romanization": "mateu",
+    "meaning": "スーパー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "마트에 가면 살 수 있어요.",
+    "exampleTranslation": "スーパーに行けば買えます。",
+    "description": "スーパーを表す初級レベルの基本語です。",
+    "usage": "마트 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "スーパー",
+    "acceptedAnswers": [
+      "마트"
+    ],
+    "synonyms": [
+      {
+        "word": "슈퍼",
+        "meaning": "スーパー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 444,
+    "word": "백화점",
+    "baseForm": "백화점",
+    "highlightText": "백화점",
+    "readingKatakana": "ペクァジョム",
+    "romanization": "baekhwajeom",
+    "meaning": "デパート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "백화점에서 선물을 고르고 있어요.",
+    "exampleTranslation": "デパートでプレゼントを選んでいます。",
+    "description": "デパートを表す初級レベルの基本語です。",
+    "usage": "백화점 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "デパート",
+    "acceptedAnswers": [
+      "백화점"
+    ],
+    "synonyms": [
+      {
+        "word": "쇼핑몰",
+        "meaning": "ショッピングモール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 445,
+    "word": "옆",
+    "baseForm": "옆",
+    "highlightText": "옆",
+    "readingKatakana": "ヨプ",
+    "romanization": "yeop",
+    "meaning": "横",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "제 자리 옆에 새 학생이 앉았어요.",
+    "exampleTranslation": "私の席の横に新しい学生が座りました。",
+    "description": "横を表す初級レベルの基本語です。",
+    "usage": "옆 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "横",
+    "acceptedAnswers": [
+      "옆"
+    ],
+    "synonyms": [
+      {
+        "word": "곁",
+        "meaning": "そば"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 446,
+    "word": "앞",
+    "baseForm": "앞",
+    "highlightText": "앞",
+    "readingKatakana": "アプ",
+    "romanization": "ap",
+    "meaning": "前",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "학교 앞에서 친구를 만나기로 했어요.",
+    "exampleTranslation": "学校の前で友達に会うことにしました。",
+    "description": "前を表す初級レベルの基本語です。",
+    "usage": "앞 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "前",
+    "acceptedAnswers": [
+      "앞"
+    ],
+    "synonyms": [
+      {
+        "word": "전방",
+        "meaning": "前方"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "뒤",
+        "meaning": "後ろ"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "word": "뒤",
+    "baseForm": "뒤",
+    "highlightText": "뒤",
+    "readingKatakana": "ティ",
+    "romanization": "dwi",
+    "meaning": "後ろ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "제 뒤에 앉았어요.",
+    "exampleTranslation": "私の後ろに座りました。",
+    "description": "後ろを表す初級レベルの基本語です。",
+    "usage": "뒤 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "後ろ",
+    "acceptedAnswers": [
+      "뒤"
+    ],
+    "synonyms": [
+      {
+        "word": "후방",
+        "meaning": "後方"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 448,
+    "word": "위",
+    "baseForm": "위",
+    "highlightText": "위",
+    "readingKatakana": "ウィ",
+    "romanization": "wi",
+    "meaning": "上",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "책상 위에 핸드폰을 올려뒀어요.",
+    "exampleTranslation": "机の上に携帯を置いておきました。",
+    "description": "上を表す初級レベルの基本語です。",
+    "usage": "위 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "上",
+    "acceptedAnswers": [
+      "위"
+    ],
+    "synonyms": [
+      {
+        "word": "상단",
+        "meaning": "上部"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "아래",
+        "meaning": "下"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "word": "아래",
+    "baseForm": "아래",
+    "highlightText": "아래",
+    "readingKatakana": "アレ",
+    "romanization": "arae",
+    "meaning": "下",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "의자 아래에 떨어진 연필을 주웠어요.",
+    "exampleTranslation": "椅子の下に落ちた鉛筆を拾いました。",
+    "description": "下を表す初級レベルの基本語です。",
+    "usage": "아래 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "下",
+    "acceptedAnswers": [
+      "아래"
+    ],
+    "synonyms": [
+      {
+        "word": "밑",
+        "meaning": "下、下部"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 450,
+    "word": "안",
+    "baseForm": "안",
+    "highlightText": "안",
+    "readingKatakana": "アン",
+    "romanization": "an",
+    "meaning": "中",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "가방 안에 지갑이랑 카드가 있어요.",
+    "exampleTranslation": "かばんの中に財布とカードがあります。",
+    "description": "中を表す初級レベルの基本語です。",
+    "usage": "안 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "中",
+    "acceptedAnswers": [
+      "안"
+    ],
+    "synonyms": [
+      {
+        "word": "내부",
+        "meaning": "内部"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "밖",
+        "meaning": "外"
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "word": "밖",
+    "baseForm": "밖",
+    "highlightText": "밖",
+    "readingKatakana": "パク",
+    "romanization": "bak",
+    "meaning": "外",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "밖에 나가기 싫어요.",
+    "exampleTranslation": "外に出たくありません。",
+    "description": "外を表す初級レベルの基本語です。",
+    "usage": "밖 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "外",
+    "acceptedAnswers": [
+      "밖"
+    ],
+    "synonyms": [
+      {
+        "word": "외부",
+        "meaning": "外部"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 452,
+    "word": "왼쪽",
+    "baseForm": "왼쪽",
+    "highlightText": "왼쪽",
+    "readingKatakana": "ウェンチョク",
+    "romanization": "oenjjok",
+    "meaning": "左",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "왼쪽으로 가면 보여요.",
+    "exampleTranslation": "左に行くと見えます。",
+    "description": "左を表す初級レベルの基本語です。",
+    "usage": "왼쪽 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "左",
+    "acceptedAnswers": [
+      "왼쪽"
+    ],
+    "synonyms": [
+      {
+        "word": "좌측",
+        "meaning": "左側"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "오른쪽",
+        "meaning": "右"
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "word": "오른쪽",
+    "baseForm": "오른쪽",
+    "highlightText": "오른쪽",
+    "readingKatakana": "オルンチョク",
+    "romanization": "oreunjjok",
+    "meaning": "右",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "오른쪽에 있는 건물이 우리 학교예요.",
+    "exampleTranslation": "右側にある建物が私たちの学校です。",
+    "description": "右を表す初級レベルの基本語です。",
+    "usage": "오른쪽 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "右",
+    "acceptedAnswers": [
+      "오른쪽"
+    ],
+    "synonyms": [
+      {
+        "word": "우측",
+        "meaning": "右側"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "왼쪽",
+        "meaning": "左"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "word": "가운데",
+    "baseForm": "가운데",
+    "highlightText": "가운데",
+    "readingKatakana": "カウンデ",
+    "romanization": "gaunde",
+    "meaning": "真ん中",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "位置"
+    ],
+    "formality": "なし",
+    "example": "가운데에 책상이 있어요.",
+    "exampleTranslation": "真ん中に机があります。",
+    "description": "真ん中を表す初級レベルの基本語です。",
+    "usage": "가운데 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "真ん中",
+    "acceptedAnswers": [
+      "가운데"
+    ],
+    "synonyms": [
+      {
+        "word": "중앙",
+        "meaning": "中央"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "가장자리",
+        "meaning": "端"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "word": "회사",
+    "baseForm": "회사",
+    "highlightText": "회사",
+    "readingKatakana": "フェサ",
+    "romanization": "hoesa",
+    "meaning": "会社",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "회사에 다니세요.",
+    "exampleTranslation": "会社に通っています。",
+    "description": "会社を表す初級レベルの基本語です。",
+    "usage": "회사 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "会社",
+    "acceptedAnswers": [
+      "회사"
+    ],
+    "synonyms": [
+      {
+        "word": "직장",
+        "meaning": "職場、会社"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "집",
+        "meaning": "家"
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "word": "사무실",
+    "baseForm": "사무실",
+    "highlightText": "사무실",
+    "readingKatakana": "サムシル",
+    "romanization": "samusil",
+    "meaning": "事務室",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "사무실 안이 생각보다 조용했어요.",
+    "exampleTranslation": "事務室の中は思ったより静かでした。",
+    "description": "事務室を表す初級レベルの基本語です。",
+    "usage": "사무실 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "事務室",
+    "acceptedAnswers": [
+      "사무실"
+    ],
+    "synonyms": [
+      {
+        "word": "오피스",
+        "meaning": "オフィス"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 457,
+    "word": "직원",
+    "baseForm": "직원",
+    "highlightText": "직원",
+    "readingKatakana": "チグォン",
+    "romanization": "jigwon",
+    "meaning": "職員",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "직원이 친절하게 길을 알려 줬어요.",
+    "exampleTranslation": "職員が親切に道を教えてくれました。",
+    "description": "職員を表す初級レベルの基本語です。",
+    "usage": "직원 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "職員",
+    "acceptedAnswers": [
+      "직원"
+    ],
+    "synonyms": [
+      {
+        "word": "사원",
+        "meaning": "社員"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "손님",
+        "meaning": "客"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "word": "동료",
+    "baseForm": "동료",
+    "highlightText": "동료",
+    "readingKatakana": "トンニョ",
+    "romanization": "dongnyo",
+    "meaning": "同僚",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "동료와 함께 점심을 먹으러 나갔어요.",
+    "exampleTranslation": "同僚と一緒に昼ごはんを食べに行きました。",
+    "description": "同僚を表す初級レベルの基本語です。",
+    "usage": "동료 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "同僚",
+    "acceptedAnswers": [
+      "동료"
+    ],
+    "synonyms": [
+      {
+        "word": "동업자",
+        "meaning": "同僚、仲間"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "경쟁자",
+        "meaning": "競争相手"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "word": "회의",
+    "baseForm": "회의",
+    "highlightText": "회의",
+    "readingKatakana": "フェイ",
+    "romanization": "hoeui",
+    "meaning": "会議",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "오전 회의가 예상보다 길어졌어요.",
+    "exampleTranslation": "午前の会議が予想より長くなりました。",
+    "description": "会議を表す初級レベルの基本語です。",
+    "usage": "회의 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "会議",
+    "acceptedAnswers": [
+      "회의"
+    ],
+    "synonyms": [
+      {
+        "word": "미팅",
+        "meaning": "ミーティング"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 460,
+    "word": "서류",
+    "baseForm": "서류",
+    "highlightText": "서류",
+    "readingKatakana": "ソリュ",
+    "romanization": "seoryu",
+    "meaning": "書類",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "필요한 서류를 책상 위에 올려두세요.",
+    "exampleTranslation": "必要な書類を机の上に置いてください。",
+    "description": "書類を表す初級レベルの基本語です。",
+    "usage": "서류 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "書類",
+    "acceptedAnswers": [
+      "서류"
+    ],
+    "synonyms": [
+      {
+        "word": "문서",
+        "meaning": "文書"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 461,
+    "word": "계획",
+    "baseForm": "계획",
+    "highlightText": "계획",
+    "readingKatakana": "ケフェク",
+    "romanization": "gyehoek",
+    "meaning": "計画",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "여행 계획이 재미있어요.",
+    "exampleTranslation": "旅行計画は楽しいです。",
+    "description": "計画を表す初級レベルの基本語です。",
+    "usage": "계획 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "計画",
+    "acceptedAnswers": [
+      "계획"
+    ],
+    "synonyms": [
+      {
+        "word": "플랜",
+        "meaning": "計画"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 462,
+    "word": "준비",
+    "baseForm": "준비",
+    "highlightText": "준비",
+    "readingKatakana": "チュンビ",
+    "romanization": "junbi",
+    "meaning": "準備",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "준비가 다 끝나지 않았어요.",
+    "exampleTranslation": "準備がまだ終わっていません。",
+    "description": "準備を表す初級レベルの基本語です。",
+    "usage": "준비 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "準備",
+    "acceptedAnswers": [
+      "준비"
+    ],
+    "synonyms": [
+      {
+        "word": "채비",
+        "meaning": "準備"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "미준비",
+        "meaning": "未準備"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "word": "약속",
+    "baseForm": "약속",
+    "highlightText": "약속",
+    "readingKatakana": "ヤクソク",
+    "romanization": "yaksok",
+    "meaning": "約束",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "약속이 있어서 나가야 해요.",
+    "exampleTranslation": "約束があって出ないといけません。",
+    "description": "約束を表す初級レベルの基本語です。",
+    "usage": "약속 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "約束",
+    "acceptedAnswers": [
+      "약속"
+    ],
+    "synonyms": [
+      {
+        "word": "예약",
+        "meaning": "予約、約束"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "취소",
+        "meaning": "取り消し"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "word": "시간표",
+    "baseForm": "시간표",
+    "highlightText": "시간표",
+    "readingKatakana": "シガンピョ",
+    "romanization": "siganpyo",
+    "meaning": "時間割",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "学校",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "시간표를 확인해 봤어요.",
+    "exampleTranslation": "時間割を確認してみました。",
+    "description": "時間割を表す初級レベルの基本語です。",
+    "usage": "시간표 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "時間割",
+    "acceptedAnswers": [
+      "시간표"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 465,
+    "word": "일기",
+    "baseForm": "일기",
+    "highlightText": "일기",
+    "readingKatakana": "イルギ",
+    "romanization": "ilgi",
+    "meaning": "日記",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "일기를 쓰려고 해요.",
+    "exampleTranslation": "日記を書こうと思います。",
+    "description": "日記を表す初級レベルの基本語です。",
+    "usage": "일기 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "日記",
+    "acceptedAnswers": [
+      "일기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 466,
+    "word": "편지",
+    "baseForm": "편지",
+    "highlightText": "편지",
+    "readingKatakana": "ピョンジ",
+    "romanization": "pyeonji",
+    "meaning": "手紙",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "오랜만에 손으로 편지를 써 봤어요.",
+    "exampleTranslation": "久しぶりに手で手紙を書いてみました。",
+    "description": "手紙を表す初級レベルの基本語です。",
+    "usage": "편지 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "手紙",
+    "acceptedAnswers": [
+      "편지"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 467,
+    "word": "사진",
+    "baseForm": "사진",
+    "highlightText": "사진",
+    "readingKatakana": "サジン",
+    "romanization": "sajin",
+    "meaning": "写真",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "사진을 많이 찍었어요.",
+    "exampleTranslation": "写真をたくさん撮りました。",
+    "description": "写真を表す初級レベルの基本語です。",
+    "usage": "사진 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "写真",
+    "acceptedAnswers": [
+      "사진"
+    ],
+    "synonyms": [
+      {
+        "word": "포토",
+        "meaning": "フォト"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 468,
+    "word": "음악",
+    "baseForm": "음악",
+    "highlightText": "음악",
+    "readingKatakana": "ウマク",
+    "romanization": "eumak",
+    "meaning": "音楽",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "음악을 들으면 편해져요.",
+    "exampleTranslation": "音楽を聞くと楽になります。",
+    "description": "音楽を表す初級レベルの基本語です。",
+    "usage": "음악 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "音楽",
+    "acceptedAnswers": [
+      "음악"
+    ],
+    "synonyms": [
+      {
+        "word": "뮤직",
+        "meaning": "ミュージック"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 469,
+    "word": "노래",
+    "baseForm": "노래",
+    "highlightText": "노래",
+    "readingKatakana": "ノレ",
+    "romanization": "norae",
+    "meaning": "歌",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "요즘 이 노래를 계속 듣고 있어요.",
+    "exampleTranslation": "最近この歌をずっと聞いています。",
+    "description": "歌を表す初級レベルの基本語です。",
+    "usage": "노래 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "歌",
+    "acceptedAnswers": [
+      "노래"
+    ],
+    "synonyms": [
+      {
+        "word": "가요",
+        "meaning": "歌謡"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 470,
+    "word": "영화",
+    "baseForm": "영화",
+    "highlightText": "영화",
+    "readingKatakana": "ヨンファ",
+    "romanization": "yeonghwa",
+    "meaning": "映画",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "친구랑 영화를 볼 거예요.",
+    "exampleTranslation": "友達と映画を見るつもりです。",
+    "description": "映画を表す初級レベルの基本語です。",
+    "usage": "영화 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "映画",
+    "acceptedAnswers": [
+      "영화"
+    ],
+    "synonyms": [
+      {
+        "word": "무비",
+        "meaning": "ムービー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 471,
+    "word": "드라마",
+    "baseForm": "드라마",
+    "highlightText": "드라마",
+    "readingKatakana": "トゥラマ",
+    "romanization": "deurama",
+    "meaning": "ドラマ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "드라마를 밤새 보게 돼요.",
+    "exampleTranslation": "ドラマを徹夜で見てしまいます。",
+    "description": "ドラマを表す初級レベルの基本語です。",
+    "usage": "드라마 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "ドラマ",
+    "acceptedAnswers": [
+      "드라마"
+    ],
+    "synonyms": [
+      {
+        "word": "시리즈",
+        "meaning": "シリーズもの"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 472,
+    "word": "게임",
+    "baseForm": "게임",
+    "highlightText": "게임",
+    "readingKatakana": "ゲイム",
+    "romanization": "geim",
+    "meaning": "ゲーム",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "친구들이랑 게임을 해요.",
+    "exampleTranslation": "友達とゲームをします。",
+    "description": "ゲームを表す初級レベルの基本語です。",
+    "usage": "게임 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "ゲーム",
+    "acceptedAnswers": [
+      "게임"
+    ],
+    "synonyms": [
+      {
+        "word": "오락",
+        "meaning": "娯楽、ゲーム"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 473,
+    "word": "운동",
+    "baseForm": "운동",
+    "highlightText": "운동",
+    "readingKatakana": "ウンドン",
+    "romanization": "undong",
+    "meaning": "運動",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "세 번은 운동해요.",
+    "exampleTranslation": "三回は運動します。",
+    "description": "運動を表す初級レベルの基本語です。",
+    "usage": "운동 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "運動",
+    "acceptedAnswers": [
+      "운동"
+    ],
+    "synonyms": [
+      {
+        "word": "스포츠",
+        "meaning": "スポーツ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 474,
+    "word": "축구",
+    "baseForm": "축구",
+    "highlightText": "축구",
+    "readingKatakana": "チュック",
+    "romanization": "chukgu",
+    "meaning": "サッカー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "スポーツ"
+    ],
+    "formality": "なし",
+    "example": "점심시간에 운동장에서 축구를 했어요.",
+    "exampleTranslation": "昼休みに運動場でサッカーをしました。",
+    "description": "サッカーを表す初級レベルの基本語です。",
+    "usage": "축구 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "サッカー",
+    "acceptedAnswers": [
+      "축구"
+    ],
+    "synonyms": [
+      {
+        "word": "풋볼",
+        "meaning": "フットボール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 475,
+    "word": "야구",
+    "baseForm": "야구",
+    "highlightText": "야구",
+    "readingKatakana": "ヤグ",
+    "romanization": "yagu",
+    "meaning": "野球",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "スポーツ"
+    ],
+    "formality": "なし",
+    "example": "야구가 더 재미있었어요.",
+    "exampleTranslation": "野球がもっと面白かったです。",
+    "description": "野球を表す初級レベルの基本語です。",
+    "usage": "야구 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "野球",
+    "acceptedAnswers": [
+      "야구"
+    ],
+    "synonyms": [
+      {
+        "word": "베이스볼",
+        "meaning": "ベースボール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 476,
+    "word": "농구",
+    "baseForm": "농구",
+    "highlightText": "농구",
+    "readingKatakana": "ノング",
+    "romanization": "nonggu",
+    "meaning": "バスケットボール",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "スポーツ"
+    ],
+    "formality": "なし",
+    "example": "농구를 정말 잘해요.",
+    "exampleTranslation": "バスケットボールがとても上手です。",
+    "description": "バスケットボールを表す初級レベルの基本語です。",
+    "usage": "농구 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "バスケットボール",
+    "acceptedAnswers": [
+      "농구"
+    ],
+    "synonyms": [
+      {
+        "word": "바스켓볼",
+        "meaning": "バスケットボール"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 477,
+    "word": "테니스",
+    "baseForm": "테니스",
+    "highlightText": "테니스",
+    "readingKatakana": "テニス",
+    "romanization": "teniseu",
+    "meaning": "テニス",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "スポーツ"
+    ],
+    "formality": "なし",
+    "example": "주말에 테니스를 쳐요.",
+    "exampleTranslation": "週末にテニスをします。",
+    "description": "テニスを表す初級レベルの基本語です。",
+    "usage": "테니스 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "テニス",
+    "acceptedAnswers": [
+      "테니스"
+    ],
+    "synonyms": [
+      {
+        "word": "라켓 운동",
+        "meaning": "ラケット競技"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 478,
+    "word": "수영",
+    "baseForm": "수영",
+    "highlightText": "수영",
+    "readingKatakana": "スヨン",
+    "romanization": "suyeong",
+    "meaning": "水泳",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "スポーツ"
+    ],
+    "formality": "なし",
+    "example": "수영을 배우는 사람이 많아요.",
+    "exampleTranslation": "水泳を習う人が多いです。",
+    "description": "水泳を表す初級レベルの基本語です。",
+    "usage": "수영 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "水泳",
+    "acceptedAnswers": [
+      "수영"
+    ],
+    "synonyms": [
+      {
+        "word": "헤엄",
+        "meaning": "泳ぎ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 479,
+    "word": "산책",
+    "baseForm": "산책",
+    "highlightText": "산책",
+    "readingKatakana": "サンチェク",
+    "romanization": "sanchaek",
+    "meaning": "散歩",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "저녁 먹고 집 근처를 산책했어요.",
+    "exampleTranslation": "夕ご飯を食べて家の近くを散歩しました。",
+    "description": "散歩を表す初級レベルの基本語です。",
+    "usage": "산책 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "散歩",
+    "acceptedAnswers": [
+      "산책"
+    ],
+    "synonyms": [
+      {
+        "word": "걷기",
+        "meaning": "散歩、歩くこと"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 480,
+    "word": "취미",
+    "baseForm": "취미",
+    "highlightText": "취미",
+    "readingKatakana": "チュィミ",
+    "romanization": "chwimi",
+    "meaning": "趣味",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "제 취미는 영화 보기예요.",
+    "exampleTranslation": "私の趣味は映画を見ることです。",
+    "description": "趣味を表す初級レベルの基本語です。",
+    "usage": "취미 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "趣味",
+    "acceptedAnswers": [
+      "취미"
+    ],
+    "synonyms": [
+      {
+        "word": "관심사",
+        "meaning": "関心事、趣味"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 481,
+    "word": "계절",
+    "baseForm": "계절",
+    "highlightText": "계절",
+    "readingKatakana": "ケジョル",
+    "romanization": "gyejeol",
+    "meaning": "季節",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "좋아하는 계절은 가을이에요.",
+    "exampleTranslation": "好きな季節は秋です。",
+    "description": "季節を表す初級レベルの基本語です。",
+    "usage": "계절 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "季節",
+    "acceptedAnswers": [
+      "계절"
+    ],
+    "synonyms": [
+      {
+        "word": "시즌",
+        "meaning": "シーズン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 482,
+    "word": "봄",
+    "baseForm": "봄",
+    "highlightText": "봄",
+    "readingKatakana": "ポム",
+    "romanization": "bom",
+    "meaning": "春",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "季節"
+    ],
+    "formality": "なし",
+    "example": "봄이 되면 공원이 정말 예뻐져요.",
+    "exampleTranslation": "春になると公園が本当にきれいになります。",
+    "description": "春を表す初級レベルの基本語です。",
+    "usage": "봄 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "春",
+    "acceptedAnswers": [
+      "봄"
+    ],
+    "synonyms": [
+      {
+        "word": "춘계",
+        "meaning": "春季"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "가을",
+        "meaning": "秋"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "word": "여름",
+    "baseForm": "여름",
+    "highlightText": "여름",
+    "readingKatakana": "ヨルム",
+    "romanization": "yeoreum",
+    "meaning": "夏",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "季節"
+    ],
+    "formality": "なし",
+    "example": "여름엔 차가운 음료를 마셔요.",
+    "exampleTranslation": "夏には冷たい飲み物を飲みます。",
+    "description": "夏を表す初級レベルの基本語です。",
+    "usage": "여름 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "夏",
+    "acceptedAnswers": [
+      "여름"
+    ],
+    "synonyms": [
+      {
+        "word": "하계",
+        "meaning": "夏季"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "겨울",
+        "meaning": "冬"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "word": "가을",
+    "baseForm": "가을",
+    "highlightText": "가을",
+    "readingKatakana": "カウル",
+    "romanization": "gaeul",
+    "meaning": "秋",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "季節"
+    ],
+    "formality": "なし",
+    "example": "가을 바람이 불면 산책하기 좋아요.",
+    "exampleTranslation": "秋の風が吹くと散歩するのにぴったりです。",
+    "description": "秋を表す初級レベルの基本語です。",
+    "usage": "가을 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "秋",
+    "acceptedAnswers": [
+      "가을"
+    ],
+    "synonyms": [
+      {
+        "word": "추계",
+        "meaning": "秋季"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 485,
+    "word": "겨울",
+    "baseForm": "겨울",
+    "highlightText": "겨울",
+    "readingKatakana": "キョウル",
+    "romanization": "gyeoul",
+    "meaning": "冬",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "季節"
+    ],
+    "formality": "なし",
+    "example": "겨울에는 따뜻한 국물이 생각나요.",
+    "exampleTranslation": "冬になると温かい汁物が恋しくなります。",
+    "description": "冬を表す初級レベルの基本語です。",
+    "usage": "겨울 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "冬",
+    "acceptedAnswers": [
+      "겨울"
+    ],
+    "synonyms": [
+      {
+        "word": "동계",
+        "meaning": "冬季"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 486,
+    "word": "날씨",
+    "baseForm": "날씨",
+    "highlightText": "날씨",
+    "readingKatakana": "ナルシ",
+    "romanization": "nalssi",
+    "meaning": "天気",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "天気"
+    ],
+    "formality": "なし",
+    "example": "오늘은 날씨가 좋아서 기분도 좋아요.",
+    "exampleTranslation": "今日は天気がいいので気分もいいです。",
+    "description": "天気を表す初級レベルの基本語です。",
+    "usage": "날씨 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "天気",
+    "acceptedAnswers": [
+      "날씨"
+    ],
+    "synonyms": [
+      {
+        "word": "기후",
+        "meaning": "気候"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 487,
+    "word": "비",
+    "baseForm": "비",
+    "highlightText": "비",
+    "readingKatakana": "ピ",
+    "romanization": "bi",
+    "meaning": "雨",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "天気"
+    ],
+    "formality": "なし",
+    "example": "비가 내려서 미끄러웠어요.",
+    "exampleTranslation": "雨が降って滑りやすかったです。",
+    "description": "雨を表す初級レベルの基本語です。",
+    "usage": "비 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "雨",
+    "acceptedAnswers": [
+      "비"
+    ],
+    "synonyms": [
+      {
+        "word": "빗물",
+        "meaning": "雨水"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "맑음",
+        "meaning": "晴れ"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "word": "눈",
+    "baseForm": "눈",
+    "highlightText": "눈",
+    "readingKatakana": "ヌン",
+    "romanization": "nun",
+    "meaning": "雪",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "天気"
+    ],
+    "formality": "なし",
+    "example": "눈이 오면 찍고 싶어져요.",
+    "exampleTranslation": "雪が降ると撮りたくなります。",
+    "description": "雪を表す初級レベルの基本語です。",
+    "usage": "눈 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "雪",
+    "acceptedAnswers": [
+      "눈"
+    ],
+    "synonyms": [
+      {
+        "word": "설",
+        "meaning": "雪"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 489,
+    "word": "바람",
+    "baseForm": "바람",
+    "highlightText": "바람",
+    "readingKatakana": "パラム",
+    "romanization": "baram",
+    "meaning": "風",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "天気"
+    ],
+    "formality": "なし",
+    "example": "바람이 많이 불어서 추워요.",
+    "exampleTranslation": "風が強くて寒いです。",
+    "description": "風を表す初級レベルの基本語です。",
+    "usage": "바람 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "風",
+    "acceptedAnswers": [
+      "바람"
+    ],
+    "synonyms": [
+      {
+        "word": "풍",
+        "meaning": "風"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 490,
+    "word": "구름",
+    "baseForm": "구름",
+    "highlightText": "구름",
+    "readingKatakana": "クルム",
+    "romanization": "gureum",
+    "meaning": "雲",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "天気"
+    ],
+    "formality": "なし",
+    "example": "구름이 많아서 안 보여요.",
+    "exampleTranslation": "雲が多くて見えません。",
+    "description": "雲を表す初級レベルの基本語です。",
+    "usage": "구름 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "雲",
+    "acceptedAnswers": [
+      "구름"
+    ],
+    "synonyms": [
+      {
+        "word": "운",
+        "meaning": "雲"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 491,
+    "word": "하늘",
+    "baseForm": "하늘",
+    "highlightText": "하늘",
+    "readingKatakana": "ハヌル",
+    "romanization": "haneul",
+    "meaning": "空",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "하늘은 맑아 보여요.",
+    "exampleTranslation": "空は澄んで見えます。",
+    "description": "空を表す初級レベルの基本語です。",
+    "usage": "하늘 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "空",
+    "acceptedAnswers": [
+      "하늘"
+    ],
+    "synonyms": [
+      {
+        "word": "창공",
+        "meaning": "大空"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 492,
+    "word": "해",
+    "baseForm": "해",
+    "highlightText": "해",
+    "readingKatakana": "ヘ",
+    "romanization": "hae",
+    "meaning": "太陽",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "아침에 해가 뜨는 걸 보고 나왔어요.",
+    "exampleTranslation": "朝、太陽が昇るのを見てから出かけました。",
+    "description": "太陽を表す初級レベルの基本語です。",
+    "usage": "해 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "太陽",
+    "acceptedAnswers": [
+      "해"
+    ],
+    "synonyms": [
+      {
+        "word": "태양",
+        "meaning": "太陽"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "달",
+        "meaning": "月"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "word": "달",
+    "baseForm": "달",
+    "highlightText": "달",
+    "readingKatakana": "タル",
+    "romanization": "dal",
+    "meaning": "月",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "밤하늘에 둥근 달이 정말 예뻤어요.",
+    "exampleTranslation": "夜空の丸い月がとてもきれいでした。",
+    "description": "月を表す初級レベルの基本語です。",
+    "usage": "달 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "月",
+    "acceptedAnswers": [
+      "달"
+    ],
+    "synonyms": [
+      {
+        "word": "월",
+        "meaning": "月"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 494,
+    "word": "별",
+    "baseForm": "별",
+    "highlightText": "별",
+    "readingKatakana": "ピョル",
+    "romanization": "byeol",
+    "meaning": "星",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "별이 훨씬 잘 보여요.",
+    "exampleTranslation": "星がずっとよく見えます。",
+    "description": "星を表す初級レベルの基本語です。",
+    "usage": "별 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "星",
+    "acceptedAnswers": [
+      "별"
+    ],
+    "synonyms": [
+      {
+        "word": "성",
+        "meaning": "星"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 495,
+    "word": "산",
+    "baseForm": "산",
+    "highlightText": "산",
+    "readingKatakana": "サン",
+    "romanization": "san",
+    "meaning": "山",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "가까운 산에 다녀왔어요.",
+    "exampleTranslation": "近くの山へ行ってきました。",
+    "description": "山を表す初級レベルの基本語です。",
+    "usage": "산 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "山",
+    "acceptedAnswers": [
+      "산"
+    ],
+    "synonyms": [
+      {
+        "word": "봉우리",
+        "meaning": "山、峰"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 496,
+    "word": "강",
+    "baseForm": "강",
+    "highlightText": "강",
+    "readingKatakana": "カン",
+    "romanization": "gang",
+    "meaning": "川",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "강 옆을 걸으니 마음이 편해졌어요.",
+    "exampleTranslation": "川のそばを歩くと心が落ち着きました。",
+    "description": "川を表す初級レベルの基本語です。",
+    "usage": "강 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "川",
+    "acceptedAnswers": [
+      "강"
+    ],
+    "synonyms": [
+      {
+        "word": "하천",
+        "meaning": "河川"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 497,
+    "word": "바다",
+    "baseForm": "바다",
+    "highlightText": "바다",
+    "readingKatakana": "パダ",
+    "romanization": "bada",
+    "meaning": "海",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "여름에는 바다를 보러 가고 싶어요.",
+    "exampleTranslation": "夏には海を見に行きたくなります。",
+    "description": "海を表す初級レベルの基本語です。",
+    "usage": "바다 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "海",
+    "acceptedAnswers": [
+      "바다"
+    ],
+    "synonyms": [
+      {
+        "word": "해양",
+        "meaning": "海洋"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "육지",
+        "meaning": "陸地"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "word": "공원",
+    "baseForm": "공원",
+    "highlightText": "공원",
+    "readingKatakana": "コンウォン",
+    "romanization": "gongwon",
+    "meaning": "公園",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "공원에서 뛰어놀고 있었어요.",
+    "exampleTranslation": "公園で元気に遊んでいました。",
+    "description": "公園を表す初級レベルの基本語です。",
+    "usage": "공원 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "公園",
+    "acceptedAnswers": [
+      "공원"
+    ],
+    "synonyms": [
+      {
+        "word": "파크",
+        "meaning": "公園"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 499,
+    "word": "길",
+    "baseForm": "길",
+    "highlightText": "길",
+    "readingKatakana": "キル",
+    "romanization": "gil",
+    "meaning": "道",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "길을 잘 몰라서 지도를 먼저 봤어요.",
+    "exampleTranslation": "道がよくわからないので先に地図を見ました。",
+    "description": "道を表す初級レベルの基本語です。",
+    "usage": "길 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "道",
+    "acceptedAnswers": [
+      "길"
+    ],
+    "synonyms": [
+      {
+        "word": "도로",
+        "meaning": "道路"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 500,
+    "word": "지도",
+    "baseForm": "지도",
+    "highlightText": "지도",
+    "readingKatakana": "チド",
+    "romanization": "jido",
+    "meaning": "地図",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "지도를 켜고 이동했어요.",
+    "exampleTranslation": "地図をつけて移動しました。",
+    "description": "地図を表す初級レベルの基本語です。",
+    "usage": "지도 を使った定番の言い方で覚えると使いやすい。",
+    "hint": "地図",
+    "acceptedAnswers": [
+      "지도"
+    ],
+    "synonyms": [
+      {
+        "word": "맵",
+        "meaning": "地図"
+      }
+    ],
+    "antonyms": []
+  }
+]

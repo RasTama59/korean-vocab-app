@@ -1,0 +1,3273 @@
+[
+  {
+    "id": 601,
+    "word": "물",
+    "baseForm": "물",
+    "highlightText": "물",
+    "readingKatakana": "ムル",
+    "romanization": "mul",
+    "meaning": "水",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "물을 많이 마셔야 몸이 덜 피곤해요.",
+    "exampleTranslation": "水をたくさん飲むと体があまり疲れません。",
+    "description": "飲み水として最も基本的な単語です。日常会話でも旅行でも非常によく使います。",
+    "usage": "물을 마시다（水を飲む）、물 한 잔（コップ一杯の水）でよく使う。",
+    "hint": "飲み物としての水。",
+    "acceptedAnswers": [
+      "물"
+    ],
+    "synonyms": [
+      {
+        "word": "생수",
+        "meaning": "ミネラルウォーター"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불",
+        "meaning": "火"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "word": "밥",
+    "baseForm": "밥",
+    "highlightText": "밥",
+    "readingKatakana": "パプ",
+    "romanization": "bap",
+    "meaning": "ご飯",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "따뜻한 밥을 먹고 싶어요.",
+    "exampleTranslation": "温かいご飯を食べたいです。",
+    "description": "ご飯そのものだけでなく、食事全体を指すこともある基本語です。",
+    "usage": "밥을 먹다（ご飯を食べる）の形が基本。韓国語では食事全体を指すこともあります。",
+    "hint": "毎日の食事。",
+    "acceptedAnswers": [
+      "밥"
+    ],
+    "synonyms": [
+      {
+        "word": "식사",
+        "meaning": "食事"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 603,
+    "word": "빵",
+    "baseForm": "빵",
+    "highlightText": "빵",
+    "readingKatakana": "ッパン",
+    "romanization": "ppang",
+    "meaning": "パン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "빵으로 간단히 먹었어요.",
+    "exampleTranslation": "パンで簡単に済ませました。",
+    "description": "パン類全般を表す初級語です。朝食や軽食の会話でよく出ます。",
+    "usage": "빵집（パン屋）、빵을 굽다（パンを焼く）のようにも使います。",
+    "hint": "小麦で作る食べ物。",
+    "acceptedAnswers": [
+      "빵"
+    ],
+    "synonyms": [
+      {
+        "word": "식빵",
+        "meaning": "食パン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 604,
+    "word": "국",
+    "baseForm": "국",
+    "highlightText": "국",
+    "readingKatakana": "クク",
+    "romanization": "guk",
+    "meaning": "スープ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "국 한 그릇이 좋아요.",
+    "exampleTranslation": "スープ一杯がいいです。",
+    "description": "汁気のある料理を表す基本単語です。韓国の家庭料理でもよく使います。",
+    "usage": "국을 끓이다（スープを作る）の形でよく使います。",
+    "hint": "汁物。",
+    "acceptedAnswers": [
+      "국"
+    ],
+    "synonyms": [
+      {
+        "word": "탕",
+        "meaning": "スープ、汁物"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "마른반찬",
+        "meaning": "汁気のないおかず"
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "word": "김치",
+    "baseForm": "김치",
+    "highlightText": "김치",
+    "readingKatakana": "キムチ",
+    "romanization": "gimchi",
+    "meaning": "キムチ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "김치가 기본으로 나와요.",
+    "exampleTranslation": "キムチが基本で出てきます。",
+    "description": "韓国料理を代表する発酵食品を表す単語です。",
+    "usage": "한국 음식の代表的な単語としてよく出ます。",
+    "hint": "韓国の発酵食品。",
+    "acceptedAnswers": [
+      "김치"
+    ],
+    "synonyms": [
+      {
+        "word": "배추김치",
+        "meaning": "白菜キムチ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 606,
+    "word": "고기",
+    "baseForm": "고기",
+    "highlightText": "고기",
+    "readingKatakana": "コギ",
+    "romanization": "gogi",
+    "meaning": "肉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "고기를 구워 먹을 거예요.",
+    "exampleTranslation": "肉を焼いて食べるつもりです。",
+    "description": "肉全般を表す便利な名詞です。料理名と一緒にもよく使います。",
+    "usage": "肉全般を表すときによく使います。",
+    "hint": "肉。",
+    "acceptedAnswers": [
+      "고기"
+    ],
+    "synonyms": [
+      {
+        "word": "육류",
+        "meaning": "肉類"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 607,
+    "word": "소고기",
+    "baseForm": "소고기",
+    "highlightText": "소고기",
+    "readingKatakana": "ソゴギ",
+    "romanization": "sogogi",
+    "meaning": "牛肉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "소고기를 좋아해요.",
+    "exampleTranslation": "牛肉が好きです。",
+    "description": "牛肉を表す単語です。食材や焼肉の話でよく出ます。",
+    "usage": "불고기나 스테이크の話題でもよく出ます。",
+    "hint": "牛の肉。",
+    "acceptedAnswers": [
+      "소고기"
+    ],
+    "synonyms": [
+      {
+        "word": "쇠고기",
+        "meaning": "牛肉"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 608,
+    "word": "돼지고기",
+    "baseForm": "돼지고기",
+    "highlightText": "돼지고기",
+    "readingKatakana": "テジゴギ",
+    "romanization": "dwaejigogi",
+    "meaning": "豚肉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "돼지고기도 맛있어요.",
+    "exampleTranslation": "豚肉もおいしいです。",
+    "description": "豚肉を表す単語です。日常の食事会話でも頻出です。",
+    "usage": "삼겹살の説明でも関連して出やすい単語です。",
+    "hint": "豚の肉。",
+    "acceptedAnswers": [
+      "돼지고기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 609,
+    "word": "닭고기",
+    "baseForm": "닭고기",
+    "highlightText": "닭고기",
+    "readingKatakana": "タッコギ",
+    "romanization": "dakgogi",
+    "meaning": "鶏肉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "닭고기를 자주 먹어요.",
+    "exampleTranslation": "鶏肉をよく食べます。",
+    "description": "鶏肉を表す単語です。チキン料理の話題でもよく使います。",
+    "usage": "치킨、닭갈비 などの話題でも関連します。",
+    "hint": "鶏の肉。",
+    "acceptedAnswers": [
+      "닭고기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 610,
+    "word": "생선",
+    "baseForm": "생선",
+    "highlightText": "생선",
+    "readingKatakana": "センソン",
+    "romanization": "saengseon",
+    "meaning": "魚",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "생선을 구워 먹어요.",
+    "exampleTranslation": "魚を焼いて食べます。",
+    "description": "食べる魚を表す基本名詞です。",
+    "usage": "생선을 굽다（魚を焼く）でよく使います。",
+    "hint": "食べる魚。",
+    "acceptedAnswers": [
+      "생선"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 611,
+    "word": "달걀",
+    "baseForm": "달걀",
+    "highlightText": "달걀",
+    "readingKatakana": "タルギャル",
+    "romanization": "dalgyal",
+    "meaning": "卵",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "달걀을 삶아서 먹었어요.",
+    "exampleTranslation": "卵をゆでて食べました。",
+    "description": "卵を表す単語です。料理の材料としても日常でよく使います。",
+    "usage": "달걀을 삶다（卵をゆでる）でもよく使います。",
+    "hint": "卵。",
+    "acceptedAnswers": [
+      "달걀"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 612,
+    "word": "우유",
+    "baseForm": "우유",
+    "highlightText": "우유",
+    "readingKatakana": "ウユ",
+    "romanization": "uyu",
+    "meaning": "牛乳",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "우유를 마시면 든든해져요.",
+    "exampleTranslation": "牛乳を飲むとしっかりします。",
+    "description": "牛乳を表す基本語です。朝食や飲み物の会話でよく出ます。",
+    "usage": "우유를 마시다（牛乳を飲む）が基本です。",
+    "hint": "白い飲み物。",
+    "acceptedAnswers": [
+      "우유"
+    ],
+    "synonyms": [
+      {
+        "word": "밀크",
+        "meaning": "ミルク"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 613,
+    "word": "커피",
+    "baseForm": "커피",
+    "highlightText": "커피",
+    "readingKatakana": "コピ",
+    "romanization": "keopi",
+    "meaning": "コーヒー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "커피 한 잔을 마셨어요.",
+    "exampleTranslation": "コーヒーを一杯飲みました。",
+    "description": "コーヒーを表す外来語です。韓国語の日常会話で頻出です。",
+    "usage": "아메리카노 の話題と一緒に出ることが多いです。",
+    "hint": "コーヒー。",
+    "acceptedAnswers": [
+      "커피"
+    ],
+    "synonyms": [
+      {
+        "word": "아메리카노",
+        "meaning": "アメリカーノ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 614,
+    "word": "차",
+    "baseForm": "차",
+    "highlightText": "차",
+    "readingKatakana": "チャ",
+    "romanization": "cha",
+    "meaning": "お茶",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "따뜻한 차가 잘 어울려요.",
+    "exampleTranslation": "温かいお茶がよく合います。",
+    "description": "お茶を表す基本語です。飲み物全般の話題でよく使います。",
+    "usage": "녹차, 홍차 など複合語も多いです。",
+    "hint": "お茶。",
+    "acceptedAnswers": [
+      "차"
+    ],
+    "synonyms": [
+      {
+        "word": "티",
+        "meaning": "ティー、お茶"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 615,
+    "word": "주스",
+    "baseForm": "주스",
+    "highlightText": "주스",
+    "readingKatakana": "ジュス",
+    "romanization": "juseu",
+    "meaning": "ジュース",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "과일 주스는 달아서 가끔만 마셔요.",
+    "exampleTranslation": "フルーツジュースは甘いのでたまにだけ飲みます。",
+    "description": "ジュースを表す外来語です。",
+    "usage": "과일주스（フルーツジュース）の形でも使います。",
+    "hint": "果汁飲料。",
+    "acceptedAnswers": [
+      "주스"
+    ],
+    "synonyms": [
+      {
+        "word": "음료",
+        "meaning": "飲み物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 616,
+    "word": "맥주",
+    "baseForm": "맥주",
+    "highlightText": "맥주",
+    "readingKatakana": "メクチュ",
+    "romanization": "maekju",
+    "meaning": "ビール",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "맥주를 한 잔 마셨어요.",
+    "exampleTranslation": "ビールを一杯飲みました。",
+    "description": "ビールを表す単語です。食事や飲み会の場面でよく使います。",
+    "usage": "맥주 한 잔（ビール一杯）の形がよく使われます。",
+    "hint": "ビール。",
+    "acceptedAnswers": [
+      "맥주"
+    ],
+    "synonyms": [
+      {
+        "word": "맥주잔",
+        "meaning": "ビール、ビール一杯"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 617,
+    "word": "소주",
+    "baseForm": "소주",
+    "highlightText": "소주",
+    "readingKatakana": "ソジュ",
+    "romanization": "soju",
+    "meaning": "焼酎",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "소주 장면이 자주 나와요.",
+    "exampleTranslation": "焼酎の場面がよく出ます。",
+    "description": "韓国でよく飲まれる焼酎を表す単語です。",
+    "usage": "韓国の食事・飲み会の話で頻出です。",
+    "hint": "韓国の焼酎。",
+    "acceptedAnswers": [
+      "소주"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 618,
+    "word": "음식",
+    "baseForm": "음식",
+    "highlightText": "음식",
+    "readingKatakana": "ウムシク",
+    "romanization": "eumsik",
+    "meaning": "食べ物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "음식이라서 긴장됐어요.",
+    "exampleTranslation": "料理だったので緊張しました。",
+    "description": "食べ物・料理全般をまとめて表す便利な名詞です。",
+    "usage": "음식이 맛있다（食べ物がおいしい）でよく使います。",
+    "hint": "食べ物全般。",
+    "acceptedAnswers": [
+      "음식"
+    ],
+    "synonyms": [
+      {
+        "word": "먹거리",
+        "meaning": "食べ物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 619,
+    "word": "과일",
+    "baseForm": "과일",
+    "highlightText": "과일",
+    "readingKatakana": "クァイル",
+    "romanization": "gwail",
+    "meaning": "果物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "과일을 조금 먹어요.",
+    "exampleTranslation": "果物を少し食べます。",
+    "description": "果物全般を指す基本名詞です。",
+    "usage": "과일을 먹다（果物を食べる）でよく使います。",
+    "hint": "果物全般。",
+    "acceptedAnswers": [
+      "과일"
+    ],
+    "synonyms": [
+      {
+        "word": "과실",
+        "meaning": "果実"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 620,
+    "word": "사과",
+    "baseForm": "사과",
+    "highlightText": "사과",
+    "readingKatakana": "サグァ",
+    "romanization": "sagwa",
+    "meaning": "りんご",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "사과를 얇게 잘라서 아침에 먹었어요.",
+    "exampleTranslation": "りんごを薄く切って朝に食べました。",
+    "description": "りんごを表す基本単語です。",
+    "usage": "사과 주스（りんごジュース）などでも使います。",
+    "hint": "りんご。",
+    "acceptedAnswers": [
+      "사과"
+    ],
+    "synonyms": [
+      {
+        "word": "애플",
+        "meaning": "アップル"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 621,
+    "word": "배",
+    "baseForm": "배",
+    "highlightText": "배",
+    "readingKatakana": "ペ",
+    "romanization": "bae",
+    "meaning": "梨",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "배는 크고 달아요.",
+    "exampleTranslation": "梨は大きくて甘いです。",
+    "description": "果物の梨を表す単語です。",
+    "usage": "한국 배 は日本の梨より大きい話でよく出ます。",
+    "hint": "梨。",
+    "acceptedAnswers": [
+      "배"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 622,
+    "word": "바나나",
+    "baseForm": "바나나",
+    "highlightText": "바나나",
+    "readingKatakana": "バナナ",
+    "romanization": "banana",
+    "meaning": "バナナ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "바나나는 자주 사요.",
+    "exampleTranslation": "バナナはよく買います。",
+    "description": "バナナを表す外来語です。",
+    "usage": "바나나 우유 のような商品名でも見かけます。",
+    "hint": "バナナ。",
+    "acceptedAnswers": [
+      "바나나"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 623,
+    "word": "포도",
+    "baseForm": "포도",
+    "highlightText": "포도",
+    "readingKatakana": "ポド",
+    "romanization": "podo",
+    "meaning": "ぶどう",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "포도는 냉장고에 넣어 둬요.",
+    "exampleTranslation": "ぶどうは冷蔵庫に入れておきます。",
+    "description": "ぶどうを表す単語です。",
+    "usage": "포도 주스、포도 맛 でも使います。",
+    "hint": "ぶどう。",
+    "acceptedAnswers": [
+      "포도"
+    ],
+    "synonyms": [
+      {
+        "word": "청포도",
+        "meaning": "青ぶどう"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 624,
+    "word": "딸기",
+    "baseForm": "딸기",
+    "highlightText": "딸기",
+    "readingKatakana": "ッタルギ",
+    "romanization": "ttalgi",
+    "meaning": "いちご",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "딸기는 봄에 생각나요.",
+    "exampleTranslation": "いちごは春に思い浮かびます。",
+    "description": "いちごを表す単語です。",
+    "usage": "딸기 케이크（いちごケーキ）でもよく見ます。",
+    "hint": "いちご。",
+    "acceptedAnswers": [
+      "딸기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 625,
+    "word": "수박",
+    "baseForm": "수박",
+    "highlightText": "수박",
+    "readingKatakana": "スバク",
+    "romanization": "subak",
+    "meaning": "すいか",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "수박을 먹으면 시원해요.",
+    "exampleTranslation": "すいかを食べると涼しいです。",
+    "description": "すいかを表す単語です。夏の話題でよく出ます。",
+    "usage": "夏の食べ物としてよく出ます。",
+    "hint": "すいか。",
+    "acceptedAnswers": [
+      "수박"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 626,
+    "word": "귤",
+    "baseForm": "귤",
+    "highlightText": "귤",
+    "readingKatakana": "キュル",
+    "romanization": "gyul",
+    "meaning": "みかん",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "귤을 까 먹는 시간이 좋아요.",
+    "exampleTranslation": "みかんをむいて食べる時間が好きです。",
+    "description": "みかんを表す単語です。冬の会話でよく使います。",
+    "usage": "冬のおやつとしてよく話題になります。",
+    "hint": "みかん。",
+    "acceptedAnswers": [
+      "귤"
+    ],
+    "synonyms": [
+      {
+        "word": "감귤",
+        "meaning": "温州みかん"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 627,
+    "word": "오렌지",
+    "baseForm": "오렌지",
+    "highlightText": "오렌지",
+    "readingKatakana": "オレンジ",
+    "romanization": "orenji",
+    "meaning": "オレンジ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "오렌지는 향이 상큼해요.",
+    "exampleTranslation": "オレンジは香りがさわやかです。",
+    "description": "オレンジを表す外来語です。",
+    "usage": "오렌지 주스 の形でもよく使います。",
+    "hint": "オレンジ。",
+    "acceptedAnswers": [
+      "오렌지"
+    ],
+    "synonyms": [
+      {
+        "word": "귤류",
+        "meaning": "柑橘類"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 628,
+    "word": "레몬",
+    "baseForm": "레몬",
+    "highlightText": "레몬",
+    "readingKatakana": "レモン",
+    "romanization": "lemon",
+    "meaning": "レモン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "레몬 물은 상쾌해요.",
+    "exampleTranslation": "レモン水はさわやかです。",
+    "description": "レモンを表す外来語です。",
+    "usage": "레몬 맛、레몬차 のように使われます。",
+    "hint": "レモン。",
+    "acceptedAnswers": [
+      "레몬"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 629,
+    "word": "감자",
+    "baseForm": "감자",
+    "highlightText": "감자",
+    "readingKatakana": "カムジャ",
+    "romanization": "gamja",
+    "meaning": "じゃがいも",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "감자를 삶아서 먹어요.",
+    "exampleTranslation": "じゃがいもをゆでて食べます。",
+    "description": "じゃがいもを表す基本単語です。",
+    "usage": "감자튀김（フライドポテト）にもつながる単語です。",
+    "hint": "じゃがいも。",
+    "acceptedAnswers": [
+      "감자"
+    ],
+    "synonyms": [
+      {
+        "word": "포테이토",
+        "meaning": "ポテト"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 630,
+    "word": "고구마",
+    "baseForm": "고구마",
+    "highlightText": "고구마",
+    "readingKatakana": "コグマ",
+    "romanization": "goguma",
+    "meaning": "さつまいも",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "고구마가 생각나요.",
+    "exampleTranslation": "さつまいもを思い出します。",
+    "description": "さつまいもを表す単語です。",
+    "usage": "冬のおやつとしても人気の単語です。",
+    "hint": "さつまいも。",
+    "acceptedAnswers": [
+      "고구마"
+    ],
+    "synonyms": [
+      {
+        "word": "군고구마",
+        "meaning": "焼き芋"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 631,
+    "word": "양파",
+    "baseForm": "양파",
+    "highlightText": "양파",
+    "readingKatakana": "ヤンパ",
+    "romanization": "yangpa",
+    "meaning": "玉ねぎ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "양파를 볶으면 단맛이 더 살아나요.",
+    "exampleTranslation": "玉ねぎは炒めると甘みがもっと出ます。",
+    "description": "玉ねぎを表す基本単語です。",
+    "usage": "料理の材料として非常によく出ます。",
+    "hint": "玉ねぎ。",
+    "acceptedAnswers": [
+      "양파"
+    ],
+    "synonyms": [
+      {
+        "word": "어니언",
+        "meaning": "オニオン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 632,
+    "word": "마늘",
+    "baseForm": "마늘",
+    "highlightText": "마늘",
+    "readingKatakana": "マヌル",
+    "romanization": "maneul",
+    "meaning": "にんにく",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "마늘을 넣으면 진해져요.",
+    "exampleTranslation": "にんにくを入れると濃くなります。",
+    "description": "にんにくを表す単語です。韓国料理との相性が強い語です。",
+    "usage": "韓国料理では特によく使われる食材です。",
+    "hint": "にんにく。",
+    "acceptedAnswers": [
+      "마늘"
+    ],
+    "synonyms": [
+      {
+        "word": "갈릭",
+        "meaning": "ガーリック"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 633,
+    "word": "당근",
+    "baseForm": "당근",
+    "highlightText": "당근",
+    "readingKatakana": "タングン",
+    "romanization": "danggeun",
+    "meaning": "にんじん",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "당근을 볶음밥에 넣었어요.",
+    "exampleTranslation": "にんじんをチャーハンに入れました。",
+    "description": "にんじんを表す単語です。",
+    "usage": "야채の中でも初級でよく出る単語です。",
+    "hint": "にんじん。",
+    "acceptedAnswers": [
+      "당근"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 634,
+    "word": "토마토",
+    "baseForm": "토마토",
+    "highlightText": "토마토",
+    "readingKatakana": "トマト",
+    "romanization": "tomato",
+    "meaning": "トマト",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "토마토는 샐러드에 넣어요.",
+    "exampleTranslation": "トマトはサラダに入れます。",
+    "description": "トマトを表す外来語です。",
+    "usage": "샐러드、주스 などの話でも使いやすいです。",
+    "hint": "トマト。",
+    "acceptedAnswers": [
+      "토마토"
+    ],
+    "synonyms": [
+      {
+        "word": "토마토 열매",
+        "meaning": "トマト"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 635,
+    "word": "오이",
+    "baseForm": "오이",
+    "highlightText": "오이",
+    "readingKatakana": "オイ",
+    "romanization": "oi",
+    "meaning": "きゅうり",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "오이는 여름에 자주 먹어요.",
+    "exampleTranslation": "きゅうりは夏によく食べます。",
+    "description": "きゅうりを表す単語です。",
+    "usage": "오이 냉국 など韓国料理名にも出ます。",
+    "hint": "きゅうり。",
+    "acceptedAnswers": [
+      "오이"
+    ],
+    "synonyms": [
+      {
+        "word": "오이채",
+        "meaning": "きゅうりの細切り"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 636,
+    "word": "배추",
+    "baseForm": "배추",
+    "highlightText": "배추",
+    "readingKatakana": "ペチュ",
+    "romanization": "baechu",
+    "meaning": "白菜",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "배추로 김치를 만들어요.",
+    "exampleTranslation": "白菜でキムチを作ります。",
+    "description": "白菜を表す単語です。キムチの材料としても有名です。",
+    "usage": "김치 を作る材料としてよく知られています。",
+    "hint": "白菜。",
+    "acceptedAnswers": [
+      "배추"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 637,
+    "word": "상추",
+    "baseForm": "상추",
+    "highlightText": "상추",
+    "readingKatakana": "サンチュ",
+    "romanization": "sangchu",
+    "meaning": "レタス",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "상추에 싸 먹으면 맛있어요.",
+    "exampleTranslation": "レタスで包んで食べるとおいしいです。",
+    "description": "レタス、とくに包み野菜としてよく出る単語です。",
+    "usage": "サムギョプサルと一緒に覚えやすい単語です。",
+    "hint": "レタス。",
+    "acceptedAnswers": [
+      "상추"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 638,
+    "word": "버섯",
+    "baseForm": "버섯",
+    "highlightText": "버섯",
+    "readingKatakana": "ポソッ",
+    "romanization": "beoseot",
+    "meaning": "きのこ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "버섯은 요리에 잘 어울려요.",
+    "exampleTranslation": "きのこは料理によく合います。",
+    "description": "きのこ全般を表す単語です。",
+    "usage": "しいたけやエリンギなどをまとめて言うときにも使えます。",
+    "hint": "きのこ。",
+    "acceptedAnswers": [
+      "버섯"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 639,
+    "word": "설탕",
+    "baseForm": "설탕",
+    "highlightText": "설탕",
+    "readingKatakana": "ソルタン",
+    "romanization": "seoltang",
+    "meaning": "砂糖",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "설탕을 많이 넣지 않아요.",
+    "exampleTranslation": "砂糖をたくさん入れません。",
+    "description": "砂糖を表す基本名詞です。",
+    "usage": "설탕을 넣다（砂糖を入れる）でよく使います。",
+    "hint": "甘くする材料。",
+    "acceptedAnswers": [
+      "설탕"
+    ],
+    "synonyms": [
+      {
+        "word": "슈가",
+        "meaning": "砂糖"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "소금",
+        "meaning": "塩"
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "word": "소금",
+    "baseForm": "소금",
+    "highlightText": "소금",
+    "readingKatakana": "ソグム",
+    "romanization": "sogeum",
+    "meaning": "塩",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "소금을 조금 넣어 보세요.",
+    "exampleTranslation": "塩を少し入れてみてください。",
+    "description": "塩を表す基本名詞です。",
+    "usage": "간을 맞출 때よく使う基本単語です。",
+    "hint": "塩。",
+    "acceptedAnswers": [
+      "소금"
+    ],
+    "synonyms": [
+      {
+        "word": "염",
+        "meaning": "塩"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "설탕",
+        "meaning": "砂糖"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "word": "후추",
+    "baseForm": "후추",
+    "highlightText": "후추",
+    "readingKatakana": "フチュ",
+    "romanization": "huchu",
+    "meaning": "こしょう",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "후추를 뿌리면 좋아져요.",
+    "exampleTranslation": "こしょうをかけるとよくなります。",
+    "description": "こしょうを表す基本名詞です。",
+    "usage": "料理の味付けでよく使います。",
+    "hint": "こしょう。",
+    "acceptedAnswers": [
+      "후추"
+    ],
+    "synonyms": [
+      {
+        "word": "후춧가루",
+        "meaning": "こしょう粉"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 642,
+    "word": "맛",
+    "baseForm": "맛",
+    "highlightText": "맛",
+    "readingKatakana": "マッ",
+    "romanization": "mat",
+    "meaning": "味",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "맛이 훨씬 좋아요.",
+    "exampleTranslation": "味がずっといいです。",
+    "description": "味を表すときの最重要語の一つです。",
+    "usage": "맛이 있다 / 없다 の形がとても重要です。",
+    "hint": "食べ物の味。",
+    "acceptedAnswers": [
+      "맛"
+    ],
+    "synonyms": [
+      {
+        "word": "풍미",
+        "meaning": "風味"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무맛",
+        "meaning": "無味"
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "word": "아침밥",
+    "baseForm": "아침밥",
+    "highlightText": "아침밥",
+    "readingKatakana": "アチムパプ",
+    "romanization": "achim bap",
+    "meaning": "朝ご飯",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "아침밥을 먹고 나가요.",
+    "exampleTranslation": "朝ご飯を食べて出かけます。",
+    "description": "朝ご飯を表す単語です。",
+    "usage": "一般の会話では 아침 と言うだけでも通じます。",
+    "hint": "朝の食事。",
+    "acceptedAnswers": [
+      "아침밥"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 644,
+    "word": "점심밥",
+    "baseForm": "점심밥",
+    "highlightText": "점심밥",
+    "readingKatakana": "チョムシムパプ",
+    "romanization": "jeomsim bap",
+    "meaning": "昼ご飯",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "점심밥은 식당에서 먹었어요.",
+    "exampleTranslation": "昼ご飯は食堂で食べました。",
+    "description": "昼ご飯を表す単語です。",
+    "usage": "점심 とほぼ同じ意味で使われることがあります。",
+    "hint": "昼の食事。",
+    "acceptedAnswers": [
+      "점심밥"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 645,
+    "word": "저녁밥",
+    "baseForm": "저녁밥",
+    "highlightText": "저녁밥",
+    "readingKatakana": "チョニョクパプ",
+    "romanization": "jeonyeok bap",
+    "meaning": "夕ご飯",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "저녁밥은 같이 먹을 거예요.",
+    "exampleTranslation": "夕ご飯は一緒に食べるつもりです。",
+    "description": "夕ご飯を表す単語です。",
+    "usage": "会話では 저녁 と短く言うことも多いです。",
+    "hint": "夕方の食事。",
+    "acceptedAnswers": [
+      "저녁밥"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 646,
+    "word": "식당",
+    "baseForm": "식당",
+    "highlightText": "식당",
+    "readingKatakana": "シクタン",
+    "romanization": "sikdang",
+    "meaning": "食堂",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "식당은 가격도 괜찮아요.",
+    "exampleTranslation": "食堂は値段も悪くありません。",
+    "description": "食事をする店や食堂を表す単語です。",
+    "usage": "식당에서 먹다（食堂で食べる）でよく使います。",
+    "hint": "ご飯を食べる店。",
+    "acceptedAnswers": [
+      "식당"
+    ],
+    "synonyms": [
+      {
+        "word": "레스토랑",
+        "meaning": "レストラン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 647,
+    "word": "카페",
+    "baseForm": "카페",
+    "highlightText": "카페",
+    "readingKatakana": "カペ",
+    "romanization": "kape",
+    "meaning": "カフェ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "카페에서 책을 읽고 싶어요.",
+    "exampleTranslation": "カフェで本を読みたいです。",
+    "description": "カフェを表す外来語です。勉強や休憩の場面でもよく使います。",
+    "usage": "韓国の日常会話で頻出する外来語です。",
+    "hint": "飲み物やデザートを楽しむ店。",
+    "acceptedAnswers": [
+      "카페"
+    ],
+    "synonyms": [
+      {
+        "word": "커피숍",
+        "meaning": "コーヒーショップ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 648,
+    "word": "메뉴",
+    "baseForm": "메뉴",
+    "highlightText": "메뉴",
+    "readingKatakana": "メニュ",
+    "romanization": "menyu",
+    "meaning": "メニュー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "메뉴를 보고 골랐어요.",
+    "exampleTranslation": "メニューを見て選びました。",
+    "description": "料理や飲み物の一覧を表す外来語です。",
+    "usage": "메뉴를 보다（メニューを見る）が基本です。",
+    "hint": "料理一覧。",
+    "acceptedAnswers": [
+      "메뉴"
+    ],
+    "synonyms": [
+      {
+        "word": "차림표",
+        "meaning": "メニュー表"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 649,
+    "word": "주문",
+    "baseForm": "주문",
+    "highlightText": "주문",
+    "readingKatakana": "チュムン",
+    "romanization": "jumun",
+    "meaning": "注文",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "주문이 많아서 늦었어요.",
+    "exampleTranslation": "注文が多くて遅れました。",
+    "description": "注文そのものを表す名詞です。",
+    "usage": "주문하다 の名詞形です。",
+    "hint": "注文。",
+    "acceptedAnswers": [
+      "주문"
+    ],
+    "synonyms": [
+      {
+        "word": "오더",
+        "meaning": "オーダー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 650,
+    "word": "포장",
+    "baseForm": "포장",
+    "highlightText": "포장",
+    "readingKatakana": "ポジャン",
+    "romanization": "pojang",
+    "meaning": "包装、持ち帰り",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "포장만 해 갈게요.",
+    "exampleTranslation": "持ち帰りだけにします。",
+    "description": "包むことや持ち帰りを表す単語です。",
+    "usage": "店内飲食ではなく持ち帰りの話でよく使います。",
+    "hint": "包むこと、持ち帰り。",
+    "acceptedAnswers": [
+      "포장"
+    ],
+    "synonyms": [
+      {
+        "word": "테이크아웃",
+        "meaning": "持ち帰り"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 651,
+    "word": "먹다",
+    "baseForm": "먹다",
+    "highlightText": "먹어요",
+    "readingKatakana": "モクタ",
+    "romanization": "meokda",
+    "meaning": "食べる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "저는 매운 음식을 잘 먹는 편이에요.",
+    "exampleTranslation": "私は辛い食べ物をわりとよく食べるほうです。",
+    "description": "食べるという意味の最重要動詞です。",
+    "usage": "밥, 과일, 약 など幅広い目的語と使えます。",
+    "hint": "食べる。",
+    "acceptedAnswers": [
+      "먹다",
+      "먹어요"
+    ],
+    "synonyms": [
+      {
+        "word": "식사하다",
+        "meaning": "食事する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "굶다",
+        "meaning": "食べずに過ごす"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "word": "마시다",
+    "baseForm": "마시다",
+    "highlightText": "마셔요",
+    "readingKatakana": "マシダ",
+    "romanization": "masida",
+    "meaning": "飲む",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "물을 천천히 마셔요.",
+    "exampleTranslation": "水をゆっくり飲みます。",
+    "description": "飲み物を飲むときの基本動詞です。",
+    "usage": "물, 커피, 술 など液体と組み合わせます。",
+    "hint": "飲む。",
+    "acceptedAnswers": [
+      "마시다",
+      "마셔요"
+    ],
+    "synonyms": [
+      {
+        "word": "음용하다",
+        "meaning": "飲む"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "뱉다",
+        "meaning": "吐き出す"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "word": "요리하다",
+    "baseForm": "요리하다",
+    "highlightText": "요리해요",
+    "readingKatakana": "ヨリハダ",
+    "romanization": "yorihada",
+    "meaning": "料理する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "파스타를 요리해요.",
+    "exampleTranslation": "パスタを料理します。",
+    "description": "料理を作る動作を表す動詞です。",
+    "usage": "집에서 요리하다（家で料理する）でよく使います。",
+    "hint": "料理する。",
+    "acceptedAnswers": [
+      "요리하다",
+      "요리해요"
+    ],
+    "synonyms": [
+      {
+        "word": "조리하다",
+        "meaning": "調理する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 654,
+    "word": "주문하다",
+    "baseForm": "주문하다",
+    "highlightText": "주문해요",
+    "readingKatakana": "チュムンハダ",
+    "romanization": "jumunhada",
+    "meaning": "注文する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "미리 주문하면 덜 기다려요.",
+    "exampleTranslation": "先に注文するとあまり待ちません。",
+    "description": "店やアプリで注文するときに使う基本動詞です。",
+    "usage": "식당や앱でもよく使う便利な動詞です。",
+    "hint": "注文する。",
+    "acceptedAnswers": [
+      "주문하다",
+      "주문해요"
+    ],
+    "synonyms": [
+      {
+        "word": "오더하다",
+        "meaning": "注文する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 655,
+    "word": "사다",
+    "baseForm": "사다",
+    "highlightText": "사요",
+    "readingKatakana": "サダ",
+    "romanization": "sada",
+    "meaning": "買う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "필요한 것만 사요.",
+    "exampleTranslation": "必要なものだけ買います。",
+    "description": "物を買うときに使う基本動詞です。",
+    "usage": "물건을 사다（物を買う）が基本です。",
+    "hint": "買う。",
+    "acceptedAnswers": [
+      "사다",
+      "사요"
+    ],
+    "synonyms": [
+      {
+        "word": "구입하다",
+        "meaning": "購入する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "팔다",
+        "meaning": "売る"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "word": "팔다",
+    "baseForm": "팔다",
+    "highlightText": "팔아요",
+    "readingKatakana": "パルダ",
+    "romanization": "palda",
+    "meaning": "売る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "買い物",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "이 가게는 직접 만든 빵도 팔아요.",
+    "exampleTranslation": "この店は手作りのパンも売っています。",
+    "description": "物を売るときに使う基本動詞です。",
+    "usage": "가게가 물건을 판다 の形でよく使います。",
+    "hint": "売る。",
+    "acceptedAnswers": [
+      "팔다",
+      "팔아요"
+    ],
+    "synonyms": [
+      {
+        "word": "판매하다",
+        "meaning": "販売する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "사다",
+        "meaning": "買う"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "word": "열다",
+    "baseForm": "열다",
+    "highlightText": "열어요",
+    "readingKatakana": "ヨルダ",
+    "romanization": "yeolda",
+    "meaning": "開ける",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "창문을 열면 시원해져요.",
+    "exampleTranslation": "窓を開けると涼しくなります。",
+    "description": "閉じているものを開けるときに使います。",
+    "usage": "문, 창문, 가게 などを開けるときに使います。",
+    "hint": "開ける。",
+    "acceptedAnswers": [
+      "열다",
+      "열어요"
+    ],
+    "synonyms": [
+      {
+        "word": "개방하다",
+        "meaning": "開放する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "닫다",
+        "meaning": "閉める"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "word": "닫다",
+    "baseForm": "닫다",
+    "highlightText": "닫아요",
+    "readingKatakana": "タッタ",
+    "romanization": "datda",
+    "meaning": "閉める",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "추우니까 문을 꼭 닫아 주세요.",
+    "exampleTranslation": "寒いのでドアをしっかり閉めてください。",
+    "description": "開いているものを閉めるときに使います。",
+    "usage": "문, 창문, 눈 などと一緒に使えます。",
+    "hint": "閉める。",
+    "acceptedAnswers": [
+      "닫다",
+      "닫아요"
+    ],
+    "synonyms": [
+      {
+        "word": "잠그다",
+        "meaning": "閉じる、鍵をかける"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "열다",
+        "meaning": "開ける"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "word": "넣다",
+    "baseForm": "넣다",
+    "highlightText": "넣어요",
+    "readingKatakana": "ノッタ",
+    "romanization": "neotda",
+    "meaning": "入れる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "가방에 지갑을 넣고 바로 나왔어요.",
+    "exampleTranslation": "かばんに財布を入れてすぐ出かけました。",
+    "description": "中へ入れる動作を表す便利な動詞です。",
+    "usage": "가방이나 냄비の中に入れる場面でよく使います。",
+    "hint": "入れる。",
+    "acceptedAnswers": [
+      "넣다",
+      "넣어요"
+    ],
+    "synonyms": [
+      {
+        "word": "담다",
+        "meaning": "入れる、盛る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "꺼내다",
+        "meaning": "取り出す"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "word": "꺼내다",
+    "baseForm": "꺼내다",
+    "highlightText": "꺼내요",
+    "readingKatakana": "ッコネダ",
+    "romanization": "kkeonaeda",
+    "meaning": "取り出す",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "우유를 꺼내서 따라요.",
+    "exampleTranslation": "牛乳を取り出して注ぎます。",
+    "description": "中から取り出す動作を表す動詞です。",
+    "usage": "中から外へ出す動作を表します。",
+    "hint": "取り出す。",
+    "acceptedAnswers": [
+      "꺼내다",
+      "꺼내요"
+    ],
+    "synonyms": [
+      {
+        "word": "빼내다",
+        "meaning": "取り出す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "넣다",
+        "meaning": "入れる"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "word": "주다",
+    "baseForm": "주다",
+    "highlightText": "줘요",
+    "readingKatakana": "チュダ",
+    "romanization": "juda",
+    "meaning": "あげる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "커피를 한 잔 줬어요.",
+    "exampleTranslation": "コーヒーを一杯くれました。",
+    "description": "相手に何かを渡すときの基本動詞です。",
+    "usage": "人に何かを渡すときの基本動詞です。",
+    "hint": "あげる、くれる。",
+    "acceptedAnswers": [
+      "주다",
+      "줘요"
+    ],
+    "synonyms": [
+      {
+        "word": "건네다",
+        "meaning": "手渡す"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "받다",
+        "meaning": "もらう"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "word": "받다",
+    "baseForm": "받다",
+    "highlightText": "받아요",
+    "readingKatakana": "パッタ",
+    "romanization": "batda",
+    "meaning": "もらう",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "선물을 많이 받았어요.",
+    "exampleTranslation": "プレゼントをたくさんもらいました。",
+    "description": "何かを受け取るときの基本動詞です。",
+    "usage": "선물, 연락, 도움 なども 받을 수 있습니다。",
+    "hint": "受け取る、もらう。",
+    "acceptedAnswers": [
+      "받다",
+      "받아요"
+    ],
+    "synonyms": [
+      {
+        "word": "수령하다",
+        "meaning": "受け取る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "주다",
+        "meaning": "あげる"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "word": "만들다",
+    "baseForm": "만들다",
+    "highlightText": "만들어요",
+    "readingKatakana": "マンドゥルダ",
+    "romanization": "mandeulda",
+    "meaning": "作る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "김치볶음밥을 만들 거예요.",
+    "exampleTranslation": "キムチチャーハンを作るつもりです。",
+    "description": "物や料理を作るときに使う基本動詞です。",
+    "usage": "음식, 문장, 계획 などにも使える便利な動詞です。",
+    "hint": "作る。",
+    "acceptedAnswers": [
+      "만들다",
+      "만들어요"
+    ],
+    "synonyms": [
+      {
+        "word": "제작하다",
+        "meaning": "制作する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 664,
+    "word": "사용하다",
+    "baseForm": "사용하다",
+    "highlightText": "사용해요",
+    "readingKatakana": "サヨンハダ",
+    "romanization": "sayonghada",
+    "meaning": "使う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "쉽게 사용할 수 있어요.",
+    "exampleTranslation": "簡単に使えます。",
+    "description": "道具やアプリなどを使うときに使います。",
+    "usage": "機械や道具だけでなく表現にも使えます。",
+    "hint": "使う。",
+    "acceptedAnswers": [
+      "사용하다",
+      "사용해요"
+    ],
+    "synonyms": [
+      {
+        "word": "이용하다",
+        "meaning": "利用する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 665,
+    "word": "준비하다",
+    "baseForm": "준비하다",
+    "highlightText": "준비해요",
+    "readingKatakana": "チュンビハダ",
+    "romanization": "junbihada",
+    "meaning": "準備する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "도시락을 미리 준비했어요.",
+    "exampleTranslation": "弁当を先に準備しました。",
+    "description": "前もって整える、準備するという意味の動詞です。",
+    "usage": "발표, 여행, 시험 などの前に使うことが多いです。",
+    "hint": "準備する。",
+    "acceptedAnswers": [
+      "준비하다",
+      "준비해요"
+    ],
+    "synonyms": [
+      {
+        "word": "채비하다",
+        "meaning": "準備する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 666,
+    "word": "정리하다",
+    "baseForm": "정리하다",
+    "highlightText": "정리해요",
+    "readingKatakana": "チョンリハダ",
+    "romanization": "jeongrihada",
+    "meaning": "整理する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "책상을 정리했어요.",
+    "exampleTranslation": "机を片づけました。",
+    "description": "物事を整える、片づける意味で使う動詞です。",
+    "usage": "部屋、物、考えを整えるときにも使えます。",
+    "hint": "整理する。",
+    "acceptedAnswers": [
+      "정리하다",
+      "정리해요"
+    ],
+    "synonyms": [
+      {
+        "word": "정돈하다",
+        "meaning": "整頓する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 667,
+    "word": "청소하다",
+    "baseForm": "청소하다",
+    "highlightText": "청소해요",
+    "readingKatakana": "チョンソハダ",
+    "romanization": "cheongsohada",
+    "meaning": "掃除する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "방을 청소하려고 해요.",
+    "exampleTranslation": "部屋を掃除しようと思います。",
+    "description": "部屋や場所を掃除するときの基本動詞です。",
+    "usage": "部屋や机などをきれいにする動詞です。",
+    "hint": "掃除する。",
+    "acceptedAnswers": [
+      "청소하다",
+      "청소해요"
+    ],
+    "synonyms": [
+      {
+        "word": "치우다",
+        "meaning": "片づける"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 668,
+    "word": "씻다",
+    "baseForm": "씻다",
+    "highlightText": "씻어요",
+    "readingKatakana": "ッシッタ",
+    "romanization": "ssitda",
+    "meaning": "洗う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "손부터 씻었어요.",
+    "exampleTranslation": "まず手を洗いました。",
+    "description": "水で洗う動作を表す基本動詞です。",
+    "usage": "손, 얼굴, 머리 などとよく使います。",
+    "hint": "洗う。",
+    "acceptedAnswers": [
+      "씻다",
+      "씻어요"
+    ],
+    "synonyms": [
+      {
+        "word": "세척하다",
+        "meaning": "洗浄する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 669,
+    "word": "입다",
+    "baseForm": "입다",
+    "highlightText": "입어요",
+    "readingKatakana": "イプタ",
+    "romanization": "ipda",
+    "meaning": "着る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "재킷을 입었어요.",
+    "exampleTranslation": "ジャケットを着ました。",
+    "description": "服を着るときに使う動詞です。",
+    "usage": "옷, 코트, 셔츠 などを着るときに使います。",
+    "hint": "着る。",
+    "acceptedAnswers": [
+      "입다",
+      "입어요"
+    ],
+    "synonyms": [
+      {
+        "word": "착용하다",
+        "meaning": "着用する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "벗다",
+        "meaning": "脱ぐ"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "word": "벗다",
+    "baseForm": "벗다",
+    "highlightText": "벗어요",
+    "readingKatakana": "ポッタ",
+    "romanization": "beotda",
+    "meaning": "脱ぐ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "服",
+      "動詞"
+    ],
+    "formality": "基本形",
+    "example": "신발을 벗고 들어가요.",
+    "exampleTranslation": "靴を脱いで入ります。",
+    "description": "着ているものを脱ぐときに使う動詞です。",
+    "usage": "입다 の反対で、衣類を脱ぐときに使います。",
+    "hint": "脱ぐ。",
+    "acceptedAnswers": [
+      "벗다",
+      "벗어요"
+    ],
+    "synonyms": [
+      {
+        "word": "탈의하다",
+        "meaning": "脱衣する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "입다",
+        "meaning": "着る"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "word": "자다",
+    "baseForm": "자다",
+    "highlightText": "자요",
+    "readingKatakana": "チャダ",
+    "romanization": "jada",
+    "meaning": "寝る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "어젯밤에는 피곤해서 일찍 잤어요.",
+    "exampleTranslation": "昨夜は疲れていたので早く寝ました。",
+    "description": "寝るという意味の基本動詞です。",
+    "usage": "잠을 자다 の形でもよく使います。",
+    "hint": "寝る。",
+    "acceptedAnswers": [
+      "자다",
+      "자요"
+    ],
+    "synonyms": [
+      {
+        "word": "취침하다",
+        "meaning": "就寝する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "일어나다",
+        "meaning": "起きる"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "word": "일어나다",
+    "baseForm": "일어나다",
+    "highlightText": "일어나요",
+    "readingKatakana": "イロナダ",
+    "romanization": "ireonada",
+    "meaning": "起きる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "여섯 시 반쯤 일어나요.",
+    "exampleTranslation": "6時半ごろ起きます。",
+    "description": "起きる、立ち上がるという意味の動詞です。",
+    "usage": "朝起きるときの基本動詞です。",
+    "hint": "起きる。",
+    "acceptedAnswers": [
+      "일어나다",
+      "일어나요"
+    ],
+    "synonyms": [
+      {
+        "word": "기상하다",
+        "meaning": "起床する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "자다",
+        "meaning": "寝る"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "word": "쉬다",
+    "baseForm": "쉬다",
+    "highlightText": "쉬어요",
+    "readingKatakana": "シュィダ",
+    "romanization": "swida",
+    "meaning": "休む",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "집에서 쉬어요.",
+    "exampleTranslation": "家で休みます。",
+    "description": "休むという意味の基本動詞です。",
+    "usage": "働いたり勉強したりした後に休む意味で使います。",
+    "hint": "休む。",
+    "acceptedAnswers": [
+      "쉬다",
+      "쉬어요"
+    ],
+    "synonyms": [
+      {
+        "word": "휴식하다",
+        "meaning": "休息する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 674,
+    "word": "앉다",
+    "baseForm": "앉다",
+    "highlightText": "앉아요",
+    "readingKatakana": "アンタ",
+    "romanization": "anjda",
+    "meaning": "座る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "창가에 앉았어요.",
+    "exampleTranslation": "窓側に座りました。",
+    "description": "座る動作を表す動詞です。",
+    "usage": "의자에 앉다（椅子に座る）が基本です。",
+    "hint": "座る。",
+    "acceptedAnswers": [
+      "앉다",
+      "앉아요"
+    ],
+    "synonyms": [
+      {
+        "word": "착석하다",
+        "meaning": "着席する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "서다",
+        "meaning": "立つ"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "word": "서다",
+    "baseForm": "서다",
+    "highlightText": "서 있어요",
+    "readingKatakana": "ソダ",
+    "romanization": "seoda",
+    "meaning": "立つ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "정류장 앞에 서 있었어요.",
+    "exampleTranslation": "停留所の前に立っていました。",
+    "description": "立つという意味の基本動詞です。",
+    "usage": "立つ、並ぶ、止まる などにも関連する語です。",
+    "hint": "立つ。",
+    "acceptedAnswers": [
+      "서다",
+      "서 있어요"
+    ],
+    "synonyms": [
+      {
+        "word": "기립하다",
+        "meaning": "起立する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "앉다",
+        "meaning": "座る"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "word": "걷다",
+    "baseForm": "걷다",
+    "highlightText": "걸어요",
+    "readingKatakana": "コッタ",
+    "romanization": "geotda",
+    "meaning": "歩く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "날씨가 좋아서 강변을 오래 걸었어요.",
+    "exampleTranslation": "天気がよかったので川沿いを長く歩きました。",
+    "description": "歩くという意味の基本動詞です。",
+    "usage": "산책과一緒に覚えやすい動詞です。",
+    "hint": "歩く。",
+    "acceptedAnswers": [
+      "걷다",
+      "걸어요"
+    ],
+    "synonyms": [
+      {
+        "word": "보행하다",
+        "meaning": "歩行する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 677,
+    "word": "뛰다",
+    "baseForm": "뛰다",
+    "highlightText": "뛰어요",
+    "readingKatakana": "ティダ",
+    "romanization": "ttwida",
+    "meaning": "走る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "지각할까 봐 역까지 조금 뛰었어요.",
+    "exampleTranslation": "遅刻しそうで駅まで少し走りました。",
+    "description": "走る、飛び跳ねる意味でも使える動詞です。",
+    "usage": "急いで移動するときや運動の場面で使います。",
+    "hint": "走る。",
+    "acceptedAnswers": [
+      "뛰다",
+      "뛰어요"
+    ],
+    "synonyms": [
+      {
+        "word": "달리다",
+        "meaning": "走る"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 678,
+    "word": "오다",
+    "baseForm": "오다",
+    "highlightText": "와요",
+    "readingKatakana": "オダ",
+    "romanization": "oda",
+    "meaning": "来る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "移動"
+    ],
+    "formality": "基本形",
+    "example": "놀러 오기로 했어요.",
+    "exampleTranslation": "遊びに来ることになりました。",
+    "description": "話し手の方へ来るときに使います。",
+    "usage": "話し手の方へ来る動きです。",
+    "hint": "来る。",
+    "acceptedAnswers": [
+      "오다",
+      "와요"
+    ],
+    "synonyms": [
+      {
+        "word": "방문하다",
+        "meaning": "訪れる、来る"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "가다",
+        "meaning": "行く"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "word": "가다",
+    "baseForm": "가다",
+    "highlightText": "가요",
+    "readingKatakana": "カダ",
+    "romanization": "gada",
+    "meaning": "行く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "移動"
+    ],
+    "formality": "基本形",
+    "example": "이번 주말에는 가족이랑 바다에 가요.",
+    "exampleTranslation": "今週末は家族と海に行きます。",
+    "description": "話し手から離れて行くときに使います。",
+    "usage": "話し手から離れる方向へ行く動きです。",
+    "hint": "行く。",
+    "acceptedAnswers": [
+      "가다",
+      "가요"
+    ],
+    "synonyms": [
+      {
+        "word": "이동하다",
+        "meaning": "移動する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "오다",
+        "meaning": "来る"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "word": "타다",
+    "baseForm": "타다",
+    "highlightText": "타요",
+    "readingKatakana": "タダ",
+    "romanization": "tada",
+    "meaning": "乗る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "출근할 때는 지하철을 타는 편이에요.",
+    "exampleTranslation": "出勤するときは地下鉄に乗るほうです。",
+    "description": "乗り物に乗るときに使う動詞です。",
+    "usage": "버스, 지하철, 택시 など乗り物とよく使います。",
+    "hint": "乗る。",
+    "acceptedAnswers": [
+      "타다",
+      "타요"
+    ],
+    "synonyms": [
+      {
+        "word": "승차하다",
+        "meaning": "乗車する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "내리다",
+        "meaning": "降りる"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "word": "내리다",
+    "baseForm": "내리다",
+    "highlightText": "내려요",
+    "readingKatakana": "ネリダ",
+    "romanization": "naerida",
+    "meaning": "降りる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "잘 보고 내려야 해요.",
+    "exampleTranslation": "よく見て降りないといけません。",
+    "description": "乗り物から降りるときに使う動詞です。",
+    "usage": "乗り物から降りるときに使う基本動詞です。",
+    "hint": "降りる。",
+    "acceptedAnswers": [
+      "내리다",
+      "내려요"
+    ],
+    "synonyms": [
+      {
+        "word": "하차하다",
+        "meaning": "下車する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "타다",
+        "meaning": "乗る"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "word": "출발하다",
+    "baseForm": "출발하다",
+    "highlightText": "출발해요",
+    "readingKatakana": "チュルバルハダ",
+    "romanization": "chulbalhada",
+    "meaning": "出発する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "기차가 곧 출발하니까 서둘러야 해요.",
+    "exampleTranslation": "列車がもうすぐ出発するので急がないといけません。",
+    "description": "出発するという意味の動詞です。",
+    "usage": "旅行や移動の開始を表します。",
+    "hint": "出発する。",
+    "acceptedAnswers": [
+      "출발하다",
+      "출발해요"
+    ],
+    "synonyms": [
+      {
+        "word": "떠나다",
+        "meaning": "出発する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "도착하다",
+        "meaning": "到着する"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "word": "도착하다",
+    "baseForm": "도착하다",
+    "highlightText": "도착해요",
+    "readingKatakana": "トチャカダ",
+    "romanization": "dochakhada",
+    "meaning": "到着する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "旅行"
+    ],
+    "formality": "基本形",
+    "example": "생각보다 빨리 공항에 도착했어요.",
+    "exampleTranslation": "思ったより早く空港に到着しました。",
+    "description": "目的地に着くという意味の動詞です。",
+    "usage": "目的地に着くときに使います。",
+    "hint": "到着する。",
+    "acceptedAnswers": [
+      "도착하다",
+      "도착해요"
+    ],
+    "synonyms": [
+      {
+        "word": "다다르다",
+        "meaning": "到着する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "출발하다",
+        "meaning": "出発する"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "word": "보다",
+    "baseForm": "보다",
+    "highlightText": "봐요",
+    "readingKatakana": "ポダ",
+    "romanization": "boda",
+    "meaning": "見る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "가족이랑 영화를 봐요.",
+    "exampleTranslation": "家族と映画を見ます。",
+    "description": "目で見るという意味の基本動詞です。",
+    "usage": "映画を見る、人を見る など幅広く使えます。",
+    "hint": "見る。",
+    "acceptedAnswers": [
+      "보다",
+      "봐요"
+    ],
+    "synonyms": [
+      {
+        "word": "구경하다",
+        "meaning": "見物する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 685,
+    "word": "읽다",
+    "baseForm": "읽다",
+    "highlightText": "읽어요",
+    "readingKatakana": "イクタ",
+    "romanization": "ikda",
+    "meaning": "読む",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "짧은 글을 읽으려고 해요.",
+    "exampleTranslation": "短い文章を読もうと思います。",
+    "description": "本や文字を読むときに使う動詞です。",
+    "usage": "책, 신문, 메시지 などを読むときに使います。",
+    "hint": "読む。",
+    "acceptedAnswers": [
+      "읽다",
+      "읽어요"
+    ],
+    "synonyms": [
+      {
+        "word": "독서하다",
+        "meaning": "読書する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 686,
+    "word": "쓰다",
+    "baseForm": "쓰다",
+    "highlightText": "써요",
+    "readingKatakana": "スダ",
+    "romanization": "sseuda",
+    "meaning": "書く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "단어를 써 두었어요.",
+    "exampleTranslation": "単語を書いておきました。",
+    "description": "文字を書くときに使う基本動詞です。",
+    "usage": "글을 쓰다 の意味でまず覚えると使いやすいです。",
+    "hint": "書く。",
+    "acceptedAnswers": [
+      "쓰다",
+      "써요"
+    ],
+    "synonyms": [
+      {
+        "word": "기록하다",
+        "meaning": "記録する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 687,
+    "word": "듣다",
+    "baseForm": "듣다",
+    "highlightText": "들어요",
+    "readingKatakana": "トゥッタ",
+    "romanization": "deutda",
+    "meaning": "聞く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "여러 번 다시 들어요.",
+    "exampleTranslation": "何度も聞き直します。",
+    "description": "音や話を聞くときに使う動詞です。",
+    "usage": "音楽や話を聞くときの基本動詞です。",
+    "hint": "聞く。",
+    "acceptedAnswers": [
+      "듣다",
+      "들어요"
+    ],
+    "synonyms": [
+      {
+        "word": "청취하다",
+        "meaning": "聴取する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 688,
+    "word": "말하다",
+    "baseForm": "말하다",
+    "highlightText": "말해요",
+    "readingKatakana": "マルハダ",
+    "romanization": "malhada",
+    "meaning": "話す",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "천천히 말해 주세요.",
+    "exampleTranslation": "ゆっくり話してください。",
+    "description": "話す、言うという意味の基本動詞です。",
+    "usage": "内容を言葉にして伝えるときに使います。",
+    "hint": "話す。",
+    "acceptedAnswers": [
+      "말하다",
+      "말해요"
+    ],
+    "synonyms": [
+      {
+        "word": "이야기하다",
+        "meaning": "話す"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 689,
+    "word": "배우다",
+    "baseForm": "배우다",
+    "highlightText": "배워요",
+    "readingKatakana": "ペウダ",
+    "romanization": "baeuda",
+    "meaning": "学ぶ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "요즘은 요리도 조금씩 배우고 있어요.",
+    "exampleTranslation": "最近は料理も少しずつ習っています。",
+    "description": "新しいことを学ぶときに使います。",
+    "usage": "언어, 요리, 운동 などにも使えます。",
+    "hint": "学ぶ。",
+    "acceptedAnswers": [
+      "배우다",
+      "배워요"
+    ],
+    "synonyms": [
+      {
+        "word": "익히다",
+        "meaning": "身につける"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 690,
+    "word": "공부하다",
+    "baseForm": "공부하다",
+    "highlightText": "공부해요",
+    "readingKatakana": "コンブハダ",
+    "romanization": "gongbuhada",
+    "meaning": "勉強する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "学校"
+    ],
+    "formality": "基本形",
+    "example": "혼자 공부하기가 잘돼요.",
+    "exampleTranslation": "一人で勉強がはかどります。",
+    "description": "勉強するという意味の基本動詞です。",
+    "usage": "科目や言語を勉強するときの基本動詞です。",
+    "hint": "勉強する。",
+    "acceptedAnswers": [
+      "공부하다",
+      "공부해요"
+    ],
+    "synonyms": [
+      {
+        "word": "학습하다",
+        "meaning": "学習する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 691,
+    "word": "일하다",
+    "baseForm": "일하다",
+    "highlightText": "일해요",
+    "readingKatakana": "イラダ",
+    "romanization": "ilhada",
+    "meaning": "働く",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "仕事"
+    ],
+    "formality": "基本形",
+    "example": "아버지는 주말에도 가끔 일하셔요.",
+    "exampleTranslation": "父は週末にもたまに働きます。",
+    "description": "仕事をするという意味の基本動詞です。",
+    "usage": "회사에서 일하다 の形が基本です。",
+    "hint": "働く。",
+    "acceptedAnswers": [
+      "일하다",
+      "일해요"
+    ],
+    "synonyms": [
+      {
+        "word": "근무하다",
+        "meaning": "勤務する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 692,
+    "word": "만나다",
+    "baseForm": "만나다",
+    "highlightText": "만나요",
+    "readingKatakana": "マンナダ",
+    "romanization": "mannada",
+    "meaning": "会う",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "내일 오랜만에 학교 친구를 만나요.",
+    "exampleTranslation": "明日久しぶりに学校の友達に会います。",
+    "description": "人と会うときに使う重要な動詞です。",
+    "usage": "人と会うときに使う最重要動詞の一つです。",
+    "hint": "会う。",
+    "acceptedAnswers": [
+      "만나다",
+      "만나요"
+    ],
+    "synonyms": [
+      {
+        "word": "대면하다",
+        "meaning": "対面する"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 693,
+    "word": "헤어지다",
+    "baseForm": "헤어지다",
+    "highlightText": "헤어져요",
+    "readingKatakana": "ヘオジダ",
+    "romanization": "heeojida",
+    "meaning": "別れる",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "人間関係"
+    ],
+    "formality": "基本形",
+    "example": "헤어지고 집에 왔어요.",
+    "exampleTranslation": "別れて家に帰りました。",
+    "description": "別れて離れるときに使う動詞です。",
+    "usage": "会って別れるときの『別れる』です。",
+    "hint": "別れる。",
+    "acceptedAnswers": [
+      "헤어지다",
+      "헤어져요"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 694,
+    "word": "기다리다",
+    "baseForm": "기다리다",
+    "highlightText": "기다려요",
+    "readingKatakana": "キダリダ",
+    "romanization": "gidarida",
+    "meaning": "待つ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "비가 그치기를 잠깐 기다려 봤어요.",
+    "exampleTranslation": "雨がやむのを少し待ってみました。",
+    "description": "相手や順番を待つときに使います。",
+    "usage": "人や時間、順番を待つときに使います。",
+    "hint": "待つ。",
+    "acceptedAnswers": [
+      "기다리다",
+      "기다려요"
+    ],
+    "synonyms": [
+      {
+        "word": "대기하다",
+        "meaning": "待機する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "지나치다",
+        "meaning": "通り過ぎる"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "word": "좋아하다",
+    "baseForm": "좋아하다",
+    "highlightText": "좋아해요",
+    "readingKatakana": "チョアハダ",
+    "romanization": "joahada",
+    "meaning": "好きだ",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "딸기를 제일 좋아해요.",
+    "exampleTranslation": "いちごが一番好きです。",
+    "description": "人や物を好きだと言うときに使います。",
+    "usage": "好きな物や人について話すときによく使います。",
+    "hint": "好きだ。",
+    "acceptedAnswers": [
+      "좋아하다",
+      "좋아해요"
+    ],
+    "synonyms": [
+      {
+        "word": "선호하다",
+        "meaning": "好む"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "싫어하다",
+        "meaning": "嫌いだ"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "word": "사랑하다",
+    "baseForm": "사랑하다",
+    "highlightText": "사랑해요",
+    "readingKatakana": "サランハダ",
+    "romanization": "saranghada",
+    "meaning": "愛する",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "가족을 사랑해요.",
+    "exampleTranslation": "家族を愛しています。",
+    "description": "愛している気持ちを表す動詞です。",
+    "usage": "感情としての愛を表す、少し強い表現です。",
+    "hint": "愛する。",
+    "acceptedAnswers": [
+      "사랑하다",
+      "사랑해요"
+    ],
+    "synonyms": [
+      {
+        "word": "아끼다",
+        "meaning": "大切に思う"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "미워하다",
+        "meaning": "憎む"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "word": "생각하다",
+    "baseForm": "생각하다",
+    "highlightText": "생각해요",
+    "readingKatakana": "センガカダ",
+    "romanization": "saenggakhada",
+    "meaning": "考える",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "感情"
+    ],
+    "formality": "基本形",
+    "example": "주말 계획을 생각해요.",
+    "exampleTranslation": "週末の予定を考えます。",
+    "description": "頭の中で考える動作を表す動詞です。",
+    "usage": "意見、計画、気持ちを考えるときに使えます。",
+    "hint": "考える。",
+    "acceptedAnswers": [
+      "생각하다",
+      "생각해요"
+    ],
+    "synonyms": [
+      {
+        "word": "고민하다",
+        "meaning": "考え込む"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 698,
+    "word": "알다",
+    "baseForm": "알다",
+    "highlightText": "알아요",
+    "readingKatakana": "アルダ",
+    "romanization": "alda",
+    "meaning": "知る",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "이미 알고 있었어요.",
+    "exampleTranslation": "すでに知っていました。",
+    "description": "知っている状態を表す動詞です。",
+    "usage": "知識や事実を知っている状態を表します。",
+    "hint": "知る。",
+    "acceptedAnswers": [
+      "알다",
+      "알아요"
+    ],
+    "synonyms": [
+      {
+        "word": "인지하다",
+        "meaning": "認識する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "모르다",
+        "meaning": "知らない"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "word": "모르다",
+    "baseForm": "모르다",
+    "highlightText": "몰라요",
+    "readingKatakana": "モルダ",
+    "romanization": "moreuda",
+    "meaning": "知らない",
+    "partOfSpeech": "動詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "動詞",
+      "日常"
+    ],
+    "formality": "基本形",
+    "example": "이름을 잘 몰랐어요.",
+    "exampleTranslation": "名前がよくわかりませんでした。",
+    "description": "知らない、わからない状態を表す動詞です。",
+    "usage": "알다 の反対で、『知らない』『わからない』の意味で使います。",
+    "hint": "知らない。",
+    "acceptedAnswers": [
+      "모르다",
+      "몰라요"
+    ],
+    "synonyms": [
+      {
+        "word": "알지 못하다",
+        "meaning": "知らない"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "알다",
+        "meaning": "知る"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "word": "배달",
+    "baseForm": "배달",
+    "highlightText": "배달",
+    "readingKatakana": "ペダル",
+    "romanization": "baedal",
+    "meaning": "配達",
+    "partOfSpeech": "名詞",
+    "levelGroup": "初級",
+    "difficultyLevel": 1,
+    "genres": [
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "배달을 시켜 먹는 사람이 많아요.",
+    "exampleTranslation": "配達を頼んで食べる人が多いです。",
+    "description": "料理や商品を届けることを表す単語です。",
+    "usage": "배달을 시키다（配達を頼む）でもよく使います。",
+    "hint": "料理などを届けること。",
+    "acceptedAnswers": [
+      "배달"
+    ],
+    "synonyms": [
+      {
+        "word": "배송",
+        "meaning": "配送"
+      }
+    ],
+    "antonyms": []
+  }
+]

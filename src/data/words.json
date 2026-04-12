@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "word": "사과",
+    "baseForm": "사과",
+    "highlightText": "사과",
+    "readingKatakana": "サグァ",
+    "romanization": "sagwa",
+    "meaning": "りんご",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["食べ物", "名詞"],
+    "formality": "なし",
+    "example": "저는 사과를 좋아해요.",
+    "exampleTranslation": "私はりんごが好きです。",
+    "description": "果物のりんごを表す基本単語。",
+    "usage": "사과 주스（りんごジュース）、사과 나무（りんごの木）のようにも使う。",
+    "hint": "赤い果物。",
+    "acceptedAnswers": ["사과"],
+    "synonyms": [
+      {
+        "word": "애플",
+        "meaning": "アップル"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 2,
+    "word": "먹다",
+    "baseForm": "먹다",
+    "highlightText": "먹어요",
+    "readingKatakana": "モクタ",
+    "romanization": "meokda",
+    "meaning": "食べる",
+    "partOfSpeech": "動詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["動詞", "食べ物", "日常会話"],
+    "formality": "基本形",
+    "example": "저는 밥을 먹어요.",
+    "exampleTranslation": "私はご飯を食べます。",
+    "description": "食べるという意味の基本動詞。",
+    "usage": "밥을 먹다（ご飯を食べる）、약을 먹다（薬を飲む）にも使う。",
+    "hint": "ご飯を〜。",
+    "acceptedAnswers": ["먹다", "먹어요"],
+    "synonyms": [
+      {
+        "word": "식사하다",
+        "meaning": "食事する"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "굶다",
+        "meaning": "飢える、食べずに過ごす"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "공항",
+    "baseForm": "공항",
+    "highlightText": "공항",
+    "readingKatakana": "コンハン",
+    "romanization": "gonghang",
+    "meaning": "空港",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["旅行", "名詞", "場所"],
+    "formality": "なし",
+    "example": "공항에서 친구를 만났어요.",
+    "exampleTranslation": "空港で友達に会いました。",
+    "description": "飛行機に乗る場所、空港のこと。",
+    "usage": "인천공항（仁川空港）のように地名と組み合わせて使う。",
+    "hint": "飛行機に乗る場所。",
+    "acceptedAnswers": ["공항"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 4,
+    "word": "행복하다",
+    "baseForm": "행복하다",
+    "highlightText": "행복해요",
+    "readingKatakana": "ヘンボッカダ",
+    "romanization": "haengbokhada",
+    "meaning": "幸せだ",
+    "partOfSpeech": "形容詞",
+    "difficulty": "中級",
+    "difficultyLevel": 2,
+    "genres": ["形容詞", "感情"],
+    "formality": "基本形",
+    "example": "저는 지금 정말 행복해요.",
+    "exampleTranslation": "私は今本当に幸せです。",
+    "description": "満たされていて幸せな状態を表す。",
+    "usage": "행복한 하루（幸せな一日）のようにも使える。",
+    "hint": "うれしいより広く、満たされた感じ。",
+    "acceptedAnswers": ["행복하다", "행복해요"],
+    "synonyms": [
+      {
+        "word": "기쁘다",
+        "meaning": "うれしい"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "슬프다",
+        "meaning": "悲しい"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "친구",
+    "baseForm": "친구",
+    "highlightText": "친구",
+    "readingKatakana": "チング",
+    "romanization": "chingu",
+    "meaning": "友達",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["名詞", "人間関係"],
+    "formality": "なし",
+    "example": "친구와 영화를 봤어요.",
+    "exampleTranslation": "友達と映画を見ました。",
+    "description": "親しい相手を表す基本単語。",
+    "usage": "남자친구（彼氏）、여자친구（彼女）の形でも使う。",
+    "hint": "親しい人。",
+    "acceptedAnswers": ["친구"],
+    "synonyms": [
+      {
+        "word": "벗",
+        "meaning": "友"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "적",
+        "meaning": "敵"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "가방",
+    "baseForm": "가방",
+    "highlightText": "가방",
+    "readingKatakana": "カバン",
+    "romanization": "gabang",
+    "meaning": "かばん",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["名詞", "日用品"],
+    "formality": "なし",
+    "example": "이 가방은 정말 예뻐요.",
+    "exampleTranslation": "このかばんは本当にきれいです。",
+    "description": "バッグやかばんを表す単語。",
+    "usage": "책가방（通学かばん）のような言い方もある。",
+    "hint": "物を入れて持ち運ぶもの。",
+    "acceptedAnswers": ["가방"],
+    "synonyms": [
+      {
+        "word": "백",
+        "meaning": "バッグ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 7,
+    "word": "비행기",
+    "baseForm": "비행기",
+    "highlightText": "비행기를",
+    "readingKatakana": "ピヘンギ",
+    "romanization": "bihaenggi",
+    "meaning": "飛行機",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["旅行", "乗り物", "名詞"],
+    "formality": "なし",
+    "example": "비행기를 타고 한국에 갔어요.",
+    "exampleTranslation": "飛行機に乗って韓国に行きました。",
+    "description": "空を飛ぶ乗り物を指す。",
+    "usage": "비행기 표（飛行機のチケット）でも使う。",
+    "hint": "空を飛ぶ乗り物。",
+    "acceptedAnswers": ["비행기", "비행기를"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 8,
+    "word": "마시다",
+    "baseForm": "마시다",
+    "highlightText": "마셔요",
+    "readingKatakana": "マシダ",
+    "romanization": "masida",
+    "meaning": "飲む",
+    "partOfSpeech": "動詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["動詞", "食べ物", "日常会話"],
+    "formality": "基本形",
+    "example": "물을 많이 마셔요.",
+    "exampleTranslation": "水をたくさん飲みます。",
+    "description": "飲み物を飲むときの基本動詞。",
+    "usage": "커피를 마시다（コーヒーを飲む）など。",
+    "hint": "水やコーヒーを〜。",
+    "acceptedAnswers": ["마시다", "마셔요"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 9,
+    "word": "호텔",
+    "baseForm": "호텔",
+    "highlightText": "호텔",
+    "readingKatakana": "ホテル",
+    "romanization": "hotel",
+    "meaning": "ホテル",
+    "partOfSpeech": "名詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["旅行", "名詞", "場所"],
+    "formality": "なし",
+    "example": "호텔에서 쉬고 있어요.",
+    "exampleTranslation": "ホテルで休んでいます。",
+    "description": "宿泊施設を指す外来語。",
+    "usage": "호텔 방（ホテルの部屋）など。",
+    "hint": "旅行先で泊まる場所。",
+    "acceptedAnswers": ["호텔"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 10,
+    "word": "배고프다",
+    "baseForm": "배고프다",
+    "highlightText": "배고파요",
+    "readingKatakana": "ペゴプダ",
+    "romanization": "baegopeuda",
+    "meaning": "お腹がすく",
+    "partOfSpeech": "形容詞",
+    "difficulty": "初級",
+    "difficultyLevel": 1,
+    "genres": ["形容詞", "感情", "食べ物", "日常会話"],
+    "formality": "基本形",
+    "example": "너무 배고파요.",
+    "exampleTranslation": "とてもお腹がすいています。",
+    "description": "空腹の状態を表す表現。",
+    "usage": "배가 고프다 の縮約的な形としてよく使われる。",
+    "hint": "ご飯を食べたい状態。",
+    "acceptedAnswers": ["배고프다", "배고파요"],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "배부르다",
+        "meaning": "お腹いっぱいだ"
+      }
+    ]
+  }
+]

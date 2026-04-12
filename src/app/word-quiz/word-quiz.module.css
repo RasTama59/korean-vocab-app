@@ -1,0 +1,223 @@
+.page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(251, 146, 60, 0.16), transparent 28%),
+    radial-gradient(circle at top right, rgba(45, 212, 191, 0.18), transparent 26%),
+    linear-gradient(180deg, #fff9f4 0%, #f5fbff 52%, #edf8f3 100%);
+  padding: 96px 20px 64px;
+}
+
+.shell {
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+  display: grid;
+  gap: 22px;
+}
+
+.heroCard {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+  gap: 20px;
+  padding: 18px;
+  border-radius: 36px;
+  background: rgba(255, 255, 255, 0.62);
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  box-shadow: 0 24px 54px rgba(15, 23, 42, 0.1);
+  backdrop-filter: blur(18px);
+}
+
+.heroCopy,
+.noteCard,
+.levelCard {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow: 0 22px 44px rgba(15, 23, 42, 0.08);
+}
+
+.heroCopy {
+  padding: 34px;
+  border-radius: 30px;
+}
+
+.badge,
+.levelBadge {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.92);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.title {
+  margin: 20px 0 14px;
+  font-size: clamp(2.6rem, 5vw, 4.2rem);
+  line-height: 1.04;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.description,
+.noteCard p,
+.levelText {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.85;
+  color: #475569;
+}
+
+.noteCard {
+  border-radius: 30px;
+  padding: 28px;
+  display: grid;
+  align-content: center;
+  gap: 10px;
+  background:
+    radial-gradient(circle at top, rgba(251, 146, 60, 0.14), transparent 38%),
+    linear-gradient(180deg, #0f172a 0%, #1b2940 100%);
+  color: #fff;
+}
+
+.noteCard span {
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.noteCard strong {
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-weight: 900;
+}
+
+.noteCard p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.settingsLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin-top: 8px;
+  padding: 12px 16px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
+  font-size: 0.96rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.levelCard {
+  display: grid;
+  gap: 14px;
+  padding: 26px;
+  border-radius: 28px;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.levelCard:hover {
+  transform: translateY(-4px);
+  border-color: rgba(251, 146, 60, 0.34);
+  box-shadow: 0 26px 46px rgba(15, 23, 42, 0.1);
+}
+
+.levelHeader {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.levelCount {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: #0f766e;
+}
+
+.levelTitle {
+  margin: 0;
+  font-size: 1.7rem;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.levelAction {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 12px 16px;
+  border-radius: 16px;
+  background: #eff6ff;
+  color: #0f172a;
+  font-size: 0.96rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.levelActions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.levelSettings {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 12px 16px;
+  border-radius: 16px;
+  background: #fff7ed;
+  color: #9a3412;
+  font-size: 0.96rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .heroCard,
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .page {
+    padding: 84px 16px 48px;
+  }
+
+  .heroCard {
+    padding: 12px;
+    border-radius: 28px;
+  }
+
+  .heroCopy,
+  .noteCard,
+  .levelCard {
+    padding: 22px;
+    border-radius: 24px;
+  }
+
+  .settingsLink,
+  .levelAction,
+  .levelSettings {
+    width: 100%;
+    justify-content: center;
+  }
+}

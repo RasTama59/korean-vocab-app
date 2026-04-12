@@ -1,0 +1,3352 @@
+[
+  {
+    "id": 1401,
+    "word": "주제",
+    "baseForm": "주제",
+    "highlightText": "주제",
+    "readingKatakana": "ジュジェ",
+    "romanization": "juje",
+    "meaning": "主題",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "오늘 발표 주제예요.",
+    "exampleTranslation": "今日の発表テーマです。",
+    "description": "話し合いや文章で中心となるテーマを表す名詞です。",
+    "usage": "『주제를 정하다（主題を決める）』『주제에서 벗어나다（主題から外れる）』のように使います。",
+    "hint": "話の中心テーマ。",
+    "acceptedAnswers": [
+      "주제"
+    ],
+    "synonyms": [
+      {
+        "word": "테마",
+        "meaning": "テーマ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "주제 이탈",
+        "meaning": "主題から外れること"
+      }
+    ]
+  },
+  {
+    "id": 1402,
+    "word": "핵심",
+    "baseForm": "핵심",
+    "highlightText": "핵심",
+    "readingKatakana": "ヘクシム",
+    "romanization": "haeksim",
+    "meaning": "核心",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "핵심만 잡으면 쉬워요.",
+    "exampleTranslation": "核心だけつかめば分かりやすいです。",
+    "description": "最も重要で中心になる部分を表す名詞です。",
+    "usage": "『핵심을 짚다（核心を押さえる）』『핵심 내용（核心内容）』でよく使います。",
+    "hint": "いちばん大事な部分。",
+    "acceptedAnswers": [
+      "핵심"
+    ],
+    "synonyms": [
+      {
+        "word": "중심",
+        "meaning": "中心"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "겉부분",
+        "meaning": "表面の部分"
+      }
+    ]
+  },
+  {
+    "id": 1403,
+    "word": "요점",
+    "baseForm": "요점",
+    "highlightText": "요점",
+    "readingKatakana": "ヨジョム",
+    "romanization": "yojeom",
+    "meaning": "要点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "요점만 다시 정리했어요.",
+    "exampleTranslation": "要点だけもう一度整理しました。",
+    "description": "長い内容の中で特に押さえるべき点を表します。",
+    "usage": "『요점을 말하다（要点を話す）』『요점을 정리하다（要点を整理する）』の形が自然です。",
+    "hint": "押さえるべき点。",
+    "acceptedAnswers": [
+      "요점"
+    ],
+    "synonyms": [
+      {
+        "word": "핵심",
+        "meaning": "核心、要点"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1404,
+    "word": "근거",
+    "baseForm": "근거",
+    "highlightText": "근거",
+    "readingKatakana": "クンコ",
+    "romanization": "geungeo",
+    "meaning": "根拠",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "근거도 함께 제시해야 해요.",
+    "exampleTranslation": "根拠も一緒に示さないといけません。",
+    "description": "判断や主張を支える理由・証拠を表す名詞です。",
+    "usage": "『근거를 제시하다（根拠を示す）』『근거가 부족하다（根拠が不足している）』でよく使います。",
+    "hint": "主張を支える理由。",
+    "acceptedAnswers": [
+      "근거"
+    ],
+    "synonyms": [
+      {
+        "word": "증거",
+        "meaning": "証拠"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "추측",
+        "meaning": "推測"
+      }
+    ]
+  },
+  {
+    "id": 1405,
+    "word": "자료집",
+    "baseForm": "자료집",
+    "highlightText": "자료집",
+    "readingKatakana": "ジャリョジプ",
+    "romanization": "jaryojip",
+    "meaning": "資料集",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "자료집을 읽어 두면 편해요.",
+    "exampleTranslation": "資料集を読んでおくと楽です。",
+    "description": "授業や発表のために関連資料をまとめた冊子や資料集を表します。",
+    "usage": "『자료집을 배포하다（資料集を配布する）』のように使います。",
+    "hint": "まとめた資料。",
+    "acceptedAnswers": [
+      "자료집"
+    ],
+    "synonyms": [
+      {
+        "word": "자료 모음",
+        "meaning": "資料のまとめ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1406,
+    "word": "참고서",
+    "baseForm": "참고서",
+    "highlightText": "참고서",
+    "readingKatakana": "チャムコソ",
+    "romanization": "chamgoseo",
+    "meaning": "参考書",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "참고서를 더 자주 펼치게 돼요.",
+    "exampleTranslation": "参考書をもっとよく開くようになります。",
+    "description": "学習するときに補助的に見る参考書を表します。",
+    "usage": "『참고서를 사다（参考書を買う）』『참고서를 찾다（参考書を探す）』でよく使います。",
+    "hint": "学習の助けになる本。",
+    "acceptedAnswers": [
+      "참고서"
+    ],
+    "synonyms": [
+      {
+        "word": "보조 교재",
+        "meaning": "補助教材"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1407,
+    "word": "교재",
+    "baseForm": "교재",
+    "highlightText": "교재",
+    "readingKatakana": "キョジェ",
+    "romanization": "gyojae",
+    "meaning": "教材",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "이 교재는 예문이 많아서 좋아요.",
+    "exampleTranslation": "この教材は例文が多くていいです。",
+    "description": "授業や学習で使う教材全般を表します。",
+    "usage": "『교재를 준비하다（教材を準備する）』『교재를 펼치다（教材を開く）』のように使います。",
+    "hint": "授業で使う本や資料。",
+    "acceptedAnswers": [
+      "교재"
+    ],
+    "synonyms": [
+      {
+        "word": "학습 자료",
+        "meaning": "学習資料"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1408,
+    "word": "강의",
+    "baseForm": "강의",
+    "highlightText": "강의",
+    "readingKatakana": "カンウィ",
+    "romanization": "gangui",
+    "meaning": "講義",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "강의 뒤에는 정리하는 시간이 필요해요.",
+    "exampleTranslation": "講義のあとには整理する時間が必要です。",
+    "description": "先生や講師が説明する講義を表す名詞です。",
+    "usage": "『강의를 듣다（講義を聞く）』『강의를 신청하다（講義を申し込む）』が基本です。",
+    "hint": "先生が行う授業。",
+    "acceptedAnswers": [
+      "강의"
+    ],
+    "synonyms": [
+      {
+        "word": "수업",
+        "meaning": "授業"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1409,
+    "word": "과목",
+    "baseForm": "과목",
+    "highlightText": "과목",
+    "readingKatakana": "クァモク",
+    "romanization": "gwamok",
+    "meaning": "科目",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "이 과목이 가장 재미있을 것 같아요.",
+    "exampleTranslation": "この科目がいちばん面白そうです。",
+    "description": "学校で学ぶ教科・科目を表します。",
+    "usage": "『과목을 선택하다（科目を選択する）』『필수 과목（必修科目）』でよく使います。",
+    "hint": "学校で学ぶ教科。",
+    "acceptedAnswers": [
+      "과목"
+    ],
+    "synonyms": [
+      {
+        "word": "교과",
+        "meaning": "教科"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1410,
+    "word": "학기",
+    "baseForm": "학기",
+    "highlightText": "학기",
+    "readingKatakana": "ハクキ",
+    "romanization": "hakgi",
+    "meaning": "学期",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "학기가 바뀌면 생활 리듬도 달라져요.",
+    "exampleTranslation": "学期が変わると生活リズムも変わります。",
+    "description": "学校の一年を区切る学期を表します。",
+    "usage": "『한 학기（1学期）』『학기가 끝나다（学期が終わる）』の形でよく使います。",
+    "hint": "学校の区切り。",
+    "acceptedAnswers": [
+      "학기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 1411,
+    "word": "등록금",
+    "baseForm": "등록금",
+    "highlightText": "등록금",
+    "readingKatakana": "トゥンロククム",
+    "romanization": "deungrokgeum",
+    "meaning": "授業料",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "등록금이 부담돼서 장학금 정보를 찾아봤어요.",
+    "exampleTranslation": "授業料が負担で、奨学金情報を調べました。",
+    "description": "大学などに納める授業料を表します。",
+    "usage": "『등록금을 내다（授業料を払う）』『등록금 지원（授業料支援）』で使います。",
+    "hint": "学校に払うお金。",
+    "acceptedAnswers": [
+      "등록금"
+    ],
+    "synonyms": [
+      {
+        "word": "학비",
+        "meaning": "学費"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1412,
+    "word": "과제물",
+    "baseForm": "과제물",
+    "highlightText": "과제물",
+    "readingKatakana": "クァジェムル",
+    "romanization": "gwajemul",
+    "meaning": "課題物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "勉強"
+    ],
+    "formality": "なし",
+    "example": "과제물은 내용 구성이 더 중요해요.",
+    "exampleTranslation": "課題物は内容構成のほうが大事です。",
+    "description": "授業で提出する課題や提出物を表します。",
+    "usage": "『과제물을 제출하다（課題物を提出する）』が定番です。",
+    "hint": "提出する課題。",
+    "acceptedAnswers": [
+      "과제물"
+    ],
+    "synonyms": [
+      {
+        "word": "제출물",
+        "meaning": "提出物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1413,
+    "word": "발표자",
+    "baseForm": "발표자",
+    "highlightText": "발표자",
+    "readingKatakana": "パルピョジャ",
+    "romanization": "balpyoja",
+    "meaning": "発表者",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "발표자가 차분하게 말했어요.",
+    "exampleTranslation": "発表者が落ち着いて話しました。",
+    "description": "人前で発表する人を表します。",
+    "usage": "『발표자로 나서다（発表者として出る）』のように使います。",
+    "hint": "発表する人。",
+    "acceptedAnswers": [
+      "발표자"
+    ],
+    "synonyms": [
+      {
+        "word": "발표하는 사람",
+        "meaning": "発表する人"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "청중",
+        "meaning": "聴衆"
+      }
+    ]
+  },
+  {
+    "id": 1414,
+    "word": "토론",
+    "baseForm": "토론",
+    "highlightText": "토론",
+    "readingKatakana": "トロン",
+    "romanization": "toron",
+    "meaning": "討論",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "토론은 배울 점이 많아요.",
+    "exampleTranslation": "討論は学ぶ点が多いです。",
+    "description": "あるテーマについて賛否や考えを交わす討論を表します。",
+    "usage": "『토론에 참여하다（討論に参加する）』『토론 수업（討論授業）』でよく使います。",
+    "hint": "意見をぶつけ合う話し合い。",
+    "acceptedAnswers": [
+      "토론"
+    ],
+    "synonyms": [
+      {
+        "word": "논쟁",
+        "meaning": "論争"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1415,
+    "word": "논의",
+    "baseForm": "논의",
+    "highlightText": "논의",
+    "readingKatakana": "ノンウィ",
+    "romanization": "nonui",
+    "meaning": "議論",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "다시 논의하기로 했어요.",
+    "exampleTranslation": "また議論することにしました。",
+    "description": "問題や案について話し合う議論・協議を表します。",
+    "usage": "『논의를 거치다（議論を経る）』『추가 논의（追加議論）』のように使います。",
+    "hint": "話し合って決めること。",
+    "acceptedAnswers": [
+      "논의"
+    ],
+    "synonyms": [
+      {
+        "word": "상의",
+        "meaning": "相談、協議"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1416,
+    "word": "질서",
+    "baseForm": "질서",
+    "highlightText": "질서",
+    "readingKatakana": "ジルソ",
+    "romanization": "jilseo",
+    "meaning": "秩序",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "질서가 잘 지켜져서 분위기가 안정적이었어요.",
+    "exampleTranslation": "秩序がよく守られていて、雰囲気が安定していました。",
+    "description": "社会や集まりの中の秩序や整った状態を表します。",
+    "usage": "『질서를 지키다（秩序を守る）』が定番です。",
+    "hint": "乱れていない状態。",
+    "acceptedAnswers": [
+      "질서"
+    ],
+    "synonyms": [
+      {
+        "word": "정돈",
+        "meaning": "整頓、秩序"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "혼란",
+        "meaning": "混乱"
+      }
+    ]
+  },
+  {
+    "id": 1417,
+    "word": "규칙",
+    "baseForm": "규칙",
+    "highlightText": "규칙",
+    "readingKatakana": "キュチク",
+    "romanization": "gyuchik",
+    "meaning": "規則",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "규칙이 분명하면 팀 작업이 수월해져요.",
+    "exampleTranslation": "ルールが明確だとチーム作業が楽になります。",
+    "description": "集団や組織の中で守るべきルールを表します。",
+    "usage": "『규칙을 정하다（規則を決める）』『규칙을 어기다（規則を破る）』で使います。",
+    "hint": "守るべきルール。",
+    "acceptedAnswers": [
+      "규칙"
+    ],
+    "synonyms": [
+      {
+        "word": "룰",
+        "meaning": "ルール"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무질서",
+        "meaning": "無秩序"
+      }
+    ]
+  },
+  {
+    "id": 1418,
+    "word": "규정",
+    "baseForm": "규정",
+    "highlightText": "규정",
+    "readingKatakana": "キュジョン",
+    "romanization": "gyujeong",
+    "meaning": "規定",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "규정이 다를 수 있어요.",
+    "exampleTranslation": "規定は異なることがあります。",
+    "description": "公式に定められた規定・細かなルールを表します。",
+    "usage": "『규정을 확인하다（規定を確認する）』のように使います。",
+    "hint": "公式に決めた決まり。",
+    "acceptedAnswers": [
+      "규정"
+    ],
+    "synonyms": [
+      {
+        "word": "조항",
+        "meaning": "条項、規定"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1419,
+    "word": "절차",
+    "baseForm": "절차",
+    "highlightText": "절차",
+    "readingKatakana": "ジョルチャ",
+    "romanization": "jeolcha",
+    "meaning": "手続き",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "절차를 한 번 더 읽었어요.",
+    "exampleTranslation": "手順をもう一度読みました。",
+    "description": "順番どおりに進めるべき手続きやプロセスを表します。",
+    "usage": "『절차를 밟다（手続きを踏む）』が定番です。",
+    "hint": "順番どおりの手順。",
+    "acceptedAnswers": [
+      "절차"
+    ],
+    "synonyms": [
+      {
+        "word": "과정",
+        "meaning": "過程"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1420,
+    "word": "형식",
+    "baseForm": "형식",
+    "highlightText": "형식",
+    "readingKatakana": "ヒョンシク",
+    "romanization": "hyeongsik",
+    "meaning": "形式",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "형식이 조금 어색했어요.",
+    "exampleTranslation": "形式が少し不自然でした。",
+    "description": "見た目や書き方などの形式を表します。",
+    "usage": "『형식을 맞추다（形式を合わせる）』の形でよく使います。",
+    "hint": "決まった見た目や型。",
+    "acceptedAnswers": [
+      "형식"
+    ],
+    "synonyms": [
+      {
+        "word": "양식",
+        "meaning": "様式、形式"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "내용",
+        "meaning": "内容"
+      }
+    ]
+  },
+  {
+    "id": 1421,
+    "word": "구조",
+    "baseForm": "구조",
+    "highlightText": "구조",
+    "readingKatakana": "クジョ",
+    "romanization": "gujo",
+    "meaning": "構造",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "구조가 분명하면 쉬워요.",
+    "exampleTranslation": "構造がはっきりしていれば分かりやすいです。",
+    "description": "全体がどのように組み立てられているかという構造を表します。",
+    "usage": "『문장의 구조（文の構造）』『건물 구조（建物の構造）』のように使います。",
+    "hint": "組み立て方。",
+    "acceptedAnswers": [
+      "구조"
+    ],
+    "synonyms": [
+      {
+        "word": "짜임새",
+        "meaning": "構成、組み立て"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1422,
+    "word": "내용",
+    "baseForm": "내용",
+    "highlightText": "내용",
+    "readingKatakana": "ネヨン",
+    "romanization": "naeyong",
+    "meaning": "内容",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "내용이 알차면 기억에 남아요.",
+    "exampleTranslation": "内容が充実していれば印象に残ります。",
+    "description": "文や話、作品などに入っている内容を表します。",
+    "usage": "『내용을 확인하다（内容を確認する）』が基本です。",
+    "hint": "中に入っていること。",
+    "acceptedAnswers": [
+      "내용"
+    ],
+    "synonyms": [
+      {
+        "word": "내부 이야기",
+        "meaning": "中身、内容"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "형식",
+        "meaning": "形式"
+      }
+    ]
+  },
+  {
+    "id": 1423,
+    "word": "분량",
+    "baseForm": "분량",
+    "highlightText": "분량",
+    "readingKatakana": "プンリャン",
+    "romanization": "bunryang",
+    "meaning": "分量",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "분량보다 논리적인 흐름이 중요해요.",
+    "exampleTranslation": "分量より論理的な流れが重要です。",
+    "description": "文書や課題の量・ボリュームを表します。",
+    "usage": "『분량이 많다（分量が多い）』『분량을 줄이다（分量を減らす）』のように使います。",
+    "hint": "量やボリューム。",
+    "acceptedAnswers": [
+      "분량"
+    ],
+    "synonyms": [
+      {
+        "word": "양",
+        "meaning": "量"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1424,
+    "word": "수준",
+    "baseForm": "수준",
+    "highlightText": "수준",
+    "readingKatakana": "スジュン",
+    "romanization": "sujun",
+    "meaning": "水準",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "문장 수준이 높아졌어요.",
+    "exampleTranslation": "文の水準が高くなりました。",
+    "description": "実力や質の高さ・水準を表します。",
+    "usage": "『수준이 높다（レベルが高い）』『수준에 맞다（水準に合う）』でよく使います。",
+    "hint": "レベルの高さ。",
+    "acceptedAnswers": [
+      "수준"
+    ],
+    "synonyms": [
+      {
+        "word": "레벨",
+        "meaning": "レベル"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "기초",
+        "meaning": "基礎"
+      }
+    ]
+  },
+  {
+    "id": 1425,
+    "word": "분석력",
+    "baseForm": "분석력",
+    "highlightText": "분석력",
+    "readingKatakana": "プンソクリョク",
+    "romanization": "bunseokryeok",
+    "meaning": "分析力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "분석력이 더 중요해요.",
+    "exampleTranslation": "分析力のほうが重要です。",
+    "description": "複雑な情報を見て分けて考える力を表します。",
+    "usage": "『분석력이 좋다（分析力が高い）』のように使います。",
+    "hint": "見て分けて考える力。",
+    "acceptedAnswers": [
+      "분석력"
+    ],
+    "synonyms": [
+      {
+        "word": "판단력",
+        "meaning": "判断力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1426,
+    "word": "설득력",
+    "baseForm": "설득력",
+    "highlightText": "설득력",
+    "readingKatakana": "ソルトゥクリョク",
+    "romanization": "seoldeukryeok",
+    "meaning": "説得力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "설득력이 생겨요.",
+    "exampleTranslation": "説得力が生まれます。",
+    "description": "相手を納得させる力を表す名詞です。",
+    "usage": "『설득력이 있다（説得力がある）』が定番です。",
+    "hint": "納得させる力。",
+    "acceptedAnswers": [
+      "설득력"
+    ],
+    "synonyms": [
+      {
+        "word": "납득시키는 힘",
+        "meaning": "納得させる力"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1427,
+    "word": "논리",
+    "baseForm": "논리",
+    "highlightText": "논리",
+    "readingKatakana": "ノンリ",
+    "romanization": "nonri",
+    "meaning": "論理",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "논리가 약했어요.",
+    "exampleTranslation": "論理が弱かったです。",
+    "description": "話や文章の筋道、論理を表します。",
+    "usage": "『논리가 맞다（論理が通る）』『논리를 세우다（論理を立てる）』のように使います。",
+    "hint": "筋道。",
+    "acceptedAnswers": [
+      "논리"
+    ],
+    "synonyms": [
+      {
+        "word": "이치",
+        "meaning": "道理、論理"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비논리",
+        "meaning": "非論理"
+      }
+    ]
+  },
+  {
+    "id": 1428,
+    "word": "주장",
+    "baseForm": "주장",
+    "highlightText": "주장",
+    "readingKatakana": "ジュジャン",
+    "romanization": "jujang",
+    "meaning": "主張",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "주장에는 근거를 같이 보여 주세요.",
+    "exampleTranslation": "主張には根拠も一緒に見せてください。",
+    "description": "自分の考えをはっきり言い表す主張を表します。",
+    "usage": "『주장을 펼치다（主張を展開する）』でよく使います。",
+    "hint": "自分の考えを強く言うこと。",
+    "acceptedAnswers": [
+      "주장"
+    ],
+    "synonyms": [
+      {
+        "word": "의견",
+        "meaning": "意見"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "반론",
+        "meaning": "反論"
+      }
+    ]
+  },
+  {
+    "id": 1429,
+    "word": "반론",
+    "baseForm": "반론",
+    "highlightText": "반론",
+    "readingKatakana": "パンロン",
+    "romanization": "banron",
+    "meaning": "反論",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "반론을 듣고 생각도 조금 바뀌었어요.",
+    "exampleTranslation": "反論を聞いて考えも少し変わりました。",
+    "description": "他人の主張に対して反対の理由を述べる反論を表します。",
+    "usage": "『반론을 제기하다（反論を提起する）』が自然です。",
+    "hint": "相手の意見への反対意見。",
+    "acceptedAnswers": [
+      "반론"
+    ],
+    "synonyms": [
+      {
+        "word": "반대 의견",
+        "meaning": "反対意見"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "동의",
+        "meaning": "同意"
+      }
+    ]
+  },
+  {
+    "id": 1430,
+    "word": "시선",
+    "baseForm": "시선",
+    "highlightText": "시선",
+    "readingKatakana": "シソン",
+    "romanization": "siseon",
+    "meaning": "視線",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "시선을 보내야 해요.",
+    "exampleTranslation": "視線を向けないといけません。",
+    "description": "目の向きや見つめる先としての視線を表します。",
+    "usage": "『시선을 돌리다（視線を移す）』のように使います。",
+    "hint": "目の向き。",
+    "acceptedAnswers": [
+      "시선"
+    ],
+    "synonyms": [
+      {
+        "word": "눈길",
+        "meaning": "視線、目線"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1431,
+    "word": "시각",
+    "baseForm": "시각",
+    "highlightText": "시각",
+    "readingKatakana": "シカク",
+    "romanization": "sigak",
+    "meaning": "視覚、視点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "시각에 따라 결론이 달라질 수 있어요.",
+    "exampleTranslation": "視角によって結論が変わることがあります。",
+    "description": "見る能力としての視覚、または物事を見る視点を表します。",
+    "usage": "『새로운 시각（新しい視点）』がよく使われます。",
+    "hint": "見る立場、見方。",
+    "acceptedAnswers": [
+      "시각"
+    ],
+    "synonyms": [
+      {
+        "word": "관점",
+        "meaning": "観点、視点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "청각",
+        "meaning": "聴覚"
+      }
+    ]
+  },
+  {
+    "id": 1432,
+    "word": "청각",
+    "baseForm": "청각",
+    "highlightText": "청각",
+    "readingKatakana": "チョンカク",
+    "romanization": "cheonggak",
+    "meaning": "聴覚",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "健康",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "청각으로도 감정을 전달할 수 있어요.",
+    "exampleTranslation": "聴覚でも感情を伝えられます。",
+    "description": "音を聞き取る感覚としての聴覚を表します。",
+    "usage": "『청각 자료（聴覚資料）』のような使い方もあります。",
+    "hint": "聞く感覚。",
+    "acceptedAnswers": [
+      "청각"
+    ],
+    "synonyms": [
+      {
+        "word": "듣는 감각",
+        "meaning": "聴覚"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "시각",
+        "meaning": "視覚"
+      }
+    ]
+  },
+  {
+    "id": 1433,
+    "word": "감각",
+    "baseForm": "감각",
+    "highlightText": "감각",
+    "readingKatakana": "カムカク",
+    "romanization": "gamgak",
+    "meaning": "感覚",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "감각이 돌아온 것 같아요.",
+    "exampleTranslation": "感覚が戻った気がします。",
+    "description": "五感としての感覚、または微妙な感じ取り方を表します。",
+    "usage": "『감각이 좋다（感覚がよい）』の形でよく使います。",
+    "hint": "感じ取る力。",
+    "acceptedAnswers": [
+      "감각"
+    ],
+    "synonyms": [
+      {
+        "word": "느낌",
+        "meaning": "感覚、感じ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1434,
+    "word": "자극",
+    "baseForm": "자극",
+    "highlightText": "자극",
+    "readingKatakana": "ジャクク",
+    "romanization": "jageuk",
+    "meaning": "刺激",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "큰 자극이 되기도 해요.",
+    "exampleTranslation": "大きな刺激になることもあります。",
+    "description": "心や感覚に働きかける刺激を表します。",
+    "usage": "『자극을 받다（刺激を受ける）』がよく使われます。",
+    "hint": "心や感覚を動かすもの。",
+    "acceptedAnswers": [
+      "자극"
+    ],
+    "synonyms": [
+      {
+        "word": "영향",
+        "meaning": "影響、刺激"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1435,
+    "word": "반복",
+    "baseForm": "반복",
+    "highlightText": "반복",
+    "readingKatakana": "パンポク",
+    "romanization": "banbok",
+    "meaning": "反復",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "반복이 입에 익히는 데 효과적이에요.",
+    "exampleTranslation": "反復は口になじませるのに効果的です。",
+    "description": "同じことを何度も繰り返す反復を表します。",
+    "usage": "『반복 학습（反復学習）』の形でよく見ます。",
+    "hint": "何度もくり返すこと。",
+    "acceptedAnswers": [
+      "반복"
+    ],
+    "synonyms": [
+      {
+        "word": "되풀이",
+        "meaning": "繰り返し"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "중단",
+        "meaning": "中断"
+      }
+    ]
+  },
+  {
+    "id": 1436,
+    "word": "집중",
+    "baseForm": "집중",
+    "highlightText": "집중",
+    "readingKatakana": "ジプジュン",
+    "romanization": "jipjung",
+    "meaning": "集中",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "学習",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "깊게 집중하면 달라져요.",
+    "exampleTranslation": "深く集中すると変わります。",
+    "description": "一つのことに意識を集める集中を表します。",
+    "usage": "『집중이 잘되다（集中がうまくいく）』でよく使います。",
+    "hint": "意識を集めること。",
+    "acceptedAnswers": [
+      "집중"
+    ],
+    "synonyms": [
+      {
+        "word": "몰입",
+        "meaning": "没入、集中"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "산만함",
+        "meaning": "散漫さ"
+      }
+    ]
+  },
+  {
+    "id": 1437,
+    "word": "선입견",
+    "baseForm": "선입견",
+    "highlightText": "선입견",
+    "readingKatakana": "ソンイプキョン",
+    "romanization": "seonipgyeon",
+    "meaning": "先入観",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "선입견을 믿지 않는 편이 좋아요.",
+    "exampleTranslation": "先入観を信じすぎないほうがいいです。",
+    "description": "事前情報によって先にできた見方・先入観を表します。",
+    "usage": "『선입견을 버리다（先入観を捨てる）』でよく使います。",
+    "hint": "先にできた思い込み。",
+    "acceptedAnswers": [
+      "선입견"
+    ],
+    "synonyms": [
+      {
+        "word": "고정관념",
+        "meaning": "固定観念"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1438,
+    "word": "편견",
+    "baseForm": "편견",
+    "highlightText": "편견",
+    "readingKatakana": "ピョンキョン",
+    "romanization": "pyeongyeon",
+    "meaning": "偏見",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "感情",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "편견은 줄일 수 있어요.",
+    "exampleTranslation": "偏見は減らせます。",
+    "description": "偏った考えや不公平な見方としての偏見を表します。",
+    "usage": "『편견을 없애다（偏見をなくす）』のように使います。",
+    "hint": "偏った見方。",
+    "acceptedAnswers": [
+      "편견"
+    ],
+    "synonyms": [
+      {
+        "word": "차별적 시각",
+        "meaning": "差別的な見方"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이해",
+        "meaning": "理解"
+      }
+    ]
+  },
+  {
+    "id": 1439,
+    "word": "차별",
+    "baseForm": "차별",
+    "highlightText": "차별",
+    "readingKatakana": "チャピョル",
+    "romanization": "chabyeol",
+    "meaning": "差別",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "차별처럼 느껴질 수 있어요.",
+    "exampleTranslation": "差別のように感じられることがあります。",
+    "description": "人を不当に分けて扱う差別を表します。",
+    "usage": "『차별을 받다（差別を受ける）』『차별을 줄이다（差別を減らす）』で使います。",
+    "hint": "不公平に分けて扱うこと。",
+    "acceptedAnswers": [
+      "차별"
+    ],
+    "synonyms": [
+      {
+        "word": "불평등한 대우",
+        "meaning": "不平等な扱い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "평등",
+        "meaning": "平等"
+      }
+    ]
+  },
+  {
+    "id": 1440,
+    "word": "평등",
+    "baseForm": "평등",
+    "highlightText": "평등",
+    "readingKatakana": "ピョントゥン",
+    "romanization": "pyeongdeung",
+    "meaning": "平等",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "가능한 한 평등해야 해요.",
+    "exampleTranslation": "できるだけ平等であるべきです。",
+    "description": "差なく同じように扱われることとしての平等を表します。",
+    "usage": "『평등을 지향하다（平等を目指す）』のように使います。",
+    "hint": "差がなく同じであること。",
+    "acceptedAnswers": [
+      "평등"
+    ],
+    "synonyms": [
+      {
+        "word": "동등",
+        "meaning": "同等、平等"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차별",
+        "meaning": "差別"
+      }
+    ]
+  },
+  {
+    "id": 1441,
+    "word": "인권",
+    "baseForm": "인권",
+    "highlightText": "인권",
+    "readingKatakana": "インクォン",
+    "romanization": "ingwon",
+    "meaning": "人権",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "인권은 지켜져야 해요.",
+    "exampleTranslation": "人権は守られないといけません。",
+    "description": "人として当然持つ権利を表す社会語彙です。",
+    "usage": "『인권을 보호하다（人権を守る）』がよく使われます。",
+    "hint": "人が持つ基本的な権利。",
+    "acceptedAnswers": [
+      "인권"
+    ],
+    "synonyms": [
+      {
+        "word": "인간의 권리",
+        "meaning": "人間の権利"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1442,
+    "word": "복지",
+    "baseForm": "복지",
+    "highlightText": "복지",
+    "readingKatakana": "ポクジ",
+    "romanization": "bokji",
+    "meaning": "福祉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "복지가 좋으면 불안이 줄어들 수 있어요.",
+    "exampleTranslation": "福祉がよいと不安が減ることがあります。",
+    "description": "生活を安定させるための福祉制度や支援を表します。",
+    "usage": "『복지 제도（福祉制度）』『복지 정책（福祉政策）』の形でよく使います。",
+    "hint": "暮らしを支える制度。",
+    "acceptedAnswers": [
+      "복지"
+    ],
+    "synonyms": [
+      {
+        "word": "사회 보장",
+        "meaning": "社会保障"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1443,
+    "word": "환경",
+    "baseForm": "환경",
+    "highlightText": "환경",
+    "readingKatakana": "ファンキョン",
+    "romanization": "hwangyeong",
+    "meaning": "環境",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "환경이 낯설면 누구나 긴장할 수 있어요.",
+    "exampleTranslation": "環境に慣れていないと誰でも緊張することがあります。",
+    "description": "周囲の状況や自然環境、生活環境を幅広く表します。",
+    "usage": "『환경을 바꾸다（環境を変える）』のように使います。",
+    "hint": "周りの状況。",
+    "acceptedAnswers": [
+      "환경"
+    ],
+    "synonyms": [
+      {
+        "word": "주변 여건",
+        "meaning": "周辺環境、条件"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1444,
+    "word": "자원",
+    "baseForm": "자원",
+    "highlightText": "자원",
+    "readingKatakana": "ジャウォン",
+    "romanization": "jawon",
+    "meaning": "資源",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "자원은 회복에 오래 걸려요.",
+    "exampleTranslation": "資源は回復に長くかかります。",
+    "description": "社会や自然の中で役立つ資源を表します。",
+    "usage": "『천연 자원（天然資源）』の形がよく使われます。",
+    "hint": "役に立つ大切なもの。",
+    "acceptedAnswers": [
+      "자원"
+    ],
+    "synonyms": [
+      {
+        "word": "원천",
+        "meaning": "源、資源"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1445,
+    "word": "에너지",
+    "baseForm": "에너지",
+    "highlightText": "에너지",
+    "readingKatakana": "エノジ",
+    "romanization": "eneoji",
+    "meaning": "エネルギー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "에너지가 없으면 더 어렵게 느껴져요.",
+    "exampleTranslation": "エネルギーがないともっと難しく感じられます。",
+    "description": "物理的なエネルギーだけでなく、人の活力としても使われます。",
+    "usage": "『에너지를 아끼다（エネルギーを節約する）』で使います。",
+    "hint": "力のもと。",
+    "acceptedAnswers": [
+      "에너지"
+    ],
+    "synonyms": [
+      {
+        "word": "활력",
+        "meaning": "活力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무기력",
+        "meaning": "無気力"
+      }
+    ]
+  },
+  {
+    "id": 1446,
+    "word": "온도차",
+    "baseForm": "온도차",
+    "highlightText": "온도차",
+    "readingKatakana": "オントチャ",
+    "romanization": "ondocha",
+    "meaning": "温度差",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "自然",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "온도차가 꽤 컸어요.",
+    "exampleTranslation": "温度差がかなり大きかったです。",
+    "description": "二つの場所や時点の温度の差を表します。",
+    "usage": "『온도차가 크다（温度差が大きい）』の形でよく使います。",
+    "hint": "温度の違い。",
+    "acceptedAnswers": [
+      "온도차"
+    ],
+    "synonyms": [
+      {
+        "word": "기온 차이",
+        "meaning": "気温差"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1447,
+    "word": "기후",
+    "baseForm": "기후",
+    "highlightText": "기후",
+    "readingKatakana": "キフ",
+    "romanization": "gihu",
+    "meaning": "気候",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "自然",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "기후가 바뀌면 생활 방식도 달라져요.",
+    "exampleTranslation": "気候が変わると生活様式も変わります。",
+    "description": "長い期間の天候の傾向としての気候を表します。",
+    "usage": "『기후 변화（気候変動）』の形が非常に多いです。",
+    "hint": "長期的な天気の特徴。",
+    "acceptedAnswers": [
+      "기후"
+    ],
+    "synonyms": [
+      {
+        "word": "날씨 환경",
+        "meaning": "気候環境"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1448,
+    "word": "계절감",
+    "baseForm": "계절감",
+    "highlightText": "계절감",
+    "readingKatakana": "キェジョルカム",
+    "romanization": "gyejeolgam",
+    "meaning": "季節感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "自然",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "계절감이 안 느껴질 때가 있어요.",
+    "exampleTranslation": "季節感が感じられないことがあります。",
+    "description": "季節らしさを感じる感覚を表します。",
+    "usage": "『계절감이 있다/없다（季節感がある・ない）』でよく使います。",
+    "hint": "季節らしさ。",
+    "acceptedAnswers": [
+      "계절감"
+    ],
+    "synonyms": [
+      {
+        "word": "계절 분위기",
+        "meaning": "季節の雰囲気"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1449,
+    "word": "풍경",
+    "baseForm": "풍경",
+    "highlightText": "풍경",
+    "readingKatakana": "プンキョン",
+    "romanization": "punggyeong",
+    "meaning": "風景",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "自然",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "풍경이 완전히 다르게 보여요.",
+    "exampleTranslation": "風景がまったく違って見えます。",
+    "description": "自然や町並みとして目に入る風景を表します。",
+    "usage": "『풍경을 바라보다（風景を眺める）』のように使います。",
+    "hint": "目に見える景色。",
+    "acceptedAnswers": [
+      "풍경"
+    ],
+    "synonyms": [
+      {
+        "word": "경치",
+        "meaning": "景色"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1450,
+    "word": "장면",
+    "baseForm": "장면",
+    "highlightText": "장면",
+    "readingKatakana": "ジャンミョン",
+    "romanization": "jangmyeon",
+    "meaning": "場面",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "장면 하나로 분위기가 확 달라질 수 있어요.",
+    "exampleTranslation": "場面一つで雰囲気が大きく変わることがあります。",
+    "description": "映画や物語の一場面を表します。",
+    "usage": "『인상적인 장면（印象的な場面）』でよく使います。",
+    "hint": "一つのシーン。",
+    "acceptedAnswers": [
+      "장면"
+    ],
+    "synonyms": [
+      {
+        "word": "신",
+        "meaning": "シーン"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1451,
+    "word": "배경",
+    "baseForm": "배경",
+    "highlightText": "배경",
+    "readingKatakana": "ペキョン",
+    "romanization": "baegyeong",
+    "meaning": "背景",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "배경을 알고 보면 더 재미있어요.",
+    "exampleTranslation": "背景を知って見るともっと面白いです。",
+    "description": "出来事の後ろにある背景や、映像・絵の背景を表します。",
+    "usage": "『배경 지식（背景知識）』『배경 음악（BGM）』のようにも使います。",
+    "hint": "後ろにある事情。",
+    "acceptedAnswers": [
+      "배경"
+    ],
+    "synonyms": [
+      {
+        "word": "뒷이야기",
+        "meaning": "背景事情"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1452,
+    "word": "주인공",
+    "baseForm": "주인공",
+    "highlightText": "주인공",
+    "readingKatakana": "ジュインコン",
+    "romanization": "juingong",
+    "meaning": "主人公",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "주인공이 바뀌면 이야기가 흥미로워져요.",
+    "exampleTranslation": "主人公が変わると話が面白くなります。",
+    "description": "物語の中心となる主人公を表します。",
+    "usage": "『주인공이 성장하다（主人公が成長する）』のように使います。",
+    "hint": "物語の中心人物。",
+    "acceptedAnswers": [
+      "주인공"
+    ],
+    "synonyms": [
+      {
+        "word": "주요 인물",
+        "meaning": "主要人物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1453,
+    "word": "등장인물",
+    "baseForm": "등장인물",
+    "highlightText": "등장인물",
+    "readingKatakana": "トゥンジャンインムル",
+    "romanization": "deungjanginmul",
+    "meaning": "登場人物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "등장인물이 많아도 따라가기 어렵지 않아요.",
+    "exampleTranslation": "登場人物が多くても追いにくくありません。",
+    "description": "物語や作品に出てくる登場人物を表します。",
+    "usage": "『등장인물을 정리하다（登場人物を整理する）』で使います。",
+    "hint": "作品に出てくる人。",
+    "acceptedAnswers": [
+      "등장인물"
+    ],
+    "synonyms": [
+      {
+        "word": "캐릭터",
+        "meaning": "キャラクター"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1454,
+    "word": "결말",
+    "baseForm": "결말",
+    "highlightText": "결말",
+    "readingKatakana": "キョルマル",
+    "romanization": "gyeolmal",
+    "meaning": "結末",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "결말을 알아도 보는 재미가 줄지 않았어요.",
+    "exampleTranslation": "結末を知っていても見る楽しさが減りませんでした。",
+    "description": "物語や事件の終わり方、結末を表します。",
+    "usage": "『결말이 예상 밖이다（結末が予想外だ）』のように使います。",
+    "hint": "最後の終わり方。",
+    "acceptedAnswers": [
+      "결말"
+    ],
+    "synonyms": [
+      {
+        "word": "마무리",
+        "meaning": "締めくくり、結末"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1455,
+    "word": "대사",
+    "baseForm": "대사",
+    "highlightText": "대사",
+    "readingKatakana": "テサ",
+    "romanization": "daesa",
+    "meaning": "せりふ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "대사가 오래 기억에 남았어요.",
+    "exampleTranslation": "せりふが長く記憶に残りました。",
+    "description": "映画やドラマ、演劇で登場人物が話すせりふを表します。",
+    "usage": "『대사를 외우다（せりふを覚える）』でよく使います。",
+    "hint": "作品の中のせりふ。",
+    "acceptedAnswers": [
+      "대사"
+    ],
+    "synonyms": [
+      {
+        "word": "말",
+        "meaning": "言葉、せりふ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1456,
+    "word": "자막",
+    "baseForm": "자막",
+    "highlightText": "자막",
+    "readingKatakana": "ジャマク",
+    "romanization": "jamak",
+    "meaning": "字幕",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "技術"
+    ],
+    "formality": "なし",
+    "example": "자막이 없으면 놓치는 부분이 많아요.",
+    "exampleTranslation": "字幕がないと聞き逃す部分が多いです。",
+    "description": "映像の下に出る字幕を表します。",
+    "usage": "『자막을 켜다（字幕をつける）』の形が基本です。",
+    "hint": "画面に出る文字。",
+    "acceptedAnswers": [
+      "자막"
+    ],
+    "synonyms": [
+      {
+        "word": "캡션",
+        "meaning": "キャプション、字幕"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1457,
+    "word": "음향효과",
+    "baseForm": "음향효과",
+    "highlightText": "음향효과",
+    "readingKatakana": "ウムヒャンヒョクァ",
+    "romanization": "eumhyanghyogwa",
+    "meaning": "音響効果",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "技術"
+    ],
+    "formality": "なし",
+    "example": "음향효과가 있으면 긴장감이 달라져요.",
+    "exampleTranslation": "効果音があると緊張感が変わります。",
+    "description": "映像や舞台で使われる効果音・音響効果を表します。",
+    "usage": "『음향효과를 넣다（音響効果を入れる）』で使います。",
+    "hint": "雰囲気を変える音。",
+    "acceptedAnswers": [
+      "음향효과"
+    ],
+    "synonyms": [
+      {
+        "word": "효과음",
+        "meaning": "効果音"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1458,
+    "word": "화면",
+    "baseForm": "화면",
+    "highlightText": "화면",
+    "readingKatakana": "ファミョン",
+    "romanization": "hwamyeon",
+    "meaning": "画面",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "文化"
+    ],
+    "formality": "なし",
+    "example": "화면을 오래 보면 눈이 쉽게 피곤해져요.",
+    "exampleTranslation": "画面を長く見ると目が疲れやすくなります。",
+    "description": "ディスプレイに映る画面を表す基本語です。",
+    "usage": "『화면을 보다（画面を見る）』『화면이 꺼지다（画面が消える）』でよく使います。",
+    "hint": "ディスプレイに映るところ。",
+    "acceptedAnswers": [
+      "화면"
+    ],
+    "synonyms": [
+      {
+        "word": "디스플레이",
+        "meaning": "ディスプレイ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1459,
+    "word": "해상도",
+    "baseForm": "해상도",
+    "highlightText": "해상도",
+    "readingKatakana": "ヘサント",
+    "romanization": "haesangdo",
+    "meaning": "解像度",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "해상도가 낮으면 세부가 흐리게 보여요.",
+    "exampleTranslation": "解像度が低いと細部がぼやけて見えます。",
+    "description": "画面や画像の細かさを示す解像度を表します。",
+    "usage": "『해상도를 높이다（解像度を上げる）』のように使います。",
+    "hint": "画面の細かさ。",
+    "acceptedAnswers": [
+      "해상도"
+    ],
+    "synonyms": [
+      {
+        "word": "화질",
+        "meaning": "画質"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "저화질",
+        "meaning": "低画質"
+      }
+    ]
+  },
+  {
+    "id": 1460,
+    "word": "배터리",
+    "baseForm": "배터리",
+    "highlightText": "배터리",
+    "readingKatakana": "ペトリ",
+    "romanization": "baeteori",
+    "meaning": "バッテリー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "배터리가 빨리 닳아서 충전기를 챙겨 다녀요.",
+    "exampleTranslation": "バッテリーがすぐ減るので充電器を持ち歩いています。",
+    "description": "機器に電気をためるバッテリーを表します。",
+    "usage": "『배터리가 부족하다（バッテリーが少ない）』でよく使います。",
+    "hint": "電気をためる部分。",
+    "acceptedAnswers": [
+      "배터리"
+    ],
+    "synonyms": [
+      {
+        "word": "전지",
+        "meaning": "電池、バッテリー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1461,
+    "word": "충전기",
+    "baseForm": "충전기",
+    "highlightText": "충전기",
+    "readingKatakana": "チュンジョンキ",
+    "romanization": "chungjeongi",
+    "meaning": "充電器",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "충전기가 없으면 하루 종일 불안해져요.",
+    "exampleTranslation": "充電器がないと一日中不安になります。",
+    "description": "スマホなどを充電するための機器を表します。",
+    "usage": "『충전기를 꽂다（充電器を差す）』の形で使います。",
+    "hint": "充電する道具。",
+    "acceptedAnswers": [
+      "충전기"
+    ],
+    "synonyms": [
+      {
+        "word": "어댑터",
+        "meaning": "アダプター、充電器"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1462,
+    "word": "전원",
+    "baseForm": "전원",
+    "highlightText": "전원",
+    "readingKatakana": "ジョンウォン",
+    "romanization": "jeonwon",
+    "meaning": "電源",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "전원이 꺼져서 내용이 날아갔어요.",
+    "exampleTranslation": "電源が切れて内容が消えてしまいました。",
+    "description": "機器の電源や電力の供給を表します。",
+    "usage": "『전원을 켜다（電源を入れる）』『전원이 꺼지다（電源が切れる）』で使います。",
+    "hint": "機械を動かす電気。",
+    "acceptedAnswers": [
+      "전원"
+    ],
+    "synonyms": [
+      {
+        "word": "파워",
+        "meaning": "電源、パワー"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정전",
+        "meaning": "停電"
+      }
+    ]
+  },
+  {
+    "id": 1463,
+    "word": "기기",
+    "baseForm": "기기",
+    "highlightText": "기기",
+    "readingKatakana": "キキ",
+    "romanization": "gigi",
+    "meaning": "機器",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "새 기기는 익숙해질 시간이 필요해요.",
+    "exampleTranslation": "新しい機器は慣れる時間が必要です。",
+    "description": "電子機器や装置など、道具としての機器を表します。",
+    "usage": "『전자 기기（電子機器）』の形がよく使われます。",
+    "hint": "機械の道具。",
+    "acceptedAnswers": [
+      "기기"
+    ],
+    "synonyms": [
+      {
+        "word": "장비",
+        "meaning": "装備、機器"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1464,
+    "word": "장치",
+    "baseForm": "장치",
+    "highlightText": "장치",
+    "readingKatakana": "ジャンチ",
+    "romanization": "jangchi",
+    "meaning": "装置",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "장치가 들어 있다고 했어요.",
+    "exampleTranslation": "装置が入っていると言われました。",
+    "description": "ある役割を果たす装置や仕組みを表します。",
+    "usage": "『안전 장치（安全装置）』が典型的です。",
+    "hint": "役割を持つ装置。",
+    "acceptedAnswers": [
+      "장치"
+    ],
+    "synonyms": [
+      {
+        "word": "기계 장비",
+        "meaning": "機械装置"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1465,
+    "word": "기능",
+    "baseForm": "기능",
+    "highlightText": "기능",
+    "readingKatakana": "キヌン",
+    "romanization": "gineung",
+    "meaning": "機能",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "기능이 추가됐어요.",
+    "exampleTranslation": "機能が追加されました。",
+    "description": "機器やサービスが持つ働き・機能を表します。",
+    "usage": "『기능을 켜다（機能をオンにする）』などで使います。",
+    "hint": "できること、働き。",
+    "acceptedAnswers": [
+      "기능"
+    ],
+    "synonyms": [
+      {
+        "word": "역할",
+        "meaning": "役割、機能"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1466,
+    "word": "버전",
+    "baseForm": "버전",
+    "highlightText": "버전",
+    "readingKatakana": "ポジョン",
+    "romanization": "beojeon",
+    "meaning": "バージョン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "최종 버전인지 확인해요.",
+    "exampleTranslation": "最終版か確認してください。",
+    "description": "同じものの版や更新段階としてのバージョンを表します。",
+    "usage": "『최신 버전（最新バージョン）』でよく使います。",
+    "hint": "版、更新段階。",
+    "acceptedAnswers": [
+      "버전"
+    ],
+    "synonyms": [
+      {
+        "word": "판본",
+        "meaning": "版、本の版"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1467,
+    "word": "업데이트",
+    "baseForm": "업데이트",
+    "highlightText": "업데이트",
+    "readingKatakana": "オプテイトゥ",
+    "romanization": "eopdeiteu",
+    "meaning": "アップデート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "업데이트 후에 많이 해결됐어요.",
+    "exampleTranslation": "アップデートのあとかなり解決されました。",
+    "description": "機能や内容を新しくする更新を表します。",
+    "usage": "『업데이트를 하다（アップデートする）』が基本です。",
+    "hint": "新しく更新すること。",
+    "acceptedAnswers": [
+      "업데이트"
+    ],
+    "synonyms": [
+      {
+        "word": "갱신",
+        "meaning": "更新"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1468,
+    "word": "오류",
+    "baseForm": "오류",
+    "highlightText": "오류",
+    "readingKatakana": "オリュ",
+    "romanization": "oryu",
+    "meaning": "エラー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "오류 메시지가 떠요.",
+    "exampleTranslation": "エラーメッセージが表示されます。",
+    "description": "システムや計算の誤り、エラーを表します。",
+    "usage": "『오류가 발생하다（エラーが発生する）』でよく使います。",
+    "hint": "システムの間違い。",
+    "acceptedAnswers": [
+      "오류"
+    ],
+    "synonyms": [
+      {
+        "word": "에러",
+        "meaning": "エラー"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정상 작동",
+        "meaning": "正常動作"
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "word": "속성",
+    "baseForm": "속성",
+    "highlightText": "속성",
+    "readingKatakana": "ソクソン",
+    "romanization": "sokseong",
+    "meaning": "属性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "파일 속성을 보면 바로 확인할 수 있어요.",
+    "exampleTranslation": "ファイルの属性を見るとすぐ確認できます。",
+    "description": "物の性質や、デジタル項目の属性を表します。",
+    "usage": "『속성을 바꾸다（属性を変える）』のように使います。",
+    "hint": "持っている性質。",
+    "acceptedAnswers": [
+      "속성"
+    ],
+    "synonyms": [
+      {
+        "word": "특성",
+        "meaning": "特性"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1470,
+    "word": "검색어",
+    "baseForm": "검색어",
+    "highlightText": "검색어",
+    "readingKatakana": "コムセクオ",
+    "romanization": "geomsaekeo",
+    "meaning": "検索語",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "검색어에 따라 결과가 달라질 때가 많아요.",
+    "exampleTranslation": "検索語によって結果が変わることが多いです。",
+    "description": "検索するときに入力する言葉を表します。",
+    "usage": "『검색어를 입력하다（検索語を入力する）』で使います。",
+    "hint": "検索に入れる言葉。",
+    "acceptedAnswers": [
+      "검색어"
+    ],
+    "synonyms": [
+      {
+        "word": "키워드",
+        "meaning": "キーワード"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1471,
+    "word": "링크",
+    "baseForm": "링크",
+    "highlightText": "링크",
+    "readingKatakana": "リンク",
+    "romanization": "ringkeu",
+    "meaning": "リンク",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "링크를 단체방에 공유했어요.",
+    "exampleTranslation": "リンクをグループチャットに共有しました。",
+    "description": "別のページにつながるリンクを表す技術語です。",
+    "usage": "『링크를 보내다（リンクを送る）』がよく使われます。",
+    "hint": "つながるURL。",
+    "acceptedAnswers": [
+      "링크"
+    ],
+    "synonyms": [
+      {
+        "word": "주소",
+        "meaning": "アドレス、URL"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1472,
+    "word": "브라우저",
+    "baseForm": "브라우저",
+    "highlightText": "브라우저",
+    "readingKatakana": "プラウジョ",
+    "romanization": "beuraujeo",
+    "meaning": "ブラウザ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "브라우저마다 다르게 보일 수 있어요.",
+    "exampleTranslation": "ブラウザごとに違って見えることがあります。",
+    "description": "ウェブページを見るブラウザを表します。",
+    "usage": "『브라우저를 열다（ブラウザを開く）』で使います。",
+    "hint": "ウェブを見るソフト。",
+    "acceptedAnswers": [
+      "브라우저"
+    ],
+    "synonyms": [
+      {
+        "word": "웹 브라우저",
+        "meaning": "ウェブブラウザ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1473,
+    "word": "화면 캡처",
+    "baseForm": "화면 캡처",
+    "highlightText": "화면 캡처",
+    "readingKatakana": "ファミョン ケプチョ",
+    "romanization": "hwamyeon kaepcheo",
+    "meaning": "画面キャプチャ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "화면 캡처를 보내는 게 빨라요.",
+    "exampleTranslation": "スクリーンショットを送るほうが早いです。",
+    "description": "画面に見えている内容を画像として保存することを表します。",
+    "usage": "『화면 캡처를 하다（画面キャプチャをする）』のように使います。",
+    "hint": "画面を画像で残すこと。",
+    "acceptedAnswers": [
+      "화면 캡처"
+    ],
+    "synonyms": [
+      {
+        "word": "스크린샷",
+        "meaning": "スクリーンショット"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1474,
+    "word": "알림",
+    "baseForm": "알림",
+    "highlightText": "알림",
+    "readingKatakana": "アルリム",
+    "romanization": "alrim",
+    "meaning": "通知",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "알림은 대부분 꺼 두었어요.",
+    "exampleTranslation": "通知はほとんどオフにしておきました。",
+    "description": "アプリや機器から届く通知を表します。",
+    "usage": "『알림을 켜다/끄다（通知をオン・オフにする）』でよく使います。",
+    "hint": "機械から来るお知らせ。",
+    "acceptedAnswers": [
+      "알림"
+    ],
+    "synonyms": [
+      {
+        "word": "통지",
+        "meaning": "通知"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1475,
+    "word": "설치",
+    "baseForm": "설치",
+    "highlightText": "설치",
+    "readingKatakana": "ソルチ",
+    "romanization": "seolchi",
+    "meaning": "インストール、設置",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "설치 후에 한 번 재부팅하래요.",
+    "exampleTranslation": "インストール後に一度再起動しろと言われました。",
+    "description": "ソフトのインストールや装置の設置を表します。",
+    "usage": "『앱을 설치하다（アプリをインストールする）』が定番です。",
+    "hint": "入れて使えるようにすること。",
+    "acceptedAnswers": [
+      "설치"
+    ],
+    "synonyms": [
+      {
+        "word": "인스톨",
+        "meaning": "インストール"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "제거",
+        "meaning": "削除、除去"
+      }
+    ]
+  },
+  {
+    "id": 1476,
+    "word": "설정값",
+    "baseForm": "설정값",
+    "highlightText": "설정값",
+    "readingKatakana": "ソルジョンカプ",
+    "romanization": "seoljeonggaps",
+    "meaning": "設定値",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "설정값을 잘못 바꾸면 되돌리는 데 걸려요.",
+    "exampleTranslation": "設定値を間違えて変えると元に戻すのに時間がかかります。",
+    "description": "機器やプログラムで定めた数値・設定値を表します。",
+    "usage": "『기본 설정값（初期設定値）』の形でよく使います。",
+    "hint": "設定として入る数値。",
+    "acceptedAnswers": [
+      "설정값"
+    ],
+    "synonyms": [
+      {
+        "word": "기본값",
+        "meaning": "デフォルト値"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1477,
+    "word": "접속",
+    "baseForm": "접속",
+    "highlightText": "접속",
+    "readingKatakana": "ジョプソク",
+    "romanization": "jeopsok",
+    "meaning": "接続、アクセス",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "접속이 자꾸 끊겨요.",
+    "exampleTranslation": "接続が何度も切れます。",
+    "description": "ネットワークやサイトへの接続・アクセスを表します。",
+    "usage": "『사이트에 접속하다（サイトに接続する）』が基本です。",
+    "hint": "ネットにつながること。",
+    "acceptedAnswers": [
+      "접속"
+    ],
+    "synonyms": [
+      {
+        "word": "연결",
+        "meaning": "接続"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "차단",
+        "meaning": "遮断"
+      }
+    ]
+  },
+  {
+    "id": 1478,
+    "word": "보안",
+    "baseForm": "보안",
+    "highlightText": "보안",
+    "readingKatakana": "ポアン",
+    "romanization": "boan",
+    "meaning": "セキュリティ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "보안이 더 중요해요.",
+    "exampleTranslation": "セキュリティのほうが重要です。",
+    "description": "情報や機器を安全に守るセキュリティを表します。",
+    "usage": "『보안을 강화하다（セキュリティを強化する）』でよく使います。",
+    "hint": "安全に守ること。",
+    "acceptedAnswers": [
+      "보안"
+    ],
+    "synonyms": [
+      {
+        "word": "안전성",
+        "meaning": "安全性、保安"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1479,
+    "word": "개인정보",
+    "baseForm": "개인정보",
+    "highlightText": "개인정보",
+    "readingKatakana": "ケインジョンポ",
+    "romanization": "gaeinjeongbo",
+    "meaning": "個人情報",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "개인정보 사용부터 먼저 확인해요.",
+    "exampleTranslation": "個人情報の使われ方から先に確認します。",
+    "description": "氏名や連絡先などの個人情報を表します。",
+    "usage": "『개인정보를 수집하다（個人情報を収集する）』で使います。",
+    "hint": "個人に関する情報。",
+    "acceptedAnswers": [
+      "개인정보"
+    ],
+    "synonyms": [
+      {
+        "word": "개인 데이터",
+        "meaning": "個人データ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1480,
+    "word": "광고",
+    "baseForm": "광고",
+    "highlightText": "광고",
+    "readingKatakana": "クァンコ",
+    "romanization": "gwanggo",
+    "meaning": "広告",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "技術"
+    ],
+    "formality": "なし",
+    "example": "광고가 많으면 다시 쓰기 싫어져요.",
+    "exampleTranslation": "広告が多いとまた使いたくなくなります。",
+    "description": "商品やサービスを知らせる広告を表します。",
+    "usage": "『광고를 보다（広告を見る）』『광고를 넣다（広告を入れる）』で使います。",
+    "hint": "売るための知らせ。",
+    "acceptedAnswers": [
+      "광고"
+    ],
+    "synonyms": [
+      {
+        "word": "선전",
+        "meaning": "宣伝、広告"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1481,
+    "word": "홍보",
+    "baseForm": "홍보",
+    "highlightText": "홍보",
+    "readingKatakana": "ホンポ",
+    "romanization": "hongbo",
+    "meaning": "広報",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "홍보만 하면 금방 묻히기 쉬워요.",
+    "exampleTranslation": "宣伝だけだとすぐ埋もれやすいです。",
+    "description": "広く知らせて知ってもらう広報・PRを表します。",
+    "usage": "『행사를 홍보하다（行事を広報する）』のように使います。",
+    "hint": "広く知らせること。",
+    "acceptedAnswers": [
+      "홍보"
+    ],
+    "synonyms": [
+      {
+        "word": "PR",
+        "meaning": "広報、PR"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1482,
+    "word": "후기",
+    "baseForm": "후기",
+    "highlightText": "후기",
+    "readingKatakana": "フキ",
+    "romanization": "hugi",
+    "meaning": "レビュー、感想",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "후기를 보면 사용감이 보이더라고요.",
+    "exampleTranslation": "レビューを見ると使い心地が見えてきました。",
+    "description": "商品や場所を使ったあとに書く感想やレビューを表します。",
+    "usage": "『후기를 남기다（レビューを残す）』でよく使います。",
+    "hint": "使った後の感想。",
+    "acceptedAnswers": [
+      "후기"
+    ],
+    "synonyms": [
+      {
+        "word": "리뷰",
+        "meaning": "レビュー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1483,
+    "word": "평점",
+    "baseForm": "평점",
+    "highlightText": "평점",
+    "readingKatakana": "ピョンジョム",
+    "romanization": "pyeongjeom",
+    "meaning": "評点、レーティング",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "평점이 높아도 무조건 좋은 건 아니에요.",
+    "exampleTranslation": "評価が高くても無条件によいわけではありません。",
+    "description": "評価を数字で示した評点・レーティングを表します。",
+    "usage": "『평점이 높다（評点が高い）』の形が一般的です。",
+    "hint": "数字でついた評価。",
+    "acceptedAnswers": [
+      "평점"
+    ],
+    "synonyms": [
+      {
+        "word": "점수",
+        "meaning": "点数、評価"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1484,
+    "word": "만족도",
+    "baseForm": "만족도",
+    "highlightText": "만족도",
+    "readingKatakana": "マンジョクト",
+    "romanization": "manjokdo",
+    "meaning": "満足度",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "만족도는 떨어질 수 있어요.",
+    "exampleTranslation": "満足度は下がり得ます。",
+    "description": "利用者がどれだけ満足したかを示す満足度を表します。",
+    "usage": "『만족도를 높이다（満足度を上げる）』で使います。",
+    "hint": "どれだけ満足したか。",
+    "acceptedAnswers": [
+      "만족도"
+    ],
+    "synonyms": [
+      {
+        "word": "만족 수준",
+        "meaning": "満足の水準"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1485,
+    "word": "불편함",
+    "baseForm": "불편함",
+    "highlightText": "불편함",
+    "readingKatakana": "プルピョンハム",
+    "romanization": "bulpyeonham",
+    "meaning": "不便さ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "불편함이 크면 결국 포기하게 돼요.",
+    "exampleTranslation": "不便さが大きいと結局あきらめるようになります。",
+    "description": "不便で気になる点、不便さそのものを名詞化した語です。",
+    "usage": "『불편함을 줄이다（不便さを減らす）』が自然です。",
+    "hint": "不便に感じること。",
+    "acceptedAnswers": [
+      "불편함"
+    ],
+    "synonyms": [
+      {
+        "word": "불편한 점",
+        "meaning": "不便な点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "편리함",
+        "meaning": "便利さ"
+      }
+    ]
+  },
+  {
+    "id": 1486,
+    "word": "관광객",
+    "baseForm": "관광객",
+    "highlightText": "관광객",
+    "readingKatakana": "クァンクァンケク",
+    "romanization": "gwangwanggaek",
+    "meaning": "観光客",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "관광객이 많으면 분위기가 크게 달라져요.",
+    "exampleTranslation": "観光客が多いと雰囲気が大きく変わります。",
+    "description": "旅行でその場所を訪れた観光客を表します。",
+    "usage": "『관광객이 몰리다（観光客が押し寄せる）』でよく使います。",
+    "hint": "旅行で来た人。",
+    "acceptedAnswers": [
+      "관광객"
+    ],
+    "synonyms": [
+      {
+        "word": "여행객",
+        "meaning": "旅行客"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "현지인",
+        "meaning": "現地の人"
+      }
+    ]
+  },
+  {
+    "id": 1487,
+    "word": "현지인",
+    "baseForm": "현지인",
+    "highlightText": "현지인",
+    "readingKatakana": "ヒョンジイン",
+    "romanization": "hyeonjiin",
+    "meaning": "現地の人",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "현지인이 가는 식당이 더 궁금했어요.",
+    "exampleTranslation": "現地の人が行く食堂のほうが気になりました。",
+    "description": "その土地に住んでいる現地の人を表します。",
+    "usage": "『현지인 추천（現地の人のおすすめ）』のように使います。",
+    "hint": "その土地に住む人。",
+    "acceptedAnswers": [
+      "현지인"
+    ],
+    "synonyms": [
+      {
+        "word": "현지 주민",
+        "meaning": "現地住民"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "관광객",
+        "meaning": "観光客"
+      }
+    ]
+  },
+  {
+    "id": 1488,
+    "word": "일행",
+    "baseForm": "일행",
+    "highlightText": "일행",
+    "readingKatakana": "イルヘン",
+    "romanization": "ilhaeng",
+    "meaning": "連れ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "일행이 몇 명인지 먼저 알려 주세요.",
+    "exampleTranslation": "同行者が何人か先に知らせてください。",
+    "description": "一緒に行動する連れ、一行を表します。",
+    "usage": "『일행이 있다（連れがいる）』の形で使います。",
+    "hint": "一緒に来た人。",
+    "acceptedAnswers": [
+      "일행"
+    ],
+    "synonyms": [
+      {
+        "word": "같이 온 사람",
+        "meaning": "一緒に来た人"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1489,
+    "word": "동행",
+    "baseForm": "동행",
+    "highlightText": "동행",
+    "readingKatakana": "トンヘン",
+    "romanization": "donghaeng",
+    "meaning": "同行",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "친구의 동행이 큰 도움이 됐어요.",
+    "exampleTranslation": "友達の同行が大きな助けになりました。",
+    "description": "一緒に行くこと、または一緒に行く人を表します。",
+    "usage": "『동행하다（同行する）』の名詞形としても使われます。",
+    "hint": "一緒について行くこと。",
+    "acceptedAnswers": [
+      "동행"
+    ],
+    "synonyms": [
+      {
+        "word": "같이 감",
+        "meaning": "同行"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1490,
+    "word": "예약금",
+    "baseForm": "예약금",
+    "highlightText": "예약금",
+    "readingKatakana": "イェヤククム",
+    "romanization": "yeyakgeum",
+    "meaning": "予約金",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "예약금으로 일부를 먼저 보내 달랬어요.",
+    "exampleTranslation": "予約金として一部を先に送ってほしいと言われました。",
+    "description": "予約を確定するため先に払うお金を表します。",
+    "usage": "『예약금을 걸다（予約金を払う）』のように使います。",
+    "hint": "予約のため先に払うお金。",
+    "acceptedAnswers": [
+      "예약금"
+    ],
+    "synonyms": [
+      {
+        "word": "선금",
+        "meaning": "前金"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1491,
+    "word": "환전",
+    "baseForm": "환전",
+    "highlightText": "환전",
+    "readingKatakana": "ファンジョン",
+    "romanization": "hwanjeon",
+    "meaning": "両替",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "旅行",
+      "経済"
+    ],
+    "formality": "なし",
+    "example": "공항보다 여기 환전이 조금 더 유리했어요.",
+    "exampleTranslation": "空港よりこちらでの両替のほうが少し有利でした。",
+    "description": "通貨を別の通貨に替える両替を表します。",
+    "usage": "『환전을 하다（両替する）』が基本です。",
+    "hint": "お金を別の通貨に替えること。",
+    "acceptedAnswers": [
+      "환전"
+    ],
+    "synonyms": [
+      {
+        "word": "환금",
+        "meaning": "両替、換金"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1492,
+    "word": "현금영수증",
+    "baseForm": "현금영수증",
+    "highlightText": "현금영수증",
+    "readingKatakana": "ヒョンクムヨンスジュン",
+    "romanization": "hyeongeumyeongsujeung",
+    "meaning": "現金領収書",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "買い物",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "현금영수증을 발급받았어요.",
+    "exampleTranslation": "現金領収書を発行してもらいました。",
+    "description": "韓国で現金決済時に発行される領収記録を表します。",
+    "usage": "『현금영수증을 발급하다（現金領収書を発行する）』で使います。",
+    "hint": "現金決済の領収記録。",
+    "acceptedAnswers": [
+      "현금영수증"
+    ],
+    "synonyms": [
+      {
+        "word": "영수 기록",
+        "meaning": "領収記録"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1493,
+    "word": "구독",
+    "baseForm": "구독",
+    "highlightText": "구독",
+    "readingKatakana": "クトク",
+    "romanization": "gudok",
+    "meaning": "購読、サブスク",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "필요한 것만 구독해요.",
+    "exampleTranslation": "必要なものだけ購読します。",
+    "description": "定期的に料金を払って利用する購読・サブスクを表します。",
+    "usage": "『구독을 취소하다（購読を取り消す）』でよく使います。",
+    "hint": "定期的に利用する契約。",
+    "acceptedAnswers": [
+      "구독"
+    ],
+    "synonyms": [
+      {
+        "word": "정기 이용",
+        "meaning": "定期利用"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "해지",
+        "meaning": "解約"
+      }
+    ]
+  },
+  {
+    "id": 1494,
+    "word": "해지",
+    "baseForm": "해지",
+    "highlightText": "해지",
+    "readingKatakana": "ヘジ",
+    "romanization": "haeji",
+    "meaning": "解約",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "정기권을 해지했어요.",
+    "exampleTranslation": "定期利用を解約しました。",
+    "description": "契約や利用権をやめる解約を表します。",
+    "usage": "『구독 해지（購読解約）』『해지를 신청하다（解約を申請する）』で使います。",
+    "hint": "契約をやめること。",
+    "acceptedAnswers": [
+      "해지"
+    ],
+    "synonyms": [
+      {
+        "word": "취소",
+        "meaning": "取消、解約"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "구독",
+        "meaning": "購読、サブスク"
+      }
+    ]
+  },
+  {
+    "id": 1495,
+    "word": "이용권",
+    "baseForm": "이용권",
+    "highlightText": "이용권",
+    "readingKatakana": "イヨンクォン",
+    "romanization": "iyonggwon",
+    "meaning": "利用券",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "이용권은 기한이 지나면 자동으로 사라진대요.",
+    "exampleTranslation": "利用券は期限が過ぎると自動で消えるそうです。",
+    "description": "施設やサービスを使うための利用券を表します。",
+    "usage": "『이용권을 구매하다（利用券を購入する）』のように使います。",
+    "hint": "使うためのチケット。",
+    "acceptedAnswers": [
+      "이용권"
+    ],
+    "synonyms": [
+      {
+        "word": "티켓",
+        "meaning": "チケット"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1496,
+    "word": "회원권",
+    "baseForm": "회원권",
+    "highlightText": "회원권",
+    "readingKatakana": "フェウォンクォン",
+    "romanization": "hoewongwon",
+    "meaning": "会員券",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "日常",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "회원권이 있으면 이득일 수 있어요.",
+    "exampleTranslation": "会員券があると得になることがあります。",
+    "description": "会員として利用する権利を表す券です。",
+    "usage": "『회원권을 끊다（会員権を購入する）』のように使います。",
+    "hint": "会員になるための権利。",
+    "acceptedAnswers": [
+      "회원권"
+    ],
+    "synonyms": [
+      {
+        "word": "멤버십",
+        "meaning": "メンバーシップ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1497,
+    "word": "공지사항",
+    "baseForm": "공지사항",
+    "highlightText": "공지사항",
+    "readingKatakana": "コンジサハン",
+    "romanization": "gongjisahang",
+    "meaning": "お知らせ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "공지사항이 가장 먼저 올라와요.",
+    "exampleTranslation": "お知らせがいちばん先に上がってきます。",
+    "description": "サイトや会社などが知らせる正式なお知らせを表します。",
+    "usage": "『공지사항을 확인하다（お知らせを確認する）』でよく使います。",
+    "hint": "公式なお知らせ。",
+    "acceptedAnswers": [
+      "공지사항"
+    ],
+    "synonyms": [
+      {
+        "word": "알림글",
+        "meaning": "お知らせ文"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1498,
+    "word": "첨부파일",
+    "baseForm": "첨부파일",
+    "highlightText": "첨부파일",
+    "readingKatakana": "チョムプパイル",
+    "romanization": "cheombupail",
+    "meaning": "添付ファイル",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "첨부파일에 중요한 내용이 더 많아요.",
+    "exampleTranslation": "添付ファイルに重要な内容がより多いです。",
+    "description": "メールなどに一緒につけて送るファイルを表します。",
+    "usage": "『첨부파일을 열다（添付ファイルを開く）』の形でよく使います。",
+    "hint": "一緒についてくるファイル。",
+    "acceptedAnswers": [
+      "첨부파일"
+    ],
+    "synonyms": [
+      {
+        "word": "첨부 문서",
+        "meaning": "添付文書"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1499,
+    "word": "발신자",
+    "baseForm": "발신자",
+    "highlightText": "발신자",
+    "readingKatakana": "パルシンジャ",
+    "romanization": "balsinja",
+    "meaning": "送信者",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "技術",
+      "人"
+    ],
+    "formality": "なし",
+    "example": "발신자를 먼저 확인해요.",
+    "exampleTranslation": "送信者を先に確認します。",
+    "description": "メールやメッセージを送った送信者を表します。",
+    "usage": "『발신자 정보（送信者情報）』のように使います。",
+    "hint": "送った人。",
+    "acceptedAnswers": [
+      "발신자"
+    ],
+    "synonyms": [
+      {
+        "word": "보낸 사람",
+        "meaning": "差出人、送信者"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "수신자",
+        "meaning": "受信者"
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "word": "예술",
+    "baseForm": "예술",
+    "highlightText": "예술",
+    "readingKatakana": "イェスル",
+    "romanization": "yesul",
+    "meaning": "芸術",
+    "partOfSpeech": "名詞",
+    "levelGroup": "中級",
+    "difficultyLevel": 2,
+    "genres": [
+      "文化",
+      "趣味"
+    ],
+    "formality": "なし",
+    "example": "예술은 느끼는 점이 달라서 재미있어요.",
+    "exampleTranslation": "芸術は感じ方が違うので面白いです。",
+    "description": "絵画・音楽・文学などの芸術全般を表します。",
+    "usage": "『예술 작품（芸術作品）』『예술 활동（芸術活動）』でよく使います。",
+    "hint": "美しさや表現を大切にする分野。",
+    "acceptedAnswers": [
+      "예술"
+    ],
+    "synonyms": [
+      {
+        "word": "아트",
+        "meaning": "アート、芸術"
+      }
+    ],
+    "antonyms": []
+  }
+]

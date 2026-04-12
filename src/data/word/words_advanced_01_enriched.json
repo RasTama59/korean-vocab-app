@@ -1,0 +1,3660 @@
+[
+  {
+    "id": 1601,
+    "word": "가치관",
+    "baseForm": "가치관",
+    "highlightText": "가치관",
+    "readingKatakana": "gachigwan",
+    "romanization": "gachigwan",
+    "meaning": "価値観",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "가치관이 뚜렷해졌어요.",
+    "exampleTranslation": "価値観がはっきりしてきました。",
+    "description": "何を大切だと考えるかという、その人なりの基準や考え方を表す名詞です。",
+    "usage": "『가치관이 다르다（価値観が違う）』『가치관을 형성하다（価値観を形成する）』のように使います。",
+    "hint": "何を大切にするかという考え方。",
+    "acceptedAnswers": [
+      "가치관"
+    ],
+    "synonyms": [
+      {
+        "word": "신념",
+        "meaning": "信念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "편견",
+        "meaning": "偏見"
+      }
+    ]
+  },
+  {
+    "id": 1602,
+    "word": "식견",
+    "baseForm": "식견",
+    "highlightText": "식견",
+    "readingKatakana": "sikgyeon",
+    "romanization": "sikgyeon",
+    "meaning": "識見、見識",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "식견이 넓은 편이에요.",
+    "exampleTranslation": "見識が広いほうです。",
+    "description": "物事を深く見て判断する力や見識を表す名詞です。",
+    "usage": "『식견이 넓다（見識が広い）』『식견을 갖추다（見識を備える）』のように使います。",
+    "hint": "深く見抜く見識。",
+    "acceptedAnswers": [
+      "식견"
+    ],
+    "synonyms": [
+      {
+        "word": "안목",
+        "meaning": "眼目、見識"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무지",
+        "meaning": "無知"
+      }
+    ]
+  },
+  {
+    "id": 1603,
+    "word": "인식",
+    "baseForm": "인식",
+    "highlightText": "인식",
+    "readingKatakana": "insik",
+    "romanization": "insik",
+    "meaning": "認識",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "다르게 인식하게 됐어요.",
+    "exampleTranslation": "違って認識するようになりました。",
+    "description": "ある対象をどう理解し、受け止めているかを表す名詞です。",
+    "usage": "『문제를 인식하다（問題を認識する）』『사회적 인식（社会的認識）』のように使います。",
+    "hint": "どう理解して受け止めているか。",
+    "acceptedAnswers": [
+      "인식"
+    ],
+    "synonyms": [
+      {
+        "word": "이해",
+        "meaning": "理解"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "오해",
+        "meaning": "誤解"
+      }
+    ]
+  },
+  {
+    "id": 1604,
+    "word": "고정관념",
+    "baseForm": "고정관념",
+    "highlightText": "고정관념",
+    "readingKatakana": "gojeonggwannyeom",
+    "romanization": "gojeonggwannyeom",
+    "meaning": "固定観念",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "고정관념을 버려요.",
+    "exampleTranslation": "固定観念を捨てます。",
+    "description": "長く固まってしまい、簡単には変わらない考えや思い込みを表します。",
+    "usage": "『고정관념을 깨다（固定観念を破る）』『고정관념에 묶이다（固定観念に縛られる）』のように使います。",
+    "hint": "固まってしまった思い込み。",
+    "acceptedAnswers": [
+      "고정관념"
+    ],
+    "synonyms": [
+      {
+        "word": "선입견",
+        "meaning": "先入観"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "개방성",
+        "meaning": "開放性"
+      }
+    ]
+  },
+  {
+    "id": 1605,
+    "word": "오해",
+    "baseForm": "오해",
+    "highlightText": "오해",
+    "readingKatakana": "ohae",
+    "romanization": "ohae",
+    "meaning": "誤解",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "오해로 이어질 수 있어요.",
+    "exampleTranslation": "誤解につながることがあります。",
+    "description": "相手の言葉や行動を本来とは違う意味で受け取ることを表します。",
+    "usage": "『오해를 풀다（誤解を解く）』『오해를 사다（誤解を買う）』などの言い方がよく使われます。",
+    "hint": "本来と違って受け取ること。",
+    "acceptedAnswers": [
+      "오해"
+    ],
+    "synonyms": [
+      {
+        "word": "착각",
+        "meaning": "勘違い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이해",
+        "meaning": "理解"
+      }
+    ]
+  },
+  {
+    "id": 1606,
+    "word": "마찰",
+    "baseForm": "마찰",
+    "highlightText": "마찰",
+    "readingKatakana": "machal",
+    "romanization": "machal",
+    "meaning": "摩擦、衝突",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "의견 차이가 마찰을 낳아요.",
+    "exampleTranslation": "意見の違いが摩擦を生みます。",
+    "description": "立場や利害の違いによって衝突やぎくしゃくした関係が生じることを表します。",
+    "usage": "『마찰을 빚다（摩擦を起こす）』『마찰이 생기다（摩擦が生じる）』のように使います。",
+    "hint": "ぶつかって生じる衝突。",
+    "acceptedAnswers": [
+      "마찰"
+    ],
+    "synonyms": [
+      {
+        "word": "충돌",
+        "meaning": "衝突"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "화합",
+        "meaning": "和合"
+      }
+    ]
+  },
+  {
+    "id": 1607,
+    "word": "신념",
+    "baseForm": "신념",
+    "highlightText": "신념",
+    "readingKatakana": "sinnyeom",
+    "romanization": "sinnyeom",
+    "meaning": "信念",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "신념을 지키는 사람이에요.",
+    "exampleTranslation": "信念を守る人です。",
+    "description": "簡単には変わらない、強い 믿음や考えを表します。",
+    "usage": "『신념을 지키다（信念を守る）』『신념이 강하다（信念が強い）』のように使います。",
+    "hint": "強く持ち続ける考え。",
+    "acceptedAnswers": [
+      "신념"
+    ],
+    "synonyms": [
+      {
+        "word": "소신",
+        "meaning": "所信、信念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "우유부단함",
+        "meaning": "優柔不断"
+      }
+    ]
+  },
+  {
+    "id": 1608,
+    "word": "책임감",
+    "baseForm": "책임감",
+    "highlightText": "책임감",
+    "readingKatakana": "chaekimgam",
+    "romanization": "chaekimgam",
+    "meaning": "責任感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "책임감이 느껴졌어요.",
+    "exampleTranslation": "責任感が感じられました。",
+    "description": "自分が 맡은 일에 대해 끝까지 책임지려는 마음を表します。",
+    "usage": "『책임감이 있다（責任感がある）』『책임감을 느끼다（責任感を感じる）』でよく使います。",
+    "hint": "最後まで引き受けようとする気持ち。",
+    "acceptedAnswers": [
+      "책임감"
+    ],
+    "synonyms": [
+      {
+        "word": "사명감",
+        "meaning": "使命感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무책임",
+        "meaning": "無責任"
+      }
+    ]
+  },
+  {
+    "id": 1609,
+    "word": "자부심",
+    "baseForm": "자부심",
+    "highlightText": "자부심",
+    "readingKatakana": "jabusim",
+    "romanization": "jabusim",
+    "meaning": "誇り、自負心",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "자부심이 있어요.",
+    "exampleTranslation": "誇りがあります。",
+    "description": "自分や自分の所属、能力に対して持つ긍정적인誇りを表します。",
+    "usage": "『자부심을 느끼다（自負心を感じる）』『자부심이 크다（誇りが大きい）』などで使います。",
+    "hint": "自分を誇らしく思う気持ち。",
+    "acceptedAnswers": [
+      "자부심"
+    ],
+    "synonyms": [
+      {
+        "word": "긍지",
+        "meaning": "誇り"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "열등감",
+        "meaning": "劣等感"
+      }
+    ]
+  },
+  {
+    "id": 1610,
+    "word": "열등감",
+    "baseForm": "열등감",
+    "highlightText": "열등감",
+    "readingKatakana": "yeoldeunggam",
+    "romanization": "yeoldeunggam",
+    "meaning": "劣等感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "열등감만 커질 수 있어요.",
+    "exampleTranslation": "劣等感ばかり大きくなることがあります。",
+    "description": "自分が他人より劣っているように感じる気持ちを表します。",
+    "usage": "『열등감을 느끼다（劣等感を感じる）』『열등감에 시달리다（劣等感に苦しむ）』のように使います。",
+    "hint": "自分が劣っていると感じる気持ち。",
+    "acceptedAnswers": [
+      "열등감"
+    ],
+    "synonyms": [
+      {
+        "word": "위축감",
+        "meaning": "萎縮感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "자부심",
+        "meaning": "自負心"
+      }
+    ]
+  },
+  {
+    "id": 1611,
+    "word": "우월감",
+    "baseForm": "우월감",
+    "highlightText": "우월감",
+    "readingKatakana": "uwolgam",
+    "romanization": "uwolgam",
+    "meaning": "優越感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "우월감이 느껴져요.",
+    "exampleTranslation": "優越感が感じられます。",
+    "description": "自分が他人より上だと感じる気持ちを表します。",
+    "usage": "『우월감에 빠지다（優越感に陥る）』の形で使われることがあります。",
+    "hint": "自分のほうが上だと思う気持ち。",
+    "acceptedAnswers": [
+      "우월감"
+    ],
+    "synonyms": [
+      {
+        "word": "자만심",
+        "meaning": "慢心"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "겸손",
+        "meaning": "謙虚さ"
+      }
+    ]
+  },
+  {
+    "id": 1612,
+    "word": "소속감",
+    "baseForm": "소속감",
+    "highlightText": "소속감",
+    "readingKatakana": "sosokgam",
+    "romanization": "sosokgam",
+    "meaning": "所属感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "소속감도 커져요.",
+    "exampleTranslation": "所属感も大きくなります。",
+    "description": "ある集団に自分が属していると感じる気持ちを表します。",
+    "usage": "『소속감을 느끼다（所属感を感じる）』『소속감이 높다（所属感が高い）』のように使います。",
+    "hint": "自分がその集団の一員だと感じる気持ち。",
+    "acceptedAnswers": [
+      "소속감"
+    ],
+    "synonyms": [
+      {
+        "word": "연대감",
+        "meaning": "連帯感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "고립감",
+        "meaning": "孤立感"
+      }
+    ]
+  },
+  {
+    "id": 1613,
+    "word": "귀속감",
+    "baseForm": "귀속감",
+    "highlightText": "귀속감",
+    "readingKatakana": "グィソクカム",
+    "romanization": "gwisokgam",
+    "meaning": "帰属感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "귀속감이 약해졌어요.",
+    "exampleTranslation": "帰属感が弱まりました。",
+    "description": "ある集団や仕組みに自分が属していると感じる意識を表します。",
+    "usage": "『귀속감을 느끼다（帰属感を覚える）』『귀속감을 높이다（帰属感を高める）』のように使います。",
+    "hint": "どこかに属しているという意識。",
+    "acceptedAnswers": [
+      "귀속감"
+    ],
+    "synonyms": [
+      {
+        "word": "소속감",
+        "meaning": "所属感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "소외감",
+        "meaning": "疎外感"
+      }
+    ]
+  },
+  {
+    "id": 1614,
+    "word": "공감",
+    "baseForm": "공감",
+    "highlightText": "공감",
+    "readingKatakana": "gonggam",
+    "romanization": "gonggam",
+    "meaning": "共感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "충분히 공감할 수 있어요.",
+    "exampleTranslation": "十分に共感できます。",
+    "description": "相手の気持ちや状況を自分のことのように理解することを表します。",
+    "usage": "『공감하다（共感する）』『공감이 가다（共感できる）』のように使います。",
+    "hint": "相手の気持ちをわかること。",
+    "acceptedAnswers": [
+      "공감"
+    ],
+    "synonyms": [
+      {
+        "word": "이해",
+        "meaning": "理解"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무관심",
+        "meaning": "無関心"
+      }
+    ]
+  },
+  {
+    "id": 1615,
+    "word": "존엄",
+    "baseForm": "존엄",
+    "highlightText": "존엄",
+    "readingKatakana": "joneom",
+    "romanization": "joneom",
+    "meaning": "尊厳",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "존엄은 가볍게 못 다뤄요.",
+    "exampleTranslation": "尊厳は軽く扱えません。",
+    "description": "人が人として当然持つべき価値や尊さを表す重い語です。",
+    "usage": "『인간의 존엄（人間の尊厳）』『존엄을 지키다（尊厳を守る）』のように使います。",
+    "hint": "人としての尊さ。",
+    "acceptedAnswers": [
+      "존엄"
+    ],
+    "synonyms": [
+      {
+        "word": "존귀함",
+        "meaning": "尊さ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "모욕",
+        "meaning": "侮辱"
+      }
+    ]
+  },
+  {
+    "id": 1616,
+    "word": "존중",
+    "baseForm": "존중",
+    "highlightText": "존중",
+    "readingKatakana": "jonjung",
+    "romanization": "jonjung",
+    "meaning": "尊重",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人間関係",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "서로 존중이 중요해요.",
+    "exampleTranslation": "互いの尊重が大切です。",
+    "description": "相手の考えや価値を軽く扱わず、大切に認める態度を表します。",
+    "usage": "『서로를 존중하다（互いを尊重する）』『차이를 존중하다（違いを尊重する）』のように使います。",
+    "hint": "相手を大切に認めること。",
+    "acceptedAnswers": [
+      "존중"
+    ],
+    "synonyms": [
+      {
+        "word": "예우",
+        "meaning": "礼遇"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무시",
+        "meaning": "無視"
+      }
+    ]
+  },
+  {
+    "id": 1617,
+    "word": "집념",
+    "baseForm": "집념",
+    "highlightText": "집념",
+    "readingKatakana": "jipnyeom",
+    "romanization": "jipnyeom",
+    "meaning": "執念",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "집념이 차이를 만들어요.",
+    "exampleTranslation": "執念が差を生みます。",
+    "description": "何かを最後まで 놓지 않으려는強い気持ちを表します。",
+    "usage": "『집념이 강하다（執念が強い）』『집념으로 버티다（執念で耐える）』のように使います。",
+    "hint": "最後まであきらめない強い気持ち。",
+    "acceptedAnswers": [
+      "집념"
+    ],
+    "synonyms": [
+      {
+        "word": "끈기",
+        "meaning": "粘り強さ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "체념",
+        "meaning": "あきらめ"
+      }
+    ]
+  },
+  {
+    "id": 1618,
+    "word": "욕구",
+    "baseForm": "욕구",
+    "highlightText": "욕구",
+    "readingKatakana": "yokgu",
+    "romanization": "yokgu",
+    "meaning": "欲求",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "욕구가 지나치면 지쳐요.",
+    "exampleTranslation": "欲求が強すぎると疲れます。",
+    "description": "무언가를 원하고 필요로 하는内面的な欲望を表します。",
+    "usage": "『욕구를 충족하다（欲求を満たす）』『기본 욕구（基本欲求）』のように使います。",
+    "hint": "何かを求める気持ち。",
+    "acceptedAnswers": [
+      "욕구"
+    ],
+    "synonyms": [
+      {
+        "word": "욕망",
+        "meaning": "欲望"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "절제",
+        "meaning": "節制"
+      }
+    ]
+  },
+  {
+    "id": 1619,
+    "word": "충동",
+    "baseForm": "충동",
+    "highlightText": "충동",
+    "readingKatakana": "chungdong",
+    "romanization": "chungdong",
+    "meaning": "衝動",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "충동만 믿으면 후회해요.",
+    "exampleTranslation": "衝動だけで動くと後悔します。",
+    "description": "感情に押されて 즉각적으로 일어나는 마음や行動の動きを表します。",
+    "usage": "『충동을 억누르다（衝動を抑える）』『충동적으로 행동하다（衝動的に行動する）』で使います。",
+    "hint": "感情に押されて急に動く気持ち。",
+    "acceptedAnswers": [
+      "충동"
+    ],
+    "synonyms": [
+      {
+        "word": "즉흥성",
+        "meaning": "即興性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "절제",
+        "meaning": "節制"
+      }
+    ]
+  },
+  {
+    "id": 1620,
+    "word": "절제",
+    "baseForm": "절제",
+    "highlightText": "절제",
+    "readingKatakana": "jeolje",
+    "romanization": "jeolje",
+    "meaning": "節制",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "절제가 더 어려워요.",
+    "exampleTranslation": "節制のほうが難しいです。",
+    "description": "欲望や感情を 적당히 조절하는ことを表します。",
+    "usage": "『절제를 배우다（節制を学ぶ）』『절제된 표현（節制された表現）』のように使います。",
+    "hint": "自分を抑えて調整すること。",
+    "acceptedAnswers": [
+      "절제"
+    ],
+    "synonyms": [
+      {
+        "word": "자제",
+        "meaning": "自制"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "충동",
+        "meaning": "衝動"
+      }
+    ]
+  },
+  {
+    "id": 1621,
+    "word": "제약",
+    "baseForm": "제약",
+    "highlightText": "제약",
+    "readingKatakana": "jeyak",
+    "romanization": "jeyak",
+    "meaning": "制約",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "시간 제약이 있어요.",
+    "exampleTranslation": "時間の制約があります。",
+    "description": "行動や選択の幅を狭める条件や制限を表す名詞です。",
+    "usage": "『제약이 따르다（制約が伴う）』『제약을 받다（制約を受ける）』のように使います。",
+    "hint": "自由をしばる条件。",
+    "acceptedAnswers": [
+      "제약"
+    ],
+    "synonyms": [
+      {
+        "word": "제한",
+        "meaning": "制限"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "자유",
+        "meaning": "自由"
+      }
+    ]
+  },
+  {
+    "id": 1622,
+    "word": "잠재력",
+    "baseForm": "잠재력",
+    "highlightText": "잠재력",
+    "readingKatakana": "jamjaeryeok",
+    "romanization": "jamjaeryeok",
+    "meaning": "潜在力、ポテンシャル",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "잠재력이 큰 편이에요.",
+    "exampleTranslation": "潜在力が高いほうです。",
+    "description": "まだ表に出ていないが、これから発揮されうる力や能力を表します。",
+    "usage": "『잠재력이 크다（潜在力が大きい）』『잠재력을 끌어내다（潜在力を引き出す）』のように使います。",
+    "hint": "まだ表れていない力。",
+    "acceptedAnswers": [
+      "잠재력"
+    ],
+    "synonyms": [
+      {
+        "word": "가능성",
+        "meaning": "可能性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "한계",
+        "meaning": "限界"
+      }
+    ]
+  },
+  {
+    "id": 1623,
+    "word": "변수",
+    "baseForm": "변수",
+    "highlightText": "변수",
+    "readingKatakana": "byeonsu",
+    "romanization": "byeonsu",
+    "meaning": "変数",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "변수가 생기기 마련이에요.",
+    "exampleTranslation": "変数は生じるものです。",
+    "description": "結果に影響を与えうる変わる要素を表します。",
+    "usage": "『변수가 많다（変数が多い）』『변수를 통제하다（変数を統制する）』のように使います。",
+    "hint": "結果を変えうる要素。",
+    "acceptedAnswers": [
+      "변수"
+    ],
+    "synonyms": [
+      {
+        "word": "요인",
+        "meaning": "要因"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "상수",
+        "meaning": "定数"
+      }
+    ]
+  },
+  {
+    "id": 1624,
+    "word": "조건",
+    "baseForm": "조건",
+    "highlightText": "조건",
+    "readingKatakana": "jogeon",
+    "romanization": "jogeon",
+    "meaning": "条件",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "조건에 따라 달라져요.",
+    "exampleTranslation": "条件によって変わります。",
+    "description": "무언가가 성립하거나 가능해지기 위해 필요한前提条件を表します。",
+    "usage": "『조건이 맞다（条件が合う）』『조건을 제시하다（条件を提示する）』でよく使います。",
+    "hint": "成り立つために必要な条件。",
+    "acceptedAnswers": [
+      "조건"
+    ],
+    "synonyms": [
+      {
+        "word": "요건",
+        "meaning": "要件"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무조건",
+        "meaning": "無条件"
+      }
+    ]
+  },
+  {
+    "id": 1625,
+    "word": "전제",
+    "baseForm": "전제",
+    "highlightText": "전제",
+    "readingKatakana": "jeonje",
+    "romanization": "jeonje",
+    "meaning": "前提",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "기본 전제에서 출발해요.",
+    "exampleTranslation": "基本前提から出発します。",
+    "description": "ある主張や議論が成り立つために、あらかじめ置かれる前提を表します。",
+    "usage": "『전제를 두다（前提を置く）』『전제가 다르다（前提が違う）』のように使います。",
+    "hint": "話の土台になる前提。",
+    "acceptedAnswers": [
+      "전제"
+    ],
+    "synonyms": [
+      {
+        "word": "가정",
+        "meaning": "仮定"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "결론",
+        "meaning": "結論"
+      }
+    ]
+  },
+  {
+    "id": 1626,
+    "word": "가정",
+    "baseForm": "가정",
+    "highlightText": "가정",
+    "readingKatakana": "カジョン",
+    "romanization": "gajeong",
+    "meaning": "仮定",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "가정이 달라졌어요.",
+    "exampleTranslation": "仮定が変わりました。",
+    "description": "議論や推論のために、一時的に置く前提や想定を表します。",
+    "usage": "『가정을 세우다（仮定を立てる）』『가정에 기대다（仮定に頼る）』のように使います。",
+    "hint": "一時的に置く前提。",
+    "acceptedAnswers": [
+      "가정"
+    ],
+    "synonyms": [
+      {
+        "word": "전제",
+        "meaning": "前提"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "사실",
+        "meaning": "事実"
+      }
+    ]
+  },
+  {
+    "id": 1627,
+    "word": "개연성",
+    "baseForm": "개연성",
+    "highlightText": "개연성",
+    "readingKatakana": "gaeyeonseong",
+    "romanization": "gaeyeonseong",
+    "meaning": "蓋然性、もっともらしさ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "개연성이 부족해요.",
+    "exampleTranslation": "蓋然性が足りません。",
+    "description": "説明や展開が現実味を持って自然に感じられる度合いを表します。",
+    "usage": "『개연성이 있다（蓋然性がある）』『개연성이 떨어지다（蓋然性が落ちる）』のように使います。",
+    "hint": "もっともらしさの度合い。",
+    "acceptedAnswers": [
+      "개연성"
+    ],
+    "synonyms": [
+      {
+        "word": "타당성",
+        "meaning": "妥当性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "억지",
+        "meaning": "こじつけ"
+      }
+    ]
+  },
+  {
+    "id": 1628,
+    "word": "모순",
+    "baseForm": "모순",
+    "highlightText": "모순",
+    "readingKatakana": "mosun",
+    "romanization": "mosun",
+    "meaning": "矛盾",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "모순을 느끼게 돼요.",
+    "exampleTranslation": "矛盾を感じるようになります。",
+    "description": "앞뒤가 맞지 않거나 동시에 성립하기 어려운状態を表します。",
+    "usage": "『모순을 드러내다（矛盾を表す）』『모순이 있다（矛盾がある）』で使います。",
+    "hint": "前後が合わないこと。",
+    "acceptedAnswers": [
+      "모순"
+    ],
+    "synonyms": [
+      {
+        "word": "불일치",
+        "meaning": "不一致"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "일관성",
+        "meaning": "一貫性"
+      }
+    ]
+  },
+  {
+    "id": 1629,
+    "word": "쟁점",
+    "baseForm": "쟁점",
+    "highlightText": "쟁점",
+    "readingKatakana": "jaengjeom",
+    "romanization": "jaengjeom",
+    "meaning": "争点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "쟁점부터 정리해야 해요.",
+    "exampleTranslation": "争点から整理しないといけません。",
+    "description": "議論や対立の中で特に問題になる中心点を表します。",
+    "usage": "『쟁점을 좁히다（争点を絞る）』『핵심 쟁점（核心争点）』の形がよく使われます。",
+    "hint": "議論の中心になる問題点。",
+    "acceptedAnswers": [
+      "쟁점"
+    ],
+    "synonyms": [
+      {
+        "word": "논점",
+        "meaning": "論点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "합의점",
+        "meaning": "合意点"
+      }
+    ]
+  },
+  {
+    "id": 1630,
+    "word": "대안",
+    "baseForm": "대안",
+    "highlightText": "대안",
+    "readingKatakana": "daean",
+    "romanization": "daean",
+    "meaning": "代案",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "대안을 제시하는 게 중요해요.",
+    "exampleTranslation": "代案を示すのが重要です。",
+    "description": "기존 방법을 대신할 수 있는別の案や方法を表します。",
+    "usage": "『대안을 마련하다（代案を用意する）』『대안을 제시하다（代案を提示する）』で使います。",
+    "hint": "代わりになる案。",
+    "acceptedAnswers": [
+      "대안"
+    ],
+    "synonyms": [
+      {
+        "word": "대책",
+        "meaning": "対策"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "기존안",
+        "meaning": "既存案"
+      }
+    ]
+  },
+  {
+    "id": 1631,
+    "word": "우선순위",
+    "baseForm": "우선순위",
+    "highlightText": "우선순위",
+    "readingKatakana": "useonsunwi",
+    "romanization": "useonsunwi",
+    "meaning": "優先順位",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "우선순위를 정해야 해요.",
+    "exampleTranslation": "優先順位を決めないといけません。",
+    "description": "여러 일 가운데 무엇을 먼저 할지 정한順序を表します。",
+    "usage": "『우선순위를 정하다（優先順位を決める）』が定番です。",
+    "hint": "何を先にするかの順序。",
+    "acceptedAnswers": [
+      "우선순위"
+    ],
+    "synonyms": [
+      {
+        "word": "선후 관계",
+        "meaning": "先後関係"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무계획",
+        "meaning": "無計画"
+      }
+    ]
+  },
+  {
+    "id": 1632,
+    "word": "효율",
+    "baseForm": "효율",
+    "highlightText": "효율",
+    "readingKatakana": "hyoyul",
+    "romanization": "hyoyul",
+    "meaning": "効率",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "효율을 먼저 생각해요.",
+    "exampleTranslation": "効率を先に考えます。",
+    "description": "적은 자원으로 더 좋은 결과를 내는程度を表します。",
+    "usage": "『효율이 높다（効率が高い）』『효율을 높이다（効率を上げる）』で使います。",
+    "hint": "少ない手間でよい結果を出すこと。",
+    "acceptedAnswers": [
+      "효율"
+    ],
+    "synonyms": [
+      {
+        "word": "생산성",
+        "meaning": "生産性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비효율",
+        "meaning": "非効率"
+      }
+    ]
+  },
+  {
+    "id": 1633,
+    "word": "비효율",
+    "baseForm": "비효율",
+    "highlightText": "비효율",
+    "readingKatakana": "bihyoyul",
+    "romanization": "bihyoyul",
+    "meaning": "非効率",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "비효율이 될 수 있어요.",
+    "exampleTranslation": "非効率になることがあります。",
+    "description": "시간이나 자원이 불필요하게 많이 드는状態を表します。",
+    "usage": "『비효율을 줄이다（非効率を減らす）』でよく使います。",
+    "hint": "むだが多く効率が悪いこと。",
+    "acceptedAnswers": [
+      "비효율"
+    ],
+    "synonyms": [
+      {
+        "word": "낭비",
+        "meaning": "無駄、浪費"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "효율",
+        "meaning": "効率"
+      }
+    ]
+  },
+  {
+    "id": 1634,
+    "word": "정합성",
+    "baseForm": "정합성",
+    "highlightText": "정합성",
+    "readingKatakana": "jeonghapseong",
+    "romanization": "jeonghapseong",
+    "meaning": "整合性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "정합성이 중요해요.",
+    "exampleTranslation": "整合性が重要です。",
+    "description": "複数の内容や主張が矛盾せず、きちんとかみ合っている性質を表します。",
+    "usage": "『정합성을 따지다（整合性を問う）』『정합성이 높다（整合性が高い）』のように使います。",
+    "hint": "矛盾なくかみ合うこと。",
+    "acceptedAnswers": [
+      "정합성"
+    ],
+    "synonyms": [
+      {
+        "word": "일관성",
+        "meaning": "一貫性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "모순",
+        "meaning": "矛盾"
+      }
+    ]
+  },
+  {
+    "id": 1635,
+    "word": "조화",
+    "baseForm": "조화",
+    "highlightText": "조화",
+    "readingKatakana": "johwa",
+    "romanization": "johwa",
+    "meaning": "調和",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "조화를 만들 수 있어요.",
+    "exampleTranslation": "調和を生み出せます。",
+    "description": "서로 다른 요소들이 어울려 잘 맞는状態を表します。",
+    "usage": "『조화를 이루다（調和を 이루す）』『색의 조화（色の調和）』で使います。",
+    "hint": "違うものがよく合うこと。",
+    "acceptedAnswers": [
+      "조화"
+    ],
+    "synonyms": [
+      {
+        "word": "어울림",
+        "meaning": "調和、似合い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불협화음",
+        "meaning": "不協和音"
+      }
+    ]
+  },
+  {
+    "id": 1636,
+    "word": "관행",
+    "baseForm": "관행",
+    "highlightText": "관행",
+    "readingKatakana": "gwanhaeng",
+    "romanization": "gwanhaeng",
+    "meaning": "慣行",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "관행이라도 유지할 필요는 없어요.",
+    "exampleTranslation": "慣行でも維持する必要はありません。",
+    "description": "오랫동안 반복되어 자연스럽게 자리 잡은やり方を表します。",
+    "usage": "『관행을 바꾸다（慣行を変える）』『잘못된 관행（誤った慣行）』で使います。",
+    "hint": "長く続いてきたやり方。",
+    "acceptedAnswers": [
+      "관행"
+    ],
+    "synonyms": [
+      {
+        "word": "관습",
+        "meaning": "慣習"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "개혁",
+        "meaning": "改革"
+      }
+    ]
+  },
+  {
+    "id": 1637,
+    "word": "풍조",
+    "baseForm": "풍조",
+    "highlightText": "풍조",
+    "readingKatakana": "pungjo",
+    "romanization": "pungjo",
+    "meaning": "風潮",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "풍조가 강하면 거칠어져요.",
+    "exampleTranslation": "風潮が強いと会話が荒くなります。",
+    "description": "어떤 시대나 집단에 널리 퍼진사회的な傾向を表します。",
+    "usage": "『사회 풍조（社会風潮）』『풍조가 퍼지다（風潮が広がる）』のように使います。",
+    "hint": "社会に広がる傾向。",
+    "acceptedAnswers": [
+      "풍조"
+    ],
+    "synonyms": [
+      {
+        "word": "분위기",
+        "meaning": "雰囲気、風潮"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "개별성",
+        "meaning": "個別性"
+      }
+    ]
+  },
+  {
+    "id": 1638,
+    "word": "관습",
+    "baseForm": "관습",
+    "highlightText": "관습",
+    "readingKatakana": "gwanseup",
+    "romanization": "gwanseup",
+    "meaning": "慣習",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "文化"
+    ],
+    "formality": "なし",
+    "example": "관습이 늘 옳진 않아요.",
+    "exampleTranslation": "慣習が常に正しいわけではありません。",
+    "description": "한 사회나 집단에서 오래 이어져 온慣わしを表します。",
+    "usage": "『전통 관습（伝統慣習）』『관습을 따르다（慣習に従う）』で使います。",
+    "hint": "長く続いてきた習わし。",
+    "acceptedAnswers": [
+      "관습"
+    ],
+    "synonyms": [
+      {
+        "word": "관행",
+        "meaning": "慣行"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "혁신",
+        "meaning": "革新"
+      }
+    ]
+  },
+  {
+    "id": 1639,
+    "word": "구속",
+    "baseForm": "구속",
+    "highlightText": "구속",
+    "readingKatakana": "クソク",
+    "romanization": "gusok",
+    "meaning": "拘束、束縛",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "구속이 심해졌어요.",
+    "exampleTranslation": "束縛が強まりました。",
+    "description": "行動や選択の自由をしばる状態や力を表します。",
+    "usage": "『구속을 받다（拘束を受ける）』『구속에서 벗어나다（拘束から抜け出す）』のように使います。",
+    "hint": "自由をしばること。",
+    "acceptedAnswers": [
+      "구속"
+    ],
+    "synonyms": [
+      {
+        "word": "제약",
+        "meaning": "制約"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "자유",
+        "meaning": "自由"
+      }
+    ]
+  },
+  {
+    "id": 1640,
+    "word": "여론",
+    "baseForm": "여론",
+    "highlightText": "여론",
+    "readingKatakana": "yeoron",
+    "romanization": "yeoron",
+    "meaning": "世論",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "여론이 빨라도 신중해야 해요.",
+    "exampleTranslation": "世論が速くても慎重でないといけません。",
+    "description": "多くの人が社会問題について持つ意見の流れを表します。",
+    "usage": "『여론이 형성되다（世論が形成される）』『여론을 의식하다（世論を意識する）』で使います。",
+    "hint": "社会の大きな意見の流れ。",
+    "acceptedAnswers": [
+      "여론"
+    ],
+    "synonyms": [
+      {
+        "word": "민심",
+        "meaning": "民心、世論"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "소수 의견",
+        "meaning": "少数意見"
+      }
+    ]
+  },
+  {
+    "id": 1641,
+    "word": "타협",
+    "baseForm": "타협",
+    "highlightText": "타협",
+    "readingKatakana": "tahyeop",
+    "romanization": "tahyeop",
+    "meaning": "妥協",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "타협이 필요했어요.",
+    "exampleTranslation": "妥協が必要でした。",
+    "description": "異なる立場の双方が少しずつ譲って、中間点を探ることを表します。",
+    "usage": "『타협을 보다（妥協する）』『타협점을 찾다（妥協点を探す）』のように使います。",
+    "hint": "互いに少し譲ること。",
+    "acceptedAnswers": [
+      "타협"
+    ],
+    "synonyms": [
+      {
+        "word": "절충",
+        "meaning": "折衷"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대립",
+        "meaning": "対立"
+      }
+    ]
+  },
+  {
+    "id": 1642,
+    "word": "화해",
+    "baseForm": "화해",
+    "highlightText": "화해",
+    "readingKatakana": "ファヘ",
+    "romanization": "hwahae",
+    "meaning": "和解",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人間関係",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "화해가 필요해요.",
+    "exampleTranslation": "和解が必要です。",
+    "description": "対立や争いを解いて、関係を回復することを表します。",
+    "usage": "『화해를 청하다（和解を求める）』『화해에 이르다（和解に至る）』のように使います。",
+    "hint": "争いを解いて関係を戻すこと。",
+    "acceptedAnswers": [
+      "화해"
+    ],
+    "synonyms": [
+      {
+        "word": "화합",
+        "meaning": "和合"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대립",
+        "meaning": "対立"
+      }
+    ]
+  },
+  {
+    "id": 1643,
+    "word": "중재",
+    "baseForm": "중재",
+    "highlightText": "중재",
+    "readingKatakana": "jungjae",
+    "romanization": "jungjae",
+    "meaning": "仲裁",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "중재가 필요했어요.",
+    "exampleTranslation": "仲裁が必要でした。",
+    "description": "다툼이나 대립 사이에서 제삼자가 가운데서調整することを表します。",
+    "usage": "『분쟁을 중재하다（紛争を仲裁する）』のように使います。",
+    "hint": "間に入って仲をととのえること。",
+    "acceptedAnswers": [
+      "중재"
+    ],
+    "synonyms": [
+      {
+        "word": "조정",
+        "meaning": "調整"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "대립",
+        "meaning": "対立"
+      }
+    ]
+  },
+  {
+    "id": 1644,
+    "word": "개입",
+    "baseForm": "개입",
+    "highlightText": "개입",
+    "readingKatakana": "gaeip",
+    "romanization": "gaeip",
+    "meaning": "介入",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "지나친 개입은 갈등을 키워요.",
+    "exampleTranslation": "過度な介入は対立を大きくします。",
+    "description": "어떤 일에 외부가 들어와 영향을 미치는ことを表します。",
+    "usage": "『정치적 개입（政治的介入）』『불필요한 개입（不要な介入）』で使います。",
+    "hint": "外から入り込んで影響すること。",
+    "acceptedAnswers": [
+      "개입"
+    ],
+    "synonyms": [
+      {
+        "word": "관여",
+        "meaning": "関与"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "방관",
+        "meaning": "傍観"
+      }
+    ]
+  },
+  {
+    "id": 1645,
+    "word": "영향력",
+    "baseForm": "영향력",
+    "highlightText": "영향력",
+    "readingKatakana": "yeonghyangryeok",
+    "romanization": "yeonghyangryeok",
+    "meaning": "影響力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "영향력을 가질 때가 있어요.",
+    "exampleTranslation": "影響力を持つことがあります。",
+    "description": "사람이나 대상에 변화를 일으킬 수 있는 힘を表します。",
+    "usage": "『영향력이 크다（影響力が大きい）』『영향력을 행사하다（影響力を行使する）』のように使います。",
+    "hint": "他人や状況を動かす力。",
+    "acceptedAnswers": [
+      "영향력"
+    ],
+    "synonyms": [
+      {
+        "word": "파워",
+        "meaning": "力、影響力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무력감",
+        "meaning": "無力感"
+      }
+    ]
+  },
+  {
+    "id": 1646,
+    "word": "파급력",
+    "baseForm": "파급력",
+    "highlightText": "파급력",
+    "readingKatakana": "pageupryeok",
+    "romanization": "pageupryeok",
+    "meaning": "波及力",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "큰 파급력을 가질 수 있어요.",
+    "exampleTranslation": "大きな波及力を持つことがあります。",
+    "description": "어떤 사건이나 말이 넓게 퍼져 미치는 영향の大きさを表します。",
+    "usage": "『파급력이 크다（波及力が大きい）』でよく使います。",
+    "hint": "広く広がる影響の大きさ。",
+    "acceptedAnswers": [
+      "파급력"
+    ],
+    "synonyms": [
+      {
+        "word": "영향력",
+        "meaning": "影響力"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "미미한 영향",
+        "meaning": "わずかな影響"
+      }
+    ]
+  },
+  {
+    "id": 1647,
+    "word": "위기",
+    "baseForm": "위기",
+    "highlightText": "위기",
+    "readingKatakana": "wigi",
+    "romanization": "wigi",
+    "meaning": "危機",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "위기가 기회가 되기도 해요.",
+    "exampleTranslation": "危機が機会になることもあります。",
+    "description": "매우 위험하거나 어려운 상황을表します。",
+    "usage": "『위기를 넘기다（危機を乗り越える）』『위기의식（危機意識）』で使います。",
+    "hint": "大きく危ない状況。",
+    "acceptedAnswers": [
+      "위기"
+    ],
+    "synonyms": [
+      {
+        "word": "고비",
+        "meaning": "山場、峠"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안정",
+        "meaning": "安定"
+      }
+    ]
+  },
+  {
+    "id": 1648,
+    "word": "분기점",
+    "baseForm": "분기점",
+    "highlightText": "분기점",
+    "readingKatakana": "bungijeom",
+    "romanization": "bungijeom",
+    "meaning": "分岐点",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "지금이 분기점이에요.",
+    "exampleTranslation": "今が分岐点です。",
+    "description": "この先の方向が分かれたり、大きく変わったりする節目を表します。",
+    "usage": "『분기점에 서다（分岐点に立つ）』『중요한 분기점（重要な分岐点）』のように使います。",
+    "hint": "進む先が分かれる点。",
+    "acceptedAnswers": [
+      "분기점"
+    ],
+    "synonyms": [
+      {
+        "word": "갈림길",
+        "meaning": "分かれ道"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정체기",
+        "meaning": "停滞期"
+      }
+    ]
+  },
+  {
+    "id": 1649,
+    "word": "단초",
+    "baseForm": "단초",
+    "highlightText": "단초",
+    "readingKatakana": "dancho",
+    "romanization": "dancho",
+    "meaning": "端緒、糸口",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "단초가 마련됐어요.",
+    "exampleTranslation": "糸口ができました。",
+    "description": "ある出来事や変化が始まるきっかけになる小さな手がかりを表します。",
+    "usage": "『문제 해결의 단초（問題解決の糸口）』『단초를 제공하다（端緒を与える）』のように使います。",
+    "hint": "始まりになる手がかり。",
+    "acceptedAnswers": [
+      "단초"
+    ],
+    "synonyms": [
+      {
+        "word": "실마리",
+        "meaning": "糸口"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "교착상태",
+        "meaning": "膠着状態"
+      }
+    ]
+  },
+  {
+    "id": 1650,
+    "word": "조짐",
+    "baseForm": "조짐",
+    "highlightText": "조짐",
+    "readingKatakana": "jojim",
+    "romanization": "jojim",
+    "meaning": "兆し",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "조짐이 보이면 살펴봐요.",
+    "exampleTranslation": "兆しが見えたら確かめます。",
+    "description": "앞으로 어떤 일이 일어날 것 같은 작은兆候を表します。",
+    "usage": "『조짐이 보이다（兆しが見える）』『불길한 조짐（不吉な兆し）』のように使います。",
+    "hint": "何かが起こりそうな気配。",
+    "acceptedAnswers": [
+      "조짐"
+    ],
+    "synonyms": [
+      {
+        "word": "징후",
+        "meaning": "兆候"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "안정",
+        "meaning": "安定"
+      }
+    ]
+  },
+  {
+    "id": 1651,
+    "word": "맥락",
+    "baseForm": "맥락",
+    "highlightText": "맥락",
+    "readingKatakana": "maekrak",
+    "romanization": "maekrak",
+    "meaning": "文脈、脈絡",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "맥락에 따라 뜻이 달라질 수 있어요.",
+    "exampleTranslation": "文脈によって意味が変わることがあります。",
+    "description": "말이나 글, 사건이 이어지는 흐름 속에서 의미를 결정해 주는文脈を表します。",
+    "usage": "『맥락을 이해하다（文脈を理解する）』『전체 맥락（全体の文脈）』のように使います。",
+    "hint": "前後の流れの中での意味。",
+    "acceptedAnswers": [
+      "맥락"
+    ],
+    "synonyms": [
+      {
+        "word": "문맥",
+        "meaning": "文脈"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "단편적 해석",
+        "meaning": "断片的解釈"
+      }
+    ]
+  },
+  {
+    "id": 1652,
+    "word": "흐름",
+    "baseForm": "흐름",
+    "highlightText": "흐름",
+    "readingKatakana": "heureum",
+    "romanization": "heureum",
+    "meaning": "流れ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "흐름을 먼저 잡아야 해요.",
+    "exampleTranslation": "流れを先につかむべきです。",
+    "description": "일이 이어져 가는 방향이나自然な進み方を表します。",
+    "usage": "『흐름을 읽다（流れを読む）』『흐름을 끊다（流れを切る）』でよく使います。",
+    "hint": "続いていく動きや方向。",
+    "acceptedAnswers": [
+      "흐름"
+    ],
+    "synonyms": [
+      {
+        "word": "추세",
+        "meaning": "傾向、流れ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "단절",
+        "meaning": "断絶"
+      }
+    ]
+  },
+  {
+    "id": 1653,
+    "word": "본질",
+    "baseForm": "본질",
+    "highlightText": "본질",
+    "readingKatakana": "bonjil",
+    "romanization": "bonjil",
+    "meaning": "本質",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "본질을 보는 연습이 필요해요.",
+    "exampleTranslation": "本質を見る練習が必要です。",
+    "description": "겉모습이 아니라 가장 핵심이 되는真の性質を表します。",
+    "usage": "『본질을 파악하다（本質を把握する）』『문제의 본질（問題の本質）』のように使います。",
+    "hint": "いちばん核心になる中身。",
+    "acceptedAnswers": [
+      "본질"
+    ],
+    "synonyms": [
+      {
+        "word": "핵심",
+        "meaning": "核心"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "허상",
+        "meaning": "虚像"
+      }
+    ]
+  },
+  {
+    "id": 1654,
+    "word": "허상",
+    "baseForm": "허상",
+    "highlightText": "허상",
+    "readingKatakana": "heosang",
+    "romanization": "heosang",
+    "meaning": "虚像",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "허상인 경우가 많아요.",
+    "exampleTranslation": "虚像である場合が多いです。",
+    "description": "겉보기에는 있어 보이지만 실제로는 실체가 약한ものを表します。",
+    "usage": "『허상에 불과하다（虚像にすぎない）』のような言い方が多いです。",
+    "hint": "見かけだけで中身がないもの。",
+    "acceptedAnswers": [
+      "허상"
+    ],
+    "synonyms": [
+      {
+        "word": "가짜 모습",
+        "meaning": "見せかけ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실체",
+        "meaning": "実体"
+      }
+    ]
+  },
+  {
+    "id": 1655,
+    "word": "실체",
+    "baseForm": "실체",
+    "highlightText": "실체",
+    "readingKatakana": "silche",
+    "romanization": "silche",
+    "meaning": "実体",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "실체를 확인해야 해요.",
+    "exampleTranslation": "実体を確認すべきです。",
+    "description": "겉으로 보이지 않던 실제 모습이나中身を表します。",
+    "usage": "『실체를 밝히다（実体を明らかにする）』『실체가 드러나다（実体が現れる）』のように使います。",
+    "hint": "実際の中身。",
+    "acceptedAnswers": [
+      "실체"
+    ],
+    "synonyms": [
+      {
+        "word": "실상",
+        "meaning": "実情、実態"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "허상",
+        "meaning": "虚像"
+      }
+    ]
+  },
+  {
+    "id": 1656,
+    "word": "현상",
+    "baseForm": "현상",
+    "highlightText": "현상",
+    "readingKatakana": "hyeonsang",
+    "romanization": "hyeonsang",
+    "meaning": "現象",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "이 현상을 우연이라고만 보긴 어려워요.",
+    "exampleTranslation": "この現象を偶然とだけ見るのは難しいです。",
+    "description": "관찰할 수 있는出来事や現れを表す学習語です。",
+    "usage": "『사회 현상（社会現象）』『자연 현상（自然現象）』のように使います。",
+    "hint": "目に見える起こり方。",
+    "acceptedAnswers": [
+      "현상"
+    ],
+    "synonyms": [
+      {
+        "word": "상태",
+        "meaning": "状態"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "본질",
+        "meaning": "本質"
+      }
+    ]
+  },
+  {
+    "id": 1657,
+    "word": "관념",
+    "baseForm": "관념",
+    "highlightText": "관념",
+    "readingKatakana": "gwannyeom",
+    "romanization": "gwannyeom",
+    "meaning": "観念",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "관념에만 머물면 흔들려요.",
+    "exampleTranslation": "観念だけだと判断が揺らぎます。",
+    "description": "머릿속에 형성된抽象的な考えや概念を表します。",
+    "usage": "『관념에 사로잡히다（観念にとらわれる）』の形で使われることがあります。",
+    "hint": "頭の中の抽象的な考え。",
+    "acceptedAnswers": [
+      "관념"
+    ],
+    "synonyms": [
+      {
+        "word": "개념",
+        "meaning": "概念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "현실",
+        "meaning": "現実"
+      }
+    ]
+  },
+  {
+    "id": 1658,
+    "word": "사명감",
+    "baseForm": "사명감",
+    "highlightText": "사명감",
+    "readingKatakana": "samyeonggam",
+    "romanization": "samyeonggam",
+    "meaning": "使命感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "사명감으로 움직였어요.",
+    "exampleTranslation": "使命感で動きました。",
+    "description": "자신이 맡은 일에 의미를 느끼고 끝까지 해내려는使命の意識を表します。",
+    "usage": "『사명감을 느끼다（使命感を感じる）』のように使います。",
+    "hint": "自分が果たすべきだと思う気持ち。",
+    "acceptedAnswers": [
+      "사명감"
+    ],
+    "synonyms": [
+      {
+        "word": "책임감",
+        "meaning": "責任感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "무기력감",
+        "meaning": "無力感"
+      }
+    ]
+  },
+  {
+    "id": 1659,
+    "word": "성취감",
+    "baseForm": "성취감",
+    "highlightText": "성취감",
+    "readingKatakana": "seongchwigam",
+    "romanization": "seongchwigam",
+    "meaning": "達成感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "큰 성취감이 남아요.",
+    "exampleTranslation": "大きな達成感が残ります。",
+    "description": "목표를 이루었을 때 생기는満ち足りた感覚を表します。",
+    "usage": "『성취감을 느끼다（達成感を感じる）』が自然です。",
+    "hint": "やり遂げたあとの満足。",
+    "acceptedAnswers": [
+      "성취감"
+    ],
+    "synonyms": [
+      {
+        "word": "보람",
+        "meaning": "やりがい、やり終えた満足"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "좌절감",
+        "meaning": "挫折感"
+      }
+    ]
+  },
+  {
+    "id": 1660,
+    "word": "좌절감",
+    "baseForm": "좌절감",
+    "highlightText": "좌절감",
+    "readingKatakana": "jwajeolgam",
+    "romanization": "jwajeolgam",
+    "meaning": "挫折感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "좌절감이 커질 수밖에 없어요.",
+    "exampleTranslation": "挫折感が大きくなるほかありません。",
+    "description": "원하는 결과를 얻지 못했을 때 느끼는深い失望感を表します。",
+    "usage": "『좌절감을 느끼다（挫折感を感じる）』のように使います。",
+    "hint": "思うようにいかず落ち込む気持ち。",
+    "acceptedAnswers": [
+      "좌절감"
+    ],
+    "synonyms": [
+      {
+        "word": "실망감",
+        "meaning": "失望感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "성취감",
+        "meaning": "達成感"
+      }
+    ]
+  },
+  {
+    "id": 1661,
+    "word": "박탈감",
+    "baseForm": "박탈감",
+    "highlightText": "박탈감",
+    "readingKatakana": "baktalgam",
+    "romanization": "baktalgam",
+    "meaning": "剥奪感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "박탈감을 느끼기 쉬워요.",
+    "exampleTranslation": "剥奪感を感じやすいです。",
+    "description": "원래 누려야 할 것을 빼앗긴 듯한気持ちを表します。",
+    "usage": "『박탈감을 느끼다（剥奪感を覚える）』でよく使います。",
+    "hint": "自分だけ奪われたような気持ち。",
+    "acceptedAnswers": [
+      "박탈감"
+    ],
+    "synonyms": [
+      {
+        "word": "소외감",
+        "meaning": "疎外感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "만족감",
+        "meaning": "満足感"
+      }
+    ]
+  },
+  {
+    "id": 1662,
+    "word": "만족감",
+    "baseForm": "만족감",
+    "highlightText": "만족감",
+    "readingKatakana": "manjokgam",
+    "romanization": "manjokgam",
+    "meaning": "満足感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "만족감은 남았어요.",
+    "exampleTranslation": "満足感は残りました。",
+    "description": "어떤 결과나 상태에 대해十分だと思う感情を表します。",
+    "usage": "『만족감을 얻다（満足感を得る）』のように使います。",
+    "hint": "十分だと感じる気持ち。",
+    "acceptedAnswers": [
+      "만족감"
+    ],
+    "synonyms": [
+      {
+        "word": "흡족함",
+        "meaning": "十分な満足"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불만",
+        "meaning": "不満"
+      }
+    ]
+  },
+  {
+    "id": 1663,
+    "word": "기대감",
+    "baseForm": "기대감",
+    "highlightText": "기대감",
+    "readingKatakana": "gidaegam",
+    "romanization": "gidaegam",
+    "meaning": "期待感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "日常"
+    ],
+    "formality": "なし",
+    "example": "기대감이 꽤 컸어요.",
+    "exampleTranslation": "期待感がかなり大きかったです。",
+    "description": "앞으로 좋을 일이 있을 것 같은期待の感情を表します。",
+    "usage": "『기대감이 높다（期待感が高い）』がよく使われます。",
+    "hint": "これからに対する期待。",
+    "acceptedAnswers": [
+      "기대감"
+    ],
+    "synonyms": [
+      {
+        "word": "설렘",
+        "meaning": "わくわく感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실망감",
+        "meaning": "失望感"
+      }
+    ]
+  },
+  {
+    "id": 1664,
+    "word": "불신",
+    "baseForm": "불신",
+    "highlightText": "불신",
+    "readingKatakana": "bulsin",
+    "romanization": "bulsin",
+    "meaning": "不信",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "불신은 쉽게 안 사라져요.",
+    "exampleTranslation": "不信は簡単には消えません。",
+    "description": "상대나 제도를 믿지 못하는 마음を表します。",
+    "usage": "『불신이 깊다（不信が深い）』『불신을 키우다（不信を募らせる）』のように使います。",
+    "hint": "信じられない気持ち。",
+    "acceptedAnswers": [
+      "불신"
+    ],
+    "synonyms": [
+      {
+        "word": "의심",
+        "meaning": "疑い"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "신뢰",
+        "meaning": "信頼"
+      }
+    ]
+  },
+  {
+    "id": 1665,
+    "word": "확신",
+    "baseForm": "확신",
+    "highlightText": "확신",
+    "readingKatakana": "hwaksin",
+    "romanization": "hwaksin",
+    "meaning": "確信",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "확신이 생겼어요.",
+    "exampleTranslation": "確信が生まれました。",
+    "description": "ある考えや判断が間違いないと強く信じる気持ちを表します。",
+    "usage": "『확신이 들다（確信が持てる）』『확신을 갖다（確信を持つ）』のように使います。",
+    "hint": "間違いないと強く信じること。",
+    "acceptedAnswers": [
+      "확신"
+    ],
+    "synonyms": [
+      {
+        "word": "신념",
+        "meaning": "信念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "의심",
+        "meaning": "疑い"
+      }
+    ]
+  },
+  {
+    "id": 1666,
+    "word": "낙관",
+    "baseForm": "낙관",
+    "highlightText": "낙관",
+    "readingKatakana": "nakgwan",
+    "romanization": "nakgwan",
+    "meaning": "楽観",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "포기하지 않는 낙관이 큰 힘이 돼요.",
+    "exampleTranslation": "あきらめない楽観が大きな力になります。",
+    "description": "앞일을 비교적 좋게 보는姿勢や考えを表します。",
+    "usage": "『낙관에 빠지다（楽観に流れる）』『낙관적으로 보다（楽観的に見る）』のように使います。",
+    "hint": "先を明るく見ること。",
+    "acceptedAnswers": [
+      "낙관"
+    ],
+    "synonyms": [
+      {
+        "word": "희망",
+        "meaning": "希望"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비관",
+        "meaning": "悲観"
+      }
+    ]
+  },
+  {
+    "id": 1667,
+    "word": "비관",
+    "baseForm": "비관",
+    "highlightText": "비관",
+    "readingKatakana": "bigwan",
+    "romanization": "bigwan",
+    "meaning": "悲観",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "비관할 필요는 없어요.",
+    "exampleTranslation": "悲観する必要はありません。",
+    "description": "앞일을 나쁘게만 보는考えや態度を表します。",
+    "usage": "『비관에 빠지다（悲観に陥る）』『지나친 비관（過度な悲観）』で使います。",
+    "hint": "先を悪く考えること。",
+    "acceptedAnswers": [
+      "비관"
+    ],
+    "synonyms": [
+      {
+        "word": "절망",
+        "meaning": "絶望"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "낙관",
+        "meaning": "楽観"
+      }
+    ]
+  },
+  {
+    "id": 1668,
+    "word": "의문",
+    "baseForm": "의문",
+    "highlightText": "의문",
+    "readingKatakana": "uimun",
+    "romanization": "uimun",
+    "meaning": "疑問",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "会話"
+    ],
+    "formality": "なし",
+    "example": "의문이 남아 있어요.",
+    "exampleTranslation": "疑問が残っています。",
+    "description": "확실히 이해되지 않아서 생기는疑問を表します。",
+    "usage": "『의문이 들다（疑問が湧く）』『의문을 제기하다（疑問を提起する）』で使います。",
+    "hint": "まだはっきりしない疑問。",
+    "acceptedAnswers": [
+      "의문"
+    ],
+    "synonyms": [
+      {
+        "word": "질문",
+        "meaning": "質問"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "확신",
+        "meaning": "確信"
+      }
+    ]
+  },
+  {
+    "id": 1669,
+    "word": "정황",
+    "baseForm": "정황",
+    "highlightText": "정황",
+    "readingKatakana": "チョンファン",
+    "romanization": "jeonghwang",
+    "meaning": "情況、事情",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "정황을 살펴봐요.",
+    "exampleTranslation": "情況を見てみます。",
+    "description": "ある出来事をめぐる前後の事情や周辺の状況を表します。",
+    "usage": "『정황을 파악하다（情況を把握する）』『주변 정황（周辺事情）』のように使います。",
+    "hint": "前後の事情や状況。",
+    "acceptedAnswers": [
+      "정황"
+    ],
+    "synonyms": [
+      {
+        "word": "사정",
+        "meaning": "事情"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 1670,
+    "word": "정당성",
+    "baseForm": "정당성",
+    "highlightText": "정당성",
+    "readingKatakana": "jeongdangseong",
+    "romanization": "jeongdangseong",
+    "meaning": "正当性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "정당성이 부족하면 어려워요.",
+    "exampleTranslation": "正当性が足りないと難しくなります。",
+    "description": "어떤 주장이나 행동이 올바르다고 인정받을 만한理由を表します。",
+    "usage": "『정당성을 확보하다（正当性を確保する）』のように使います。",
+    "hint": "正しいと認められるだけの理由。",
+    "acceptedAnswers": [
+      "정당성"
+    ],
+    "synonyms": [
+      {
+        "word": "타당성",
+        "meaning": "妥当性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "부당함",
+        "meaning": "不当さ"
+      }
+    ]
+  },
+  {
+    "id": 1671,
+    "word": "필요성",
+    "baseForm": "필요성",
+    "highlightText": "필요성",
+    "readingKatakana": "pilyoseong",
+    "romanization": "pilyoseong",
+    "meaning": "必要性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "필요성이 분명해요.",
+    "exampleTranslation": "必要性は明らかです。",
+    "description": "무언가가 왜 필요한지에 대한理由や必然性を表します。",
+    "usage": "『필요성을 느끼다（必要性を感じる）』『필요성을 강조하다（必要性を強調する）』で使います。",
+    "hint": "なぜ必要かということ。",
+    "acceptedAnswers": [
+      "필요성"
+    ],
+    "synonyms": [
+      {
+        "word": "필수성",
+        "meaning": "必須性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "불필요함",
+        "meaning": "不要さ"
+      }
+    ]
+  },
+  {
+    "id": 1672,
+    "word": "시급성",
+    "baseForm": "시급성",
+    "highlightText": "시급성",
+    "readingKatakana": "sigeupseong",
+    "romanization": "sigeupseong",
+    "meaning": "緊急性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "시급성도 커질 수밖에 없어요.",
+    "exampleTranslation": "緊急性も高まるほかありません。",
+    "description": "빨리 다뤄야 할急ぎの程度を表します。",
+    "usage": "『시급성이 높다（緊急性が高い）』のように使います。",
+    "hint": "急いで扱う必要の大きさ。",
+    "acceptedAnswers": [
+      "시급성"
+    ],
+    "synonyms": [
+      {
+        "word": "긴급성",
+        "meaning": "緊急性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "여유",
+        "meaning": "余裕"
+      }
+    ]
+  },
+  {
+    "id": 1673,
+    "word": "타당성",
+    "baseForm": "타당성",
+    "highlightText": "타당성",
+    "readingKatakana": "tadangseong",
+    "romanization": "tadangseong",
+    "meaning": "妥当性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "타당성은 따져 봐야 해요.",
+    "exampleTranslation": "妥当性は検討しないといけません。",
+    "description": "주장이나 계획이合理的で無理がないかという点を表します。",
+    "usage": "『타당성을 검토하다（妥当性を検討する）』で使われます。",
+    "hint": "無理がなく筋が通っていること。",
+    "acceptedAnswers": [
+      "타당성"
+    ],
+    "synonyms": [
+      {
+        "word": "정당성",
+        "meaning": "正当性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "비현실성",
+        "meaning": "非現実性"
+      }
+    ]
+  },
+  {
+    "id": 1674,
+    "word": "객관성",
+    "baseForm": "객관성",
+    "highlightText": "객관성",
+    "readingKatakana": "gaekgwanseong",
+    "romanization": "gaekgwanseong",
+    "meaning": "客観性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "객관성을 지키려는 노력이 필요해요.",
+    "exampleTranslation": "客観性を守ろうとする努力が必要です。",
+    "description": "개인 감정이 아니라事実や根拠に基づいて見る態度を表します。",
+    "usage": "『객관성을 유지하다（客観性を維持する）』のように使います。",
+    "hint": "私情ではなく事実にもとづくこと。",
+    "acceptedAnswers": [
+      "객관성"
+    ],
+    "synonyms": [
+      {
+        "word": "중립성",
+        "meaning": "中立性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "주관성",
+        "meaning": "主観性"
+      }
+    ]
+  },
+  {
+    "id": 1675,
+    "word": "주관성",
+    "baseForm": "주관성",
+    "highlightText": "주관성",
+    "readingKatakana": "jugwanseong",
+    "romanization": "jugwanseong",
+    "meaning": "主観性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "学習",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "주관성을 자각하는 건 중요해요.",
+    "exampleTranslation": "主観性を自覚することは大事です。",
+    "description": "개인의 경험이나感情が反映된見方を表します。",
+    "usage": "『주관성이 개입되다（主観性が介入する）』のように使います。",
+    "hint": "個人の感じ方が入ること。",
+    "acceptedAnswers": [
+      "주관성"
+    ],
+    "synonyms": [
+      {
+        "word": "개인적 시각",
+        "meaning": "個人的な視点"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "객관성",
+        "meaning": "客観性"
+      }
+    ]
+  },
+  {
+    "id": 1676,
+    "word": "정체성",
+    "baseForm": "정체성",
+    "highlightText": "정체성",
+    "readingKatakana": "jeongcheseong",
+    "romanization": "jeongcheseong",
+    "meaning": "アイデンティティ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "자신의 정체성을 돌아보게 돼요.",
+    "exampleTranslation": "自分のアイデンティティを振り返るようになります。",
+    "description": "자신이 누구인지에 대한自我意識や所属感覚を表します。",
+    "usage": "『정체성을 형성하다（アイデンティティを形成する）』でよく使います。",
+    "hint": "自分が何者かという感覚。",
+    "acceptedAnswers": [
+      "정체성"
+    ],
+    "synonyms": [
+      {
+        "word": "자아",
+        "meaning": "自我"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "혼란",
+        "meaning": "混乱"
+      }
+    ]
+  },
+  {
+    "id": 1677,
+    "word": "지속성",
+    "baseForm": "지속성",
+    "highlightText": "지속성",
+    "readingKatakana": "jisokseong",
+    "romanization": "jisokseong",
+    "meaning": "持続性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "지속성이 중요해요.",
+    "exampleTranslation": "持続性が重要です。",
+    "description": "어떤 상태나活動が長く続く性質を表します。",
+    "usage": "『지속성이 있다（持続性がある）』『지속성을 확보하다（持続性を確保する）』のように使います。",
+    "hint": "長く続く性質。",
+    "acceptedAnswers": [
+      "지속성"
+    ],
+    "synonyms": [
+      {
+        "word": "계속성",
+        "meaning": "継続性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "일시성",
+        "meaning": "一時性"
+      }
+    ]
+  },
+  {
+    "id": 1678,
+    "word": "일관성",
+    "baseForm": "일관성",
+    "highlightText": "일관성",
+    "readingKatakana": "ilgwanseong",
+    "romanization": "ilgwanseong",
+    "meaning": "一貫性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "일관성이 있으면 신뢰가 가요.",
+    "exampleTranslation": "一貫性があれば信頼できます。",
+    "description": "앞뒤가 맞고 변함없이 이어지는性質を表します。",
+    "usage": "『일관성을 유지하다（一貫性を保つ）』のように使います。",
+    "hint": "前後がぶれないこと。",
+    "acceptedAnswers": [
+      "일관성"
+    ],
+    "synonyms": [
+      {
+        "word": "통일성",
+        "meaning": "統一性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "모순",
+        "meaning": "矛盾"
+      }
+    ]
+  },
+  {
+    "id": 1679,
+    "word": "유연성",
+    "baseForm": "유연성",
+    "highlightText": "유연성",
+    "readingKatakana": "yuyeonseong",
+    "romanization": "yuyeonseong",
+    "meaning": "柔軟性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "유연성도 있어야 해요.",
+    "exampleTranslation": "柔軟性も必要です。",
+    "description": "상황에 따라 부드럽게 바꿀 수 있는性質を表します。",
+    "usage": "『유연성이 높다（柔軟性が高い）』でよく使います。",
+    "hint": "状況に応じてやわらかく変えられること。",
+    "acceptedAnswers": [
+      "유연성"
+    ],
+    "synonyms": [
+      {
+        "word": "융통성",
+        "meaning": "融通性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "경직성",
+        "meaning": "硬直性"
+      }
+    ]
+  },
+  {
+    "id": 1680,
+    "word": "충성심",
+    "baseForm": "충성심",
+    "highlightText": "충성심",
+    "readingKatakana": "chungseongsim",
+    "romanization": "chungseongsim",
+    "meaning": "忠誠心",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人間関係"
+    ],
+    "formality": "なし",
+    "example": "충성심이 강하면 안 떠나요.",
+    "exampleTranslation": "忠誠心が強いと簡単には離れません。",
+    "description": "대상이나 조직에 대해 끝까지 지키고 따르려는 마음を表します。",
+    "usage": "『충성심이 강하다（忠誠心が強い）』のように使います。",
+    "hint": "끝까지 따르려는 마음。",
+    "acceptedAnswers": [
+      "충성심"
+    ],
+    "synonyms": [
+      {
+        "word": "충의",
+        "meaning": "忠義"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "배신",
+        "meaning": "裏切り"
+      }
+    ]
+  },
+  {
+    "id": 1681,
+    "word": "소신",
+    "baseForm": "소신",
+    "highlightText": "소신",
+    "readingKatakana": "sosin",
+    "romanization": "sosin",
+    "meaning": "信念、所信",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "人生",
+      "感情"
+    ],
+    "formality": "なし",
+    "example": "소신 있게 말하는 태도예요.",
+    "exampleTranslation": "所信を持って話す態度です。",
+    "description": "남의 시선보다 자신이 옳다고 믿는 기준を表します。",
+    "usage": "『소신 있게 행동하다（所信をもって行動する）』がよく使われます。",
+    "hint": "自分なりに正しいと信じる考え。",
+    "acceptedAnswers": [
+      "소신"
+    ],
+    "synonyms": [
+      {
+        "word": "신념",
+        "meaning": "信念"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "우유부단함",
+        "meaning": "優柔不断"
+      }
+    ]
+  },
+  {
+    "id": 1682,
+    "word": "수치심",
+    "baseForm": "수치심",
+    "highlightText": "수치심",
+    "readingKatakana": "suchisim",
+    "romanization": "suchisim",
+    "meaning": "羞恥心",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "수치심이 크게 느껴졌어요.",
+    "exampleTranslation": "羞恥心が大きく感じられました。",
+    "description": "자신의 잘못이나 부족함 때문에 부끄럽게 느끼는感情を表します。",
+    "usage": "『수치심을 느끼다（羞恥心を覚える）』の形が基本です。",
+    "hint": "恥ずかしく感じる心。",
+    "acceptedAnswers": [
+      "수치심"
+    ],
+    "synonyms": [
+      {
+        "word": "부끄러움",
+        "meaning": "恥ずかしさ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "당당함",
+        "meaning": "堂々さ"
+      }
+    ]
+  },
+  {
+    "id": 1683,
+    "word": "죄책감",
+    "baseForm": "죄책감",
+    "highlightText": "죄책감",
+    "readingKatakana": "joechaekgam",
+    "romanization": "joechaekgam",
+    "meaning": "罪悪感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "人生"
+    ],
+    "formality": "なし",
+    "example": "죄책감이 남았어요.",
+    "exampleTranslation": "罪悪感が残りました。",
+    "description": "자신의 행동이 잘못되었다고 느껴 괴로운感情を表します。",
+    "usage": "『죄책감을 느끼다（罪悪感を感じる）』でよく使います。",
+    "hint": "自分を責める気持ち。",
+    "acceptedAnswers": [
+      "죄책감"
+    ],
+    "synonyms": [
+      {
+        "word": "자책",
+        "meaning": "自責"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "정당화",
+        "meaning": "正当化"
+      }
+    ]
+  },
+  {
+    "id": 1684,
+    "word": "연대감",
+    "baseForm": "연대감",
+    "highlightText": "연대감",
+    "readingKatakana": "yeondaegam",
+    "romanization": "yeondaegam",
+    "meaning": "連帯感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "자연스러운 연대감이 생겨요.",
+    "exampleTranslation": "自然な連帯感が生まれます。",
+    "description": "함께 같은 입장에 있다는仲間意識を表します。",
+    "usage": "『연대감을 느끼다（連帯感を覚える）』が自然です。",
+    "hint": "같이 묶여 있다는 마음。",
+    "acceptedAnswers": [
+      "연대감"
+    ],
+    "synonyms": [
+      {
+        "word": "소속감",
+        "meaning": "所属感"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "고립감",
+        "meaning": "孤立感"
+      }
+    ]
+  },
+  {
+    "id": 1685,
+    "word": "동질감",
+    "baseForm": "동질감",
+    "highlightText": "동질감",
+    "readingKatakana": "dongjilgam",
+    "romanization": "dongjilgam",
+    "meaning": "同質感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "동질감을 느낄 때가 있어요.",
+    "exampleTranslation": "同質感を覚えることがあります。",
+    "description": "나와 비슷하다고 느껴지는同じ性質の感覚を表します。",
+    "usage": "『동질감을 느끼다（同質感を覚える）』のように使います。",
+    "hint": "似ていると感じる感覚。",
+    "acceptedAnswers": [
+      "동질감"
+    ],
+    "synonyms": [
+      {
+        "word": "유사성",
+        "meaning": "類似性"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "이질감",
+        "meaning": "異質感"
+      }
+    ]
+  },
+  {
+    "id": 1686,
+    "word": "이질감",
+    "baseForm": "이질감",
+    "highlightText": "이질감",
+    "readingKatakana": "ijilgam",
+    "romanization": "ijilgam",
+    "meaning": "異質感",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "感情",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "이질감이 남았어요.",
+    "exampleTranslation": "異質感が残りました。",
+    "description": "나와 너무 달라서 낯설게 느껴지는感覚を表します。",
+    "usage": "『이질감을 느끼다（異質感を覚える）』で使います。",
+    "hint": "違いすぎてなじまない感じ。",
+    "acceptedAnswers": [
+      "이질감"
+    ],
+    "synonyms": [
+      {
+        "word": "낯섦",
+        "meaning": "見慣れなさ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "동질감",
+        "meaning": "同質感"
+      }
+    ]
+  },
+  {
+    "id": 1687,
+    "word": "명분",
+    "baseForm": "명분",
+    "highlightText": "명분",
+    "readingKatakana": "myeongbun",
+    "romanization": "myeongbun",
+    "meaning": "大義名分、名目",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "명분이 분명하면 납득돼요.",
+    "exampleTranslation": "名分がはっきりしていれば納得できます。",
+    "description": "겉으로 내세우는正当な理由や名目を表します。",
+    "usage": "『명분을 내세우다（名分を掲げる）』のように使います。",
+    "hint": "앞에 내세우는理由。",
+    "acceptedAnswers": [
+      "명분"
+    ],
+    "synonyms": [
+      {
+        "word": "이유",
+        "meaning": "理由"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "실익",
+        "meaning": "実益"
+      }
+    ]
+  },
+  {
+    "id": 1688,
+    "word": "실익",
+    "baseForm": "실익",
+    "highlightText": "실익",
+    "readingKatakana": "silik",
+    "romanization": "silik",
+    "meaning": "実益",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "社会"
+    ],
+    "formality": "なし",
+    "example": "실익이 더 중요해요.",
+    "exampleTranslation": "実益のほうが重要です。",
+    "description": "현실적으로 얻을 수 있는利益や得になる点を表します。",
+    "usage": "『실익이 크다（実益が大きい）』でよく使います。",
+    "hint": "実際に得になること。",
+    "acceptedAnswers": [
+      "실익"
+    ],
+    "synonyms": [
+      {
+        "word": "이익",
+        "meaning": "利益"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "명분",
+        "meaning": "名分"
+      }
+    ]
+  },
+  {
+    "id": 1689,
+    "word": "수단",
+    "baseForm": "수단",
+    "highlightText": "수단",
+    "readingKatakana": "sudan",
+    "romanization": "sudan",
+    "meaning": "手段",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "仕事"
+    ],
+    "formality": "なし",
+    "example": "수단이 정당화되진 않아요.",
+    "exampleTranslation": "手段まで正当化されるわけではありません。",
+    "description": "어떤 목적을 이루기 위해 사용하는方法や道具を表します。",
+    "usage": "『수단과 목적（手段と目的）』はセットで非常によく使われます。",
+    "hint": "目的をかなえるための方法。",
+    "acceptedAnswers": [
+      "수단"
+    ],
+    "synonyms": [
+      {
+        "word": "방법",
+        "meaning": "方法"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "목적",
+        "meaning": "目的"
+      }
+    ]
+  },
+  {
+    "id": 1690,
+    "word": "취지",
+    "baseForm": "취지",
+    "highlightText": "취지",
+    "readingKatakana": "chwiji",
+    "romanization": "chwiji",
+    "meaning": "趣旨",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "취지를 이해했어요.",
+    "exampleTranslation": "趣旨を理解しました。",
+    "description": "話や文章、計画が最終的に伝えようとしている中心的な意図を表します。",
+    "usage": "『취지에 맞다（趣旨に合う）』『설명 취지（説明の趣旨）』のように使います。",
+    "hint": "伝えたい中心の意図。",
+    "acceptedAnswers": [
+      "취지"
+    ],
+    "synonyms": [
+      {
+        "word": "의도",
+        "meaning": "意図"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "수단",
+        "meaning": "手段"
+      }
+    ]
+  },
+  {
+    "id": 1691,
+    "word": "경과",
+    "baseForm": "경과",
+    "highlightText": "경과",
+    "readingKatakana": "gyeonggwa",
+    "romanization": "gyeonggwa",
+    "meaning": "経過",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "抽象",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "경과를 지켜봐요.",
+    "exampleTranslation": "経過を見守ります。",
+    "description": "時間がたつ中で、物事がどう進んできたかという流れを表します。",
+    "usage": "『경과를 보다（経過を見る）』『치료 경과（治療経過）』のように使います。",
+    "hint": "時間とともに進んだ流れ。",
+    "acceptedAnswers": [
+      "경과"
+    ],
+    "synonyms": [
+      {
+        "word": "흐름",
+        "meaning": "流れ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "결과",
+        "meaning": "結果"
+      }
+    ]
+  },
+  {
+    "id": 1692,
+    "word": "결과물",
+    "baseForm": "결과물",
+    "highlightText": "결과물",
+    "readingKatakana": "gyeolgwamul",
+    "romanization": "gyeolgwamul",
+    "meaning": "結果物、成果物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "仕事",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "결과물이 남아서 다행이었어요.",
+    "exampleTranslation": "成果物が残ってよかったです。",
+    "description": "어떤 작업이나 과정을 거쳐 나온最終的な産物を表します。",
+    "usage": "『결과물을 제출하다（成果物を提出する）』のように使います。",
+    "hint": "作業のあとに残る完成物。",
+    "acceptedAnswers": [
+      "결과물"
+    ],
+    "synonyms": [
+      {
+        "word": "성과",
+        "meaning": "成果"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "과정",
+        "meaning": "過程"
+      }
+    ]
+  },
+  {
+    "id": 1693,
+    "word": "순위",
+    "baseForm": "순위",
+    "highlightText": "순위",
+    "readingKatakana": "sunwi",
+    "romanization": "sunwi",
+    "meaning": "順位",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "日常",
+      "学習"
+    ],
+    "formality": "なし",
+    "example": "순위는 자주 쓰여요.",
+    "exampleTranslation": "順位は今でもよく使われます。",
+    "description": "여러 대상의차례や位置づけを表します。",
+    "usage": "『순위를 매기다（順位をつける）』『상위 순위（上位順位）』で使います。",
+    "hint": "何番目かという位置。",
+    "acceptedAnswers": [
+      "순위"
+    ],
+    "synonyms": [
+      {
+        "word": "등수",
+        "meaning": "順位、等数"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "최하위",
+        "meaning": "最下位"
+      }
+    ]
+  },
+  {
+    "id": 1694,
+    "word": "격차",
+    "baseForm": "격차",
+    "highlightText": "격차",
+    "readingKatakana": "gyeokcha",
+    "romanization": "gyeokcha",
+    "meaning": "格差",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "격차가 벌어질 수 있어요.",
+    "exampleTranslation": "格差が開くことがあります。",
+    "description": "둘 이상의 사이에 생기는差や開きを表します。",
+    "usage": "『격차를 줄이다（格差を縮める）』『격차가 벌어지다（格差が開く）』のように使います。",
+    "hint": "差が開いていること。",
+    "acceptedAnswers": [
+      "격차"
+    ],
+    "synonyms": [
+      {
+        "word": "차이",
+        "meaning": "差"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "균형",
+        "meaning": "균衡、バランス"
+      }
+    ]
+  },
+  {
+    "id": 1695,
+    "word": "빈부격차",
+    "baseForm": "빈부격차",
+    "highlightText": "빈부격차",
+    "readingKatakana": "binbugyeokcha",
+    "romanization": "binbugyeokcha",
+    "meaning": "貧富の格差",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "빈부격차가 커질수록 달라져요.",
+    "exampleTranslation": "貧富の格差が広がるほど変わります。",
+    "description": "가난한 사람과 부유한 사람 사이의経済的な差を表します。",
+    "usage": "『빈부격차 문제（貧富格差の問題）』でよく使います。",
+    "hint": "貧しさと豊かさの差。",
+    "acceptedAnswers": [
+      "빈부격차"
+    ],
+    "synonyms": [
+      {
+        "word": "경제적 격차",
+        "meaning": "経済的格差"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "평등",
+        "meaning": "平等"
+      }
+    ]
+  },
+  {
+    "id": 1696,
+    "word": "양극화",
+    "baseForm": "양극화",
+    "highlightText": "양극화",
+    "readingKatakana": "yanggeukhwa",
+    "romanization": "yanggeukhwa",
+    "meaning": "二極化",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "양극화도 심해지는 것 같아요.",
+    "exampleTranslation": "二極化も深まる気がします。",
+    "description": "중간이 약해지고 양쪽 극단으로 나뉘는現象を表します。",
+    "usage": "『양극화가 심화되다（二極化が深まる）』で使われます。",
+    "hint": "両極に分かれて中間が弱くなること。",
+    "acceptedAnswers": [
+      "양극화"
+    ],
+    "synonyms": [
+      {
+        "word": "분열",
+        "meaning": "分裂"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "통합",
+        "meaning": "統合"
+      }
+    ]
+  },
+  {
+    "id": 1697,
+    "word": "불평등",
+    "baseForm": "불평등",
+    "highlightText": "불평등",
+    "readingKatakana": "bulpyeongdeung",
+    "romanization": "bulpyeongdeung",
+    "meaning": "不平等",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "政治"
+    ],
+    "formality": "なし",
+    "example": "불평등은 반복될 수 있어요.",
+    "exampleTranslation": "不平等は繰り返されることがあります。",
+    "description": "권리나 자원이 공평하게 나뉘지 않은状態を表します。",
+    "usage": "『구조적 불평등（構造的不平等）』のような言い方がよく使われます。",
+    "hint": "公平でない状態。",
+    "acceptedAnswers": [
+      "불평등"
+    ],
+    "synonyms": [
+      {
+        "word": "차별",
+        "meaning": "差別"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "평등",
+        "meaning": "平等"
+      }
+    ]
+  },
+  {
+    "id": 1698,
+    "word": "다양성",
+    "baseForm": "다양성",
+    "highlightText": "다양성",
+    "readingKatakana": "dayangseong",
+    "romanization": "dayangseong",
+    "meaning": "多様性",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "文化"
+    ],
+    "formality": "なし",
+    "example": "다양성은 사라질 수밖에 없어요.",
+    "exampleTranslation": "多様性は失われるほかありません。",
+    "description": "여러 배경과 방식, 관점이 함께 존재하는状態を表します。",
+    "usage": "『다양성을 존중하다（多様性を尊重する）』『다양성이 높다（多様性が高い）』で使います。",
+    "hint": "いろいろな違いが共にあること。",
+    "acceptedAnswers": [
+      "다양성"
+    ],
+    "synonyms": [
+      {
+        "word": "다채로움",
+        "meaning": "多彩さ"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "획일성",
+        "meaning": "画一性"
+      }
+    ]
+  },
+  {
+    "id": 1699,
+    "word": "포용",
+    "baseForm": "포용",
+    "highlightText": "포용",
+    "readingKatakana": "poyong",
+    "romanization": "poyong",
+    "meaning": "包容、包摂",
+    "partOfSpeech": "名詞",
+    "levelGroup": "上級",
+    "difficultyLevel": 3,
+    "genres": [
+      "社会",
+      "抽象"
+    ],
+    "formality": "なし",
+    "example": "포용할수록 단단해져요.",
+    "exampleTranslation": "包み込むほど共同体は強くなります。",
+    "description": "차이를 배제하지 않고 함께 받아들이는態度や働きを表します。",
+    "usage": "『포용의 태도（包容の態度）』『포용을 실천하다（包容を実践する）』のように使います。",
+    "hint": "違いを排除せず受け入れること。",
+    "acceptedAnswers": [
+      "포용"
+    ],
+    "synonyms": [
+      {
+        "word": "수용",
+        "meaning": "受容"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "배제",
+        "meaning": "排除"
+      }
+    ]
+  }
+]

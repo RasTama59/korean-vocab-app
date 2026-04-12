@@ -1,0 +1,330 @@
+.page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(45, 212, 191, 0.16), transparent 26%),
+    radial-gradient(circle at top right, rgba(251, 146, 60, 0.16), transparent 22%),
+    linear-gradient(180deg, #fffaf5 0%, #f6fbff 46%, #eef8f3 100%);
+  padding: 96px 20px 72px;
+}
+
+.shell {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  gap: 26px;
+}
+
+.hero {
+  padding: 22px;
+  border-radius: 38px;
+  background: rgba(255, 255, 255, 0.56);
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  box-shadow: 0 26px 60px rgba(15, 23, 42, 0.1);
+  backdrop-filter: blur(18px);
+}
+
+.heroInner,
+.section,
+.formCard {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow: 0 24px 48px rgba(15, 23, 42, 0.08);
+}
+
+.heroInner {
+  border-radius: 30px;
+  padding: 34px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.92);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.title {
+  margin: 22px 0 14px;
+  font-size: clamp(2.5rem, 6vw, 4.3rem);
+  line-height: 1.04;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.lead {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.9;
+  color: #475569;
+}
+
+.actionRow {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 24px;
+  border-radius: 18px;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 800;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    opacity 0.18s ease;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+}
+
+.primaryButton {
+  color: #fff;
+  background: linear-gradient(135deg, #f97316 0%, #fb7185 100%);
+  box-shadow: 0 16px 30px rgba(249, 115, 22, 0.24);
+}
+
+.secondaryButton {
+  color: #0f172a;
+  background: #eff6ff;
+  box-shadow: 0 12px 24px rgba(148, 163, 184, 0.16);
+}
+
+.section {
+  border-radius: 30px;
+  padding: 28px;
+}
+
+.sectionEyebrow {
+  margin: 0;
+  font-size: 0.84rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #0f766e;
+}
+
+.sectionTitle {
+  margin: 12px 0 0;
+  font-size: clamp(1.7rem, 4vw, 2.5rem);
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.sectionText {
+  margin: 14px 0 0;
+  line-height: 1.85;
+  color: #475569;
+}
+
+.grid {
+  margin-top: 22px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.tripleGrid {
+  margin-top: 22px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.card {
+  padding: 22px;
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at top right, rgba(45, 212, 191, 0.1), transparent 36%),
+    linear-gradient(180deg, #fff 0%, #f8fafc 100%);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+}
+
+.cardTitle {
+  margin: 0;
+  font-size: 1.18rem;
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.cardText {
+  margin: 12px 0 0;
+  line-height: 1.8;
+  color: #64748b;
+}
+
+.list,
+.numberedList {
+  margin: 18px 0 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 12px;
+  color: #475569;
+  line-height: 1.8;
+}
+
+.notePanel {
+  margin-top: 22px;
+  padding: 20px 22px;
+  border-radius: 24px;
+  background: rgba(255, 247, 237, 0.92);
+  border: 1px solid rgba(251, 146, 60, 0.2);
+}
+
+.noteTitle {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #9a3412;
+}
+
+.noteText {
+  margin: 10px 0 0;
+  line-height: 1.8;
+  color: #7c2d12;
+}
+
+.policyBlock {
+  display: grid;
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.policyCard {
+  padding: 22px;
+  border-radius: 24px;
+  background: rgba(248, 250, 252, 0.94);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+}
+
+.policyTitle {
+  margin: 0;
+  font-size: 1.12rem;
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.policyText {
+  margin: 12px 0 0;
+  line-height: 1.85;
+  color: #475569;
+}
+
+.formCard {
+  border-radius: 30px;
+  padding: 28px;
+}
+
+.formLead {
+  margin: 12px 0 0;
+  line-height: 1.8;
+  color: #64748b;
+}
+
+.urlBox {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: #f8fafc;
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  word-break: break-all;
+  line-height: 1.7;
+  color: #334155;
+}
+
+.contextCard {
+  margin-top: 20px;
+  padding: 20px 22px;
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at top right, rgba(45, 212, 191, 0.1), transparent 36%),
+    linear-gradient(180deg, #fff 0%, #f8fafc 100%);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+}
+
+.contextGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.contextItem {
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  display: grid;
+  gap: 8px;
+}
+
+.contextLabel {
+  font-size: 0.84rem;
+  font-weight: 800;
+  color: #64748b;
+}
+
+.contextValue {
+  font-size: 1rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.6;
+}
+
+.contextNote {
+  margin: 16px 0 0;
+  line-height: 1.75;
+  color: #475569;
+}
+
+@media (max-width: 920px) {
+  .grid,
+  .tripleGrid,
+  .contextGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .page {
+    padding: 84px 16px 52px;
+  }
+
+  .hero {
+    padding: 12px;
+    border-radius: 28px;
+  }
+
+  .heroInner,
+  .section,
+  .formCard {
+    padding: 22px;
+    border-radius: 24px;
+  }
+
+  .card,
+  .policyCard,
+  .notePanel {
+    padding: 18px;
+    border-radius: 20px;
+  }
+
+  .actionRow {
+    flex-direction: column;
+  }
+
+  .button {
+    width: 100%;
+  }
+}

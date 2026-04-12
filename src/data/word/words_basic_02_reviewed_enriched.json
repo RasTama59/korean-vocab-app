@@ -1,0 +1,2933 @@
+[
+  {
+    "id": 101,
+    "word": "여행",
+    "baseForm": "여행",
+    "highlightText": "여행",
+    "readingKatakana": "ヨヘン",
+    "romanization": "yeohaeng",
+    "meaning": "旅行",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "여행에서는 동네를 보고 싶어요.",
+    "exampleTranslation": "旅行では町を見て回りたいです。",
+    "description": "他の場所へ出かけて見たり休んだりすることを表す基本名詞です。",
+    "usage": "『여행을 가다（旅行に行く）』『여행 계획을 세우다（旅行計画を立てる）』のように使います。",
+    "hint": "どこかへ出かけること。",
+    "acceptedAnswers": [
+      "여행"
+    ],
+    "synonyms": [
+      {
+        "word": "관광",
+        "meaning": "観光"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 102,
+    "word": "공항",
+    "baseForm": "공항",
+    "highlightText": "공항",
+    "readingKatakana": "コンハン",
+    "romanization": "gonghang",
+    "meaning": "空港",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "공항은 일찍 도착하는 편이에요.",
+    "exampleTranslation": "空港は早めに着くほうです。",
+    "description": "飛行機に乗るための空港を表す基本単語です。",
+    "usage": "『공항에 가다（空港に行く）』『공항에서 기다리다（空港で待つ）』の形でよく使います。",
+    "hint": "飛行機に乗る場所。",
+    "acceptedAnswers": [
+      "공항"
+    ],
+    "synonyms": [
+      {
+        "word": "비행장",
+        "meaning": "飛行場、空港"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 103,
+    "word": "호텔",
+    "baseForm": "호텔",
+    "highlightText": "호텔",
+    "readingKatakana": "ホテル",
+    "romanization": "hotel",
+    "meaning": "ホテル",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "가까운 호텔을 잡았어요.",
+    "exampleTranslation": "近いホテルを取りました。",
+    "description": "旅行や出張のときに泊まるホテルを表します。",
+    "usage": "『호텔에 묵다（ホテルに泊まる）』がよく使われます。",
+    "hint": "泊まる場所。",
+    "acceptedAnswers": [
+      "호텔"
+    ],
+    "synonyms": [
+      {
+        "word": "숙소",
+        "meaning": "宿、宿泊先"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 104,
+    "word": "여권",
+    "baseForm": "여권",
+    "highlightText": "여권",
+    "readingKatakana": "ヨグォン",
+    "romanization": "yeogwon",
+    "meaning": "パスポート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "여권을 몇 번이나 확인해요.",
+    "exampleTranslation": "パスポートを何度も確認します。",
+    "description": "海外へ行くときに必要な旅券を表す単語です。",
+    "usage": "『여권을 챙기다（パスポートを持つ）』の形が定番です。",
+    "hint": "海外へ行くときの大事な書類。",
+    "acceptedAnswers": [
+      "여권"
+    ],
+    "synonyms": [
+      {
+        "word": "패스포트",
+        "meaning": "パスポート"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 105,
+    "word": "비행기",
+    "baseForm": "비행기",
+    "highlightText": "비행기",
+    "readingKatakana": "ピヘンギ",
+    "romanization": "bihaenggi",
+    "meaning": "飛行機",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "乗り物"
+    ],
+    "formality": "なし",
+    "example": "비행기를 탈 때 긴장됐어요.",
+    "exampleTranslation": "飛行機に乗るとき緊張しました。",
+    "description": "空を飛んで移動する乗り物を表します。",
+    "usage": "『비행기를 타다（飛行機に乗る）』でよく使います。",
+    "hint": "空を飛ぶ乗り物。",
+    "acceptedAnswers": [
+      "비행기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 106,
+    "word": "기차",
+    "baseForm": "기차",
+    "highlightText": "기차",
+    "readingKatakana": "キチャ",
+    "romanization": "gicha",
+    "meaning": "列車",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "乗り物"
+    ],
+    "formality": "なし",
+    "example": "기차로 이동하기로 했어요.",
+    "exampleTranslation": "列車で移動することにしました。",
+    "description": "線路の上を走る列車を表す単語です。",
+    "usage": "『기차를 타다（列車に乗る）』のように使います。",
+    "hint": "線路を走る乗り物。",
+    "acceptedAnswers": [
+      "기차"
+    ],
+    "synonyms": [
+      {
+        "word": "열차",
+        "meaning": "列車"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 107,
+    "word": "버스",
+    "baseForm": "버스",
+    "highlightText": "버스",
+    "readingKatakana": "ポス",
+    "romanization": "beoseu",
+    "meaning": "バス",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "乗り物"
+    ],
+    "formality": "なし",
+    "example": "버스는 한 대를 보내기도 해요.",
+    "exampleTranslation": "バスを一本見送ることもあります。",
+    "description": "多くの人が一緒に乗る公共交通のバスを表します。",
+    "usage": "『버스를 타다（バスに乗る）』が基本です。",
+    "hint": "町の中を走る大きい乗り物。",
+    "acceptedAnswers": [
+      "버스"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 108,
+    "word": "택시",
+    "baseForm": "택시",
+    "highlightText": "택시",
+    "readingKatakana": "テクシ",
+    "romanization": "taeksi",
+    "meaning": "タクシー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "乗り物"
+    ],
+    "formality": "なし",
+    "example": "택시를 타는 게 편해요.",
+    "exampleTranslation": "タクシーに乗るほうが楽です。",
+    "description": "目的地まで直接行けるタクシーを表す基本単語です。",
+    "usage": "『택시를 잡다（タクシーをつかまえる）』の表現もよく使います。",
+    "hint": "お金を払って乗る車。",
+    "acceptedAnswers": [
+      "택시"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 109,
+    "word": "지하철",
+    "baseForm": "지하철",
+    "highlightText": "지하철",
+    "readingKatakana": "チハチョル",
+    "romanization": "jihacheol",
+    "meaning": "地下鉄",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "乗り物"
+    ],
+    "formality": "なし",
+    "example": "지하철 노선이 많아요.",
+    "exampleTranslation": "地下鉄の路線が多いです。",
+    "description": "地下を走る都市交通の地下鉄を表します。",
+    "usage": "『지하철을 타다（地下鉄に乗る）』が基本です。",
+    "hint": "地下を走る電車。",
+    "acceptedAnswers": [
+      "지하철"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 110,
+    "word": "역",
+    "baseForm": "역",
+    "highlightText": "역",
+    "readingKatakana": "ヨク",
+    "romanization": "yeok",
+    "meaning": "駅",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "역 앞이라서 찾기 쉬웠어요.",
+    "exampleTranslation": "駅前だったので見つけやすかったです。",
+    "description": "列車や地下鉄に乗る駅を表す基本語です。",
+    "usage": "『역에 도착하다（駅に到着する）』のように使います。",
+    "hint": "電車に乗る場所。",
+    "acceptedAnswers": [
+      "역"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 111,
+    "word": "길",
+    "baseForm": "길",
+    "highlightText": "길",
+    "readingKatakana": "キル",
+    "romanization": "gil",
+    "meaning": "道",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "길을 잘못 들어도 당황하지 않아요.",
+    "exampleTranslation": "道を間違えても慌てません。",
+    "description": "人や車が通る道を表すとても基本的な名詞です。",
+    "usage": "『길을 묻다（道を尋ねる）』『길을 건너다（道を渡る）』がよく使われます。",
+    "hint": "通る道。",
+    "acceptedAnswers": [
+      "길"
+    ],
+    "synonyms": [
+      {
+        "word": "도로",
+        "meaning": "道路"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 112,
+    "word": "지도",
+    "baseForm": "지도",
+    "highlightText": "지도",
+    "readingKatakana": "チド",
+    "romanization": "jido",
+    "meaning": "地図",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "지도만 보지 않는 게 좋아요.",
+    "exampleTranslation": "地図だけ見ないほうがいいです。",
+    "description": "場所や道順を確認するときに使う地図を表します。",
+    "usage": "『지도를 보다（地図を見る）』が基本です。",
+    "hint": "場所を調べるための図。",
+    "acceptedAnswers": [
+      "지도"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 113,
+    "word": "표",
+    "baseForm": "표",
+    "highlightText": "표",
+    "readingKatakana": "ピョ",
+    "romanization": "pyo",
+    "meaning": "切符、チケット",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "표를 미리 예매했어요.",
+    "exampleTranslation": "チケットを前もって予約しました。",
+    "description": "乗り物や公演などに入るための切符・チケットを表します。",
+    "usage": "『표를 사다（切符を買う）』『표를 보여 주다（チケットを見せる）』のように使います。",
+    "hint": "乗るときや入るときに必要なもの。",
+    "acceptedAnswers": [
+      "표"
+    ],
+    "synonyms": [
+      {
+        "word": "티켓",
+        "meaning": "チケット"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 114,
+    "word": "좌석",
+    "baseForm": "좌석",
+    "highlightText": "좌석",
+    "readingKatakana": "チュァソク",
+    "romanization": "jwaseok",
+    "meaning": "座席",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "旅行",
+      "場所"
+    ],
+    "formality": "なし",
+    "example": "창가 좌석이라 좋았어요.",
+    "exampleTranslation": "窓側の座席でよかったです。",
+    "description": "電車や飛行機、会場などの席を表す語です。",
+    "usage": "『좌석을 예약하다（座席を予約する）』でよく使います。",
+    "hint": "座る席。",
+    "acceptedAnswers": [
+      "좌석"
+    ],
+    "synonyms": [
+      {
+        "word": "자리",
+        "meaning": "席、場所"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 115,
+    "word": "가게",
+    "baseForm": "가게",
+    "highlightText": "가게",
+    "readingKatakana": "カゲ",
+    "romanization": "gage",
+    "meaning": "店",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "가게가 기억에 남았어요.",
+    "exampleTranslation": "その店が印象に残りました。",
+    "description": "物を売ったりサービスを提供したりする店を表す基本語です。",
+    "usage": "『가게에 가다（店に行く）』でよく使います。",
+    "hint": "物を売る場所。",
+    "acceptedAnswers": [
+      "가게"
+    ],
+    "synonyms": [
+      {
+        "word": "상점",
+        "meaning": "商店、店"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 116,
+    "word": "시장",
+    "baseForm": "시장",
+    "highlightText": "시장",
+    "readingKatakana": "シジャン",
+    "romanization": "sijang",
+    "meaning": "市場",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "시장 분위기를 느낄 수 있어요.",
+    "exampleTranslation": "市場の雰囲気を感じられます。",
+    "description": "多くの店が集まっている市場を表します。",
+    "usage": "『시장에서 사다（市場で買う）』の形が自然です。",
+    "hint": "店がたくさん集まっている場所。",
+    "acceptedAnswers": [
+      "시장"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 117,
+    "word": "마트",
+    "baseForm": "마트",
+    "highlightText": "마트",
+    "readingKatakana": "マトゥ",
+    "romanization": "mateu",
+    "meaning": "スーパー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "마트에 갈 건 메모해요.",
+    "exampleTranslation": "スーパーで買うものをメモします。",
+    "description": "日用品や食べ物を買う大型の店を表す外来語です。",
+    "usage": "『마트에서 장을 보다（スーパーで買い物をする）』という言い方もよく使います。",
+    "hint": "食べ物や日用品を買う大きい店。",
+    "acceptedAnswers": [
+      "마트"
+    ],
+    "synonyms": [
+      {
+        "word": "슈퍼",
+        "meaning": "スーパー"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 118,
+    "word": "백화점",
+    "baseForm": "백화점",
+    "highlightText": "백화점",
+    "readingKatakana": "ペックァジョム",
+    "romanization": "baekhwajeom",
+    "meaning": "デパート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "백화점은 보기 편해요.",
+    "exampleTranslation": "デパートは見やすいです。",
+    "description": "多くの売り場が集まった百貨店を表します。",
+    "usage": "『백화점에서 쇼핑하다（デパートで買い物する）』のように使います。",
+    "hint": "いろいろな店が入っている大きい店。",
+    "acceptedAnswers": [
+      "백화점"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 119,
+    "word": "식당",
+    "baseForm": "식당",
+    "highlightText": "식당",
+    "readingKatakana": "シクダン",
+    "romanization": "sikdang",
+    "meaning": "食堂、飲食店",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "식당 앞에 줄이 생겨요.",
+    "exampleTranslation": "食堂の前に列ができます。",
+    "description": "食事をする店全般を表す基本語です。",
+    "usage": "『식당에서 먹다（食堂で食べる）』でよく使います。",
+    "hint": "ご飯を食べる店。",
+    "acceptedAnswers": [
+      "식당"
+    ],
+    "synonyms": [
+      {
+        "word": "음식점",
+        "meaning": "飲食店"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 120,
+    "word": "카페",
+    "baseForm": "카페",
+    "highlightText": "카페",
+    "readingKatakana": "カペ",
+    "romanization": "kape",
+    "meaning": "カフェ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "카페에 가면 공부가 편해요.",
+    "exampleTranslation": "カフェへ行くと勉強しやすいです。",
+    "description": "飲み物やデザートを楽しむカフェを表す外来語です。",
+    "usage": "『카페에 앉다（カフェに座る）』のように使えます。",
+    "hint": "コーヒーなどを飲む店。",
+    "acceptedAnswers": [
+      "카페"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 121,
+    "word": "메뉴",
+    "baseForm": "메뉴",
+    "highlightText": "메뉴",
+    "readingKatakana": "メニュ",
+    "romanization": "menyu",
+    "meaning": "メニュー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "메뉴를 오래 봤어요.",
+    "exampleTranslation": "メニューを長く見ました。",
+    "description": "料理や飲み物の一覧であるメニューを表します。",
+    "usage": "『메뉴를 보다（メニューを見る）』が基本です。",
+    "hint": "料理の一覧。",
+    "acceptedAnswers": [
+      "메뉴"
+    ],
+    "synonyms": [
+      {
+        "word": "차림표",
+        "meaning": "メニュー表"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 122,
+    "word": "주문",
+    "baseForm": "주문",
+    "highlightText": "주문",
+    "readingKatakana": "チュムン",
+    "romanization": "jumun",
+    "meaning": "注文",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "주문이 밀려서 늦었어요.",
+    "exampleTranslation": "注文が立て込んで遅れました。",
+    "description": "店で品物や料理を頼むことを表します。",
+    "usage": "『주문을 하다（注文する）』でよく使います。",
+    "hint": "店でほしいものを頼むこと。",
+    "acceptedAnswers": [
+      "주문"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 123,
+    "word": "계산",
+    "baseForm": "계산",
+    "highlightText": "계산",
+    "readingKatakana": "ケサン",
+    "romanization": "gyesan",
+    "meaning": "会計",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "買い物",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "누가 계산할지 말해요.",
+    "exampleTranslation": "誰が会計するか話します。",
+    "description": "代金を払うこと、会計を表します。",
+    "usage": "『계산을 하다（会計する）』が基本です。",
+    "hint": "お金を払うこと。",
+    "acceptedAnswers": [
+      "계산"
+    ],
+    "synonyms": [
+      {
+        "word": "결제",
+        "meaning": "決済、支払い"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 124,
+    "word": "영수증",
+    "baseForm": "영수증",
+    "highlightText": "영수증",
+    "readingKatakana": "ヨンスジュン",
+    "romanization": "yeongsujeung",
+    "meaning": "領収書、レシート",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "買い物"
+    ],
+    "formality": "なし",
+    "example": "영수증을 가지고 있어요.",
+    "exampleTranslation": "レシートを持っておきます。",
+    "description": "支払いの内容が書かれたレシートや領収書を表します。",
+    "usage": "『영수증을 받다（レシートを受け取る）』でよく使います。",
+    "hint": "買ったあとにもらう紙。",
+    "acceptedAnswers": [
+      "영수증"
+    ],
+    "synonyms": [
+      {
+        "word": "receipt",
+        "meaning": "レシート"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 125,
+    "word": "병원",
+    "baseForm": "병원",
+    "highlightText": "병원",
+    "readingKatakana": "ピョウォン",
+    "romanization": "byeongwon",
+    "meaning": "病院",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "병원에 가 보는 게 좋아요.",
+    "exampleTranslation": "病院に行ってみるほうがいいです。",
+    "description": "病気やけがのときに行く病院を表す基本語です。",
+    "usage": "『병원에 다니다（病院に通う）』の言い方もあります。",
+    "hint": "病気のときに行く場所。",
+    "acceptedAnswers": [
+      "병원"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 126,
+    "word": "약국",
+    "baseForm": "약국",
+    "highlightText": "약국",
+    "readingKatakana": "ヤックク",
+    "romanization": "yakguk",
+    "meaning": "薬局",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "약국에서 약을 샀어요.",
+    "exampleTranslation": "薬局で薬を買いました。",
+    "description": "薬を買ったり受け取ったりする薬局を表します。",
+    "usage": "『약국에 들르다（薬局に寄る）』のように使います。",
+    "hint": "薬を買う場所。",
+    "acceptedAnswers": [
+      "약국"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 127,
+    "word": "약",
+    "baseForm": "약",
+    "highlightText": "약",
+    "readingKatakana": "ヤク",
+    "romanization": "yak",
+    "meaning": "薬",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "약은 식사 후에 먹어요.",
+    "exampleTranslation": "薬は食後に飲みます。",
+    "description": "病気や症状をよくするために飲んだり塗ったりする薬を表します。",
+    "usage": "『약을 먹다（薬を飲む）』が基本表現です。",
+    "hint": "病気のときに使うもの。",
+    "acceptedAnswers": [
+      "약"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 128,
+    "word": "건강",
+    "baseForm": "건강",
+    "highlightText": "건강",
+    "readingKatakana": "コンガン",
+    "romanization": "geongang",
+    "meaning": "健康",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "예전보다 건강을 더 챙기게 됐어요.",
+    "exampleTranslation": "以前より健康をもっと気にするようになりました。",
+    "description": "体や心の状態がよいことを表す重要な名詞です。",
+    "usage": "『건강을 챙기다（健康に気をつける）』の形でよく使います。",
+    "hint": "体の調子がよいこと。",
+    "acceptedAnswers": [
+      "건강"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 129,
+    "word": "감기",
+    "baseForm": "감기",
+    "highlightText": "감기",
+    "readingKatakana": "カムギ",
+    "romanization": "gamgi",
+    "meaning": "風邪",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "감기가 오래가서 힘들었어요.",
+    "exampleTranslation": "風邪が長引いて大変でした。",
+    "description": "熱、せき、鼻水などをともなう身近な病気の一つです。",
+    "usage": "『감기에 걸리다（風邪をひく）』が大切な表現です。",
+    "hint": "よくひく病気。",
+    "acceptedAnswers": [
+      "감기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 130,
+    "word": "열",
+    "baseForm": "열",
+    "highlightText": "열",
+    "readingKatakana": "ヨル",
+    "romanization": "yeol",
+    "meaning": "熱",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "열이 조금 올랐어요.",
+    "exampleTranslation": "熱が少し上がりました。",
+    "description": "体温が高くなった状態の熱を表します。",
+    "usage": "『열이 나다（熱が出る）』が定番です。",
+    "hint": "体温が高いこと。",
+    "acceptedAnswers": [
+      "열"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 131,
+    "word": "기침",
+    "baseForm": "기침",
+    "highlightText": "기침",
+    "readingKatakana": "キチム",
+    "romanization": "gichim",
+    "meaning": "せき",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "기침이 계속되면 목이 아파요.",
+    "exampleTranslation": "せきが続くとのどが痛いです。",
+    "description": "のどや気管の刺激で出るせきを表します。",
+    "usage": "『기침이 나다（せきが出る）』の形でよく使います。",
+    "hint": "ごほごほすること。",
+    "acceptedAnswers": [
+      "기침"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 132,
+    "word": "통증",
+    "baseForm": "통증",
+    "highlightText": "통증",
+    "readingKatakana": "トンジュン",
+    "romanization": "tongjeung",
+    "meaning": "痛み",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "健康"
+    ],
+    "formality": "なし",
+    "example": "통증이 더 느껴졌어요.",
+    "exampleTranslation": "痛みがより感じられました。",
+    "description": "体のどこかに感じる痛みを表す少し硬めの語です。",
+    "usage": "『통증이 심하다（痛みが強い）』でよく使います。",
+    "hint": "体の痛み。",
+    "acceptedAnswers": [
+      "통증"
+    ],
+    "synonyms": [
+      {
+        "word": "아픔",
+        "meaning": "痛み"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 133,
+    "word": "시간",
+    "baseForm": "시간",
+    "highlightText": "시간",
+    "readingKatakana": "シガン",
+    "romanization": "sigan",
+    "meaning": "時間",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "시간이 금방 지나갔어요.",
+    "exampleTranslation": "時間があっという間に過ぎました。",
+    "description": "時刻や長さとしての時間を表す基本語です。",
+    "usage": "『시간이 있다/없다（時間がある・ない）』が頻出です。",
+    "hint": "時の長さ。",
+    "acceptedAnswers": [
+      "시간"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 134,
+    "word": "오늘",
+    "baseForm": "오늘",
+    "highlightText": "오늘",
+    "readingKatakana": "オヌル",
+    "romanization": "oneul",
+    "meaning": "今日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "오늘은 아침부터 바빴어요.",
+    "exampleTranslation": "今日は朝から忙しかったです。",
+    "description": "今の日を表す基本的な時間表現です。",
+    "usage": "『오늘 아침（今日の朝）』『오늘 저녁（今夜）』の形でよく使います。",
+    "hint": "今の日。",
+    "acceptedAnswers": [
+      "오늘"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "어제",
+        "meaning": "昨日"
+      },
+      {
+        "word": "내일",
+        "meaning": "明日"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "내일",
+    "baseForm": "내일",
+    "highlightText": "내일",
+    "readingKatakana": "ネイル",
+    "romanization": "naeil",
+    "meaning": "明日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "내일 일정이 일러요.",
+    "exampleTranslation": "明日の予定が早いです。",
+    "description": "今日の次の日、明日を表す時間表現です。",
+    "usage": "『내일 보자（明日会おう）』は会話でとてもよく使います。",
+    "hint": "今日の次の日。",
+    "acceptedAnswers": [
+      "내일"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "어제",
+        "meaning": "昨日"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "어제",
+    "baseForm": "어제",
+    "highlightText": "어제",
+    "readingKatakana": "オジェ",
+    "romanization": "eoje",
+    "meaning": "昨日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "어제는 집에서만 쉬었어요.",
+    "exampleTranslation": "昨日は家でだけ休みました。",
+    "description": "今日の前の日、昨日を表す基本語です。",
+    "usage": "『어제 저녁（昨夜）』のようにも使えます。",
+    "hint": "今日の前の日。",
+    "acceptedAnswers": [
+      "어제"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "내일",
+        "meaning": "明日"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "지금",
+    "baseForm": "지금",
+    "highlightText": "지금",
+    "readingKatakana": "チグム",
+    "romanization": "jigeum",
+    "meaning": "今",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "지금 바로 결정하지 않아요.",
+    "exampleTranslation": "今すぐは決めません。",
+    "description": "現在のこの瞬間を表す基本語です。",
+    "usage": "『지금 뭐 해요?（今何をしていますか）』は非常に頻出です。",
+    "hint": "この瞬間。",
+    "acceptedAnswers": [
+      "지금"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 138,
+    "word": "오전",
+    "baseForm": "오전",
+    "highlightText": "오전",
+    "readingKatakana": "オジョン",
+    "romanization": "ojeon",
+    "meaning": "午前",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "오전에는 중요한 일을 해요.",
+    "exampleTranslation": "午前には大事なことをします。",
+    "description": "昼より前の時間帯を表す語です。",
+    "usage": "『오전 열 시（午前十時）』のように使います。",
+    "hint": "昼より前の時間。",
+    "acceptedAnswers": [
+      "오전"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "오후",
+        "meaning": "午後"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "아침",
+    "baseForm": "아침",
+    "highlightText": "아침",
+    "readingKatakana": "アチム",
+    "romanization": "achim",
+    "meaning": "朝",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "아침 공기가 차가워요.",
+    "exampleTranslation": "朝の空気が冷たいです。",
+    "description": "一日の始まりの朝を表す基本名詞です。",
+    "usage": "『아침을 먹다（朝ご飯を食べる）』でもよく使われます。",
+    "hint": "一日の早い時間。",
+    "acceptedAnswers": [
+      "아침"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "밤",
+        "meaning": "夜"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "점심",
+    "baseForm": "점심",
+    "highlightText": "점심",
+    "readingKatakana": "チョムシム",
+    "romanization": "jeomsim",
+    "meaning": "昼",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "점심엔 가볍게 먹어요.",
+    "exampleTranslation": "昼は軽めに食べます。",
+    "description": "昼の時間や昼食を表す便利な語です。",
+    "usage": "『점심을 먹다（昼ご飯を食べる）』が定番です。",
+    "hint": "昼の時間、ご飯。",
+    "acceptedAnswers": [
+      "점심"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 141,
+    "word": "저녁",
+    "baseForm": "저녁",
+    "highlightText": "저녁",
+    "readingKatakana": "チョニョク",
+    "romanization": "jeonyeok",
+    "meaning": "夕方、夕食",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "저녁에는 밥을 먹었어요.",
+    "exampleTranslation": "夕方にご飯を食べました。",
+    "description": "夕方の時間帯や夕食を表す語です。",
+    "usage": "『저녁 약속（夕方の約束）』の形でも使います。",
+    "hint": "夕方の時間、ご飯。",
+    "acceptedAnswers": [
+      "저녁"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 142,
+    "word": "밤",
+    "baseForm": "밤",
+    "highlightText": "밤",
+    "readingKatakana": "パム",
+    "romanization": "bam",
+    "meaning": "夜",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "밤이 되면 다르게 느껴져요.",
+    "exampleTranslation": "夜になると違って感じられます。",
+    "description": "日が沈んだあとの夜を表す基本語です。",
+    "usage": "『밤에 걷다（夜に歩く）』のように使います。",
+    "hint": "暗くなってからの時間。",
+    "acceptedAnswers": [
+      "밤"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "아침",
+        "meaning": "朝"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "새벽",
+    "baseForm": "새벽",
+    "highlightText": "새벽",
+    "readingKatakana": "セビョク",
+    "romanization": "saebyeok",
+    "meaning": "明け方",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "새벽 공항에 사람이 많았어요.",
+    "exampleTranslation": "明け方の空港に人が多かったです。",
+    "description": "夜が明ける前後のとても早い時間帯を表します。",
+    "usage": "『새벽에 일어나다（明け方に起きる）』でよく使います。",
+    "hint": "朝よりもっと早い時間。",
+    "acceptedAnswers": [
+      "새벽"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 144,
+    "word": "주말",
+    "baseForm": "주말",
+    "highlightText": "주말",
+    "readingKatakana": "チュマル",
+    "romanization": "jumal",
+    "meaning": "週末",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "주말에도 할 일이 많아요.",
+    "exampleTranslation": "週末にもやることが多いです。",
+    "description": "土曜日と日曜日の週末を表す語です。",
+    "usage": "『주말 계획（週末の計画）』でよく使います。",
+    "hint": "土日。",
+    "acceptedAnswers": [
+      "주말"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 145,
+    "word": "월요일",
+    "baseForm": "월요일",
+    "highlightText": "월요일",
+    "readingKatakana": "ウォリョイル",
+    "romanization": "wolyoil",
+    "meaning": "月曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "월요일엔 주말 느낌이 남아 있어요.",
+    "exampleTranslation": "月曜日はまだ週末気分が残っています。",
+    "description": "一週間の最初の平日、月曜日を表します。",
+    "usage": "曜日は『월요일에（⽉曜に）』の形でよく使います。",
+    "hint": "週の最初の平日。",
+    "acceptedAnswers": [
+      "월요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 146,
+    "word": "화요일",
+    "baseForm": "화요일",
+    "highlightText": "화요일",
+    "readingKatakana": "ファヨイル",
+    "romanization": "hwayoil",
+    "meaning": "火曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "화요일엔 흐름이 잡혀요.",
+    "exampleTranslation": "火曜日は流れがつかめます。",
+    "description": "火曜日を表す時間名詞です。",
+    "usage": "『화요일 오후（火曜午後）』のように使えます。",
+    "hint": "火曜日。",
+    "acceptedAnswers": [
+      "화요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 147,
+    "word": "수요일",
+    "baseForm": "수요일",
+    "highlightText": "수요일",
+    "readingKatakana": "スヨイル",
+    "romanization": "suyoil",
+    "meaning": "水曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "수요일은 피곤할 때가 있어요.",
+    "exampleTranslation": "水曜日は疲れることがあります。",
+    "description": "水曜日を表す時間名詞です。",
+    "usage": "『수요일마다（毎週水曜日）』の形もよく使います。",
+    "hint": "水曜日。",
+    "acceptedAnswers": [
+      "수요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 148,
+    "word": "목요일",
+    "baseForm": "목요일",
+    "highlightText": "목요일",
+    "readingKatakana": "モギョイル",
+    "romanization": "mokyoil",
+    "meaning": "木曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "목요일엔 계획을 세워요.",
+    "exampleTranslation": "木曜日は計画を立てます。",
+    "description": "木曜日を表す時間名詞です。",
+    "usage": "『목요일 저녁（木曜の夕方）』の形で使えます。",
+    "hint": "木曜日。",
+    "acceptedAnswers": [
+      "목요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 149,
+    "word": "금요일",
+    "baseForm": "금요일",
+    "highlightText": "금요일",
+    "readingKatakana": "クミョイル",
+    "romanization": "geumyoil",
+    "meaning": "金曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "금요일 저녁은 활기차 보여요.",
+    "exampleTranslation": "金曜の夜はにぎやかに見えます。",
+    "description": "週末の前の日である金曜日を表します。",
+    "usage": "『금요일 밤（金曜の夜）』がよく使われます。",
+    "hint": "週末の前の日。",
+    "acceptedAnswers": [
+      "금요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 150,
+    "word": "토요일",
+    "baseForm": "토요일",
+    "highlightText": "토요일",
+    "readingKatakana": "トヨイル",
+    "romanization": "toyoil",
+    "meaning": "土曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "토요일엔 못 한 일을 해요.",
+    "exampleTranslation": "土曜日はできなかったことをします。",
+    "description": "土曜日を表す時間名詞です。",
+    "usage": "『토요일에 만나자（土曜日に会おう）』のように使います。",
+    "hint": "土曜日。",
+    "acceptedAnswers": [
+      "토요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 151,
+    "word": "일요일",
+    "baseForm": "일요일",
+    "highlightText": "일요일",
+    "readingKatakana": "イリョイル",
+    "romanization": "ilyoil",
+    "meaning": "日曜日",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "時間"
+    ],
+    "formality": "なし",
+    "example": "일요일 저녁엔 준비해요.",
+    "exampleTranslation": "日曜の夜は準備します。",
+    "description": "日曜日を表す時間名詞です。",
+    "usage": "『일요일 아침（日曜の朝）』の形でよく使います。",
+    "hint": "日曜日。",
+    "acceptedAnswers": [
+      "일요일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 152,
+    "word": "봄",
+    "baseForm": "봄",
+    "highlightText": "봄",
+    "readingKatakana": "ポム",
+    "romanization": "bom",
+    "meaning": "春",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "季節",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "봄엔 걷는 게 즐거워요.",
+    "exampleTranslation": "春は歩くのが楽しいです。",
+    "description": "暖かくなり始める春の季節を表します。",
+    "usage": "『봄바람（春の風）』のような複合語も多いです。",
+    "hint": "暖かくなり始める季節。",
+    "acceptedAnswers": [
+      "봄"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 153,
+    "word": "여름",
+    "baseForm": "여름",
+    "highlightText": "여름",
+    "readingKatakana": "ヨルム",
+    "romanization": "yeoreum",
+    "meaning": "夏",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "季節",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "여름 바다를 보면 시원해져요.",
+    "exampleTranslation": "夏の海を見ると涼しくなります。",
+    "description": "暑い夏の季節を表す基本語です。",
+    "usage": "『여름 휴가（夏休み）』でもよく使います。",
+    "hint": "暑い季節。",
+    "acceptedAnswers": [
+      "여름"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 154,
+    "word": "가을",
+    "baseForm": "가을",
+    "highlightText": "가을",
+    "readingKatakana": "カウル",
+    "romanization": "gaeul",
+    "meaning": "秋",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "季節",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "가을 하늘을 올려다봐요.",
+    "exampleTranslation": "秋の空を見上げます。",
+    "description": "涼しくなり始める秋の季節を表します。",
+    "usage": "『가을 날씨（秋の天気）』のように使います。",
+    "hint": "少し涼しい季節。",
+    "acceptedAnswers": [
+      "가을"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 155,
+    "word": "겨울",
+    "baseForm": "겨울",
+    "highlightText": "겨울",
+    "readingKatakana": "キョウル",
+    "romanization": "gyeoul",
+    "meaning": "冬",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "季節",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "겨울엔 따뜻한 음료가 좋아요.",
+    "exampleTranslation": "冬は温かい飲み物がいいです。",
+    "description": "寒い冬の季節を表す基本語です。",
+    "usage": "『겨울옷（冬服）』のような複合語もよく使われます。",
+    "hint": "寒い季節。",
+    "acceptedAnswers": [
+      "겨울"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 156,
+    "word": "날씨",
+    "baseForm": "날씨",
+    "highlightText": "날씨",
+    "readingKatakana": "ナルッシ",
+    "romanization": "nalssi",
+    "meaning": "天気",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "날씨가 좋으면 다르게 보여요.",
+    "exampleTranslation": "天気がいいと違って見えます。",
+    "description": "晴れ、雨、風などその日の天気を表す基本語です。",
+    "usage": "『날씨가 좋다/나쁘다（天気がいい・悪い）』が重要です。",
+    "hint": "空の様子。",
+    "acceptedAnswers": [
+      "날씨"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 157,
+    "word": "비",
+    "baseForm": "비",
+    "highlightText": "비",
+    "readingKatakana": "ピ",
+    "romanization": "bi",
+    "meaning": "雨",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "비 오는 날엔 차분해져요.",
+    "exampleTranslation": "雨の日は落ち着きます。",
+    "description": "空から降る雨を表すとても基本的な単語です。",
+    "usage": "『비가 오다（雨が降る）』が最重要表現です。",
+    "hint": "空から降る水。",
+    "acceptedAnswers": [
+      "비"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 158,
+    "word": "바람",
+    "baseForm": "바람",
+    "highlightText": "바람",
+    "readingKatakana": "パラム",
+    "romanization": "baram",
+    "meaning": "風",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "바람이 차가워서 놀랐어요.",
+    "exampleTranslation": "風が冷たくて驚きました。",
+    "description": "吹いてくる風を表す自然語彙です。",
+    "usage": "『바람이 불다（風が吹く）』でよく使います。",
+    "hint": "吹く空気。",
+    "acceptedAnswers": [
+      "바람"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 159,
+    "word": "하늘",
+    "baseForm": "하늘",
+    "highlightText": "하늘",
+    "readingKatakana": "ハヌル",
+    "romanization": "haneul",
+    "meaning": "空",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "하늘을 보면 시원해져요.",
+    "exampleTranslation": "空を見るとすっきりします。",
+    "description": "上に広がる空を表す基本名詞です。",
+    "usage": "『하늘을 보다（空を見る）』のように使います。",
+    "hint": "上に広がる青いもの。",
+    "acceptedAnswers": [
+      "하늘"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 160,
+    "word": "해",
+    "baseForm": "해",
+    "highlightText": "해",
+    "readingKatakana": "ヘ",
+    "romanization": "hae",
+    "meaning": "太陽",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "해가 강할 때는 모자를 챙겨요.",
+    "exampleTranslation": "日差しが強いときは帽子を持っていきます。",
+    "description": "空にある太陽を表します。",
+    "usage": "『해가 뜨다（太陽が昇る）』『해가 지다（日が沈む）』がよく使われます。",
+    "hint": "昼の空にあるもの。",
+    "acceptedAnswers": [
+      "해"
+    ],
+    "synonyms": [
+      {
+        "word": "태양",
+        "meaning": "太陽"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 161,
+    "word": "달",
+    "baseForm": "달",
+    "highlightText": "달",
+    "readingKatakana": "タル",
+    "romanization": "dal",
+    "meaning": "月",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "달이 밝으면 환하게 느껴져요.",
+    "exampleTranslation": "月が明るいと明るく感じられます。",
+    "description": "夜空に見える月を表す基本語です。",
+    "usage": "『달이 뜨다（月が出る）』の形が自然です。",
+    "hint": "夜の空に見えるもの。",
+    "acceptedAnswers": [
+      "달"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 162,
+    "word": "구름",
+    "baseForm": "구름",
+    "highlightText": "구름",
+    "readingKatakana": "クルム",
+    "romanization": "gureum",
+    "meaning": "雲",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "구름이 천천히 움직여요.",
+    "exampleTranslation": "雲がゆっくり動きます。",
+    "description": "空に浮かぶ雲を表します。",
+    "usage": "『구름이 많다（雲が多い）』でよく使います。",
+    "hint": "空に浮かぶ白いもの。",
+    "acceptedAnswers": [
+      "구름"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 163,
+    "word": "바다",
+    "baseForm": "바다",
+    "highlightText": "바다",
+    "readingKatakana": "パダ",
+    "romanization": "bada",
+    "meaning": "海",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然",
+      "旅行"
+    ],
+    "formality": "なし",
+    "example": "바다가 보이면 마음이 트여요.",
+    "exampleTranslation": "海が見えると気持ちが晴れます。",
+    "description": "広く広がる海を表す基本名詞です。",
+    "usage": "『바다에 가다（海に行く）』でよく使います。",
+    "hint": "広い海。",
+    "acceptedAnswers": [
+      "바다"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 164,
+    "word": "산",
+    "baseForm": "산",
+    "highlightText": "산",
+    "readingKatakana": "サン",
+    "romanization": "san",
+    "meaning": "山",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "산길은 미끄러울 수 있어요.",
+    "exampleTranslation": "山道は滑りやすいことがあります。",
+    "description": "高く盛り上がった地形の山を表します。",
+    "usage": "『산에 오르다（山に登る）』のように使います。",
+    "hint": "高い地形。",
+    "acceptedAnswers": [
+      "산"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 165,
+    "word": "강",
+    "baseForm": "강",
+    "highlightText": "강",
+    "readingKatakana": "カン",
+    "romanization": "gang",
+    "meaning": "川",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "강 옆을 걷다 보면 정리돼요.",
+    "exampleTranslation": "川沿いを歩くと整理されます。",
+    "description": "大きめの川を表す自然語です。",
+    "usage": "『강가（川辺）』という形でもよく使います。",
+    "hint": "流れる水の大きい道。",
+    "acceptedAnswers": [
+      "강"
+    ],
+    "synonyms": [
+      {
+        "word": "하천",
+        "meaning": "河川"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 166,
+    "word": "공원",
+    "baseForm": "공원",
+    "highlightText": "공원",
+    "readingKatakana": "コウォン",
+    "romanization": "gongwon",
+    "meaning": "公園",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "場所",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "공원은 잠깐 걷기 좋아요.",
+    "exampleTranslation": "公園は少し歩くのにちょうどいいです。",
+    "description": "散歩や休憩をする公園を表す基本語です。",
+    "usage": "『공원에서 산책하다（公園で散歩する）』でよく使います。",
+    "hint": "散歩したり休んだりする場所。",
+    "acceptedAnswers": [
+      "공원"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 167,
+    "word": "꽃",
+    "baseForm": "꽃",
+    "highlightText": "꽃",
+    "readingKatakana": "ッコ",
+    "romanization": "kkot",
+    "meaning": "花",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "꽃을 두면 분위기가 달라져요.",
+    "exampleTranslation": "花を置くと雰囲気が変わります。",
+    "description": "植物に咲く花を表す基本語です。",
+    "usage": "『꽃이 피다（花が咲く）』が大切な表現です。",
+    "hint": "きれいに咲く植物の部分。",
+    "acceptedAnswers": [
+      "꽃"
+    ],
+    "synonyms": [
+      {
+        "word": "화초",
+        "meaning": "花草"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 168,
+    "word": "나무",
+    "baseForm": "나무",
+    "highlightText": "나무",
+    "readingKatakana": "ナム",
+    "romanization": "namu",
+    "meaning": "木",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "큰 나무 아래에 서 있어요.",
+    "exampleTranslation": "大きな木の下に立っています。",
+    "description": "幹と枝を持つ木を表す基本名詞です。",
+    "usage": "『나무를 심다（木を植える）』のように使います。",
+    "hint": "幹がある植物。",
+    "acceptedAnswers": [
+      "나무"
+    ],
+    "synonyms": [
+      {
+        "word": "수목",
+        "meaning": "樹木"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 169,
+    "word": "별",
+    "baseForm": "별",
+    "highlightText": "별",
+    "readingKatakana": "ピョル",
+    "romanization": "byeol",
+    "meaning": "星",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "自然"
+    ],
+    "formality": "なし",
+    "example": "별이 또렷하게 보여요.",
+    "exampleTranslation": "星がはっきり見えます。",
+    "description": "夜空に見える星を表す自然語です。",
+    "usage": "『별을 보다（星を見る）』でよく使います。",
+    "hint": "夜空で光るもの。",
+    "acceptedAnswers": [
+      "별"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 170,
+    "word": "물",
+    "baseForm": "물",
+    "highlightText": "물",
+    "readingKatakana": "ムル",
+    "romanization": "mul",
+    "meaning": "水",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "물을 마시고 싶어졌어요.",
+    "exampleTranslation": "水が飲みたくなりました。",
+    "description": "飲み水としての水を表す最も基本的な単語の一つです。",
+    "usage": "『물을 마시다（水を飲む）』が基本です。",
+    "hint": "飲む透明なもの。",
+    "acceptedAnswers": [
+      "물"
+    ],
+    "synonyms": [
+      {
+        "word": "생수",
+        "meaning": "飲料水、ミネラルウォーター"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 171,
+    "word": "밥",
+    "baseForm": "밥",
+    "highlightText": "밥",
+    "readingKatakana": "パプ",
+    "romanization": "bap",
+    "meaning": "ご飯、食事",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "밥은 대충 넘기지 않아요.",
+    "exampleTranslation": "ご飯は適当に済ませません。",
+    "description": "ご飯そのものだけでなく食事全体を表すこともある基本語です。",
+    "usage": "『밥을 먹다（ご飯を食べる）』は最重要表現です。",
+    "hint": "毎日の食事。",
+    "acceptedAnswers": [
+      "밥"
+    ],
+    "synonyms": [
+      {
+        "word": "식사",
+        "meaning": "食事"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 172,
+    "word": "빵",
+    "baseForm": "빵",
+    "highlightText": "빵",
+    "readingKatakana": "ッパン",
+    "romanization": "ppang",
+    "meaning": "パン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "빵이랑 우유로 먹었어요.",
+    "exampleTranslation": "パンと牛乳で済ませました。",
+    "description": "パンを表す基本的な外来語です。",
+    "usage": "『빵집（パン屋）』という単語にもつながります。",
+    "hint": "小麦で作る食べ物。",
+    "acceptedAnswers": [
+      "빵"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 173,
+    "word": "국",
+    "baseForm": "국",
+    "highlightText": "국",
+    "readingKatakana": "クク",
+    "romanization": "guk",
+    "meaning": "スープ、汁物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "국 한 그릇만 있어도 든든해요.",
+    "exampleTranslation": "スープ一杯だけでも心強いです。",
+    "description": "汁のある料理を表す基本名詞です。",
+    "usage": "『국을 끓이다（汁物を作る）』の形でも使います。",
+    "hint": "汁のある料理。",
+    "acceptedAnswers": [
+      "국"
+    ],
+    "synonyms": [
+      {
+        "word": "탕",
+        "meaning": "スープ、汁物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 174,
+    "word": "김치",
+    "baseForm": "김치",
+    "highlightText": "김치",
+    "readingKatakana": "キムチ",
+    "romanization": "gimchi",
+    "meaning": "キムチ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "김치 맛이 조금씩 달라요.",
+    "exampleTranslation": "キムチの味は少しずつ違います。",
+    "description": "韓国を代表する発酵食品の一つを表します。",
+    "usage": "『김치를 먹다（キムチを食べる）』でよく使います。",
+    "hint": "韓国の漬物。",
+    "acceptedAnswers": [
+      "김치"
+    ],
+    "synonyms": [
+      {
+        "word": "배추김치",
+        "meaning": "白菜キムチ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 175,
+    "word": "고기",
+    "baseForm": "고기",
+    "highlightText": "고기",
+    "readingKatakana": "コギ",
+    "romanization": "gogi",
+    "meaning": "肉",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "고기를 좀 먹고 싶었어요.",
+    "exampleTranslation": "肉を少し食べたくなりました。",
+    "description": "肉全般を表す便利な名詞です。",
+    "usage": "『고기를 굽다（肉を焼く）』のように使います。",
+    "hint": "動物の肉。",
+    "acceptedAnswers": [
+      "고기"
+    ],
+    "synonyms": [
+      {
+        "word": "육류",
+        "meaning": "肉類"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 176,
+    "word": "생선",
+    "baseForm": "생선",
+    "highlightText": "생선",
+    "readingKatakana": "センソン",
+    "romanization": "saengseon",
+    "meaning": "魚",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "생선 냄새만 맡아도 배고파져요.",
+    "exampleTranslation": "魚の匂いだけでもお腹が空きます。",
+    "description": "食べ物としての魚を表す語です。",
+    "usage": "『생선을 먹다（魚を食べる）』のように使います。",
+    "hint": "食べる魚。",
+    "acceptedAnswers": [
+      "생선"
+    ],
+    "synonyms": [
+      {
+        "word": "물고기",
+        "meaning": "魚"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 177,
+    "word": "과일",
+    "baseForm": "과일",
+    "highlightText": "과일",
+    "readingKatakana": "クァイル",
+    "romanization": "gwail",
+    "meaning": "果物",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "과일이 더 좋을 때가 많아요.",
+    "exampleTranslation": "果物のほうがいいことが多いです。",
+    "description": "りんご、ぶどうなどの果物全体を表す基本語です。",
+    "usage": "『과일을 깎다（果物をむく）』の形でも使います。",
+    "hint": "甘い果物。",
+    "acceptedAnswers": [
+      "과일"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 178,
+    "word": "사과",
+    "baseForm": "사과",
+    "highlightText": "사과",
+    "readingKatakana": "サグァ",
+    "romanization": "sagwa",
+    "meaning": "りんご",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "사과는 잘라 먹어도 맛있어요.",
+    "exampleTranslation": "りんごは切って食べてもおいしいです。",
+    "description": "果物のりんごを表す基本単語です。",
+    "usage": "『사과를 깎다（りんごの皮をむく）』のように使います。",
+    "hint": "赤や緑の果物。",
+    "acceptedAnswers": [
+      "사과"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 179,
+    "word": "바나나",
+    "baseForm": "바나나",
+    "highlightText": "바나나",
+    "readingKatakana": "パナナ",
+    "romanization": "banana",
+    "meaning": "バナナ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "바나나는 바로 먹을 수 있어요.",
+    "exampleTranslation": "バナナはすぐ食べられます。",
+    "description": "バナナを表す外来語です。",
+    "usage": "『바나나 우유（バナナ牛乳）』のような組み合わせもあります。",
+    "hint": "黄色い果物。",
+    "acceptedAnswers": [
+      "바나나"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 180,
+    "word": "포도",
+    "baseForm": "포도",
+    "highlightText": "포도",
+    "readingKatakana": "ポド",
+    "romanization": "podo",
+    "meaning": "ぶどう",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "포도는 냉장고에 넣어 둬요.",
+    "exampleTranslation": "ぶどうは冷蔵庫に入れておきます。",
+    "description": "ぶどうを表す基本単語です。",
+    "usage": "『청포도（青ぶどう）』など関連語も多いです。",
+    "hint": "小さい粒が集まった果物。",
+    "acceptedAnswers": [
+      "포도"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 181,
+    "word": "딸기",
+    "baseForm": "딸기",
+    "highlightText": "딸기",
+    "readingKatakana": "ッタルギ",
+    "romanization": "ttalgi",
+    "meaning": "いちご",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "딸기 향이 나면 떠올라요.",
+    "exampleTranslation": "いちごの香りがすると浮かびます。",
+    "description": "いちごを表す基本単語です。",
+    "usage": "『딸기 케이크（いちごケーキ）』のようにも使います。",
+    "hint": "赤くて甘い果物。",
+    "acceptedAnswers": [
+      "딸기"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 182,
+    "word": "오렌지",
+    "baseForm": "오렌지",
+    "highlightText": "오렌지",
+    "readingKatakana": "オレンジ",
+    "romanization": "orenji",
+    "meaning": "オレンジ",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "오렌지는 향이 상큼해요.",
+    "exampleTranslation": "オレンジは香りがさわやかです。",
+    "description": "オレンジを表す外来語です。",
+    "usage": "『오렌지 주스（オレンジジュース）』の形も頻出です。",
+    "hint": "香りの強い橙色の果物。",
+    "acceptedAnswers": [
+      "오렌지"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 183,
+    "word": "수박",
+    "baseForm": "수박",
+    "highlightText": "수박",
+    "readingKatakana": "スバク",
+    "romanization": "subak",
+    "meaning": "すいか",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "수박만 먹어도 시원해져요.",
+    "exampleTranslation": "すいかを食べるだけでも涼しくなります。",
+    "description": "夏によく食べるすいかを表す基本語です。",
+    "usage": "『수박을 자르다（すいかを切る）』のように使います。",
+    "hint": "大きい夏の果物。",
+    "acceptedAnswers": [
+      "수박"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 184,
+    "word": "달걀",
+    "baseForm": "달걀",
+    "highlightText": "달걀",
+    "readingKatakana": "タルギャル",
+    "romanization": "dalgyal",
+    "meaning": "卵",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "달걀 하나면 준비할 수 있어요.",
+    "exampleTranslation": "卵一つで用意できます。",
+    "description": "食べ物としての卵を表す基本語です。",
+    "usage": "『달걀을 삶다（卵をゆでる）』のように使います。",
+    "hint": "殻に入った食べ物。",
+    "acceptedAnswers": [
+      "달걀"
+    ],
+    "synonyms": [
+      {
+        "word": "계란",
+        "meaning": "卵"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 185,
+    "word": "우유",
+    "baseForm": "우유",
+    "highlightText": "우유",
+    "readingKatakana": "ウユ",
+    "romanization": "uyu",
+    "meaning": "牛乳",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "우유는 빵이랑 잘 어울려요.",
+    "exampleTranslation": "牛乳はパンによく合います。",
+    "description": "牛乳を表す基本単語です。",
+    "usage": "『우유를 마시다（牛乳を飲む）』が基本です。",
+    "hint": "白い飲み物。",
+    "acceptedAnswers": [
+      "우유"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 186,
+    "word": "커피",
+    "baseForm": "커피",
+    "highlightText": "커피",
+    "readingKatakana": "コピ",
+    "romanization": "keopi",
+    "meaning": "コーヒー",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "커피를 늦게 마시면 잠이 안 와요.",
+    "exampleTranslation": "コーヒーを遅く飲むと眠れません。",
+    "description": "コーヒーを表す外来語です。",
+    "usage": "『커피 한 잔（一杯のコーヒー）』の言い方がよく使われます。",
+    "hint": "苦い飲み物。",
+    "acceptedAnswers": [
+      "커피"
+    ],
+    "synonyms": [
+      {
+        "word": "아메리카노",
+        "meaning": "アメリカーノ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 187,
+    "word": "차",
+    "baseForm": "차",
+    "highlightText": "차",
+    "readingKatakana": "チャ",
+    "romanization": "cha",
+    "meaning": "お茶",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "따뜻한 차를 마시고 싶어져요.",
+    "exampleTranslation": "温かいお茶が飲みたくなります。",
+    "description": "お茶全般を表す短い基本語です。",
+    "usage": "『차를 마시다（お茶を飲む）』でよく使います。",
+    "hint": "温かく飲むことが多い飲み物。",
+    "acceptedAnswers": [
+      "차"
+    ],
+    "synonyms": [
+      {
+        "word": "티",
+        "meaning": "ティー、お茶"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 188,
+    "word": "주스",
+    "baseForm": "주스",
+    "highlightText": "주스",
+    "readingKatakana": "チュス",
+    "romanization": "juseu",
+    "meaning": "ジュース",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "주스는 더운 날 생각나요.",
+    "exampleTranslation": "ジュースは暑い日に思い出します。",
+    "description": "果汁などを使ったジュースを表す外来語です。",
+    "usage": "『주스를 마시다（ジュースを飲む）』が自然です。",
+    "hint": "甘い飲み物。",
+    "acceptedAnswers": [
+      "주스"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 189,
+    "word": "맥주",
+    "baseForm": "맥주",
+    "highlightText": "맥주",
+    "readingKatakana": "メクジュ",
+    "romanization": "maekju",
+    "meaning": "ビール",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "맥주 한 잔이 생각나요.",
+    "exampleTranslation": "ビール一杯が飲みたくなります。",
+    "description": "ビールを表す基本語です。",
+    "usage": "『맥주를 마시다（ビールを飲む）』の形でよく使います。",
+    "hint": "大人が飲むお酒。",
+    "acceptedAnswers": [
+      "맥주"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 190,
+    "word": "음식",
+    "baseForm": "음식",
+    "highlightText": "음식",
+    "readingKatakana": "ウムシク",
+    "romanization": "eumsik",
+    "meaning": "食べ物、料理",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "음식 향이 좋으면 먹고 싶어요.",
+    "exampleTranslation": "料理の香りがよいと食べたくなります。",
+    "description": "食べ物や料理全体を表す便利な名詞です。",
+    "usage": "『음식이 맛있다（食べ物がおいしい）』でよく使います。",
+    "hint": "食べるもの全体。",
+    "acceptedAnswers": [
+      "음식"
+    ],
+    "synonyms": [
+      {
+        "word": "먹거리",
+        "meaning": "食べ物"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 191,
+    "word": "맛",
+    "baseForm": "맛",
+    "highlightText": "맛",
+    "readingKatakana": "マッ",
+    "romanization": "mat",
+    "meaning": "味",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "맛이 다르게 느껴질 때가 있어요.",
+    "exampleTranslation": "味が違って感じられることがあります。",
+    "description": "食べ物や飲み物の味を表す重要な単語です。",
+    "usage": "『맛이 있다/없다（おいしい・おいしくない）』につながる語です。",
+    "hint": "食べたときに感じるもの。",
+    "acceptedAnswers": [
+      "맛"
+    ],
+    "synonyms": [
+      {
+        "word": "풍미",
+        "meaning": "風味"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 192,
+    "word": "라면",
+    "baseForm": "라면",
+    "highlightText": "라면",
+    "readingKatakana": "ラミョン",
+    "romanization": "ramyeon",
+    "meaning": "ラーメン",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "라면 냄새가 나면 배고파져요.",
+    "exampleTranslation": "ラーメンの匂いがするとお腹が空きます。",
+    "description": "手軽に食べられるラーメンを表す外来語です。",
+    "usage": "『라면을 끓이다（ラーメンを作る）』でよく使います。",
+    "hint": "手軽に作れる麺料理。",
+    "acceptedAnswers": [
+      "라면"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 193,
+    "word": "과자",
+    "baseForm": "과자",
+    "highlightText": "과자",
+    "readingKatakana": "クァジャ",
+    "romanization": "gwaja",
+    "meaning": "お菓子",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "과자는 손이 더 가게 돼요.",
+    "exampleTranslation": "お菓子はつい手が伸びます。",
+    "description": "甘いものや軽いスナックなどのお菓子を表します。",
+    "usage": "『과자를 먹다（お菓子を食べる）』が基本です。",
+    "hint": "甘いおやつ。",
+    "acceptedAnswers": [
+      "과자"
+    ],
+    "synonyms": [
+      {
+        "word": "간식",
+        "meaning": "間食、おやつ"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 194,
+    "word": "소금",
+    "baseForm": "소금",
+    "highlightText": "소금",
+    "readingKatakana": "ソグム",
+    "romanization": "sogeum",
+    "meaning": "塩",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "食べ物"
+    ],
+    "formality": "なし",
+    "example": "소금을 조금만 넣어 보세요.",
+    "exampleTranslation": "塩を少しだけ足してみてください。",
+    "description": "料理の味付けに使う塩を表します。",
+    "usage": "『소금을 넣다（塩を入れる）』でよく使います。",
+    "hint": "しょっぱい調味料。",
+    "acceptedAnswers": [
+      "소금"
+    ],
+    "synonyms": [],
+    "antonyms": [
+      {
+        "word": "설탕",
+        "meaning": "砂糖"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "word": "몸",
+    "baseForm": "몸",
+    "highlightText": "몸",
+    "readingKatakana": "モム",
+    "romanization": "mom",
+    "meaning": "体",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "몸이 보내는 신호를 무시하지 마세요.",
+    "exampleTranslation": "体が送るサインを無視しないでください。",
+    "description": "体全体を表すときに使う基本名詞です。",
+    "usage": "『몸이 아프다（体が痛い、具合が悪い）』でよく使います。",
+    "hint": "体全体。",
+    "acceptedAnswers": [
+      "몸"
+    ],
+    "synonyms": [
+      {
+        "word": "신체",
+        "meaning": "身体"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 196,
+    "word": "머리",
+    "baseForm": "머리",
+    "highlightText": "머리",
+    "readingKatakana": "モリ",
+    "romanization": "meori",
+    "meaning": "頭、髪",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "머리가 무겁게 느껴져요.",
+    "exampleTranslation": "頭が重く感じられます。",
+    "description": "頭を表す基本語で、文脈によって髪の意味で使うこともあります。",
+    "usage": "『머리가 아프다（頭が痛い）』『머리를 자르다（髪を切る）』のように使います。",
+    "hint": "考えたり髪が生えている場所。",
+    "acceptedAnswers": [
+      "머리"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 197,
+    "word": "얼굴",
+    "baseForm": "얼굴",
+    "highlightText": "얼굴",
+    "readingKatakana": "オルグル",
+    "romanization": "eolgul",
+    "meaning": "顔",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "얼굴만 봐도 알아봤어요.",
+    "exampleTranslation": "顔を見ただけでわかりました。",
+    "description": "顔を表す非常に基本的な名詞です。",
+    "usage": "『얼굴이 붉다（顔が赤い）』のようにも使います。",
+    "hint": "目や口がある部分。",
+    "acceptedAnswers": [
+      "얼굴"
+    ],
+    "synonyms": [
+      {
+        "word": "표정",
+        "meaning": "表情"
+      }
+    ],
+    "antonyms": []
+  },
+  {
+    "id": 198,
+    "word": "눈",
+    "baseForm": "눈",
+    "highlightText": "눈",
+    "readingKatakana": "ヌン",
+    "romanization": "nun",
+    "meaning": "目",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "눈이 피곤할 때는 쉬어요.",
+    "exampleTranslation": "目が疲れたときは休みます。",
+    "description": "物を見る目を表す基本名詞です。",
+    "usage": "『눈이 아프다（目が痛い）』『눈을 감다（目を閉じる）』がよく使われます。",
+    "hint": "見るための部分。",
+    "acceptedAnswers": [
+      "눈"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 199,
+    "word": "코",
+    "baseForm": "코",
+    "highlightText": "코",
+    "readingKatakana": "コ",
+    "romanization": "ko",
+    "meaning": "鼻",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "코가 막혀서 맛이 안 느껴져요.",
+    "exampleTranslation": "鼻が詰まって味が感じられません。",
+    "description": "においを感じたり息をしたりする鼻を表します。",
+    "usage": "『코가 막히다（鼻が詰まる）』でよく使います。",
+    "hint": "においを感じる部分。",
+    "acceptedAnswers": [
+      "코"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 200,
+    "word": "입",
+    "baseForm": "입",
+    "highlightText": "입",
+    "readingKatakana": "イプ",
+    "romanization": "ip",
+    "meaning": "口",
+    "partOfSpeech": "名詞",
+    "levelGroup": "基礎",
+    "difficultyLevel": 0,
+    "genres": [
+      "名詞",
+      "体"
+    ],
+    "formality": "なし",
+    "example": "입을 데지 않게 먹어야 해요.",
+    "exampleTranslation": "口をやけどしないように食べないといけません。",
+    "description": "食べたり話したりするときに使う口を表します。",
+    "usage": "『입을 열다（口を開く、話し始める）』の表現もあります。",
+    "hint": "食べたり話したりする部分。",
+    "acceptedAnswers": [
+      "입"
+    ],
+    "synonyms": [],
+    "antonyms": []
+  }
+]

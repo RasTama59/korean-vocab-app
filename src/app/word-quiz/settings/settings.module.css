@@ -1,0 +1,206 @@
+.page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(251, 146, 60, 0.16), transparent 28%),
+    radial-gradient(circle at top right, rgba(45, 212, 191, 0.16), transparent 26%),
+    linear-gradient(180deg, #fff9f4 0%, #f5fbff 52%, #edf8f3 100%);
+  display: flex;
+  justify-content: center;
+  padding: 36px 20px 60px;
+}
+
+.card {
+  width: 100%;
+  max-width: 860px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  border-radius: 32px;
+  box-shadow: 0 24px 52px rgba(15, 23, 42, 0.1);
+  backdrop-filter: blur(12px);
+  padding: 30px;
+}
+
+.backLink,
+.primaryLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-weight: 800;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    opacity 0.18s ease;
+}
+
+.backLink {
+  color: #334155;
+}
+
+.header {
+  margin-top: 18px;
+}
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.92);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.title {
+  margin: 18px 0 12px;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.08;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.description {
+  margin: 0;
+  color: #475569;
+  line-height: 1.8;
+}
+
+.summaryRow {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.summaryCard,
+.levelCard {
+  padding: 18px 20px;
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.95));
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  display: grid;
+  gap: 8px;
+}
+
+.summaryCard span,
+.levelCard span {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.summaryCard strong,
+.levelCard strong {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.countBox {
+  margin-top: 24px;
+  border-radius: 28px;
+  background: #0f172a;
+  color: #fff;
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: center;
+}
+
+.countLabel {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.countHelp {
+  margin-top: 8px;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.7;
+}
+
+.countRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.countButton {
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    transform 0.18s ease,
+    background-color 0.18s ease;
+}
+
+.countButton:hover,
+.primaryLink:hover {
+  transform: translateY(-2px);
+}
+
+.countNumber {
+  min-width: 96px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.levelGrid {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.actionRow {
+  margin-top: 24px;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.primaryLink {
+  border-radius: 18px;
+  padding: 15px 22px;
+  color: #fff;
+  background: linear-gradient(135deg, #f97316 0%, #fb7185 100%);
+  box-shadow: 0 14px 28px rgba(249, 115, 22, 0.22);
+}
+
+@media (max-width: 720px) {
+  .summaryRow,
+  .levelGrid,
+  .countBox {
+    grid-template-columns: 1fr;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .countRow {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 560px) {
+  .page {
+    padding-inline: 16px;
+  }
+
+  .card {
+    padding: 22px;
+    border-radius: 24px;
+  }
+
+  .primaryLink {
+    width: 100%;
+  }
+}
