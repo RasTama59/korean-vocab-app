@@ -2,6 +2,7 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import './globals.css'
 import styles from './layout.module.css'
+import { GoogleAdSense } from '@/components/google-adsense'
 import { GoogleAnalytics } from '@/components/google-analytics'
 import { SOCIAL_IMAGE_PATH, SITE_DESCRIPTION, SITE_KEYWORDS, SITE_NAME, getSiteUrl } from '@/lib/site'
 
@@ -75,6 +76,7 @@ export default function RootLayout({
   return (
     <html lang="ja" className="h-full antialiased">
       <body className={`min-h-full flex flex-col ${styles.body}`}>
+        <GoogleAdSense />
         <GoogleAnalytics />
 
         <Link href="/" className={styles.homeLink} aria-label="ホームへ戻る">
