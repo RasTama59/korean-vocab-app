@@ -1,12 +1,14 @@
 import type { Metadata } from 'next'
 import { WORD_REPORT_FORM_PUBLIC_URL } from '@/lib/word-report'
+import { createPageMetadata } from '@/lib/page-metadata'
 import styles from '../info-page.module.css'
 
-export const metadata: Metadata = {
-  title: '要望フォーム | Korean Lean',
+export const metadata: Metadata = createPageMetadata({
+  title: '要望フォーム',
   description:
     '誤字・重複・不自然な例文や発音表記、機能改善の要望を送れるKorean Leanの案内ページです。',
-}
+  path: '/request',
+})
 
 export default function RequestPage() {
   return (

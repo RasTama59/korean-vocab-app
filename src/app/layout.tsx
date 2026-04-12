@@ -2,10 +2,69 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import './globals.css'
 import styles from './layout.module.css'
+import { GoogleAnalytics } from '@/components/google-analytics'
+import { SOCIAL_IMAGE_PATH, SITE_DESCRIPTION, SITE_KEYWORDS, SITE_NAME, getSiteUrl } from '@/lib/site'
+
+const adsenseClient =
+  process.env.ADSENSE_CLIENT?.trim() ?? process.env.NEXT_PUBLIC_ADSENSE_CLIENT?.trim()
+const googleVerification = process.env.GOOGLE_SITE_VERIFICATION?.trim()
 
 export const metadata: Metadata = {
-  title: 'Korean Lean',
-  description: '韓国語の語彙学習とクイズ練習のためのアプリ',
+  metadataBase: getSiteUrl(),
+  applicationName: SITE_NAME,
+  title: {
+    default: SITE_NAME,
+    template: `%s | ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
+  keywords: SITE_KEYWORDS,
+  category: 'education',
+  referrer: 'origin-when-cross-origin',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
+  manifest: '/manifest.webmanifest',
+  openGraph: {
+    type: 'website',
+    locale: 'ja_JP',
+    siteName: SITE_NAME,
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: SOCIAL_IMAGE_PATH,
+        width: 1200,
+        height: 630,
+        alt: `${SITE_NAME} の共有画像`,
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: [SOCIAL_IMAGE_PATH],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  },
+  verification: googleVerification
+    ? {
+        google: googleVerification,
+      }
+    : undefined,
+  other: adsenseClient
+    ? {
+        'google-adsense-account': adsenseClient,
+      }
+    : undefined,
 }
 
 export default function RootLayout({
@@ -16,6 +75,8 @@ export default function RootLayout({
   return (
     <html lang="ja" className="h-full antialiased">
       <body className={`min-h-full flex flex-col ${styles.body}`}>
+        <GoogleAnalytics />
+
         <Link href="/" className={styles.homeLink} aria-label="ホームへ戻る">
           <span className={styles.homeIcon} aria-hidden="true">
             <svg viewBox="0 0 24 24" className={styles.homeSvg}>

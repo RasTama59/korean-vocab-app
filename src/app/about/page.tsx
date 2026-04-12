@@ -1,12 +1,14 @@
 import Link from 'next/link'
 import type { Metadata } from 'next'
+import { createPageMetadata } from '@/lib/page-metadata'
 import styles from '../info-page.module.css'
 
-export const metadata: Metadata = {
-  title: 'サイトについて | Korean Lean',
+export const metadata: Metadata = createPageMetadata({
+  title: 'サイトについて',
   description:
     'Korean Leanでできること、学習データの性質、利用時の注意点をまとめた案内ページです。',
-}
+  path: '/about',
+})
 
 const capabilities = [
   {

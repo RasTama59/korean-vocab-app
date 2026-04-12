@@ -1,11 +1,13 @@
 import type { Metadata } from 'next'
+import { createPageMetadata } from '@/lib/page-metadata'
 import styles from '../info-page.module.css'
 
-export const metadata: Metadata = {
-  title: 'ポリシー | Korean Lean',
+export const metadata: Metadata = createPageMetadata({
+  title: 'ポリシー',
   description:
     'Korean Leanの利用方針、広告・外部サービスの扱い、フォーム送信時の注意点をまとめたページです。',
-}
+  path: '/policy',
+})
 
 const policies = [
   {

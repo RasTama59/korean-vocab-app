@@ -1,8 +1,18 @@
+import type { Metadata } from 'next'
 import Link from 'next/link'
 import { GROUP_DESCRIPTIONS, GROUP_LABELS, GROUP_ORDER, WORD_GROUPS } from '@/data/word'
+import { createPageMetadata } from '@/lib/page-metadata'
 import styles from './page.module.css'
 
 const totalWords = GROUP_ORDER.reduce((sum, group) => sum + WORD_GROUPS[group].length, 0)
+
+export const metadata: Metadata = createPageMetadata({
+  title: '韓国語の語彙学習アプリ',
+  description:
+    '例文クイズ、単語クイズ、単語一覧、キーボード練習を行き来しながら韓国語の語彙を続けやすく学べるサイトです。',
+  path: '/',
+  keywords: ['韓国語 アプリ', '韓国語 単語帳', '韓国語 勉強'],
+})
 
 export default function Home() {
   return (
