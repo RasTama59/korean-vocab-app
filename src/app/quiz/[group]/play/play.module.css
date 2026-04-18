@@ -181,6 +181,7 @@
   border: 1px solid #e2e8f0;
   border-radius: 22px;
   padding: 24px;
+  overflow-wrap: break-word;
 }
 
 .detailHeader {
@@ -217,6 +218,11 @@
   margin-bottom: 16px;
 }
 
+.detailGrid p {
+  margin: 0;
+  overflow-wrap: break-word;
+}
+
 .infoBox {
   margin-top: 12px;
   padding: 14px 16px;
@@ -224,6 +230,7 @@
   border-radius: 14px;
   border: 1px solid #e5e7eb;
   line-height: 1.7;
+  overflow-wrap: break-word;
 }
 
 .relatedList {
@@ -408,9 +415,18 @@
 }
 
 @media (max-width: 720px) {
+  .page {
+    justify-content: flex-start;
+    align-items: stretch;
+    padding-top: 82px;
+    padding-bottom: 24px;
+  }
+
   .quizCard {
     padding: 22px;
     border-radius: 24px;
+    background: #fff;
+    backdrop-filter: none;
   }
 
   .topRow {
@@ -460,6 +476,21 @@
     width: 100%;
     justify-content: flex-start;
   }
+
+  .detailTitle {
+    margin-bottom: 12px;
+    line-height: 1.45;
+  }
+
+  .reading {
+    display: block;
+    margin-top: 6px;
+    margin-left: 0;
+  }
+
+  .detailBox {
+    background: #f8fafc;
+  }
 }
 
 @media (max-width: 560px) {
@@ -476,5 +507,21 @@
 
   .bottomButtons {
     grid-template-columns: 1fr;
+  }
+
+  .questionArea {
+    min-height: 0;
+    padding: 24px 12px;
+  }
+
+  .detailBox {
+    padding: 18px;
+    border-radius: 18px;
+  }
+
+  .detailGrid,
+  .infoBox,
+  .relatedList {
+    font-size: 0.96rem;
   }
 }
