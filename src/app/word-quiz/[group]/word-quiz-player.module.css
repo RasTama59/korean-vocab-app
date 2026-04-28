@@ -324,6 +324,21 @@
   gap: 14px;
 }
 
+.choiceHiddenPanel {
+  display: grid;
+  gap: 14px;
+  padding: 22px;
+  border-radius: 24px;
+  background: rgba(255, 247, 237, 0.9);
+  border: 1px solid rgba(251, 146, 60, 0.22);
+}
+
+.choiceHiddenText {
+  margin: 0;
+  line-height: 1.8;
+  color: #9a3412;
+}
+
 .choiceButton {
   border: none;
   border-radius: 20px;
