@@ -158,6 +158,56 @@
   color: #0f172a;
 }
 
+.levelProgress {
+  padding: 16px 18px;
+  border-radius: 20px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(248, 250, 252, 0.95));
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  display: grid;
+  gap: 10px;
+}
+
+.levelProgressHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.levelProgressHeader span {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.levelProgressHeader strong {
+  font-size: 1.35rem;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.levelProgressBar {
+  height: 10px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: #e2e8f0;
+}
+
+.levelProgressFill {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #fb7185 0%, #fbbf24 54%, #2dd4bf 100%);
+}
+
+.levelStats {
+  display: grid;
+  gap: 6px;
+  font-size: 0.88rem;
+  color: #475569;
+}
+
 .levelAction {
   display: inline-flex;
   align-items: center;
@@ -171,7 +221,27 @@
   text-decoration: none;
 }
 
+.levelActionSecondary {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 12px 16px;
+  border-radius: 16px;
+  background: #f8fafc;
+  color: #0f172a;
+  font-size: 0.96rem;
+  font-weight: 800;
+  text-decoration: none;
+  border: 1px solid rgba(226, 232, 240, 0.92);
+}
+
 .levelActions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.reviewLinks {
   display: flex;
   gap: 12px;
   flex-wrap: wrap;
@@ -216,6 +286,7 @@
 
   .settingsLink,
   .levelAction,
+  .levelActionSecondary,
   .levelSettings {
     width: 100%;
     justify-content: center;

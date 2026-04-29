@@ -95,8 +95,9 @@ export default function WordQuizSettingsPage() {
           <p className={styles.eyebrow}>Word Quiz Settings</p>
           <h1 className={styles.title}>単語クイズの出題設定</h1>
           <p className={styles.description}>
-            この設定は難易度ごとではなく、単語クイズ全体で共通です。
-            問題数、出題範囲、選択肢の見せ方をまとめて調整できます。
+            この設定は難易度ごとではなく、単語クイズ全体で共通です。問題数と出題範囲は
+            4択モード・わかる / わからないモードの両方に反映されます。選択肢の見せ方は
+            4択モードだけで使われます。
           </p>
         </div>
 
@@ -148,7 +149,7 @@ export default function WordQuizSettingsPage() {
           <div className={styles.sectionHeader}>
             <div className={styles.sectionTitle}>出題範囲</div>
             <p className={styles.sectionHelp}>
-              普段どおり全問から出すか、単語クイズで不正解が多い単語だけに絞るかを選べます。
+              普段どおり全問から出すか、単語クイズ全体で苦手になりやすい単語だけに絞るかを選べます。
             </p>
           </div>
 

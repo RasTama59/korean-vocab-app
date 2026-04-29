@@ -20,7 +20,14 @@ import {
 } from '@/lib/favorite-words'
 import { loadMistakeWordIds, saveMistakeWordIds } from '@/lib/mistake-review-storage'
 import { speakKorean, stopSpeaking } from '@/lib/quiz-tts'
-import type { QuizGroup, WordItem } from '@/lib/quiz-types'
+import {
+  getWordProgress,
+  loadQuizState,
+  markKnown,
+  markUnknown,
+  saveQuizState,
+} from '@/lib/quiz-storage'
+import type { QuizGroup, StudyStatus, WordItem } from '@/lib/quiz-types'
 import {
   getFrequentMistakeWordIds,
   loadWordQuizSettings,
@@ -30,24 +37,69 @@ import {
 } from '@/lib/word-quiz-storage'
 import styles from './word-quiz-player.module.css'
 
-type WordQuizQuestion = {
+type WordQuizMode = 'all' | 'mistakes' | 'check' | 'check-mistakes'
+type CheckAnswerChoice = 'known' | 'unknown'
+
+type ChoiceEntry = {
   choices: string[]
   item: WordItem
+  kind: 'choice'
+}
+
+type CheckEntry = {
+  item: WordItem
+  kind: 'check'
 }
 
 type WordQuizResult = {
   correctAnswer: string
   isCorrect: boolean
-  question: WordQuizQuestion
+  question: ChoiceEntry
   selectedAnswer: string
 }
 
-type WordQuizMode = 'all' | 'mistakes'
+type CheckSessionAnswer = {
+  response: CheckAnswerChoice
+  word: WordItem
+}
+
+type WordQuizEntry = ChoiceEntry | CheckEntry
+
+function isCheckMode(mode: WordQuizMode): mode is 'check' | 'check-mistakes' {
+  return mode === 'check' || mode === 'check-mistakes'
+}
 
 function getModeLabel(mode: WordQuizMode, questionScope: WordQuizQuestionScope) {
-  if (mode === 'mistakes') return '直近ミス復習'
+  if (mode === 'mistakes') return '4択ミス復習'
+  if (mode === 'check') return 'わかる / わからない'
+  if (mode === 'check-mistakes') return 'わからない復習'
   if (questionScope === 'frequent-mistakes') return '苦手復習'
   return '単語クイズ'
+}
+
+function getModeTitle(group: QuizGroup, mode: WordQuizMode) {
+  return isCheckMode(mode)
+    ? `${GROUP_LABELS[group]}レベルの単語を仕分ける`
+    : `${GROUP_LABELS[group]}レベルの意味を選ぶ`
+}
+
+function getModeDescription(group: QuizGroup, mode: WordQuizMode) {
+  if (isCheckMode(mode)) {
+    return '意味がすぐ浮かぶかどうかで、わかる・わからないを選べます。'
+  }
+
+  return GROUP_DESCRIPTIONS[group]
+}
+
+function getStatusLabel(status: StudyStatus) {
+  if (status === 2) return '習得済み'
+  if (status === 1) return '要復習'
+  return '未習得'
+}
+
+function buildGroupHref(group: QuizGroup, mode: WordQuizMode) {
+  if (mode === 'all') return `/word-quiz/${group}`
+  return `/word-quiz/${group}?mode=${mode}`
 }
 
 function shuffleItems<T>(items: T[]) {
@@ -131,7 +183,7 @@ function collectDistractors(current: WordItem, primaryWords: WordItem[], fallbac
   return selected.slice(0, 3)
 }
 
-function createQuestionSet(
+function buildSessionPool(
   group: QuizGroup,
   desiredCount: number,
   mode: WordQuizMode,
@@ -140,30 +192,81 @@ function createQuestionSet(
 ) {
   const allPool = getWordPool(group)
   const pool =
-    mode === 'mistakes'
+    mode === 'mistakes' || mode === 'check-mistakes'
       ? allPool.filter((item) => mistakeWordIds.includes(item.id))
       : questionScope === 'frequent-mistakes'
         ? getFrequentMistakePool(group, allPool)
         : allPool
   const questionCount =
-    mode === 'mistakes'
+    mode === 'mistakes' || mode === 'check-mistakes'
       ? pool.length
       : questionScope === 'frequent-mistakes'
         ? Math.min(pool.length, desiredCount)
         : resolveQuestionCount(group, desiredCount)
   const orderedPool =
-    mode === 'mistakes' || questionScope === 'all' ? shuffleItems(pool) : pool
+    mode === 'mistakes' || mode === 'check-mistakes' || questionScope === 'all'
+      ? shuffleItems(pool)
+      : pool
 
-  return orderedPool
-    .slice(0, questionCount)
-    .map((item) => {
-      const distractors = collectDistractors(item, pool, ALL_WORDS)
+  return orderedPool.slice(0, questionCount)
+}
 
-      return {
-        item,
-        choices: shuffleItems([item.meaning, ...distractors.map((candidate) => candidate.meaning)]),
-      }
-    })
+function createChoiceQuestionSet(
+  group: QuizGroup,
+  desiredCount: number,
+  mode: 'all' | 'mistakes',
+  questionScope: WordQuizQuestionScope,
+  mistakeWordIds: number[]
+): ChoiceEntry[] {
+  const pool = buildSessionPool(group, desiredCount, mode, questionScope, mistakeWordIds)
+
+  return pool.map((item) => {
+    const distractors = collectDistractors(item, pool, ALL_WORDS)
+
+    return {
+      item,
+      kind: 'choice',
+      choices: shuffleItems([item.meaning, ...distractors.map((candidate) => candidate.meaning)]),
+    }
+  })
+}
+
+function createCheckSessionSet(
+  group: QuizGroup,
+  desiredCount: number,
+  mode: 'check' | 'check-mistakes',
+  questionScope: WordQuizQuestionScope,
+  mistakeWordIds: number[]
+): CheckEntry[] {
+  return buildSessionPool(group, desiredCount, mode, questionScope, mistakeWordIds).map((item) => ({
+    item,
+    kind: 'check',
+  }))
+}
+
+function buildSessionEntries(
+  group: QuizGroup,
+  desiredCount: number,
+  mode: WordQuizMode,
+  questionScope: WordQuizQuestionScope
+): WordQuizEntry[] {
+  if (isCheckMode(mode)) {
+    return createCheckSessionSet(
+      group,
+      desiredCount,
+      mode,
+      questionScope,
+      loadMistakeWordIds('word-quiz-check', group)
+    )
+  }
+
+  return createChoiceQuestionSet(
+    group,
+    desiredCount,
+    mode,
+    questionScope,
+    loadMistakeWordIds('word-quiz', group)
+  )
 }
 
 export function WordQuizPlayer({
@@ -182,81 +285,77 @@ export function WordQuizPlayer({
   const [hideChoicesInitially, setHideChoicesInitially] = useState(
     initialSettings.hideChoicesInitially
   )
+  const [quizState, setQuizState] = useState(() => loadQuizState())
   const [sessionMode, setSessionMode] = useState<WordQuizMode>(initialMode)
-  const [questions, setQuestions] = useState(() => {
-    const mistakeWordIds = loadMistakeWordIds('word-quiz', group)
-    return createQuestionSet(
-      group,
-      initialQuestionCount,
-      initialMode,
-      initialSettings.questionScope,
-      mistakeWordIds
-    )
-  })
+  const [entries, setEntries] = useState<WordQuizEntry[]>(() =>
+    buildSessionEntries(group, initialQuestionCount, initialMode, initialSettings.questionScope)
+  )
   const [currentIndex, setCurrentIndex] = useState(0)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
   const [choicesVisible, setChoicesVisible] = useState(!initialSettings.hideChoicesInitially)
   const [results, setResults] = useState<WordQuizResult[]>([])
+  const [checkAnswers, setCheckAnswers] = useState<CheckSessionAnswer[]>([])
   const [showHint, setShowHint] = useState(false)
+  const [showDetail, setShowDetail] = useState(false)
   const [favoriteWordKeys, setFavoriteWordKeys] = useState(() => loadFavoriteWordKeys())
 
-  const currentQuestion = questions[currentIndex]
-  const completed = currentIndex >= questions.length
+  const currentEntry = entries[currentIndex]
+  const currentChoiceQuestion = currentEntry?.kind === 'choice' ? currentEntry : null
+  const currentWord = currentEntry?.item
+  const completed = currentIndex >= entries.length
   const correctCount = results.filter((result) => result.isCorrect).length
-  const percent = questions.length === 0 ? 0 : Math.round((results.length / questions.length) * 100)
+  const knownCount = checkAnswers.filter((answer) => answer.response === 'known').length
+  const solvedCount = isCheckMode(sessionMode) ? checkAnswers.length : results.length
+  const percent = entries.length === 0 ? 0 : Math.round((solvedCount / entries.length) * 100)
   const currentGroupIndex = GROUP_ORDER.indexOf(group)
   const previousGroup = GROUP_ORDER[(currentGroupIndex - 1 + GROUP_ORDER.length) % GROUP_ORDER.length]
   const nextGroup = GROUP_ORDER[(currentGroupIndex + 1) % GROUP_ORDER.length]
-  const currentWordIsFavorite = currentQuestion
-    ? favoriteWordKeys.includes(makeFavoriteWordKey(group, currentQuestion.item.id))
+  const currentWordIsFavorite = currentWord
+    ? favoriteWordKeys.includes(makeFavoriteWordKey(group, currentWord.id))
     : false
 
   useEffect(() => {
-    if (!currentQuestion || completed) return
+    if (!currentWord || completed) return
 
     const timer = window.setTimeout(() => {
-      speakKorean(currentQuestion.item.word, { rate: 0.9 })
+      speakKorean(currentWord.word, { rate: 0.9 })
     }, 120)
 
     return () => {
       window.clearTimeout(timer)
       stopSpeaking()
     }
-  }, [currentQuestion, completed])
+  }, [currentWord, completed])
 
   useEffect(() => {
     const savedSettings = loadWordQuizSettings()
     const nextCount = resolveQuestionCount(group, savedSettings.questionCount)
-    const mistakeWordIds = loadMistakeWordIds('word-quiz', group)
 
+    setQuizState(loadQuizState())
     setQuestionCount(nextCount)
     setQuestionScope(savedSettings.questionScope)
     setHideChoicesInitially(savedSettings.hideChoicesInitially)
     setSessionMode(initialMode)
-    setQuestions(
-      createQuestionSet(
-        group,
-        nextCount,
-        initialMode,
-        savedSettings.questionScope,
-        mistakeWordIds
-      )
-    )
+    setEntries(buildSessionEntries(group, nextCount, initialMode, savedSettings.questionScope))
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!savedSettings.hideChoicesInitially)
     setResults([])
+    setCheckAnswers([])
     setShowHint(false)
+    setShowDetail(false)
   }, [group, initialMode])
 
   const resetSession = () => {
-    const mistakeWordIds = loadMistakeWordIds('word-quiz', group)
-    setQuestions(createQuestionSet(group, questionCount, sessionMode, questionScope, mistakeWordIds))
+    setQuizState(loadQuizState())
+    setEntries(buildSessionEntries(group, questionCount, sessionMode, questionScope))
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!hideChoicesInitially)
     setResults([])
+    setCheckAnswers([])
     setShowHint(false)
+    setShowDetail(false)
   }
 
   const goNext = () => {
@@ -264,18 +363,19 @@ export function WordQuizPlayer({
     setSelectedAnswer(null)
     setChoicesVisible(!hideChoicesInitially)
     setShowHint(false)
+    setShowDetail(false)
   }
 
-  const handleAnswer = (choice: string) => {
-    if (!currentQuestion || selectedAnswer) return
+  const handleChoiceAnswer = (choice: string) => {
+    if (!currentChoiceQuestion || selectedAnswer) return
 
-    const isCorrect = choice === currentQuestion.item.meaning
+    const isCorrect = choice === currentChoiceQuestion.item.meaning
     const nextResults = [
       ...results,
       {
-        question: currentQuestion,
+        question: currentChoiceQuestion,
         selectedAnswer: choice,
-        correctAnswer: currentQuestion.item.meaning,
+        correctAnswer: currentChoiceQuestion.item.meaning,
         isCorrect,
       },
     ]
@@ -285,24 +385,69 @@ export function WordQuizPlayer({
 
     setSelectedAnswer(choice)
     setResults(nextResults)
-    recordWordQuizAnswer(group, currentQuestion.item.id, isCorrect)
+    recordWordQuizAnswer(group, currentChoiceQuestion.item.id, isCorrect)
     saveMistakeWordIds('word-quiz', group, mistakeWordIds)
     playQuizSound(isCorrect ? 'correct' : 'incorrect')
   }
 
-  const retryMistakes = () => {
+  const handleCheckAnswer = (response: CheckAnswerChoice) => {
+    if (!currentWord || !isCheckMode(sessionMode)) return
+
+    const responseIsKnown = response === 'known'
+    const nextQuizState = responseIsKnown
+      ? markKnown(quizState, group, currentWord.id)
+      : markUnknown(quizState, group, currentWord.id)
+    const nextAnswers = [...checkAnswers, { word: currentWord, response }]
+    const mistakeWordIds = nextAnswers
+      .filter((answer) => answer.response === 'unknown')
+      .map((answer) => answer.word.id)
+
+    setQuizState(nextQuizState)
+    saveQuizState(nextQuizState)
+    setCheckAnswers(nextAnswers)
+    saveMistakeWordIds('word-quiz-check', group, mistakeWordIds)
+    recordWordQuizAnswer(group, currentWord.id, responseIsKnown)
+    setCurrentIndex((prev) => prev + 1)
+    setSelectedAnswer(null)
+    setChoicesVisible(!hideChoicesInitially)
+    setShowHint(false)
+    setShowDetail(false)
+  }
+
+  const retryChoiceMistakes = () => {
     const mistakeWordIds = results
       .filter((result) => !result.isCorrect)
       .map((result) => result.question.item.id)
 
     saveMistakeWordIds('word-quiz', group, mistakeWordIds)
     setSessionMode('mistakes')
-    setQuestions(createQuestionSet(group, questionCount, 'mistakes', questionScope, mistakeWordIds))
+    setEntries(createChoiceQuestionSet(group, questionCount, 'mistakes', questionScope, mistakeWordIds))
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!hideChoicesInitially)
     setResults([])
+    setCheckAnswers([])
     setShowHint(false)
+    setShowDetail(false)
+  }
+
+  const retryCheckMistakes = () => {
+    const mistakeWordIds = checkAnswers
+      .filter((answer) => answer.response === 'unknown')
+      .map((answer) => answer.word.id)
+
+    saveMistakeWordIds('word-quiz-check', group, mistakeWordIds)
+    setSessionMode('check-mistakes')
+    setEntries(
+      createCheckSessionSet(group, questionCount, 'check-mistakes', questionScope, mistakeWordIds)
+    )
+    setCurrentIndex(0)
+    setSelectedAnswer(null)
+    setChoicesVisible(!hideChoicesInitially)
+    setResults([])
+    setCheckAnswers([])
+    setShowHint(false)
+    setShowDetail(false)
   }
 
   const handleToggleFavorite = (wordId: number) => {
@@ -311,31 +456,45 @@ export function WordQuizPlayer({
     saveFavoriteWordKeys(nextKeys)
   }
 
-  if (questions.length === 0) {
+  if (entries.length === 0) {
     return (
       <main className={styles.page}>
         <section className={`${styles.card} ${styles.resultCard}`}>
           <h1 className={styles.resultTitle}>
             {sessionMode === 'mistakes'
-              ? '間違えた単語がまだありませんでした'
-              : questionScope === 'frequent-mistakes'
-                ? '苦手単語がまだありません'
-                : '出題できる単語が見つかりませんでした'}
+              ? '4択で間違えた単語がまだありませんでした'
+              : sessionMode === 'check-mistakes'
+                ? 'わからない単語がまだありませんでした'
+                : questionScope === 'frequent-mistakes'
+                  ? '苦手単語がまだありません'
+                  : '出題できる単語が見つかりませんでした'}
           </h1>
           <p className={styles.resultText}>
             {sessionMode === 'mistakes'
-              ? 'まずは通常の単語クイズを進めて、あとで間違えた単語だけをまとめて復習してみてください。'
-              : questionScope === 'frequent-mistakes'
-                ? 'まずは通常の単語クイズで解いてみて、苦手な単語がたまってきたらこの範囲でまとめて復習できます。'
-                : 'データを確認してから、別の難易度で試してください。'}
+              ? 'まずは通常の4択クイズを進めて、あとで間違えた単語だけをまとめて復習してみてください。'
+              : sessionMode === 'check-mistakes'
+                ? 'まずはわかる / わからないモードを進めて、迷った単語がたまってきたらまとめて見直せます。'
+                : questionScope === 'frequent-mistakes'
+                  ? '通常出題で取り組んでいくと、苦手になりやすい単語だけをここから集中的に復習できます。'
+                  : 'データを確認してから、別の難易度で試してください。'}
           </p>
           <div className={styles.resultActions}>
             {sessionMode === 'mistakes' && (
-              <Link href={`/word-quiz/${group}`} className={`${styles.button} ${styles.primaryButton}`}>
-                通常クイズを始める
+              <Link href={buildGroupHref(group, 'all')} className={`${styles.button} ${styles.primaryButton}`}>
+                通常の4択を始める
               </Link>
             )}
-            {sessionMode !== 'mistakes' && questionScope === 'frequent-mistakes' && (
+            {sessionMode === 'check-mistakes' && (
+              <Link
+                href={buildGroupHref(group, 'check')}
+                className={`${styles.button} ${styles.primaryButton}`}
+              >
+                わかる / わからないを始める
+              </Link>
+            )}
+            {sessionMode !== 'mistakes' &&
+              sessionMode !== 'check-mistakes' &&
+              questionScope === 'frequent-mistakes' && (
               <Link
                 href="/word-quiz/settings"
                 className={`${styles.button} ${styles.primaryButton}`}
@@ -353,6 +512,88 @@ export function WordQuizPlayer({
   }
 
   if (completed) {
+    if (isCheckMode(sessionMode)) {
+      const unknownCount = checkAnswers.length - knownCount
+
+      return (
+        <main className={styles.page}>
+          <section className={`${styles.card} ${styles.resultCard}`}>
+            <div className={styles.resultHeader}>
+              <p className={styles.modePill}>
+                {GROUP_LABELS[group]} {getModeLabel(sessionMode, questionScope)}
+              </p>
+              <h1 className={styles.resultTitle}>仕分けが完了しました</h1>
+              <p className={styles.resultText}>
+                {checkAnswers.length}語を、わかる / わからないで確認しました。
+                {sessionMode === 'check-mistakes'
+                  ? '迷いやすい単語だけをもう一度まとめて見直せます。'
+                  : '一回わかるで要復習、二回わかるで習得済みとして保存されます。'}
+              </p>
+            </div>
+
+            <div className={styles.summaryGrid}>
+              <article className={`${styles.summaryCard} ${styles.summaryCorrect}`}>
+                <span>わかる</span>
+                <strong>{knownCount}語</strong>
+              </article>
+
+              <article className={`${styles.summaryCard} ${styles.summaryIncorrect}`}>
+                <span>わからない</span>
+                <strong>{unknownCount}語</strong>
+              </article>
+            </div>
+
+            <div className={styles.resultActions}>
+              <button
+                type="button"
+                onClick={resetSession}
+                className={`${styles.button} ${styles.primaryButton}`}
+              >
+                もう一度
+              </button>
+              {unknownCount > 0 && (
+                <button
+                  type="button"
+                  onClick={retryCheckMistakes}
+                  className={`${styles.button} ${styles.secondaryButton}`}
+                >
+                  わからない単語だけ復習
+                </button>
+              )}
+              <Link href="/word-quiz" className={`${styles.button} ${styles.secondaryButton}`}>
+                難易度を選び直す
+              </Link>
+            </div>
+
+            <ul className={styles.resultList}>
+              {checkAnswers.map((answer, index) => (
+                <li key={`${answer.word.id}-${index}`} className={styles.resultItem}>
+                  <div className={styles.resultItemHeader}>
+                    <span className={styles.resultIndex}>Q{index + 1}</span>
+                    <span
+                      className={`${styles.resultBadge} ${
+                        answer.response === 'known'
+                          ? styles.resultBadgeCorrect
+                          : styles.resultBadgeIncorrect
+                      }`}
+                    >
+                      {answer.response === 'known' ? 'わかる' : 'わからない'}
+                    </span>
+                  </div>
+
+                  <strong className={styles.resultWord}>{answer.word.word}</strong>
+                  <p className={styles.resultMeaning}>意味: {answer.word.meaning}</p>
+                  <p className={styles.resultChoice}>
+                    現在の状態: {getStatusLabel(getWordProgress(quizState, group, answer.word.id).status)}
+                  </p>
+                </li>
+              ))}
+            </ul>
+          </section>
+        </main>
+      )
+    }
+
     return (
       <main className={styles.page}>
         <section className={`${styles.card} ${styles.resultCard}`}>
@@ -362,11 +603,11 @@ export function WordQuizPlayer({
             </p>
             <h1 className={styles.resultTitle}>単語クイズが終了しました</h1>
             <p className={styles.resultText}>
-              {GROUP_LABELS[group]}レベルを{questions.length}問テンポよく確認しました。
+              {GROUP_LABELS[group]}レベルを{entries.length}問テンポよく確認しました。
               {sessionMode === 'mistakes'
                 ? '直近で間違えた単語をまとめて見直せます。'
                 : questionScope === 'frequent-mistakes'
-                  ? '不正解が多かった単語をまとめて復習できました。'
+                  ? '苦手になりやすい単語をまとめて復習できました。'
                   : '間違えた問題もそのまま見直せます。'}
             </p>
           </div>
@@ -394,7 +635,7 @@ export function WordQuizPlayer({
             {results.length - correctCount > 0 && (
               <button
                 type="button"
-                onClick={retryMistakes}
+                onClick={retryChoiceMistakes}
                 className={`${styles.button} ${styles.secondaryButton}`}
               >
                 間違えた単語だけ復習
@@ -430,15 +671,22 @@ export function WordQuizPlayer({
     )
   }
 
+  if (!currentWord) {
+    return null
+  }
+
   const isAnswered = selectedAnswer !== null
-  const selectedIsCorrect = selectedAnswer === currentQuestion.item.meaning
+  const selectedIsCorrect = currentChoiceQuestion
+    ? selectedAnswer === currentChoiceQuestion.item.meaning
+    : false
+  const currentStatus = getStatusLabel(getWordProgress(quizState, group, currentWord.id).status)
 
   return (
     <main className={styles.page}>
       <section className={styles.shell}>
         <div className={styles.switcherBar}>
           <Link
-            href={`/word-quiz/${previousGroup}`}
+            href={buildGroupHref(previousGroup, sessionMode)}
             className={styles.arrowButton}
             aria-label={`${GROUP_LABELS[previousGroup]}へ移動`}
           >
@@ -451,7 +699,7 @@ export function WordQuizPlayer({
               {GROUP_ORDER.map((item) => (
                 <Link
                   key={item}
-                  href={`/word-quiz/${item}`}
+                  href={buildGroupHref(item, sessionMode)}
                   className={item === group ? styles.activeTab : styles.tab}
                 >
                   {GROUP_LABELS[item]}
@@ -461,7 +709,7 @@ export function WordQuizPlayer({
           </div>
 
           <Link
-            href={`/word-quiz/${nextGroup}`}
+            href={buildGroupHref(nextGroup, sessionMode)}
             className={styles.arrowButton}
             aria-label={`${GROUP_LABELS[nextGroup]}へ移動`}
           >
@@ -475,8 +723,8 @@ export function WordQuizPlayer({
               <p className={styles.modePill}>
                 {GROUP_LABELS[group]} {getModeLabel(sessionMode, questionScope)}
               </p>
-              <h1 className={styles.title}>{GROUP_LABELS[group]}レベルの意味を選ぶ</h1>
-              <p className={styles.subtitle}>{GROUP_DESCRIPTIONS[group]}</p>
+              <h1 className={styles.title}>{getModeTitle(group, sessionMode)}</h1>
+              <p className={styles.subtitle}>{getModeDescription(group, sessionMode)}</p>
             </div>
 
             <div className={styles.progressBlock}>
@@ -484,7 +732,7 @@ export function WordQuizPlayer({
                 出題設定
               </Link>
               <span className={styles.counter}>
-                {currentIndex + 1} / {questions.length}
+                {currentIndex + 1} / {entries.length}
               </span>
               <div className={styles.progressTrack}>
                 <span className={styles.progressFill} style={{ width: `${percent}%` }} />
@@ -499,116 +747,219 @@ export function WordQuizPlayer({
                 <div className={styles.wordCardActions}>
                   <FavoriteButton
                     active={currentWordIsFavorite}
-                    onClick={() => handleToggleFavorite(currentQuestion.item.id)}
+                    onClick={() => handleToggleFavorite(currentWord.id)}
                   />
-                  <WordReportLink group={group} source="word-quiz" word={currentQuestion.item} />
+                  <WordReportLink group={group} source="word-quiz" word={currentWord} />
                 </div>
               </div>
 
-              <strong className={styles.word}>{currentQuestion.item.word}</strong>
+              <strong className={styles.word}>{currentWord.word}</strong>
 
-              <div className={styles.audioRow}>
-                <button
-                  type="button"
-                  className={styles.hintButton}
-                  onClick={() => setShowHint((prev) => !prev)}
-                >
-                  {showHint ? 'ヒントを閉じる' : 'ヒントを見る'}
-                </button>
-              </div>
+              {!isCheckMode(sessionMode) && (
+                <>
+                  <div className={styles.audioRow}>
+                    <button
+                      type="button"
+                      className={styles.hintButton}
+                      onClick={() => setShowHint((prev) => !prev)}
+                    >
+                      {showHint ? 'ヒントを閉じる' : 'ヒントを見る'}
+                    </button>
+                  </div>
 
-              {showHint && (
-                <div className={styles.hintPanel}>
-                  <p className={styles.wordMeta}>
-                    {currentQuestion.item.partOfSpeech}
-                    {currentQuestion.item.genres.length > 0
-                      ? ` / ${currentQuestion.item.genres.join('・')}`
-                      : ''}
-                  </p>
-                </div>
+                  {showHint && (
+                    <div className={styles.hintPanel}>
+                      <p className={styles.wordMeta}>
+                        {currentWord.partOfSpeech}
+                        {currentWord.genres.length > 0 ? ` / ${currentWord.genres.join('・')}` : ''}
+                      </p>
+                    </div>
+                  )}
+                </>
               )}
 
               <div className={styles.audioRow}>
                 <button
                   type="button"
                   className={`${styles.iconButton} ${styles.listenButton}`}
-                  onClick={() => speakKorean(currentQuestion.item.word, { rate: 0.9 })}
+                  onClick={() => speakKorean(currentWord.word, { rate: 0.9 })}
                 >
                   音声をもう一度聞く
                 </button>
 
-                {isAnswered && (
+                {!isCheckMode(sessionMode) && isAnswered && (
                   <button
                     type="button"
                     onClick={goNext}
                     className={`${styles.button} ${styles.primaryButton}`}
                   >
-                    {currentIndex + 1 >= questions.length ? '結果を見る' : '次の問題へ'}
+                    {currentIndex + 1 >= entries.length ? '結果を見る' : '次の問題へ'}
                   </button>
                 )}
               </div>
             </div>
 
-            {!choicesVisible && !isAnswered ? (
-              <div className={styles.choiceHiddenPanel}>
-                <p className={styles.choiceHiddenText}>
-                  選択肢はまだ隠れています。意味を思い出してから表示したいときに使えます。
-                </p>
-                <button
-                  type="button"
-                  onClick={() => setChoicesVisible(true)}
-                  className={`${styles.button} ${styles.secondaryButton}`}
-                >
-                  選択肢を表示
-                </button>
-              </div>
-            ) : (
-              <div className={styles.choiceGrid}>
-                {currentQuestion.choices.map((choice) => {
-                  const isCorrectChoice = choice === currentQuestion.item.meaning
-                  const isSelectedChoice = choice === selectedAnswer
+            {isCheckMode(sessionMode) ? (
+              <>
+                <div className={styles.checkActionRow}>
+                  <button
+                    type="button"
+                    className={`${styles.button} ${styles.secondaryButton}`}
+                    onClick={() => setShowDetail((prev) => !prev)}
+                  >
+                    {showDetail ? '解説を閉じる' : '解説を見る'}
+                  </button>
 
-                  let buttonClassName = styles.choiceButton
-
-                  if (isAnswered && isCorrectChoice) {
-                    buttonClassName = `${styles.choiceButton} ${styles.correctChoice}`
-                  } else if (isAnswered && isSelectedChoice && !isCorrectChoice) {
-                    buttonClassName = `${styles.choiceButton} ${styles.incorrectChoice}`
-                  }
-
-                  return (
+                  <div className={styles.bottomButtons}>
                     <button
-                      key={choice}
                       type="button"
-                      onClick={() => handleAnswer(choice)}
-                      disabled={isAnswered}
-                      className={buttonClassName}
+                      className={styles.unknownButton}
+                      onClick={() => handleCheckAnswer('unknown')}
                     >
-                      {choice}
+                      わからない
                     </button>
-                  )
-                })}
-              </div>
-            )}
-
-            {isAnswered && (
-              <div className={styles.feedbackPanel}>
-                <p
-                  className={`${styles.feedbackText} ${
-                    selectedIsCorrect ? styles.feedbackCorrect : styles.feedbackIncorrect
-                  }`}
-                >
-                  {selectedIsCorrect
-                    ? '正解です。意味の対応がしっかり取れています。'
-                    : '不正解です。正しい意味を確認して次へ進みましょう。'}
-                </p>
-
-                <div className={styles.exampleCard}>
-                  <span className={styles.exampleLabel}>例文</span>
-                  <p className={styles.example}>{currentQuestion.item.example}</p>
-                  <p className={styles.translation}>{currentQuestion.item.exampleTranslation}</p>
+                    <button
+                      type="button"
+                      className={styles.knownButton}
+                      onClick={() => handleCheckAnswer('known')}
+                    >
+                      わかる
+                    </button>
+                  </div>
                 </div>
-              </div>
+
+                {showDetail && (
+                  <div className={styles.detailBox}>
+                    <h2 className={styles.detailTitle}>
+                      {currentWord.word}
+                      {currentWord.readingKatakana && (
+                        <span className={styles.reading}>（{currentWord.readingKatakana}）</span>
+                      )}
+                    </h2>
+
+                    {currentWord.highlightText && currentWord.highlightText !== currentWord.word && (
+                      <p className={styles.detailLead}>
+                        <strong>文中の形:</strong> {currentWord.highlightText}
+                      </p>
+                    )}
+
+                    <div className={styles.detailGrid}>
+                      <p><strong>意味:</strong> {currentWord.meaning}</p>
+                      <p><strong>例文:</strong> {currentWord.example}</p>
+                      <p><strong>例文訳:</strong> {currentWord.exampleTranslation}</p>
+                      <p>
+                        <strong>品詞 / ジャンル:</strong> {currentWord.partOfSpeech}
+                        {currentWord.genres.length > 0 ? ` / ${currentWord.genres.join('・')}` : ''}
+                      </p>
+                      <p><strong>学習状態:</strong> {currentStatus}</p>
+                    </div>
+
+                    {currentWord.description && (
+                      <p className={styles.infoBox}>
+                        <strong>解説:</strong> {currentWord.description}
+                      </p>
+                    )}
+
+                    {currentWord.usage && (
+                      <p className={styles.infoBox}>
+                        <strong>使い方:</strong> {currentWord.usage}
+                      </p>
+                    )}
+
+                    {currentWord.synonyms && currentWord.synonyms.length > 0 && (
+                      <div className={styles.infoBox}>
+                        <strong>類義語:</strong>
+                        <ul className={styles.relatedList}>
+                          {currentWord.synonyms.map((item, index) => (
+                            <li key={`${item.word}-${index}`}>
+                              {item.word}（{item.meaning}）
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    {currentWord.antonyms && currentWord.antonyms.length > 0 && (
+                      <div className={styles.infoBox}>
+                        <strong>対義語:</strong>
+                        <ul className={styles.relatedList}>
+                          {currentWord.antonyms.map((item, index) => (
+                            <li key={`${item.word}-${index}`}>
+                              {item.word}（{item.meaning}）
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                )}
+              </>
+            ) : (
+              <>
+                {!choicesVisible && !isAnswered ? (
+                  <div className={styles.choiceHiddenPanel}>
+                    <p className={styles.choiceHiddenText}>
+                      選択肢はまだ隠れています。意味を思い出してから表示したいときに使えます。
+                    </p>
+                    <button
+                      type="button"
+                      onClick={() => setChoicesVisible(true)}
+                      className={`${styles.button} ${styles.secondaryButton}`}
+                    >
+                      選択肢を表示
+                    </button>
+                  </div>
+                ) : (
+                  <div className={styles.choiceGrid}>
+                    {currentChoiceQuestion?.choices.map((choice) => {
+                      const isCorrectChoice = choice === currentChoiceQuestion.item.meaning
+                      const isSelectedChoice = choice === selectedAnswer
+
+                      let buttonClassName = styles.choiceButton
+
+                      if (isAnswered && isCorrectChoice) {
+                        buttonClassName = `${styles.choiceButton} ${styles.correctChoice}`
+                      } else if (isAnswered && isSelectedChoice && !isCorrectChoice) {
+                        buttonClassName = `${styles.choiceButton} ${styles.incorrectChoice}`
+                      }
+
+                      return (
+                        <button
+                          key={choice}
+                          type="button"
+                          onClick={() => handleChoiceAnswer(choice)}
+                          disabled={isAnswered}
+                          className={buttonClassName}
+                        >
+                          {choice}
+                        </button>
+                      )
+                    })}
+                  </div>
+                )}
+
+                {isAnswered && currentChoiceQuestion && (
+                  <div className={styles.feedbackPanel}>
+                    <p
+                      className={`${styles.feedbackText} ${
+                        selectedIsCorrect ? styles.feedbackCorrect : styles.feedbackIncorrect
+                      }`}
+                    >
+                      {selectedIsCorrect
+                        ? '正解です。意味の対応がしっかり取れています。'
+                        : '不正解です。正しい意味を確認して次へ進みましょう。'}
+                    </p>
+
+                    <div className={styles.exampleCard}>
+                      <span className={styles.exampleLabel}>例文</span>
+                      <p className={styles.example}>{currentChoiceQuestion.item.example}</p>
+                      <p className={styles.translation}>
+                        {currentChoiceQuestion.item.exampleTranslation}
+                      </p>
+                    </div>
+                  </div>
+                )}
+              </>
             )}
           </div>
         </section>

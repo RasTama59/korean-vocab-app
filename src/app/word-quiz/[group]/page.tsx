@@ -42,5 +42,8 @@ export default async function WordQuizGroupPage({ params, searchParams }: PagePr
     notFound()
   }
 
-  return <WordQuizPlayer group={group as QuizGroup} initialMode={mode === 'mistakes' ? 'mistakes' : 'all'} />
+  const initialMode =
+    mode === 'mistakes' || mode === 'check' || mode === 'check-mistakes' ? mode : 'all'
+
+  return <WordQuizPlayer group={group as QuizGroup} initialMode={initialMode} />
 }

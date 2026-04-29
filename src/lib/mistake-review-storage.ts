@@ -1,12 +1,13 @@
 import type { QuizGroup } from '@/lib/quiz-types'
 
-export type MistakeReviewKind = 'example-quiz' | 'word-quiz'
+export type MistakeReviewKind = 'example-quiz' | 'word-quiz' | 'word-quiz-check'
 
 type MistakeReviewState = Record<QuizGroup, number[]>
 
 const STORAGE_KEYS: Record<MistakeReviewKind, string> = {
   'example-quiz': 'korean-lean-example-quiz-mistakes-v1',
   'word-quiz': 'korean-lean-word-quiz-mistakes-v1',
+  'word-quiz-check': 'korean-lean-word-quiz-check-mistakes-v1',
 }
 
 function createEmptyState(): MistakeReviewState {

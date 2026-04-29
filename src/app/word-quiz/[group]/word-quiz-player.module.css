@@ -102,7 +102,9 @@
 .button:hover,
 .choiceButton:hover,
 .hintButton:hover,
-.iconButton:hover {
+.iconButton:hover,
+.unknownButton:hover,
+.knownButton:hover {
   transform: translateY(-2px);
 }
 
@@ -392,6 +394,112 @@
   color: #dc2626;
 }
 
+.checkActionRow {
+  display: grid;
+  gap: 14px;
+  justify-items: center;
+}
+
+.bottomButtons {
+  width: min(100%, 420px);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.unknownButton,
+.knownButton {
+  border: none;
+  border-radius: 18px;
+  min-width: 150px;
+  padding: 16px 22px;
+  font-size: 1.1rem;
+  font-weight: 800;
+  cursor: pointer;
+  color: #fff;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    opacity 0.18s ease;
+}
+
+.unknownButton {
+  background: linear-gradient(135deg, #64748b 0%, #475569 100%);
+  box-shadow: 0 14px 28px rgba(71, 85, 105, 0.2);
+}
+
+.knownButton {
+  background: linear-gradient(135deg, #0f766e 0%, #14b8a6 100%);
+  box-shadow: 0 14px 28px rgba(20, 184, 166, 0.22);
+}
+
+.detailBox {
+  padding: 22px;
+  border-radius: 24px;
+  background: rgba(248, 250, 252, 0.92);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  color: #334155;
+  overflow-wrap: break-word;
+}
+
+.detailTitle {
+  margin: 0 0 14px;
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: #0f172a;
+}
+
+.reading {
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: #64748b;
+  margin-left: 8px;
+}
+
+.detailLead {
+  margin: 0 0 14px;
+  color: #475569;
+}
+
+.detailGrid {
+  display: grid;
+  gap: 10px;
+}
+
+.detailGrid p {
+  margin: 0;
+  line-height: 1.75;
+  color: #475569;
+}
+
+.detailGrid strong,
+.infoBox strong,
+.relatedList strong {
+  color: #0f172a;
+}
+
+.infoBox {
+  margin-top: 12px;
+  padding: 14px 16px;
+  background: #fff;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+  line-height: 1.75;
+  overflow-wrap: break-word;
+  color: #475569;
+}
+
+.relatedList {
+  margin: 8px 0 0 18px;
+  padding: 0;
+  color: #475569;
+}
+
+.relatedList li + li {
+  margin-top: 6px;
+}
+
 .exampleCard {
   padding: 22px;
 }
@@ -603,6 +711,11 @@
     width: 100%;
   }
 
+  .bottomButtons {
+    width: 100%;
+    grid-template-columns: 1fr;
+  }
+
   .resultItemHeader,
   .resultActions {
     flex-direction: column;
@@ -617,5 +730,16 @@
   .wordCardActions {
     width: 100%;
     justify-content: flex-start;
+  }
+
+  .reading {
+    display: block;
+    margin-top: 6px;
+    margin-left: 0;
+  }
+
+  .detailBox {
+    padding: 18px;
+    border-radius: 20px;
   }
 }
