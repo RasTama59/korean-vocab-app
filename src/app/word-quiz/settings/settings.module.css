@@ -70,7 +70,7 @@
 .summaryRow {
   margin-top: 24px;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
 }
 
@@ -190,6 +190,16 @@
 .sectionHelp {
   margin: 0;
   line-height: 1.75;
+  color: #475569;
+}
+
+.statusScopeNote {
+  margin-top: 14px;
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: rgba(248, 250, 252, 0.96);
+  border: 1px solid rgba(226, 232, 240, 0.92);
+  line-height: 1.7;
   color: #475569;
 }
 

@@ -8,12 +8,35 @@ import {
   loadWordQuizSettings,
   saveWordQuizSettings,
   updateWordQuizSettings,
+  WORD_QUIZ_ALL_STATUS_FILTERS,
   WORD_QUIZ_DEFAULT_QUESTION_COUNT,
   WORD_QUIZ_FREQUENT_MISTAKE_MIN_WRONG_COUNT,
   WORD_QUIZ_QUESTION_STEP,
 } from '@/lib/word-quiz-storage'
-import type { QuizGroup } from '@/lib/quiz-types'
+import type { QuizGroup, StudyStatus } from '@/lib/quiz-types'
 import styles from './settings.module.css'
+
+const STATUS_FILTER_OPTIONS: Array<{
+  description: string
+  label: string
+  status: StudyStatus
+}> = [
+  {
+    status: 0,
+    label: '未習得',
+    description: 'まだ覚えきれていない単語を中心に出題します。',
+  },
+  {
+    status: 1,
+    label: '要復習',
+    description: '一度わかるになった単語だけをまとめて確認できます。',
+  },
+  {
+    status: 2,
+    label: '習得済',
+    description: 'すでに定着した単語だけを選んで見直せます。',
+  },
+]
 
 const maxWordCount = Math.max(
   ...GROUP_ORDER.map((group) =>
@@ -31,6 +54,22 @@ const minimumQuestionCount = Math.min(WORD_QUIZ_DEFAULT_QUESTION_COUNT, maxWordC
 
 function clampQuestionCount(count: number) {
   return Math.max(minimumQuestionCount, Math.min(maxWordCount, count))
+}
+
+function normalizeStatusFilters(filters: StudyStatus[]) {
+  return Array.from(new Set(filters)).sort((left, right) => left - right) as StudyStatus[]
+}
+
+function areAllStatusesSelected(filters: StudyStatus[]) {
+  return WORD_QUIZ_ALL_STATUS_FILTERS.every((status) => filters.includes(status))
+}
+
+function getStatusFilterSummary(filters: StudyStatus[]) {
+  if (areAllStatusesSelected(filters)) return '全体'
+
+  return STATUS_FILTER_OPTIONS.filter((option) => filters.includes(option.status))
+    .map((option) => option.label)
+    .join('・')
 }
 
 export default function WordQuizSettingsPage() {
@@ -116,6 +155,11 @@ export default function WordQuizSettingsPage() {
             <span>現在の出題範囲</span>
             <strong>{settings.questionScope === 'all' ? '全問' : '苦手単語'}</strong>
           </article>
+
+          <article className={styles.summaryCard}>
+            <span>通常出題の学習状態</span>
+            <strong>{getStatusFilterSummary(settings.randomStatusFilters)}</strong>
+          </article>
         </div>
 
         <div className={styles.countBox}>
@@ -153,6 +197,10 @@ export default function WordQuizSettingsPage() {
             </p>
           </div>
 
+          <div className={styles.statusScopeNote}>
+            この設定が「全問から出題」のときだけ、次の学習状態フィルターが有効になります。
+          </div>
+
           <div className={styles.optionGrid}>
             <button
               type="button"
@@ -179,6 +227,68 @@ export default function WordQuizSettingsPage() {
                 {WORD_QUIZ_FREQUENT_MISTAKE_MIN_WRONG_COUNT}回以上不正解になった単語を優先して復習します。
               </p>
             </button>
+          </div>
+        </section>
+
+        <section className={styles.optionSection}>
+          <div className={styles.sectionHeader}>
+            <div className={styles.sectionTitle}>通常出題の学習状態</div>
+            <p className={styles.sectionHelp}>
+              複数選択できます。全体を選ぶとすべての学習状態からランダムに出題します。
+            </p>
+          </div>
+
+          <div className={styles.optionGrid}>
+            <button
+              type="button"
+              onClick={() => {
+                const nextSettings = updateWordQuizSettings(settings, {
+                  randomStatusFilters: [...WORD_QUIZ_ALL_STATUS_FILTERS],
+                })
+                setSettings(nextSettings)
+                saveWordQuizSettings(nextSettings)
+              }}
+              className={`${styles.optionCard} ${
+                areAllStatusesSelected(settings.randomStatusFilters) ? styles.optionCardActive : ''
+              }`}
+            >
+              <span className={styles.optionLabel}>全体</span>
+              <strong className={styles.optionValue}>すべての状態から出題</strong>
+              <p className={styles.optionText}>
+                未習得・要復習・習得済をまとめて対象にします。
+              </p>
+            </button>
+
+            {STATUS_FILTER_OPTIONS.map((option) => {
+              const active = settings.randomStatusFilters.includes(option.status)
+
+              return (
+                <button
+                  key={option.status}
+                  type="button"
+                  onClick={() => {
+                    const nextFilters = active
+                      ? settings.randomStatusFilters.filter((status) => status !== option.status)
+                      : [...settings.randomStatusFilters, option.status]
+                    const normalizedFilters =
+                      nextFilters.length > 0
+                        ? normalizeStatusFilters(nextFilters)
+                        : [...settings.randomStatusFilters]
+                    const nextSettings = updateWordQuizSettings(settings, {
+                      randomStatusFilters: normalizedFilters,
+                    })
+
+                    setSettings(nextSettings)
+                    saveWordQuizSettings(nextSettings)
+                  }}
+                  className={`${styles.optionCard} ${active ? styles.optionCardActive : ''}`}
+                >
+                  <span className={styles.optionLabel}>{option.label}</span>
+                  <strong className={styles.optionValue}>{option.label}だけ出題</strong>
+                  <p className={styles.optionText}>{option.description}</p>
+                </button>
+              )
+            })}
           </div>
         </section>
 

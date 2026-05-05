@@ -32,6 +32,7 @@ import {
   getFrequentMistakeWordIds,
   loadWordQuizSettings,
   recordWordQuizAnswer,
+  WORD_QUIZ_ALL_STATUS_FILTERS,
   WORD_QUIZ_DEFAULT_QUESTION_COUNT,
   type WordQuizQuestionScope,
 } from '@/lib/word-quiz-storage'
@@ -97,6 +98,22 @@ function getStatusLabel(status: StudyStatus) {
   return '未習得'
 }
 
+function getStatusFilterLabel(filters: StudyStatus[]) {
+  const normalized = Array.from(new Set(filters)).sort((left, right) => left - right) as StudyStatus[]
+
+  if (WORD_QUIZ_ALL_STATUS_FILTERS.every((status) => normalized.includes(status))) {
+    return '全体'
+  }
+
+  return normalized
+    .map((status) => {
+      if (status === 0) return '未習得'
+      if (status === 1) return '要復習'
+      return '習得済'
+    })
+    .join('・')
+}
+
 function buildGroupHref(group: QuizGroup, mode: WordQuizMode) {
   if (mode === 'all') return `/word-quiz/${group}`
   return `/word-quiz/${group}?mode=${mode}`
@@ -123,6 +140,17 @@ const ALL_WORDS = GROUP_ORDER.flatMap((group) => WORD_GROUPS[group]).filter(
 
 function getWordPool(group: QuizGroup) {
   return getWordsByGroup(group).filter((item) => item.word.trim() && item.meaning.trim())
+}
+
+function filterPoolByStatuses(
+  pool: WordItem[],
+  group: QuizGroup,
+  statusFilters: StudyStatus[],
+  quizState: ReturnType<typeof loadQuizState>
+) {
+  const filterSet = new Set(statusFilters)
+
+  return pool.filter((item) => filterSet.has(getWordProgress(quizState, group, item.id).status))
 }
 
 function getFrequentMistakePool(group: QuizGroup, allPool: WordItem[]) {
@@ -188,7 +216,9 @@ function buildSessionPool(
   desiredCount: number,
   mode: WordQuizMode,
   questionScope: WordQuizQuestionScope,
-  mistakeWordIds: number[]
+  mistakeWordIds: number[],
+  randomStatusFilters: StudyStatus[],
+  quizState: ReturnType<typeof loadQuizState>
 ) {
   const allPool = getWordPool(group)
   const pool =
@@ -196,7 +226,7 @@ function buildSessionPool(
       ? allPool.filter((item) => mistakeWordIds.includes(item.id))
       : questionScope === 'frequent-mistakes'
         ? getFrequentMistakePool(group, allPool)
-        : allPool
+        : filterPoolByStatuses(allPool, group, randomStatusFilters, quizState)
   const questionCount =
     mode === 'mistakes' || mode === 'check-mistakes'
       ? pool.length
@@ -216,9 +246,19 @@ function createChoiceQuestionSet(
   desiredCount: number,
   mode: 'all' | 'mistakes',
   questionScope: WordQuizQuestionScope,
-  mistakeWordIds: number[]
+  mistakeWordIds: number[],
+  randomStatusFilters: StudyStatus[],
+  quizState: ReturnType<typeof loadQuizState>
 ): ChoiceEntry[] {
-  const pool = buildSessionPool(group, desiredCount, mode, questionScope, mistakeWordIds)
+  const pool = buildSessionPool(
+    group,
+    desiredCount,
+    mode,
+    questionScope,
+    mistakeWordIds,
+    randomStatusFilters,
+    quizState
+  )
 
   return pool.map((item) => {
     const distractors = collectDistractors(item, pool, ALL_WORDS)
@@ -236,9 +276,19 @@ function createCheckSessionSet(
   desiredCount: number,
   mode: 'check' | 'check-mistakes',
   questionScope: WordQuizQuestionScope,
-  mistakeWordIds: number[]
+  mistakeWordIds: number[],
+  randomStatusFilters: StudyStatus[],
+  quizState: ReturnType<typeof loadQuizState>
 ): CheckEntry[] {
-  return buildSessionPool(group, desiredCount, mode, questionScope, mistakeWordIds).map((item) => ({
+  return buildSessionPool(
+    group,
+    desiredCount,
+    mode,
+    questionScope,
+    mistakeWordIds,
+    randomStatusFilters,
+    quizState
+  ).map((item) => ({
     item,
     kind: 'check',
   }))
@@ -248,7 +298,9 @@ function buildSessionEntries(
   group: QuizGroup,
   desiredCount: number,
   mode: WordQuizMode,
-  questionScope: WordQuizQuestionScope
+  questionScope: WordQuizQuestionScope,
+  randomStatusFilters: StudyStatus[],
+  quizState: ReturnType<typeof loadQuizState>
 ): WordQuizEntry[] {
   if (isCheckMode(mode)) {
     return createCheckSessionSet(
@@ -256,7 +308,9 @@ function buildSessionEntries(
       desiredCount,
       mode,
       questionScope,
-      loadMistakeWordIds('word-quiz-check', group)
+      loadMistakeWordIds('word-quiz-check', group),
+      randomStatusFilters,
+      quizState
     )
   }
 
@@ -265,7 +319,9 @@ function buildSessionEntries(
     desiredCount,
     mode,
     questionScope,
-    loadMistakeWordIds('word-quiz', group)
+    loadMistakeWordIds('word-quiz', group),
+    randomStatusFilters,
+    quizState
   )
 }
 
@@ -276,19 +332,30 @@ export function WordQuizPlayer({
   group: QuizGroup
   initialMode?: WordQuizMode
 }) {
+  const initialQuizState = loadQuizState()
   const initialSettings = loadWordQuizSettings()
   const initialQuestionCount = resolveQuestionCount(group, initialSettings.questionCount)
   const [questionCount, setQuestionCount] = useState(initialQuestionCount)
   const [questionScope, setQuestionScope] = useState<WordQuizQuestionScope>(
     initialSettings.questionScope
   )
+  const [randomStatusFilters, setRandomStatusFilters] = useState<StudyStatus[]>(
+    initialSettings.randomStatusFilters
+  )
   const [hideChoicesInitially, setHideChoicesInitially] = useState(
     initialSettings.hideChoicesInitially
   )
-  const [quizState, setQuizState] = useState(() => loadQuizState())
+  const [quizState, setQuizState] = useState(() => initialQuizState)
   const [sessionMode, setSessionMode] = useState<WordQuizMode>(initialMode)
   const [entries, setEntries] = useState<WordQuizEntry[]>(() =>
-    buildSessionEntries(group, initialQuestionCount, initialMode, initialSettings.questionScope)
+    buildSessionEntries(
+      group,
+      initialQuestionCount,
+      initialMode,
+      initialSettings.questionScope,
+      initialSettings.randomStatusFilters,
+      initialQuizState
+    )
   )
   const [currentIndex, setCurrentIndex] = useState(0)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
@@ -307,6 +374,9 @@ export function WordQuizPlayer({
   const knownCount = checkAnswers.filter((answer) => answer.response === 'known').length
   const solvedCount = isCheckMode(sessionMode) ? checkAnswers.length : results.length
   const percent = entries.length === 0 ? 0 : Math.round((solvedCount / entries.length) * 100)
+  const usingCustomStatusFilter =
+    questionScope === 'all' &&
+    !WORD_QUIZ_ALL_STATUS_FILTERS.every((status) => randomStatusFilters.includes(status))
   const currentGroupIndex = GROUP_ORDER.indexOf(group)
   const previousGroup = GROUP_ORDER[(currentGroupIndex - 1 + GROUP_ORDER.length) % GROUP_ORDER.length]
   const nextGroup = GROUP_ORDER[(currentGroupIndex + 1) % GROUP_ORDER.length]
@@ -330,13 +400,24 @@ export function WordQuizPlayer({
   useEffect(() => {
     const savedSettings = loadWordQuizSettings()
     const nextCount = resolveQuestionCount(group, savedSettings.questionCount)
+    const nextQuizState = loadQuizState()
 
-    setQuizState(loadQuizState())
+    setQuizState(nextQuizState)
     setQuestionCount(nextCount)
     setQuestionScope(savedSettings.questionScope)
+    setRandomStatusFilters(savedSettings.randomStatusFilters)
     setHideChoicesInitially(savedSettings.hideChoicesInitially)
     setSessionMode(initialMode)
-    setEntries(buildSessionEntries(group, nextCount, initialMode, savedSettings.questionScope))
+    setEntries(
+      buildSessionEntries(
+        group,
+        nextCount,
+        initialMode,
+        savedSettings.questionScope,
+        savedSettings.randomStatusFilters,
+        nextQuizState
+      )
+    )
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!savedSettings.hideChoicesInitially)
@@ -347,8 +428,19 @@ export function WordQuizPlayer({
   }, [group, initialMode])
 
   const resetSession = () => {
-    setQuizState(loadQuizState())
-    setEntries(buildSessionEntries(group, questionCount, sessionMode, questionScope))
+    const latestQuizState = loadQuizState()
+
+    setQuizState(latestQuizState)
+    setEntries(
+      buildSessionEntries(
+        group,
+        questionCount,
+        sessionMode,
+        questionScope,
+        randomStatusFilters,
+        latestQuizState
+      )
+    )
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!hideChoicesInitially)
@@ -421,7 +513,17 @@ export function WordQuizPlayer({
 
     saveMistakeWordIds('word-quiz', group, mistakeWordIds)
     setSessionMode('mistakes')
-    setEntries(createChoiceQuestionSet(group, questionCount, 'mistakes', questionScope, mistakeWordIds))
+    setEntries(
+      createChoiceQuestionSet(
+        group,
+        questionCount,
+        'mistakes',
+        questionScope,
+        mistakeWordIds,
+        randomStatusFilters,
+        quizState
+      )
+    )
     setCurrentIndex(0)
     setSelectedAnswer(null)
     setChoicesVisible(!hideChoicesInitially)
@@ -439,7 +541,15 @@ export function WordQuizPlayer({
     saveMistakeWordIds('word-quiz-check', group, mistakeWordIds)
     setSessionMode('check-mistakes')
     setEntries(
-      createCheckSessionSet(group, questionCount, 'check-mistakes', questionScope, mistakeWordIds)
+      createCheckSessionSet(
+        group,
+        questionCount,
+        'check-mistakes',
+        questionScope,
+        mistakeWordIds,
+        randomStatusFilters,
+        quizState
+      )
     )
     setCurrentIndex(0)
     setSelectedAnswer(null)
@@ -465,6 +575,8 @@ export function WordQuizPlayer({
               ? '4択で間違えた単語がまだありませんでした'
               : sessionMode === 'check-mistakes'
                 ? 'わからない単語がまだありませんでした'
+                : usingCustomStatusFilter
+                  ? '選んだ学習状態に合う単語がまだありません'
                 : questionScope === 'frequent-mistakes'
                   ? '苦手単語がまだありません'
                   : '出題できる単語が見つかりませんでした'}
@@ -474,6 +586,8 @@ export function WordQuizPlayer({
               ? 'まずは通常の4択クイズを進めて、あとで間違えた単語だけをまとめて復習してみてください。'
               : sessionMode === 'check-mistakes'
                 ? 'まずはわかる / わからないモードを進めて、迷った単語がたまってきたらまとめて見直せます。'
+                : usingCustomStatusFilter
+                  ? '通常出題の学習状態フィルターを広げるか、わかる / わからないモードで進捗を更新してから試してください。'
                 : questionScope === 'frequent-mistakes'
                   ? '通常出題で取り組んでいくと、苦手になりやすい単語だけをここから集中的に復習できます。'
                   : 'データを確認してから、別の難易度で試してください。'}
@@ -500,6 +614,16 @@ export function WordQuizPlayer({
                 className={`${styles.button} ${styles.primaryButton}`}
               >
                 出題範囲を見直す
+              </Link>
+            )}
+            {sessionMode !== 'mistakes' &&
+              sessionMode !== 'check-mistakes' &&
+              usingCustomStatusFilter && (
+              <Link
+                href="/word-quiz/settings"
+                className={`${styles.button} ${styles.primaryButton}`}
+              >
+                学習状態の範囲を見直す
               </Link>
             )}
             <Link href="/word-quiz" className={`${styles.button} ${styles.secondaryButton}`}>
@@ -725,6 +849,13 @@ export function WordQuizPlayer({
               </p>
               <h1 className={styles.title}>{getModeTitle(group, sessionMode)}</h1>
               <p className={styles.subtitle}>{getModeDescription(group, sessionMode)}</p>
+              {sessionMode !== 'mistakes' &&
+                sessionMode !== 'check-mistakes' &&
+                questionScope === 'all' && (
+                <p className={styles.statusFilterText}>
+                  通常出題の範囲: {getStatusFilterLabel(randomStatusFilters)}
+                </p>
+              )}
             </div>
 
             <div className={styles.progressBlock}>

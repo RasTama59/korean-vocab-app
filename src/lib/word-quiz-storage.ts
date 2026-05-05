@@ -1,4 +1,4 @@
-import type { QuizGroup } from './quiz-types'
+import type { QuizGroup, StudyStatus } from './quiz-types'
 
 export type WordQuizQuestionScope = 'all' | 'frequent-mistakes'
 
@@ -6,6 +6,7 @@ export type WordQuizSettings = {
   hideChoicesInitially: boolean
   questionCount: number
   questionScope: WordQuizQuestionScope
+  randomStatusFilters: StudyStatus[]
 }
 
 export type WordQuizProgress = {
@@ -22,11 +23,13 @@ const PROGRESS_STORAGE_KEY = 'korean-lean-word-quiz-progress-v1'
 export const WORD_QUIZ_DEFAULT_QUESTION_COUNT = 10
 export const WORD_QUIZ_QUESTION_STEP = 10
 export const WORD_QUIZ_FREQUENT_MISTAKE_MIN_WRONG_COUNT = 2
+export const WORD_QUIZ_ALL_STATUS_FILTERS: StudyStatus[] = [0, 1, 2]
 
 const defaultSettings: WordQuizSettings = {
   hideChoicesInitially: false,
   questionCount: WORD_QUIZ_DEFAULT_QUESTION_COUNT,
   questionScope: 'all',
+  randomStatusFilters: [...WORD_QUIZ_ALL_STATUS_FILTERS],
 }
 
 type LegacyWordQuizSettingsState = Partial<
@@ -52,6 +55,20 @@ function normalizeQuestionScope(value: unknown): WordQuizQuestionScope | null {
 
 function normalizeHideChoicesInitially(value: unknown) {
   return typeof value === 'boolean' ? value : null
+}
+
+function normalizeStatusFilters(value: unknown): StudyStatus[] | null {
+  if (!Array.isArray(value)) return null
+
+  const next = Array.from(
+    new Set(
+      value.filter(
+        (item): item is StudyStatus => (item === 0 || item === 1 || item === 2)
+      )
+    )
+  ).sort((left, right) => left - right) as StudyStatus[]
+
+  return next.length > 0 ? next : null
 }
 
 function getLegacyQuestionCount(parsed: LegacyWordQuizSettingsState) {
@@ -90,6 +107,9 @@ export function loadWordQuizSettings(): WordQuizSettings {
         questionScope:
           normalizeQuestionScope((parsed as Partial<WordQuizSettings>).questionScope) ??
           defaultSettings.questionScope,
+        randomStatusFilters:
+          normalizeStatusFilters((parsed as Partial<WordQuizSettings>).randomStatusFilters) ??
+          [...defaultSettings.randomStatusFilters],
       }
     }
 
